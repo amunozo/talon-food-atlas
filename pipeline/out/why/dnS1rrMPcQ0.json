@@ -1,0 +1,345 @@
+[
+ {
+  "id": 538,
+  "name": "Apple",
+  "why": "Apple is an average-calorie, somewhat sugary fruit with a mild micronutrient profile, valued for antioxidants like vitamin C, quercetin and catechin, plus solid fiber for satiety and digestion, and links to lower diabetes, heart disease and cancer risk. There is nothing wrong with it, but it offers far less than most fruits here, so he puts it in the C tier.",
+  "repairs": [
+   "'sea tier' -> C tier (original_tier C)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 539,
+  "name": "Apricot",
+  "why": "Apricot is an average-calorie fruit with a decent profile, a solid source of beta-carotene (for eye health) plus vitamin C, vitamin E and polyphenols that help against chronic disease, with skin, gut and liver benefits. It is completely healthy but falls a bit short nutritionally compared to most fruits, so he puts it in the C tier.",
+  "repairs": [
+   "'seeds here' -> C tier (original_tier C)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 540,
+  "name": "Avocado",
+  "why": "Avocado is a higher-calorie fruit whose calories come mostly from fat, mainly heart-healthy oleic acid that helps cholesterol and blood pressure. It is very high in fiber per gram, a good source of vitamin K, folate, B5, potassium and B6, and rich in antioxidants, so he says it may be the most nutritious fruit and earns the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 541,
+  "name": "Banana",
+  "why": "Banana is an average-calorie fruit with a decent profile, a solid source of vitamin B6, manganese and potassium and a notable source of vitamin C and catechin for immune health. It is also high in fiber, notably pectin, which with its resistant starch helps the gut, so he calls it a fine energy fruit with real benefits and puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 542,
+  "name": "Blackberry",
+  "why": "Blackberry is a lower-calorie fruit with an impressive profile, among the best fruit sources of antioxidants such as vitamin C and anthocyanins that help blood vessels, plus great fiber per calorie, manganese and vitamin K. It also shows brain and oral antibacterial benefits, making it one of the healthiest fruits, so it lands safely in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 543,
+  "name": "Blueberry",
+  "why": "Blueberry is an average-calorie fruit with a solid profile, believed to have one of the highest antioxidant concentrations of any fruit, including quercetin, vitamin C and anthocyanins that support immune and heart health. It is also a solid source of vitamin K and manganese and helps lower blood sugar and pressure, so he calls it an antioxidant bomb in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 544,
+  "name": "Cantaloupe",
+  "why": "Cantaloupe is a lower-calorie fruit with a solid profile, very high in carotenoids that convert to vitamin A (beta-carotene, lutein, zeaxanthin) and notable for eye health, plus high in vitamin C for immune, heart and skin health. It also lowers blood pressure and heart disease risk, so he calls it healthy and nutritious and puts it in the A tier.",
+  "repairs": [
+   "'Z xanthin' -> zeaxanthin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 545,
+  "name": "Cherry",
+  "why": "Cherry is an average-calorie fruit with a mild profile, packed with polyphenol antioxidants and anti-inflammatory compounds plus vitamin C, helping muscle damage, post-workout recovery, sleep via melatonin, heart health and arthritis symptoms. It is pretty high in sugar compared to most fruits, but as a unique choice he puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 546,
+  "name": "Coconut",
+  "why": "Coconut is a higher-calorie fruit with an impressive profile, with about 34 percent fat, mainly medium-chain lauric acid linked to fat loss, brain function and antimicrobial effects. It is a good source of manganese, copper, selenium, iron and phosphorus plus insoluble fiber, but very caloric, so you should not eat too much, and he puts it in the B tier.",
+  "repairs": [
+   "'beads here' -> B tier (original_tier B)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 547,
+  "name": "Cranberry",
+  "why": "Cranberry is a lower-calorie fruit with a good profile, with mainly insoluble fiber, manganese and antioxidants like quercetin and ursolic acid, but its standout is proanthocyanidins that help combat UTIs and stomach-cancer bacteria. It may contain higher oxalates that can build up into kidney stones, but overall it is unique and healthy, so he puts it in the A tier.",
+  "repairs": [
+   "'corsetin' -> quercetin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 548,
+  "name": "Date (Dried)",
+  "why": "Dried dates are a higher-calorie fruit with a decent profile, very high in fiber and a good source of potassium, manganese, magnesium and copper, plus antioxidants that help brain, bone and blood-sugar health. The problem is they are ridiculously high in sugar and past a certain point do more harm than good, so they are fine in moderation and he puts them in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 549,
+  "name": "Fig (Dried)",
+  "why": "Dried figs are a higher-calorie fruit with a respectable profile, very high in fiber and a good source of manganese, vitamin K, potassium, magnesium, calcium, copper and iron, with polyphenols that help blood pressure and blood sugar. The issue is that they are also very high in sugar, so they are best in moderation, and he puts them in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 550,
+  "name": "Grape",
+  "why": "Grape is an average-calorie fruit with a solid profile, a good source of manganese and vitamin K and of antioxidants like quercetin and resveratrol for heart health, plus natural melatonin and antibacterial and brain-boosting effects. They are a bit more sugary than the average fruit, but never one to hesitate over, so he puts them in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 551,
+  "name": "Grapefruit",
+  "why": "Grapefruit is a lower-calorie fruit with an impressive profile, a great source of vitamin C and carotenoids for eye health, plus lycopene and flavonoids that help the heart, blood pressure and insulin sensitivity. He stresses a key warning: it inhibits an enzyme needed to metabolize many medications, so check any drugs first, but for everyone else it is one of the healthiest fruits and lands in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 552,
+  "name": "Guava",
+  "why": "Guava is an average-calorie fruit with an impressive profile, absurdly high in vitamin C for immune, skin and heart health, with other antioxidants such as quercetin, ferulic acid, gallic acid and caffeic acid. It is also a solid fiber source that feeds gut bacteria and lowers blood sugar, and though a bit lopsided it is one of the most nutritious fruits, so it goes in the top tier.",
+  "repairs": [
+   "'cafeic acid' -> caffeic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 553,
+  "name": "Honeydew",
+  "why": "Honeydew is a low-calorie fruit with a decent profile, a solid source of vitamin C that is shown to improve bone health and lower blood pressure. It is perfectly fine but simply does not have as much going on as other fruits, so he puts it in the C tier.",
+  "repairs": [
+   "'seeds here' -> C tier (original_tier C)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 554,
+  "name": "Kiwi",
+  "why": "Kiwi is an average-calorie fruit with a great profile, an excellent source of vitamin C for immune, skin and heart health, a good source of vitamin K, and rich in vitamin E, carotenoids and polyphenols. It is a solid fiber source that lowers blood pressure and is high in serotonin for mood and sleep, almost always among the best fruits, so it goes in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 555,
+  "name": "Lemon",
+  "why": "Lemon is a very low-calorie fruit with a lopsided profile, since vitamin C is its only micronutrient, though it has other antioxidants such as diosmin and hesperidin for blood vessels, anti-inflammatory limonene and flavonoids. Its citric acid aids iron absorption and helps prevent kidney stones, but in excess it can cause tooth decay, and in safe amounts he puts it in the A tier.",
+  "repairs": [
+   "'diosman' -> diosmin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 556,
+  "name": "Lime",
+  "why": "Lime is a very low-calorie fruit with a decent profile, very similar to lemon, a solid source of vitamin C and antioxidants like limonene, kaempferol and quercetin that help against cell damage, inflammation and chronic disease. Its citric acid aids iron absorption and kidney stone prevention, though too much can cause dental decay, and he puts it in the A tier.",
+  "repairs": [
+   "'came for all' -> kaempferol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 557,
+  "name": "Mango",
+  "why": "Mango is an average-calorie fruit with a solid profile, a good source of vitamin C and beta-carotene (which the body converts to vitamin A) plus antioxidants like catechin, gallic acid, kaempferol, anthocyanins and especially mangiferin. These boost heart, immune and digestive health, and though it is a bit higher in sugar than most fruits it is very beneficial, so he puts it in the B tier.",
+  "repairs": [
+   "'mangerefin' -> mangiferin",
+   "'came for all' -> kaempferol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 558,
+  "name": "Nectarine",
+  "why": "Nectarine is an average-calorie fruit with a subpar profile, containing flavonoids, anthocyanins and vitamin C that combat cellular damage and chronic disease and are shown to improve heart and digestive health. The thing is that compared to most fruits it does not have nearly as much to offer, so he puts it in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 559,
+  "name": "Olive",
+  "why": "Olive (green) is a higher-calorie fruit with a mild profile, with about 15 percent fat, mainly monounsaturated fats that reduce inflammation, and antioxidants like vitamin E, tyrosol, quercetin and oleanolic acid, plus bone-health benefits. Downsides are that packaged olives are often high in sodium and processing may leave acrylamide, a potential carcinogen, so in practical forms he puts them in the C tier.",
+  "repairs": [
+   "'corsetin' -> quercetin",
+   "'a crimolate' -> acrylamide",
+   "'seeds here' -> C tier (original_tier C)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 560,
+  "name": "Orange",
+  "why": "Orange is a lower-calorie fruit with a solid profile, a good source of folate whose benefits come mostly from antioxidants: vitamin C for immune and heart health, hesperidin and naringenin for blood pressure and blood vessels, and carotenoids such as beta-cryptoxanthin and lycopene. He calls it a solid and healthy fruit and puts oranges in the B tier.",
+  "repairs": [
+   "'beta-cryptosanthin' -> beta-cryptoxanthin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 561,
+  "name": "Papaya",
+  "why": "Papaya is a lower-calorie fruit with an impressive profile, a great source of vitamin C and a good source of folate and carotenoids, most notably heart-healthy, anti-cancer lycopene. It also contains the enzyme papain, which aids protein digestion and IBS, though papain can potentially irritate the throat, esophagus or stomach, and nutritionally it is a notch above most, so he puts it in the A tier.",
+  "repairs": [
+   "'for pain'/'Napa pain' -> papain"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 562,
+  "name": "Peach",
+  "why": "Peach is a lower-calorie fruit with a subpar profile, containing a notable amount of antioxidants (flavonoids, anthocyanins, phenolic acid and vitamin C) that support immune health, fight chronic disease and benefit heart, skin and gut. It is just one of those fruits that does not have quite as much to offer, so he puts peaches in the D tier.",
+  "repairs": [
+   "'Z tier' -> D tier (original_tier D)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 563,
+  "name": "Pear",
+  "why": "Pear is an average-calorie fruit with a subpar profile, shown to improve digestive health and bowel regularity, with procyanidin antioxidants that boost heart health, fight inflammation, lower blood pressure and reduce chronic disease risk. It is a healthy fruit that pales nutritionally next to nearly everything on the list, so he puts pears in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 564,
+  "name": "Pineapple",
+  "why": "Pineapple is an average-calorie fruit with an impressive profile, a solid source of manganese for bone formation and metabolism, loaded with vitamin C, flavonoids and phenolics, and uniquely containing bromelain for digestion, muscle recovery and anti-inflammatory effects. Too much bromelain may cause digestive issues and may affect people on blood thinners, but it is one of the healthiest fruits and goes in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 565,
+  "name": "Plum",
+  "why": "Plum is a lower-calorie fruit with a solid profile, a good source of vitamin C, vitamin K and carotenoids, and higher in polyphenols than most fruits, which improve bone and heart health, lower blood pressure and blood sugar, and fight inflammation. He calls it a healthy yet unspectacular fruit and puts plums in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 566,
+  "name": "Pomegranate",
+  "why": "Pomegranate is an average-calorie fruit with a solid profile, a good source of vitamin K that really shines for its antioxidants: punicalagins (anti-inflammatory), polyphenols that lower blood pressure and fight arterial plaque, vitamin C and ellagitannins for brain health. It also helps gut bacteria, is anti-cancer and reduces kidney stone risk; it has a bit more sugar than most fruits but offers too much not to earn the top tier.",
+  "repairs": [
+   "'Punic allergens' -> punicalagins",
+   "'lgitanins' -> ellagitannins"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 567,
+  "name": "Pumpkin",
+  "why": "Pumpkin is a very low-calorie fruit with an impressive profile, extremely high in carotenoids (beta-carotene, lutein, zeaxanthin, alpha-carotene) for eye and skin health, plus a good source of vitamin K and citrulline for athletic performance. It supports heart, digestive and immune health and protects against sun damage, and he says it should be eaten more consistently, so it goes in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 568,
+  "name": "Raspberry",
+  "why": "Raspberry is an average-calorie fruit with a solid profile, very fibrous to help digestion and gut bacteria, a great source of manganese, and rich in antioxidants such as vitamin C, quercetin and ellagic acid (anti-inflammatory). It also helps regulate blood sugar and ease arthritis symptoms, and he calls it a very healthy fruit that goes in the A tier.",
+  "repairs": [
+   "'course set in' -> quercetin",
+   "'allergic acid' -> ellagic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 569,
+  "name": "Squash",
+  "why": "Butternut squash is a lower-calorie fruit with an impressive profile, a great source of carotenoids including beta-carotene, alpha-carotene and beta-cryptoxanthin that boost eye, bone and immune health, and a good source of vitamin C. It is shown to combat heart disease, cancer and cognitive decline, and he calls it very nutritious and beneficial, so it goes in the A tier.",
+  "repairs": [
+   "'beta-cryptosanthin' -> beta-cryptoxanthin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 570,
+  "name": "Strawberry",
+  "why": "Strawberry is a lower-calorie fruit with a respectable profile, a good source of manganese, fiber and antioxidants such as vitamin C, procyanidins, pelargonidin and ellagic acid, boosting heart health and having antibacterial, anti-cancer and blood-sugar benefits. Strawberry allergies are fairly common, especially in young children, but overall he calls it a very healthy pick for the A tier.",
+  "repairs": [
+   "'allergic acid' -> ellagic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 571,
+  "name": "Tangerine",
+  "why": "Tangerine is an average-calorie fruit with a solid profile, a good source of vitamin C for immune and skin health, plus beta-cryptoxanthin and flavonoids like naringenin, hesperetin and another flavonoid that boost skin, brain and heart health and have antimicrobial properties. He calls it a very solid and healthy fruit and puts tangerines in the B tier.",
+  "repairs": [
+   "'beads here' -> B tier (original_tier B)",
+   "'beta-cryptosanthin' -> beta-cryptoxanthin",
+   "'hesperitin' -> hesperetin",
+   "'nobility' -> nobiletin (best guess)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Tangerine is an average-calorie fruit with a solid profile, a good source of vitamin C for immune and skin health, plus beta-cryptoxanthin and flavonoids like naringenin, hesperetin and nobiletin that boost skin, brain and heart health and have antimicrobial properties. He calls it a very solid and healthy fruit and puts tangerines in the B tier. -> Tangerine is an average-calorie fruit with a solid profile, a good source of vitamin C for immune and skin health, plus beta-cryptoxanthin and flavonoids like naringenin, hesperetin and another flavonoid that boost skin, brain and heart health and have antimicrobial properties. He calls it a very solid and healthy fruit and puts tangerines in the B tier."
+ },
+ {
+  "id": 572,
+  "name": "Tomato",
+  "why": "Tomato is a very low-calorie fruit with a respectable profile, a solid source of vitamin K whose main offering is lycopene, benefiting heart and skin health, lowering cholesterol and preventing sun damage. It also has vitamin C, beta-carotene, naringenin and chlorogenic acid that boost heart, immune and eye health, and he calls it very healthy and versatile, so it goes in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 573,
+  "name": "Watermelon",
+  "why": "Watermelon is a lower-calorie fruit with a mild profile, a decent source of vitamin C whose notable benefits go beyond macros and micronutrients: lycopene for skin and heart health and inflammation, and citrulline to improve exercise performance. It also lowers blood pressure and improves insulin sensitivity, and though not the most nutritious fruit its benefits are unique, so he puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 574,
+  "name": "Zucchini",
+  "why": "Zucchini is a very low-calorie fruit with a decent profile, a good source of carotenoids (lutein, zeaxanthin, beta-carotene) that benefit eye, skin and heart health and act as an anti-cancer, and also shown to help digestion and thyroid function. It is a good fruit that just does not have quite as much going on, so zucchini rounds out the list in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

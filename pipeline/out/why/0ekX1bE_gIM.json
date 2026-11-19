@@ -1,0 +1,197 @@
+[
+ {
+  "id": 751,
+  "name": "Adzuki Beans",
+  "why": "Adzuki beans are average in calories and micronutrients, the best source on the list of zinc and among the best for potassium, phosphorus and copper, with polyphenol, anthocyanin and flavonoid antioxidants and links to heart health, digestion and lower type 2 diabetes risk. They contain notable amounts of all the anti-nutrients, though lower lectins than most beans, so cook and soak them thoroughly; average for a bean, they go in the B tier.",
+  "repairs": [
+   "'At Zuki' -> adzuki"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 752,
+  "name": "Baked Beans",
+  "why": "Baked beans are usually canned navy beans in spices and sugars, lower in calories but trading protein and fiber for sugar, with poor micronutrients apart from a fair amount of manganese and some polyphenols. The main problem is about 7.8 g added sugar per 100 g (weight gain, heart disease, diabetes, tooth decay) plus additives like cornstarch and caramel color; far from the worst food but not for health, so D tier.",
+  "repairs": [
+   "'Deeds here' -> D tier (original_tier D)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 753,
+  "name": "Black Beans",
+  "why": "Black beans are an average-calorie bean in the middle on micronutrients, one of the better fiber sources, among the best in vitamin B1 and magnesium, and with one of the highest antioxidant concentrations on the list, mainly anthocyanins plus catechin, quercetin, myricetin and kaempferol, linked to lower cholesterol, blood pressure and blood sugar. They are on the higher end of oxalates and other anti-nutrients, so cook and soak, and he calls them a cut above, in the A tier.",
+  "repairs": [
+   "'miracetin' -> myricetin",
+   "'came for all' -> kaempferol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 754,
+  "name": "Black Eyed Peas",
+  "why": "Black-eyed peas (cowpeas) are a lower-calorie bean with an average profile, among the best sources of folate and the best source of molybdenum, with flavonoid antioxidants and links to weight loss, digestion and heart health. They have lower oxalates than most beans but slightly higher levels of the other three anti-nutrients, so cook and soak; healthy but average for a bean, so he puts them in the B tier.",
+  "repairs": [
+   "'beads here' -> B tier (original_tier B)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 755,
+  "name": "Cannellini Beans",
+  "why": "Cannellini beans (white kidney beans) are a mid-calorie bean higher in protein with an average profile, the best source of potassium on the list, one of the best for iron, rich in polyphenols and among the highest in resistant starch. They are the highest in lectins but lowest in tannins, so cook and soak; he feels they are on the cusp of an A-tier bean but puts them in the B tier.",
+  "repairs": [
+   "'ATR Bean' -> A-tier bean"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 756,
+  "name": "Chickpeas",
+  "why": "Chickpeas are one of the highest-calorie items on the list, with high carbs, about 5 g of sugar per 100 g (the highest here) and one of the best profiles, among the best sources of manganese and copper and better sources of phosphorus, iron and zinc, helping blood sugar and digestion. They have fewer oxalates but a fair amount of other anti-nutrients, so cook and soak; a notch above average, A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 757,
+  "name": "Cranberry Beans",
+  "why": "Cranberry beans are an average-calorie bean higher in protein and fiber with an average profile, the fiber aiding digestion, and one of the best sources of folate and vitamin B1, and shown to lower cardiovascular disease and type 2 diabetes risk. They are lower in oxalates and tannins than average but should still be thoroughly cooked and soaked, and he calls them a fine choice for the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 758,
+  "name": "Edamame",
+  "why": "Edamame are immature soybeans, one of the best protein sources, a complete protein with the highest micronutrient concentration on the list, the best source of folate, vitamin K and choline, and rich in isoflavones, oleic and linoleic fat. Drawbacks are common soy allergies, higher anti-nutrients (cook and soak) and conflicting studies on GMO, thyroid and hormone effects, but nutritionally he gives them the first top tier slot.",
+  "repairs": [
+   "'isoflavins' -> isoflavones"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 759,
+  "name": "Fava Beans",
+  "why": "Fava beans (broad beans) are a lower-calorie bean with lower-than-average micronutrients, a good source of folate and manganese, unique for levodopa, which the body turns into dopamine, highest in younger beans, with antioxidant and bone benefits. The big downside is favism, a potentially life-threatening reaction in people lacking G6PD (about 400 million people), plus higher lectins, so cook and soak; about 95 percent can eat them without a hitch, but they are among the lowliest, in the B tier.",
+  "repairs": [
+   "'the beets here' -> B tier (original_tier B)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 760,
+  "name": "Great Northern Beans",
+  "why": "Great Northern beans are a lower-calorie bean with an average profile, among the best sources of phosphorus for growth, repair and DNA, a good source of polyphenol antioxidants that combat inflammation, and rich in resistant starch for digestion and weight loss. They are higher in lectins and oxalates but lower in tannins, so cook and soak well; he calls them a fine option that best belongs in the B tier.",
+  "repairs": [
+   "'beets here' -> B tier (original_tier B)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 761,
+  "name": "Jelly Beans",
+  "why": "Jelly beans are the highest-calorie item on the list with the highest carb count and a practically non-existent micronutrient profile, easily the highest in sugar at roughly 70 g added sugar per 100 g. He lists added sugars as raising risks of weight gain, type 2 diabetes, heart disease, cancer and depression, damaging collagen, fatty liver, dental harm, cognitive decline and acne, so they go in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 762,
+  "name": "Kidney Beans",
+  "why": "Red kidney beans are an average-calorie bean with an average profile, a good source of folate and manganese, but they really shine with the highest antioxidant concentration on the list, mainly isoflavones and anthocyanins, and are among the highest in resistant starch, helping blood sugar, heart health and blood pressure. They contain the most tannins but fewer oxalates, so cook and soak; the most impressive bean past macros and micros, so A tier.",
+  "repairs": [
+   "'isoflavins' -> isoflavones"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 763,
+  "name": "Lima Beans",
+  "why": "Lima beans are an average-calorie bean with one of the more impressive profiles, the best source on the list of manganese, vitamin C and potassium, and one of the best for magnesium, copper and molybdenum, helping stabilize blood sugar and promote heart health. They are among the highest in lectins but among the lowest in tannins and oxalates, so cook and soak thoroughly; with bang for your buck, he puts them in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 764,
+  "name": "Lupin Beans",
+  "why": "Lupin beans are technically not a bean, easily the most protein dense item per calorie, with an average micronutrient content and around 16 g of complete protein, one of the best plant protein sources on Earth. They are high in anthocyanins and quercetin, reduce inflammation and chronic disease risk, and are lower in tannins, lectins and phytic acid, though still to be cooked and soaked; he expects them to be a face of plant-based diets, so top tier.",
+  "repairs": [
+   "'Lupine' -> lupin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 765,
+  "name": "Mung Beans",
+  "why": "Mung beans are the lowest-calorie bean on the list with an average micronutrient content, a good source of folate, and high in antioxidants (phenolic compounds, flavonoids, caffeic and cinnamic acid) since they are commonly eaten sprouted. They have a good amount of resistant starch, help lower heart disease and stroke risk, are higher in tannins but lower in lectins and phytic acid, so cook and soak; a fine addition, they are among the best in the B tier.",
+  "repairs": [
+   "'cafeic' -> caffeic",
+   "'beets here' -> B tier (original_tier B)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 766,
+  "name": "Navy Beans",
+  "why": "Navy beans are a mid-calorie bean with an above-average profile, the best source of fiber on the list, among the best in vitamin B1, a good source of folate and manganese, a great source of polyphenols, and among the highest in resistant starch for digestion and weight loss. They are high in oxalates and lectins but lowest in tannins, so cook and soak; a solid choice with unique benefits, they go in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 767,
+  "name": "Pink Beans",
+  "why": "Pink beans are a mid-calorie bean with an above-average profile, the highest in carbohydrates of any real bean and the best source of vitamin B1, among the best of phosphorus and potassium, and one of the highest in antioxidants (isoflavones, anthocyanins) for heart health. They are on the higher end of lectins, tannins and oxalates, but cooked and soaked properly they edge into the A tier.",
+  "repairs": [
+   "'isoflavins' -> isoflavones",
+   "'AIDS here' -> A tier (original_tier A)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 768,
+  "name": "Pinto Beans",
+  "why": "Pinto beans are an average-calorie bean with an above-average profile, among the best sources of fiber and vitamin B6, and one of the best for antioxidants (polyphenols and flavonoids, especially kaempferol). They help manage blood cholesterol and blood sugar, promote gut bacteria and combat insulin resistance; they have a higher tannin content so still need cooking and soaking, but are among the healthiest options, earning the A tier.",
+  "repairs": [
+   "'came for all' -> kaempferol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 769,
+  "name": "Refried Beans",
+  "why": "Refried beans are the lowest-calorie item on the list with a subpar micronutrient content, typically pinto beans pan fried in lard and salt, usually among the best sources of vitamin C and selenium, and shown to help heart and gut health. Health varies wildly by preparation, regular eating can negatively affect weight, cholesterol and blood pressure compared to less-treated beans, and they still carry anti-nutrients; they fall just short of natural sources, so C tier.",
+  "repairs": [
+   "'seeds here' -> C tier (original_tier C)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 770,
+  "name": "Soybeans",
+  "why": "Soybeans (the mature ones) are the highest-calorie real bean, second only to edamame in micronutrients, the best protein source gram for gram and complete, with about 9 g fat per 100 g, the best iron source, plus phosphorus, magnesium, copper, B2 and isoflavones. Downsides are common allergies, higher lectins, phytic acid and oxalates, and GMO and possible thyroid and hormone concerns, but nutritionally they are top tier without question.",
+  "repairs": [
+   "'linoleum acid' -> linoleic acid",
+   "'isoflavins' -> isoflavones",
+   "'a quole' -> equol"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

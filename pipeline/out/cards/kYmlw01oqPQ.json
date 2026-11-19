@@ -1,0 +1,1275 @@
+{
+ "video_id": "kYmlw01oqPQ",
+ "title": "Cereals Ranked - Nutrition Tier Lists",
+ "n_expected": 30,
+ "foods": [
+  {
+   "food": "Apple Jacks",
+   "start": 128,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 385,
+    "protein_g": 5,
+    "fat_g": 4,
+    "carbs_g": 87,
+    "fiber_g": 8,
+    "sugar_g": 33,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cap'n Crunch",
+   "start": 161,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 395,
+    "protein_g": 5,
+    "fat_g": 5,
+    "carbs_g": 87,
+    "fiber_g": 3,
+    "sugar_g": 40,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 88
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cheerios",
+   "start": 194,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 360,
+    "protein_g": 13,
+    "fat_g": 6,
+    "carbs_g": 74,
+    "fiber_g": 10,
+    "sugar_g": 5,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 175
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Honey Nut Cheerios",
+   "start": 229,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 380,
+    "protein_g": 8,
+    "fat_g": 5,
+    "carbs_g": 81,
+    "fiber_g": 8,
+    "sugar_g": 32,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Chex",
+   "start": 257,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 400,
+    "protein_g": 8,
+    "fat_g": 3,
+    "carbs_g": 88,
+    "fiber_g": 5,
+    "sugar_g": 8,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 175
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cinnamon Toast Crunch",
+   "start": 286,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 415,
+    "protein_g": 5,
+    "fat_g": 10,
+    "carbs_g": 80,
+    "fiber_g": 7,
+    "sugar_g": 29,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cocoa Pebbles",
+   "start": 317,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 390,
+    "protein_g": 6,
+    "fat_g": 4,
+    "carbs_g": 86,
+    "fiber_g": 2,
+    "sugar_g": 33,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 200
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 125
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 125
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 75
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cocoa Puffs",
+   "start": 342,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 390,
+    "protein_g": 6,
+    "fat_g": 6,
+    "carbs_g": 86,
+    "fiber_g": 6,
+    "sugar_g": 33,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cookie Crisp",
+   "start": 369,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 390,
+    "protein_g": 6,
+    "fat_g": 6,
+    "carbs_g": 86,
+    "fiber_g": 6,
+    "sugar_g": 33,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Corn Flakes",
+   "start": 395,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 360,
+    "protein_g": 7,
+    "fat_g": 0,
+    "carbs_g": 86,
+    "fiber_g": 3,
+    "sugar_g": 10,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 125
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 75
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fiber One",
+   "start": 422,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 225,
+    "protein_g": 8,
+    "fat_g": 3,
+    "carbs_g": 83,
+    "fiber_g": 45,
+    "sugar_g": 1,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Froot Loops",
+   "start": 466,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 385,
+    "protein_g": 5,
+    "fat_g": 4,
+    "carbs_g": 88,
+    "fiber_g": 8,
+    "sugar_g": 31,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Frosted Flakes",
+   "start": 495,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 350,
+    "protein_g": 5,
+    "fat_g": 1,
+    "carbs_g": 89,
+    "fiber_g": 3,
+    "sugar_g": 32,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fruity Pebbles",
+   "start": 519,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 390,
+    "protein_g": 4,
+    "fat_g": 4,
+    "carbs_g": 86,
+    "fiber_g": 1,
+    "sugar_g": 33,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 200
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 125
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 100
+     }
+    ]
+   }
+  },
+  {
+   "food": "Grape Nuts",
+   "start": 543,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 345,
+    "protein_g": 10,
+    "fat_g": 2,
+    "carbs_g": 81,
+    "fiber_g": 12,
+    "sugar_g": 9,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 133
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 67
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Honey Bunches of Oats",
+   "start": 573,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 405,
+    "protein_g": 7,
+    "fat_g": 7,
+    "carbs_g": 79,
+    "fiber_g": 5,
+    "sugar_g": 21,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 250
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 250
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 225
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 100
+     }
+    ]
+   }
+  },
+  {
+   "food": "Honeycomb",
+   "start": 607,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 400,
+    "protein_g": 5,
+    "fat_g": 5,
+    "carbs_g": 88,
+    "fiber_g": 3,
+    "sugar_g": 33,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 250
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 250
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 125
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 113
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 113
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 113
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kix",
+   "start": 629,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 400,
+    "protein_g": 8,
+    "fat_g": 3,
+    "carbs_g": 85,
+    "fiber_g": 8,
+    "sugar_g": 10,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Krave",
+   "start": 652,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 415,
+    "protein_g": 7,
+    "fat_g": 11,
+    "carbs_g": 78,
+    "fiber_g": 5,
+    "sugar_g": 37,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 25
+     }
+    ]
+   }
+  },
+  {
+   "food": "Life",
+   "start": 679,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 380,
+    "protein_g": 10,
+    "fat_g": 5,
+    "carbs_g": 79,
+    "fiber_g": 7,
+    "sugar_g": 19,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 175
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 63
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lucky Charms",
+   "start": 706,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 390,
+    "protein_g": 8,
+    "fat_g": 6,
+    "carbs_g": 84,
+    "fiber_g": 5,
+    "sugar_g": 33,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Mini Wheats",
+   "start": 732,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 350,
+    "protein_g": 8,
+    "fat_g": 3,
+    "carbs_g": 85,
+    "fiber_g": 10,
+    "sugar_g": 20,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 167
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 167
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 17
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pops",
+   "start": 756,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 380,
+    "protein_g": 5,
+    "fat_g": 1,
+    "carbs_g": 90,
+    "fiber_g": 1,
+    "sugar_g": 38,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Raisin Bran",
+   "start": 780,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 320,
+    "protein_g": 8,
+    "fat_g": 2,
+    "carbs_g": 80,
+    "fiber_g": 12,
+    "sugar_g": 31,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 83
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 33
+     }
+    ]
+   }
+  },
+  {
+   "food": "Reese's Puffs",
+   "start": 805,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 410,
+    "protein_g": 8,
+    "fat_g": 13,
+    "carbs_g": 77,
+    "fiber_g": 5,
+    "sugar_g": 31,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Rice Krispies",
+   "start": 834,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 375,
+    "protein_g": 7,
+    "fat_g": 1,
+    "carbs_g": 90,
+    "fiber_g": 1,
+    "sugar_g": 10,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 125
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 75
+     }
+    ]
+   }
+  },
+  {
+   "food": "Shredded Wheat",
+   "start": 861,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 330,
+    "protein_g": 12,
+    "fat_g": 2,
+    "carbs_g": 80,
+    "fiber_g": 14,
+    "sugar_g": 1,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 20
+     }
+    ]
+   }
+  },
+  {
+   "food": "Special K",
+   "start": 890,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 360,
+    "protein_g": 8,
+    "fat_g": 1,
+    "carbs_g": 87,
+    "fiber_g": 8,
+    "sugar_g": 28,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 150
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 125
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Trix",
+   "start": 917,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 410,
+    "protein_g": 5,
+    "fat_g": 5,
+    "carbs_g": 85,
+    "fiber_g": 3,
+    "sugar_g": 31,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  },
+  {
+   "food": "Wheaties",
+   "start": 941,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 360,
+    "protein_g": 8,
+    "fat_g": 1,
+    "carbs_g": 83,
+    "fiber_g": 11,
+    "sugar_g": 14,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 175
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 50
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.034693,
+  "calls": [
+   {
+    "cost": 0.03469325,
+    "tokens": {
+     "prompt_tokens": 91709,
+     "completion_tokens": 7844,
+     "total_tokens": 99553
+    },
+    "wall_s": 42.2
+   }
+  ],
+  "wall_s": 42.2
+ }
+}

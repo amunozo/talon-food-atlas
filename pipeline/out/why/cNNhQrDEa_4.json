@@ -1,0 +1,441 @@
+[
+ {
+  "id": 324,
+  "name": "Acerola",
+  "why": "Acerola is a low-calorie fruit, often eaten in small amounts like a supplement, and has the highest vitamin C on either list by a country mile, supporting immunity, collagen, neurotransmitters and non-heme iron absorption, plus carotenoids and phenolics like chlorogenic acid; it is shown to combat skin damage, digestive trouble, infections and depressive symptoms. You can overdose on vitamin C, though it takes a lot, so top tier.",
+  "repairs": [
+   "'non-em iron' -> non-heme iron"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 325,
+  "name": "Asian Pear",
+  "why": "Asian pear is a lower-calorie fruit with a lowly profile, pretty fibrous per calorie, mainly insoluble fiber for digestion and blood sugar management, with a lesser variety of antioxidants such as quercetin and carotenoids that fight cell damage and chronic inflammation. It is not a bad fruit, just outclassed, so he puts it in D tier.",
+  "repairs": [
+   "'Asian pair' -> Asian pear",
+   "'cortin' -> quercetin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 326,
+  "name": "Black Currant",
+  "why": "Black currant is an average-calorie fruit with a stellar profile, an impressive source of vitamin C and rich in anthocyanins that boost immunity, skin health and cognition, thought to be more antioxidant-dense than blueberries; its seeds are rich in gamma-linolenic acid, which helps joint inflammation and pain, and it has components that lower blood pressure. He mentions no downsides and puts it in top tier.",
+  "repairs": [
+   "'gamma linic' -> gamma-linolenic",
+   "'in earn comparison' -> in comparison",
+   "'black currents' -> black currants"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 327,
+  "name": "Black Olive",
+  "why": "Black olive is a higher-calorie fruit, about 11 g fat per 100 g, mainly oleic acid, a heart-healthy fat that lowers LDL and blood pressure, and a much better source than green olives of iron, copper and calcium, plus vitamin E and anti-inflammatory, liver-protective oleanolic acid. Processing may add a known carcinogen and they are packed high in sodium; not perfect, so B tier.",
+  "repairs": [
+   "'OIC acid' -> oleic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 328,
+  "name": "Boysenberry",
+  "why": "Boysenberry is an average-calorie hybrid berry with a solid profile, pretty fibrous with soluble and insoluble fiber for gut bacteria and digestion, a decent source of manganese, folate and vitamin C, and rich in anthocyanins that combat chronic inflammation and aging effects. He mentions no downsides and calls it pretty good, putting it in A tier.",
+  "repairs": [
+   "'Fates' -> folate",
+   "'boisen/poison berries' -> boysenberries"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 329,
+  "name": "Capers",
+  "why": "Capers are a very low-calorie fruit eaten in small amounts of about 10 to 20 g, the best source on either list per gram of copper and among the better per calorie for vitamins K and B2, rich in quercetin and rutin that fight chronic inflammation. They are usually packed with a ton of sodium, so watch that if it matters; a nice little nutritious addition in C tier.",
+  "repairs": [
+   "'cortin and routin' -> quercetin and rutin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 330,
+  "name": "Chokeberry",
+  "why": "Chokeberry is a lower-calorie fruit with a solid profile, a good source of vitamin C and K, standing out for its anthocyanin content, which supports immune and heart health and gut bacteria and is comparable to blueberries, and shown to prevent colon cancer cell growth; it may interfere with medications like blood thinners and diabetes meds. A wonderful choice, so top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 331,
+  "name": "Clementine",
+  "why": "Clementine is a lower-calorie fruit with a decent profile, a great source of vitamin C, more than a tangerine but less than an orange, plus citrus antioxidants like hesperidin, naringin and beta-carotene for immune, heart and skin health, and citric acid that aids nutrient absorption and prevents kidney stones. It is very similar to oranges and he mentions no downsides, so B tier.",
+  "repairs": [
+   "'hesperadin narutin' -> hesperidin, naringin",
+   "'beta katene' -> beta-carotene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 332,
+  "name": "Cloudberry",
+  "why": "Cloudberry is an average-calorie fruit with an impressive profile, among the best sources of vitamin C and a solid source of manganese, vitamin K and magnesium, and rich in ellagitannins with anti-inflammatory and cancer-preventative benefits. He mentions no downsides and says they are not doing anything fancy, just really healthy, so top tier.",
+  "repairs": [
+   "'elit tannins' -> ellagitannins",
+   "'AR doing' -> aren't doing"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 333,
+  "name": "Custard Apple",
+  "why": "Custard apple is an average-calorie fruit with a moderate profile, among the best sources on the list of vitamin B6 for nervous and immune function, with vitamin C, flavonoids, a carotenoid and an acid with antimicrobial benefits. He mentions no downsides, calling it a fine fruit but nothing special, so he puts it in C tier.",
+  "repairs": [
+   "'ludian' -> lutein (uncertain)",
+   "'Carino acid' -> kaurenoic acid (uncertain)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Custard apple is an average-calorie fruit with a moderate profile, among the best sources on the list of vitamin B6 for nervous and immune function, with vitamin C, flavonoids, a carotenoid (lutein) and kaurenoic acid with antimicrobial benefits. He mentions no downsides, calling it a fine fruit but nothing special, so he puts it in C tier. -> Custard apple is an average-calorie fruit with a moderate profile, among the best sources on the list of vitamin B6 for nervous and immune function, with vitamin C, flavonoids, a carotenoid and an acid with antimicrobial benefits. He mentions no downsides, calling it a fine fruit but nothing special, so he puts it in C tier."
+ },
+ {
+  "id": 334,
+  "name": "Dragon Fruit",
+  "why": "Dragon fruit is an average-calorie fruit with a mild profile; its draw is unique antioxidants: betalains, which are anti-inflammatory and lower LDL, hydroxycinnamates with anti-cancer effects, and familiar flavonoids like quercetin; it is prebiotic-rich for gut bacteria and reduces insulin resistance. Good but lacking nutritionally, so he puts it in C tier.",
+  "repairs": [
+   "'betal Lanes' -> betalains",
+   "'hydroxy cinemates' -> hydroxycinnamates",
+   "'myetin and kakin' -> myricetin and catechin"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Dragon fruit is an average-calorie fruit with a mild profile; its draw is unique antioxidants: betalains, which are anti-inflammatory and lower LDL, hydroxycinnamates with anti-cancer effects, and flavonoids like quercetin, myricetin and catechin; it is prebiotic-rich for gut bacteria and reduces insulin resistance. Good but lacking nutritionally, so he puts it in C tier. -> Dragon fruit is an average-calorie fruit with a mild profile; its draw is unique antioxidants: betalains, which are anti-inflammatory and lower LDL, hydroxycinnamates with anti-cancer effects, and familiar flavonoids like quercetin; it is prebiotic-rich for gut bacteria and reduces insulin resistance. Good but lacking nutritionally, so he puts it in C tier."
+ },
+ {
+  "id": 335,
+  "name": "Durian",
+  "why": "Durian is a high-calorie fruit with about 5 percent fat, the best source on either list of vitamin B2 per gram and among the best for B1, B6 and copper, very nutrient-dense and rich in flavonoids like anthocyanins; it is shown to combat bacterial infections, reduce cancer risk and improve heart health. The only question is whether it is worth the smell; regardless, A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 336,
+  "name": "Elderberry",
+  "why": "Elderberry is an average-calorie fruit with a solid profile, among the most fibrous fruits, a good source of vitamin C, high in carotenoids and anthocyanins with antioxidant content comparable to blueberries, and used medically for colds; it must be cooked or prepared to remove potential cyanide, and raw is safest avoided; commercial products are treated. Otherwise pretty great, A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 337,
+  "name": "Gooseberry",
+  "why": "Gooseberry is a lower-calorie fruit with a decent profile, fairly fibrous per calorie and a solid source of vitamin C, with antioxidants like quercetin, chlorogenic compounds and aromatic acids, one of the best options for controlling blood sugar spikes, and shown to be neuroprotective. He mentions no downsides, and like all berries it has a lot to offer, so A tier.",
+  "repairs": [
+   "'cortin' -> quercetin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 338,
+  "name": "Horned Melon",
+  "why": "Horned melon is a lower-calorie fruit with a mediocre profile, a solid source of magnesium per calorie and rich in antioxidants like lutein and rutin, with components that support mood via neurotransmitters. As far as fruits go, it does nothing to separate itself from the crowd, so he puts it in D tier.",
+  "repairs": [
+   "'hor melon/kanano' -> horned melon/kiwano",
+   "'ludian' -> lutein",
+   "'routin' -> rutin",
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 339,
+  "name": "Jackfruit",
+  "why": "Jackfruit is a higher-calorie fruit with a middling profile, among the highest in sugar on either list, but the richest on either list in vitamin B6, and a notable source of potassium, with vitamin C and some flavonoids. He calls it nothing to write home about, a fine choice that will do most bodies good, so C tier.",
+  "repairs": [
+   "'seed here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 340,
+  "name": "Jujube",
+  "why": "Jujube is an average-calorie fruit with a solid profile, eaten fresh or dried, higher in fiber than most fruits, mainly insoluble for digestion, and a great source of vitamin C; flavonoids, triterpenoids and polysaccharides combat inflammation, particularly in the liver, and it is used to improve sleep quality and intestinal lining strength. He mentions no downsides and says it is hard to go wrong, so B tier.",
+  "repairs": [
+   "'Juju' -> jujube"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 341,
+  "name": "Kumquat",
+  "why": "Kumquat is an average-calorie fruit with a quality profile, among the most fibrous fruits so far with soluble and insoluble fiber, and a solid source of vitamin C; citrus antioxidants like beta-cryptoxanthin plus citric acid aid micronutrient absorption, it lowers blood sugar and LDL, and its edible peel is richer in antioxidants than the flesh. A great choice, B tier.",
+  "repairs": [
+   "'beta crypto zanthin' -> beta-cryptoxanthin",
+   "'lemon' -> limonene (uncertain)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Kumquat is an average-calorie fruit with a quality profile, among the most fibrous fruits so far with soluble and insoluble fiber, and a solid source of vitamin C; citrus antioxidants like beta-cryptoxanthin and limonene plus citric acid aid micronutrient absorption, it lowers blood sugar and LDL, and its edible peel is richer in antioxidants than the flesh. A great choice, B tier. -> Kumquat is an average-calorie fruit with a quality profile, among the most fibrous fruits so far with soluble and insoluble fiber, and a solid source of vitamin C; citrus antioxidants like beta-cryptoxanthin plus citric acid aid micronutrient absorption, it lowers blood sugar and LDL, and its edible peel is richer in antioxidants than the flesh. A great choice, B tier."
+ },
+ {
+  "id": 342,
+  "name": "Lingonberry",
+  "why": "Lingonberry is an average-calorie fruit with a superb profile, the richest source on either list of manganese for bone formation, metabolism and reproduction, and incredibly antioxidant-rich with vitamin C, vitamin E, quercetin and anthocyanins for immune, heart and eye health, comparable to blueberries. It helps blood sugar control and the gut microbiome; an excellent example of why berries reign supreme, top tier.",
+  "repairs": [
+   "'link Berry/lingan' -> lingonberry",
+   "'cortin' -> quercetin",
+   "'reain' -> reign"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 343,
+  "name": "Loquat",
+  "why": "Loquat is a lower-calorie fruit with a good profile, among the best sources of carotenoids including beta-carotene, lutein and zeaxanthin (vitamin A, eye health) and a good source of potassium per calorie; phenolics like chlorogenic and ferulic acid are anti-inflammatory and it notably helps against heart-related diseases. It is a good fruit with a bit less going on than others, so C tier.",
+  "repairs": [
+   "'low quat' -> loquat",
+   "'zanthin' -> zeaxanthin",
+   "'heart rated' -> heart-related"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 344,
+  "name": "Lychee",
+  "why": "Lychee is an average-calorie fruit with a great profile, a solid source of vitamin C and a good source of copper, with epicatechin that boosts heart health and reduces cancer risk and rutin that combats chronic diseases. It is not the most studied fruit but one that holds promise, so he puts it in B tier.",
+  "repairs": [
+   "'lychi/lyi' -> lychee",
+   "'epic cakin' -> epicatechin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 345,
+  "name": "Mangosteen",
+  "why": "Mangosteen is an average-calorie fruit with a mild profile; its main draw is xanthones, unique antioxidants with powerful anti-inflammatory, anti-cancer and other chronic disease benefits and an anti-diabetic effect. Beyond these he couldn't find anything that separates it from the crowd, so he puts it in D tier.",
+  "repairs": [
+   "'mangotin/mango Stein' -> mangosteen"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 346,
+  "name": "Mulberry",
+  "why": "Mulberry is a lower-calorie fruit with a solid profile, a good source of vitamin C and iron per calorie, rich in antioxidants including one for heart health, rutin and chlorogenic acid against chronic inflammation and cancer risk, richer in more mature berries. It consistently lowers LDL and fatty liver risk; berries deliver again, so A tier.",
+  "repairs": [
+   "'those cyanin' -> anthocyanins; 'cyanin' -> cyanidin (uncertain)",
+   "'myosin' -> myricetin",
+   "'MLL berries' -> mulberries"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Mulberry is a lower-calorie fruit with a solid profile, a good source of vitamin C and iron per calorie, rich in antioxidants including cyanidin for heart health, rutin, myricetin and chlorogenic acid against chronic inflammation and cancer risk, richer in more mature berries. It consistently lowers LDL and fatty liver risk; berries deliver again, so A tier. -> Mulberry is a lower-calorie fruit with a solid profile, a good source of vitamin C and iron per calorie, rich in antioxidants including one for heart health, rutin and chlorogenic acid against chronic inflammation and cancer risk, richer in more mature berries. It consistently lowers LDL and fatty liver risk; berries deliver again, so A tier."
+ },
+ {
+  "id": 347,
+  "name": "Passion Fruit",
+  "why": "Passion fruit is a higher-calorie fruit with an impressive profile, overwhelmingly fibrous with soluble and insoluble fiber, among the best sources of carotenoids (beta-carotene), a solid source of vitamin C and a notable source of potassium and iron, with powerful anthocyanin-type polyphenols; it is a potential allergen, especially with a latex allergy, and unripe fruit may contain toxic compounds. He calls it the cream of non-berry fruits, top tier.",
+  "repairs": [
+   "'antoyan' -> anthocyanins"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 348,
+  "name": "Pawpaw",
+  "why": "Pawpaw is an average-calorie fruit with a wonderful profile, straight up the best fruit source on either list of iron, magnesium and zinc, and among the best for manganese, rich in vitamin C and phenolics like chlorogenic acid. It contains a compound that can be toxic in large amounts, but being uniquely nutritious deserves recognition, so it joins top tier.",
+  "repairs": [
+   "'paa/Papa' -> pawpaw",
+   "'anisin' -> annonacin (uncertain)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Pawpaw is an average-calorie fruit with a wonderful profile, straight up the best fruit source on either list of iron, magnesium and zinc, and among the best for manganese, rich in vitamin C and phenolics like chlorogenic acid. It contains annonacin, which can be toxic in large amounts, but being uniquely nutritious deserves recognition, so it joins top tier. -> Pawpaw is an average-calorie fruit with a wonderful profile, straight up the best fruit source on either list of iron, magnesium and zinc, and among the best for manganese, rich in vitamin C and phenolics like chlorogenic acid. It contains a compound that can be toxic in large amounts, but being uniquely nutritious deserves recognition, so it joins top tier."
+ },
+ {
+  "id": 349,
+  "name": "Persimmon",
+  "why": "Persimmon is an average-calorie fruit with a pretty good profile, among the best sources of carotenoids, especially beta-carotene for the eyes, with vitamin C, vitamin E and many flavonoids that fight inflammation and chronic disease, and quercetin-type flavonoids that lower blood pressure and LDL. He calls it perfectly serviceable but with a bit less to offer than others, so C tier.",
+  "repairs": [
+   "'pmen/pons' -> persimmon",
+   "'cortin' -> quercetin",
+   "'beta carotin' -> beta-carotene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 350,
+  "name": "Plantain",
+  "why": "Plantain is a higher-calorie, well-rounded fruit, much more calorie- and sugar-dense than bananas, the best source on the list of vitamin K for liver clotting factors and a reliable source of carotenoids, vitamin C, B6 and potassium; it is starchier than bananas, with resistant starch that feeds gut bacteria and improves insulin sensitivity. A unique fruit with much to offer, B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 351,
+  "name": "Pomelo",
+  "why": "Pomelo is a lower-calorie fruit with a solid profile, a great source of vitamin C and a good source of lycopene for heart and skin, with citrus antioxidants like naringenin, shown to be effective against cancer, and citric acid that aids mineral absorption and prevents kidney stones; it lowers LDL and is antibacterial and antifungal, but may interfere with blood pressure or cholesterol medications. A great citrus, A tier.",
+  "repairs": [
+   "'pamelo' -> pomelo",
+   "'lopine' -> lycopene",
+   "'ningen' -> naringin (uncertain)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 352,
+  "name": "Prickly Pear",
+  "why": "Prickly pear is a lower-calorie fruit with a good amount of soluble and insoluble fiber per calorie, among the best fruit sources of magnesium, and a good source of manganese and vitamin C; phenolic compounds help skin, flavonoids fight chronic inflammation, and pigments protect the liver. He mentions no downsides and calls it a great healthy choice, A tier.",
+  "repairs": [
+   "'paciic acid' -> piscidic acid (uncertain)",
+   "'cortin and cherol' -> quercetin and kaempferol (uncertain)",
+   "'beta cyanin' -> betacyanin"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Prickly pear is a lower-calorie fruit with a good amount of soluble and insoluble fiber per calorie, among the best fruit sources of magnesium, and a good source of manganese and vitamin C; phenolics like piscidic acid help skin, flavonoids like quercetin and kaempferol fight chronic inflammation, and betacyanin protects the liver. He mentions no downsides and calls it a great healthy choice, A tier. -> Prickly pear is a lower-calorie fruit with a good amount of soluble and insoluble fiber per calorie, among the best fruit sources of magnesium, and a good source of manganese and vitamin C; phenolic compounds help skin, flavonoids fight chronic inflammation, and pigments protect the liver. He mentions no downsides and calls it a great healthy choice, A tier."
+ },
+ {
+  "id": 353,
+  "name": "Quince",
+  "why": "Quince is an average-calorie fruit with a mediocre profile, a decent source of vitamin C and copper, rich in common flavonoid antioxidants that combat inflammation and chronic disease; it is shown to combat nausea, particularly pregnancy-related, and to help with ulcers. A healthy fruit but with much less going on, so he puts it in D tier.",
+  "repairs": [
+   "'quins/quint' -> quince",
+   "'cortin and cerol' -> quercetin and likely kaempferol (uncertain)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Quince is an average-calorie fruit with a mediocre profile, a decent source of vitamin C and copper, rich in flavonoid antioxidants like quercetin that combat inflammation and chronic disease; it is shown to combat nausea, particularly pregnancy-related, and to help with ulcers. A healthy fruit but with much less going on, so he puts it in D tier. -> Quince is an average-calorie fruit with a mediocre profile, a decent source of vitamin C and copper, rich in common flavonoid antioxidants that combat inflammation and chronic disease; it is shown to combat nausea, particularly pregnancy-related, and to help with ulcers. A healthy fruit but with much less going on, so he puts it in D tier."
+ },
+ {
+  "id": 354,
+  "name": "Rambutan",
+  "why": "Rambutan is an average-calorie fruit with a solid profile, a great source of vitamin C and among the better fruit sources of copper, rich in polyphenols, notably heart-healthy anthocyanins, and used against various infections; it is not a fancy fruit but does typical fruit things pretty well. He mentions no downsides and puts it in B tier.",
+  "repairs": [
+   "'rabutin' -> rambutan"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 355,
+  "name": "Red Currant",
+  "why": "Red currant is an average-calorie fruit with a worthwhile profile, kind of a less nutritious black currant, with less but still a good amount of vitamin C and less powerful anthocyanins, but richer in lycopene for heart and skin health, and its seeds have gamma-linolenic acid against joint inflammation. He calls it a great but outclassed fruit and puts it in A tier.",
+  "repairs": [
+   "'lopine' -> lycopene",
+   "'gamma lolic' -> gamma-linolenic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 356,
+  "name": "Rose Apple",
+  "why": "Rose apple is a very low-calorie fruit with a mild profile, a good source of vitamin C per calorie with carotenoids, flavonoids and terpenoids supporting immunity and fighting inflammation, and shown to help treat liver issues; the roots and seeds are considered poisonous. You get a pretty sweet deal per calorie but it is nothing special, so C tier.",
+  "repairs": [
+   "'turpenoid' -> terpenoid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 357,
+  "name": "Rose Hips",
+  "why": "Rose hips are a high-calorie fruit with a superior profile, the highest in fiber on either list by far, the best source of vitamin E, calcium and B5, the highest in lycopene and beta-carotene, with an almost overwhelming amount of vitamin C; they are rich in quercetin, catechin and ellagic acid and may help skin aging and arthritis. Too much vitamin C is possible and contents vary; the pinnacle, top tier.",
+  "repairs": [
+   "'lopine and beta katene' -> lycopene and beta-carotene",
+   "'cortin kakin alagic' -> quercetin, catechin, ellagic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 358,
+  "name": "Sapodilla",
+  "why": "Sapodilla is a higher-calorie fruit with a slight profile, higher in soluble and insoluble fiber and a decent source of vitamin C and manganese, rich in phenolics like gallic acid and anti-cancer triterpenoids. It is not the most researched fruit, but from what we know it is nothing special, so he puts it in D tier.",
+  "repairs": [
+   "'sapadilla' -> sapodilla",
+   "'vitaminc' -> vitamin C"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 359,
+  "name": "Snake Fruit",
+  "why": "Snake fruit, or salak, is an average-calorie fruit with a mediocre profile, higher in sugar than most fruits, among the better sources of copper and a relevant source of iron, with flavonoid, terpenoid and some carotenoid antioxidants. From what he can tell they are nothing special in the fruit world, so he puts it in D tier.",
+  "repairs": [
+   "'catenoids' -> carotenoids"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 360,
+  "name": "Soursop",
+  "why": "Soursop is an average-calorie fruit with a passable profile, a decent source of vitamin C, copper and potassium, with flavonoids like quercetin, lutein and tangeritin, shown to combat leukemia and kill several harmful bacteria; it contains some toxic compounds that can be harmful in larger amounts. Overall he calls it a fine fruit and puts it in C tier.",
+  "repairs": [
+   "'sourp/sour Sal' -> soursop",
+   "'cortin and ludin' -> quercetin and lutein",
+   "'lukemia' -> leukemia"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 361,
+  "name": "Star Fruit",
+  "why": "Star fruit is a low-calorie fruit with a decent profile, a good source of vitamin C and copper per calorie, with antioxidants including gallic acid, shown to protect the liver; it is higher in oxalates, which can inhibit micronutrient absorption, and contains caramboxin, which can be harmful, particularly with kidney disease. It has much to offer for few calories, so B tier.",
+  "repairs": [
+   "'carmola' -> carambola",
+   "'carboxin' -> caramboxin",
+   "'cortin epin' -> quercetin, epicatechin (uncertain)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Star fruit is a low-calorie fruit with a decent profile, a good source of vitamin C and copper per calorie, with antioxidants like quercetin and gallic acid, shown to protect the liver; it is higher in oxalates, which can inhibit micronutrient absorption, and contains caramboxin, which can be harmful, particularly with kidney disease. It has much to offer for few calories, so B tier. -> Star fruit is a low-calorie fruit with a decent profile, a good source of vitamin C and copper per calorie, with antioxidants including gallic acid, shown to protect the liver; it is higher in oxalates, which can inhibit micronutrient absorption, and contains caramboxin, which can be harmful, particularly with kidney disease. It has much to offer for few calories, so B tier."
+ },
+ {
+  "id": 362,
+  "name": "Tamarind",
+  "why": "Tamarind is the highest-calorie fruit on the list with a unique profile, the richest on either list in vitamin B1, potassium, phosphorus and B3, and among the best sources of magnesium and iron, with flavonoid antioxidants and antimicrobial benefits, commonly used for digestive issues. It is the highest in sugar by a wide margin, which dilutes some perks, but they are wholly unique, so B tier.",
+  "repairs": [
+   "'flaveny' -> flavonoid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 363,
+  "name": "Tomatillo",
+  "why": "Tomatillo is a low-calorie fruit with a moderate profile, among the better sources of vitamin B3 and a good source per calorie of vitamin C and potassium, rich in lutein and zeaxanthin against macular degeneration, and other compounds that are cancer-preventative and treat arthritis symptoms. He mentions no downsides, calls it a healthy choice and rounds out the list with A tier.",
+  "repairs": [
+   "'tomao/Tomos' -> tomatillo",
+   "'ludian and zanthin' -> lutein and zeaxanthin",
+   "'macular generation' -> macular degeneration",
+   "'with analyes' -> withanolides (uncertain)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Tomatillo is a low-calorie fruit with a moderate profile, among the better sources of vitamin B3 and a good source per calorie of vitamin C and potassium, rich in lutein and zeaxanthin against macular degeneration, and withanolide-type compounds that are cancer-preventative and treat arthritis symptoms. He mentions no downsides, calls it a healthy choice and rounds out the list with A tier. -> Tomatillo is a low-calorie fruit with a moderate profile, among the better sources of vitamin B3 and a good source per calorie of vitamin C and potassium, rich in lutein and zeaxanthin against macular degeneration, and other compounds that are cancer-preventative and treat arthritis symptoms. He mentions no downsides, calls it a healthy choice and rounds out the list with A tier."
+ }
+]

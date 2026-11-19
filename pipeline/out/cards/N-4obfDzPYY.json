@@ -1,0 +1,1633 @@
+{
+ "video_id": "N-4obfDzPYY",
+ "title": "Condiments Ranked - Nutrition Tier Lists",
+ "n_expected": 33,
+ "foods": [
+  {
+   "food": "Alfredo Sauce",
+   "start": 116,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~150",
+    "protein_g": "~2g",
+    "fat_g": "~15g",
+    "carbs_g": "~2g",
+    "fiber_g": null,
+    "sugar_g": "~1g",
+    "sodium_mg": 37,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Balsamic Vinegar",
+   "start": 162,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~90",
+    "protein_g": "~1g",
+    "fat_g": "~0g",
+    "carbs_g": "~17g",
+    "fiber_g": null,
+    "sugar_g": "~15g",
+    "sodium_mg": 2,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Barbecue Sauce",
+   "start": 201,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~170",
+    "protein_g": "~1g",
+    "fat_g": "~1g",
+    "carbs_g": "~41g",
+    "fiber_g": null,
+    "sugar_g": "~33g",
+    "sodium_mg": 69,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cocktail Sauce",
+   "start": 227,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~130",
+    "protein_g": "~1g",
+    "fat_g": "~1g",
+    "carbs_g": "~28g",
+    "fiber_g": null,
+    "sugar_g": "~12g",
+    "sodium_mg": 84,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Duck Sauce",
+   "start": 257,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~245",
+    "protein_g": "~0g",
+    "fat_g": "~0g",
+    "carbs_g": "~61g",
+    "fiber_g": null,
+    "sugar_g": "~31g",
+    "sodium_mg": 47,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fish Sauce",
+   "start": 281,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~35",
+    "protein_g": "~5g",
+    "fat_g": "~0g",
+    "carbs_g": "~4g",
+    "fiber_g": null,
+    "sugar_g": "~4g",
+    "sodium_mg": 523,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Hoisin Sauce",
+   "start": 325,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~220",
+    "protein_g": "~3g",
+    "fat_g": "~3g",
+    "carbs_g": "~44g",
+    "fiber_g": null,
+    "sugar_g": "~27g",
+    "sodium_mg": 108,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Honey Mustard",
+   "start": 346,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~465",
+    "protein_g": "~1g",
+    "fat_g": "~41g",
+    "carbs_g": "~23g",
+    "fiber_g": null,
+    "sugar_g": "~23g",
+    "sodium_mg": 34,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Horseradish Sauce",
+   "start": 372,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~505",
+    "protein_g": "~1g",
+    "fat_g": "~51g",
+    "carbs_g": "~10g",
+    "fiber_g": null,
+    "sugar_g": "~9g",
+    "sodium_mg": 49,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 76
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Hot Sauce",
+   "start": 414,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~10",
+    "protein_g": "~1g",
+    "fat_g": "~1g",
+    "carbs_g": "~1g",
+    "fiber_g": null,
+    "sugar_g": "~0g",
+    "sodium_mg": 42,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 55
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Hummus",
+   "start": 451,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~235",
+    "protein_g": "~8g",
+    "fat_g": "~18g",
+    "carbs_g": "~15g",
+    "fiber_g": null,
+    "sugar_g": "~1g",
+    "sodium_mg": 28,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Italian",
+   "start": 491,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~240",
+    "protein_g": "~0g",
+    "fat_g": "~21g",
+    "carbs_g": "~12g",
+    "fiber_g": null,
+    "sugar_g": "~11g",
+    "sodium_mg": 66,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ketchup",
+   "start": 532,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~100",
+    "protein_g": "~1g",
+    "fat_g": "~0g",
+    "carbs_g": "~27g",
+    "fiber_g": null,
+    "sugar_g": "~21g",
+    "sodium_mg": 60,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 60
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kimchi",
+   "start": 563,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~15",
+    "protein_g": "~1g",
+    "fat_g": "~1g",
+    "carbs_g": "~2g",
+    "fiber_g": null,
+    "sugar_g": "~2g",
+    "sodium_mg": 33,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Marinara Sauce",
+   "start": 600,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~50",
+    "protein_g": "~1g",
+    "fat_g": "~2g",
+    "carbs_g": "~8g",
+    "fiber_g": null,
+    "sugar_g": "~6g",
+    "sodium_mg": 29,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Mayonnaise",
+   "start": 626,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~680",
+    "protein_g": "~1g",
+    "fat_g": "~75g",
+    "carbs_g": "~1g",
+    "fiber_g": null,
+    "sugar_g": "~1g",
+    "sodium_mg": 42,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 113
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Mustard",
+   "start": 672,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~70",
+    "protein_g": "~4g",
+    "fat_g": "~3g",
+    "carbs_g": "~6g",
+    "fiber_g": null,
+    "sugar_g": "~1g",
+    "sodium_mg": 73,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 62
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 73
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pesto",
+   "start": 704,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~420",
+    "protein_g": "~10g",
+    "fat_g": "~38g",
+    "carbs_g": "~10g",
+    "fiber_g": null,
+    "sugar_g": "~6g",
+    "sodium_mg": 40,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 126
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 55
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 31
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pico de Gallo",
+   "start": 770,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~15",
+    "protein_g": "~1g",
+    "fat_g": "~0g",
+    "carbs_g": "~4g",
+    "fiber_g": null,
+    "sugar_g": "~2g",
+    "sodium_mg": 29,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ranch",
+   "start": 808,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~430",
+    "protein_g": "~1g",
+    "fat_g": "~45g",
+    "carbs_g": "~6g",
+    "fiber_g": null,
+    "sugar_g": "~5g",
+    "sodium_mg": 60,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 112
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 60
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Relish",
+   "start": 843,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~130",
+    "protein_g": "~0g",
+    "fat_g": "~0g",
+    "carbs_g": "~35g",
+    "fiber_g": null,
+    "sugar_g": "~29g",
+    "sodium_mg": 54,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 70
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 54
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Salsa",
+   "start": 870,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~30",
+    "protein_g": "~1g",
+    "fat_g": "~0g",
+    "carbs_g": "~7g",
+    "fiber_g": null,
+    "sugar_g": "~4g",
+    "sodium_mg": 44,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Salsa Verde",
+   "start": 908,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~40",
+    "protein_g": "~1g",
+    "fat_g": "~1g",
+    "carbs_g": "~6g",
+    "fiber_g": null,
+    "sugar_g": "~4g",
+    "sodium_mg": 60,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 60
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sauerkraut",
+   "start": 938,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~20",
+    "protein_g": "~1g",
+    "fat_g": "~0g",
+    "carbs_g": "~4g",
+    "fiber_g": null,
+    "sugar_g": "~2g",
+    "sodium_mg": 44,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Soy Sauce",
+   "start": 978,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~55",
+    "protein_g": "~8g",
+    "fat_g": "~1g",
+    "carbs_g": "~5g",
+    "fiber_g": null,
+    "sugar_g": "~0g",
+    "sodium_mg": 366,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 366
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sriracha",
+   "start": 1020,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~95",
+    "protein_g": "~2g",
+    "fat_g": "~1g",
+    "carbs_g": "~19g",
+    "fiber_g": null,
+    "sugar_g": "~15g",
+    "sodium_mg": 141,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 141
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 86
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Steak Sauce",
+   "start": 1059,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~95",
+    "protein_g": "~1g",
+    "fat_g": "~0g",
+    "carbs_g": "~22g",
+    "fiber_g": null,
+    "sugar_g": "~10g",
+    "sodium_mg": 110,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 110
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tahini",
+   "start": 1082,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~595",
+    "protein_g": "~17g",
+    "fat_g": "~54g",
+    "carbs_g": "~21g",
+    "fiber_g": null,
+    "sugar_g": "~1g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 179
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 112
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 105
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 102
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 42
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tartar Sauce",
+   "start": 1143,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~210",
+    "protein_g": "~1g",
+    "fat_g": "~17g",
+    "carbs_g": "~13g",
+    "fiber_g": null,
+    "sugar_g": "~4g",
+    "sodium_mg": 44,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Teriyaki Sauce",
+   "start": 1169,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~90",
+    "protein_g": "~6g",
+    "fat_g": "~0g",
+    "carbs_g": "~16g",
+    "fiber_g": null,
+    "sugar_g": "~14g",
+    "sodium_mg": 255,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 255
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Thousand Island",
+   "start": 1197,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~380",
+    "protein_g": "~1g",
+    "fat_g": "~35g",
+    "carbs_g": "~15g",
+    "fiber_g": null,
+    "sugar_g": "~15g",
+    "sodium_mg": 64,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 64
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Wasabi",
+   "start": 1226,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~290",
+    "protein_g": "~2g",
+    "fat_g": "~11g",
+    "carbs_g": "~46g",
+    "fiber_g": null,
+    "sugar_g": "~13g",
+    "sodium_mg": 226,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 226
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Worcestershire Sauce",
+   "start": 1269,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~75",
+    "protein_g": "~0g",
+    "fat_g": "~0g",
+    "carbs_g": "~19g",
+    "fiber_g": null,
+    "sugar_g": "~10g",
+    "sodium_mg": 87,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 87
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 6
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.053746,
+  "calls": [
+   {
+    "cost": 0.05374625,
+    "tokens": {
+     "prompt_tokens": 122775,
+     "completion_tokens": 9783,
+     "total_tokens": 132558
+    },
+    "wall_s": 38.2
+   }
+  ],
+  "wall_s": 38.2
+ }
+}

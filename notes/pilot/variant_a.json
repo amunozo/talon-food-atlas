@@ -1,0 +1,101 @@
+[
+ {
+  "food": "Chlorella",
+  "why": "Dried chlorella is a high-calorie green freshwater algae that is an excellent, fairly complete protein source (protein more than twice its carbs), about 11% fat mostly omega-3-rich polyunsaturates, and the top vitamin K source on the list, with lots of iron, zinc, manganese, B3, vitamin E, magnesium and carotenoids plus immune benefits. Downsides: absorbs heavy metals so quality matters, lower in iodine than most seaweeds, and only 10-20 g at a time is advised; he calls it a near-automatic top tier.",
+  "key_nutrients": [
+   {
+    "nutrient": "fat",
+    "amount": 11,
+    "unit": "%",
+    "note": "approx., mostly polyunsaturated"
+   },
+   {
+    "nutrient": "protein vs carbohydrate",
+    "amount": 2,
+    "unit": "x",
+    "note": "protein more than twice carbs"
+   },
+   {
+    "nutrient": "suggested serving",
+    "amount": "10-20",
+    "unit": "g",
+    "note": "10 to 20 g at a time"
+   }
+  ],
+  "tier_heard": "top tier"
+ },
+ {
+  "food": "Dulse",
+  "why": "Dried dulse is an average-calorie red seaweed with the highest fiber on the list (about 20%, soluble and insoluble) and the best potassium; it also has more omega-3s than most seaweed, iodine, and carotenoid/flavonoid/vitamin C antioxidants. Downsides: very high sodium and easy to overdo iodine, so no more than 20 g a day; still worth A tier.",
+  "key_nutrients": [
+   {
+    "nutrient": "fiber",
+    "amount": 20,
+    "unit": "%",
+    "note": "approx."
+   },
+   {
+    "nutrient": "max suggested daily amount",
+    "amount": 20,
+    "unit": "g",
+    "note": ""
+   }
+  ],
+  "tier_heard": "A"
+ },
+ {
+  "food": "Irish Moss",
+  "why": "Irish moss is a higher-calorie red seaweed, the most commonly eaten sea moss, and the best raw source of iron, vitamin B2 and zinc, also among the best folate sources, with some DHA/EPA and good iodine. Its standout feature is carrageenan (sulfated polysaccharides); this is controversial and hard to digest for some, but not seemingly harmful in natural form. Verdict: interesting, B tier.",
+  "key_nutrients": [],
+  "tier_heard": "B"
+ },
+ {
+  "food": "Kelp",
+  "why": "Brown kelp is an average-calorie seaweed and the best raw source of vitamin K, higher in tyrosine, with high antioxidant content (fucoxanthin, phlorotannins, fucoidan) and some DHA/EPA though less than others. Its iodine is the highest of all, which supports thyroid hormones but is easy to overconsume; given all this he puts it in B.",
+  "key_nutrients": [],
+  "tier_heard": "B"
+ },
+ {
+  "food": "Nori",
+  "why": "Nori is an average-calorie red seaweed with a respectable profile: significant protein for a plant, the best vitamin C on the list, carotenoids good for eye health, good vitamin B2, and higher DHA/EPA than most edible algae. It is lower in iodine than other seaweed, which together with its other benefits earns it an A.",
+  "key_nutrients": [],
+  "tier_heard": "A"
+ },
+ {
+  "food": "Ogo",
+  "why": "Ogo is a lower-calorie red seaweed and the best raw calcium source on the list, also among the best for manganese and iron, richer in iodine, with some DHA/EPA and agar that supports digestion. A less common pick but worth eating; B tier.",
+  "key_nutrients": [],
+  "tier_heard": "B"
+ },
+ {
+  "food": "Sea Grapes",
+  "why": "Sea grapes (green caviar) are a low-calorie green seaweed and the best raw source of magnesium and vitamin E, rich in vitamin C and fucoidan, with the usual iodine and omega-3s that are a big deal versus other foods. A great, nutritious choice especially per calorie; B tier.",
+  "key_nutrients": [],
+  "tier_heard": "B"
+ },
+ {
+  "food": "Spirulina",
+  "why": "Dried spirulina is a blue-green cyanobacteria, not true seaweed, and the most protein-dense food on the list (a complete protein), about 8% fat with some DHA/EPA, the best source of copper, several B vitamins (B1, B2, B5, B6), plenty of iron, and phycocyanin. Downsides: low iodine, may worsen certain autoimmune conditions, and only about 10 g is advised so it is practically a supplement; still top tier.",
+  "key_nutrients": [
+   {
+    "nutrient": "fat",
+    "amount": 8,
+    "unit": "%",
+    "note": "approx."
+   },
+   {
+    "nutrient": "suggested serving",
+    "amount": 10,
+    "unit": "g",
+    "note": ""
+   }
+  ],
+  "tier_heard": "top tier"
+ },
+ {
+  "food": "Wakame",
+  "why": "Wakame is a higher-calorie brown seaweed, usually the highest in DHA/EPA among seaweeds, the best raw manganese and folate source, with fucoxanthin and phlorotannins. Downsides: among the highest in iodine, which limits safe intake, and higher sodium than most; overall an excellent choice in A tier.",
+  "key_nutrients": [],
+  "tier_heard": "A"
+ }
+]

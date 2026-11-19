@@ -1,0 +1,329 @@
+[
+ {
+  "id": 421,
+  "name": "Alfredo Sauce",
+  "why": "Alfredo sauce is a mid-calorie condiment with a lesser profile, made of butter, cream and parmesan, a mild source of vitamin A from dairy fat and sometimes calcium, but really that is it. It is mostly extra calories from saturated fat, so he suggests swapping cream for Greek yogurt or cottage cheese, and puts it in D tier.",
+  "repairs": [
+   "'midc calori' -> mid-calorie"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 422,
+  "name": "Balsamic Vinegar",
+  "why": "Balsamic vinegar is slightly lower in calories with a lower profile, made from fermented sweet white grapes, a mild source of iron with polyphenols that help prevent cardiovascular disease; its acetic acid has a probiotic effect for gut bacteria and effectively lowers LDL cholesterol. Nutritionally it is mostly sugar, but it is less risky than many options, so C tier.",
+  "repairs": [
+   "'macron nutritionally' -> macronutritionally"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 423,
+  "name": "Barbecue Sauce",
+  "why": "Barbecue sauce is a relatively higher-calorie condiment with a bad profile, made from tomato sauce, vinegar and sweeteners like molasses or brown sugar. The leftover tomato gives lycopene, benefiting heart and skin and with anti-cancer effects, but beyond that it is nothing but a sugar bomb, the first of many in F tier.",
+  "repairs": [
+   "'glasses' -> molasses",
+   "'lopine' -> lycopene",
+   "'sugar balb' -> sugar bomb"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 424,
+  "name": "Cocktail Sauce",
+  "why": "Cocktail sauce is an average-calorie condiment with a fair profile, a mix of tomato, hot and Worcestershire sauces, horseradish and lemon; it supplies vitamin C, copper, iron, potassium and carotenoids that become vitamin A, but also a good amount of sugar and an unnecessary amount of sodium. Since it is not scraping the bottom of the barrel, he puts it in D tier.",
+  "repairs": [
+   "'Worster' -> Worcestershire",
+   "'deter' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 425,
+  "name": "Duck Sauce",
+  "why": "Duck sauce is a higher-calorie condiment with a poor profile, made of plum, apricot, peach, pineapple, vinegar, chili and sugar. It is a decent source of manganese, which is its only redeeming quality, and it is another sugar bomb with the highest carbohydrate content on the list, so it lands in F tier.",
+  "repairs": [
+   "'poultry' -> poor"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 426,
+  "name": "Fish Sauce",
+  "why": "Fish sauce is lower in calories with a relevant profile, usually fermented mackerel, anchovies, sardines or shrimp, a good source of protein per calorie, the best on the list for magnesium, the only substantial B12 source, and decent B6 and selenium. It is the most sodium-dense option by a margin, so watch sodium, and some brands add sugar; B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 427,
+  "name": "Hoisin Sauce",
+  "why": "Hoisin sauce is a higher-calorie condiment made of soy, sugar and starch, a moderate source of vitamin B2, copper, iron and manganese. Realistically it is a sugar bomb, and he shows no mercy for those, sending it straight to F tier.",
+  "repairs": [
+   "'hoison' -> hoisin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 428,
+  "name": "Honey Mustard",
+  "why": "Honey mustard is a ridiculously high-calorie, fat-centric condiment made of honey, mustard, mayonnaise and vinegar, a decent source of the fat-soluble vitamin K and vitamin E. Unfortunately it is high in sugar and unuseful fat, an overdose of calories that can't be justified, so it goes in F tier.",
+  "repairs": [
+   "'the than' -> garbled (fat-soluble)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 429,
+  "name": "Horseradish Sauce",
+  "why": "Horseradish sauce is a ridiculously high-calorie condiment made of cream or mayonnaise, vinegar and horseradish, one of the fattiest on the list with saturated and omega-6 fats most people already get enough of. It has fat-soluble vitamins K and E and horseradish brings some antibacterial benefit, but that is buried in fat, so it stays in F tier.",
+  "repairs": [
+   "'poly unsat saturated' -> polyunsaturated"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 430,
+  "name": "Hot Sauce",
+  "why": "Hot sauce is the lowest-calorie condiment on the list with a respectable profile, usually red peppers and vinegar, high in carotenoids including beta-carotene (vitamin A) and most notably capsaicin, with anti-inflammatory, anti-cancer and heart benefits, plus decent iron and B6. It is virtually calorie-free with no real drawbacks in reasonable amounts, so the first in top tier.",
+  "repairs": [
+   "'capsacin' -> capsaicin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 431,
+  "name": "Hummus",
+  "why": "Hummus is a higher-calorie condiment with an impressive profile, made of chickpeas, tahini, olive oil, garlic and lemon juice, one of the few legitimate protein sources on the list, a good source of manganese, copper, iron and phosphorus, with soluble and insoluble fiber for the gut. Garlic and others combat inflammation; not perfect but well-rounded, top tier.",
+  "repairs": [
+   "'heart rated' -> heart-related"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 432,
+  "name": "Italian",
+  "why": "Italian dressing is a higher-calorie condiment with a mediocre profile, made of soybean oil, vinegar, sugar and spices, and still very fatty, mainly omega-6, which makes it a decent source of vitamins K and E and generally better for heart health than most alternatives; commercial versions are deceptively sugary. Not as nutritious as many nor as bad as others, so C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 433,
+  "name": "Ketchup",
+  "why": "Ketchup is an average-calorie condiment with a mild profile, made of tomato, vinegar and various sugars, a decent source of the antioxidant lycopene for brain, skin and heart, and of B2 and B6. It is inherently pretty sugary, but among sugar bombs it is one of the more nutritious, so he puts it in D tier.",
+  "repairs": [
+   "'catenoid lopine' -> carotenoid lycopene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 434,
+  "name": "Kimchi",
+  "why": "Kimchi is incredibly low in calories with an impressive profile, fermented cabbage, chilies and spices, a good source of iron and vitamin K, notably K2 for bones; anti-inflammatory ingredients and lacto-fermentation give a probiotic effect for gut bacteria, and it is shown to prevent yeast infections and reduce heart disease risk. A genuinely healthy, innocent condiment in top tier.",
+  "repairs": [
+   "'antich' -> anti-",
+   "'top two here' -> top tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 435,
+  "name": "Marinara Sauce",
+  "why": "Marinara sauce is a lower-calorie condiment with a solid profile, made of tomato, onion, garlic and spices, effectively a better ketchup, a moderate source of B3, vitamin E, B6 and lycopene. It is a low-calorie, low-sugar topping not usually doing any real harm, but with a modest profile, so he puts it in C tier.",
+  "repairs": [
+   "'lopine' -> lycopene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 436,
+  "name": "Mayonnaise",
+  "why": "Mayonnaise is the highest-calorie condiment on the list with a very fat-focused profile, commercially made with soybean or canola oil, egg yolk and starch, the fattiest option, overwhelmingly omega-6; it is a great source of vitamin K and a good source of vitamin E, but otherwise a lump of plant-based lard; homemade with other oils is better. Commercial mayo is D tier.",
+  "repairs": [
+   "'instrument' -> condiment"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 437,
+  "name": "Mustard",
+  "why": "Mustard is a lower-calorie condiment with a respectable profile, a great source of selenium and a good source of iron and manganese, rich in flavonoids and glucosinolates with antibacterial, antifungal and anti-cancer benefits; its one potential drawback is that commercial mustard is fairly sodium-dense. Overall he calls it a flavorful, safe bet, in A tier.",
+  "repairs": [
+   "'AER' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 438,
+  "name": "Pesto",
+  "why": "Pesto is a higher-calorie condiment with a spectacular profile, made of basil, olive oil, pine nuts, garlic and parmesan, one of the few real protein sources and the best on the list for vitamin K, B2, E and B5, and among the best for phosphorus, calcium and vitamin A; its ingredients fight inflammation and chronic disease. Nut allergies are the warning, and it lands in top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 439,
+  "name": "Pico de Gallo",
+  "why": "Pico de gallo is exceptionally low in calories with a wonderful profile per calorie, made of tomato, onion, cilantro, jalapeno and lime, with fewer additives than blended salsa; it is a solid source of fresh vitamin C and a great source of lycopene, with ingredients that boost immunity and heart health. He has nothing to complain about, so it goes in top tier.",
+  "repairs": [
+   "'picayo'/'Pico DEA' -> pico de gallo",
+   "'coronoid' -> carotenoid",
+   "'lopine' -> lycopene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 440,
+  "name": "Ranch",
+  "why": "Ranch is a very high-calorie condiment with a decent profile, made with soybean oil, buttermilk, egg yolks and herbs, absolutely full of mostly omega-6 polyunsaturated fat; it is a good source of vitamin K and a decent source of phosphorus and vitamin E, but the polyunsaturated fat keeps commercial ranch from being healthy; homemade can use healthier fats. Not the absolute worst, so D tier.",
+  "repairs": [
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 441,
+  "name": "Relish",
+  "why": "Sweet relish is an average-calorie condiment with a solid profile, made of pickled cucumbers, cabbage, vinegar and spices, a solid source of vitamin K and carotenoids and a decent source of iron, rich in prebiotics for gut health, and anti-inflammatory. Sugar content varies wildly and is hard to rate, so overall he puts relish in C tier.",
+  "repairs": [
+   "'CER' -> C tier",
+   "'rich is in' -> rich in"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 442,
+  "name": "Salsa",
+  "why": "Salsa is a low-calorie condiment with a decent profile, made of tomato, onion, jalapeno, lime and spices, with a fair amount of lycopene for heart, skin and immune health and good vitamin B6, plus quercetin, capsaicin, allicin and citric acid. Blended salsa is a bit sugarier and saltier than fresh pico, but it is a virtually harmless topping, in A tier.",
+  "repairs": [
+   "'catenoid lopine' -> carotenoid lycopene",
+   "'cortin' -> quercetin",
+   "'capsacin alisin' -> capsaicin, allicin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 443,
+  "name": "Salsa Verde",
+  "why": "Salsa verde is a low-calorie condiment with a moderate profile, made of tomatillos, green chili peppers, onion and lime, a decent source of vitamin C, K and B3, still with carotenoids and salsa compounds linked to antibacterial and anti-cancer effects. It is a bit less nutritious than the red salsas, but he calls it a great choice, in A tier.",
+  "repairs": [
+   "'salsa ver' -> salsa verde"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 444,
+  "name": "Sauerkraut",
+  "why": "Sauerkraut is low in calories with a fair profile, made of fermented cabbage, vinegar and onion, a decent source of iron and vitamin C and the elusive vitamin K2 for bone health; its probiotic effect helps gut flora, reduces IBS symptoms and prevents diarrhea, lowers blood pressure and LDL, and improves mood and brain function. Without added sugar it is impossible to go wrong, top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 445,
+  "name": "Soy Sauce",
+  "why": "Soy sauce is lower in calories with a respectable profile, fermented soybeans and wheat, a solid source of protein per calorie and a good contributor of manganese, phosphorus, magnesium, iron, potassium and some B vitamins, rich in blood-pressure-lowering arginine and prebiotic. It is normally very sodium dense, which matters for people with certain conditions; otherwise he calls it fairly nutritious, B tier.",
+  "repairs": [
+   "'be tier' -> B tier",
+   "'so is richer' -> it is richer"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 446,
+  "name": "Sriracha",
+  "why": "Sriracha is an average-calorie condiment with a great profile, made of chili pepper, vinegar, garlic and sugar, the best on the list for carotenoids (vitamin A), capsaicin for anti-inflammatory and heart benefits, vitamin B6 and vitamin C, and a good source of vitamin E and iron. It is often very sodium dense and deceptively sugary, which keeps it out of the higher tiers, so B tier.",
+  "repairs": [
+   "'capin' -> capsaicin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 447,
+  "name": "Steak Sauce",
+  "why": "Steak sauce is an average-calorie condiment with a mild profile, made of tomato, mustard, Worcestershire, vinegar and hot peppers, a decent source of copper and iron, two nutrients that are relatively tough to find; it is higher in sodium and sugar than many others. It is not the worst, so he puts it in D tier.",
+  "repairs": [
+   "'Worster' -> Worcestershire"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 448,
+  "name": "Tahini",
+  "why": "Tahini is an exceptionally high-calorie condiment with by far the best profile per gram on the list, the best for protein, copper, iron, phosphorus, B1, manganese, selenium, calcium and zinc; sesamol is anti-cancer and sesamin is a lignin that improves brain health. He names no downsides, calls it the most nutritious condiment on the list, and puts it in top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 449,
+  "name": "Tartar Sauce",
+  "why": "Tartar sauce is a higher-calorie condiment with a mediocre profile, made of mayonnaise, capers, pickles, lemon and spices, mainly fat with most being omega-6 polyunsaturated fat, and a decent source of fat-soluble vitamin K, which is all he has to say. It doesn't contribute anything even remotely essential, so it goes in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 450,
+  "name": "Teriyaki Sauce",
+  "why": "Teriyaki sauce is an average-calorie condiment with a notable profile, made of soy sauce, sake, honey, sugar and spices, a fair amount of protein from soy and a decent source of phosphorus, iron and magnesium. Commercially it is relatively sugary, which drowns soy's other benefits, and it is very sodium dense; the fairest place for it is D tier.",
+  "repairs": [
+   "'drown' -> drowned"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 451,
+  "name": "Thousand Island",
+  "why": "Thousand island is a very high-calorie, fat-centric condiment made of tomato, mayonnaise, sour cream, relish and sugar, mostly omega-6 polyunsaturated fat, and a decent source of vitamins K, E and B1. It is full of sugar and unhelpful fats that contribute a lot of unnecessary calories, so it goes in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 452,
+  "name": "Wasabi",
+  "why": "Wasabi is a higher-calorie condiment with a relatively subpar profile, traditionally Japanese horseradish but commercially horseradish with sorbitol, oil, sugar and starch, a decent source of vitamin E, with hydroxycinnamic acid shown to decrease bone breakdown, antibacterial benefits against food poisoning and anti-inflammatory effects. It is very sodium dense and he doubts it is even a condiment, but puts it in B tier.",
+  "repairs": [
+   "'sorbital' -> sorbitol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 453,
+  "name": "Worcestershire Sauce",
+  "why": "Worcestershire sauce is a lower-calorie condiment with a solid profile, made of vinegar, molasses, tamarind, anchovies, onion and lemon, the best source on the list of potassium and a decent source of iron, copper and vitamin C. It is relatively sugary but not nearly as bad as the sugar bombs, so it rounds out the list in C tier.",
+  "repairs": [
+   "'worser' -> Worcestershire",
+   "'sugar balms' -> sugar bombs"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

@@ -1,0 +1,165 @@
+[
+ {
+  "id": 575,
+  "name": "Butter",
+  "why": "Butter is a higher-calorie, mostly fat product with a mild profile: very high in saturated fat (about 2:1 to unsaturated) that studies now suggest is far less harmful than once believed, though it still raises LDL, plus butyric acid for gut inflammation and insulin sensitivity, vitamin A, and more CLA and omega-3 in grass-fed. It is easier on lactose intolerance, and he calls it an overall healthy fat, so it goes in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 576,
+  "name": "Buttermilk",
+  "why": "Low-fat buttermilk is a lower-calorie product with an impressive micronutrient content per calorie: fermented and cultured, so it acts as a probiotic for digestion and gut health and helps against periodontitis, and it is a good low-calorie source of calcium, phosphorus and vitamin D. It is a bit higher in sugar and sodium per calorie for people who watch those, but overall he puts it in A tier.",
+  "repairs": [
+   "'AIDS here' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 577,
+  "name": "Cheddar Cheese",
+  "why": "Cheddar is a higher-calorie dairy option based on 100 g (a slice is about 20 g), protein and fat dense, with solid calcium, phosphorus, selenium, B12, vitamin A, B2, zinc and the rarer vitamin K2, plus CLA for fat loss and an anti-inflammatory effect from fermentation. It is very sodium dense and calorie dense, so too much may contribute to weight or heart issues, but in the right amounts it earns B tier.",
+  "repairs": [
+   "'mini micros' -> many micros",
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 578,
+  "name": "Mozzarella Cheese",
+  "why": "Part-skim mozzarella is a moderately higher-calorie food with a great profile, lower in fat than most cheeses but a solid protein source and rich per calorie in calcium, phosphorus, vitamin A, B12, selenium, zinc and B2, with anti-inflammatory, probiotic gut and immune benefits. It is still calorie dense and pretty high in sodium, so you can have too much, and he places it in B tier, close to cheddar.",
+  "repairs": [
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 579,
+  "name": "Cottage Cheese",
+  "why": "Low-fat cottage cheese is a lower-calorie fresh cheese with a solid profile: a solid B12 source per calorie, one of the highest-protein foods per calorie (beating beef, pork and dark-meat chicken), very filling and shown to help weight loss, with bone-health micros and typically inexpensive. He lists no downsides, calling it where dairy peaks, so it goes in top tier.",
+  "repairs": [
+   "'Jerry's bone health' -> dairy's bone health",
+   "'expensive' -> inexpensive (context: 'pretty and expensive')"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 580,
+  "name": "Cream",
+  "why": "Cream is a variable-calorie food with a decent profile, here typical heavy whipping cream (about 36%+ milk fat), and a solid source of vitamin A for eye health. It is not meant to be eaten in large amounts but used as a supplement in foods and drinks, so he does not penalize the calories since its fats beat the sugary alternatives, and it lands in B tier.",
+  "repairs": [
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 581,
+  "name": "Cream Cheese",
+  "why": "Cream cheese is a higher-calorie dairy product with a decent profile, about 33 to 55% fat, always pasteurized, usually slightly acidic with a probiotic effect for gut health, and a solid source of vitamin A. It is notably lower in protein than nearly any other cheese, so a tasty treat for recipes but not as rewarding as other foods, and he puts it in C tier.",
+  "repairs": [
+   "'seeds here' -> C tier",
+   "'Cadillac cottage cheese' -> 'unlike cottage cheese' (garbled, unused)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 582,
+  "name": "Custard",
+  "why": "Custard is a moderately caloric food with a solid profile, loosely defined as egg, sweetened milk or cream and a thickener, and a good source of phosphorus and B vitamins. It is often higher in carbohydrates and lower in protein than milk and eggs, and as a dessert it often has preservatives and more added sugar, so health clearly was not the aim, but there is some merit and he gives it C tier.",
+  "repairs": [
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 583,
+  "name": "Eggnog",
+  "why": "Eggnog is a relatively lower-calorie dairy product with a mild profile, made from heavy cream, milk, sugar, eggs and sometimes spirits, and notably higher in choline, which is needed for the neurotransmitter acetylcholine. It was not made with health in mind, given the alcohol and added sugars, but as a lower-calorie drink with some benefits he places it in C tier.",
+  "repairs": [
+   "'seats here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 584,
+  "name": "Frozen Yogurt",
+  "why": "Frozen yogurt is a moderately caloric dairy product with a mediocre profile, made with milk rather than cream, often with gut-friendly probiotics and phosphorus, calcium and B vitamins, though in smaller amounts. As a dessert, most brands add sugars, flavorings and preservatives, though some brands are much better, and since you can eat it without feeling too bad he gives it D tier.",
+  "repairs": [
+   "'a deter' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 585,
+  "name": "Ghee",
+  "why": "Ghee is an incredibly high-calorie dairy product, almost entirely fat and clarified butter, mainly heart-neutral saturated fats like palmitic and stearic acid, with butyric acid for intestinal inflammation, IBS and insulin sensitivity. Compared to butter it is higher in vitamin A and CLA (weight loss, anti-cancer) and has a higher smoke point, so in reasonable amounts it is hard to go wrong and he gives it top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 586,
+  "name": "Half & Half",
+  "why": "Half and half is a mildly caloric dairy product with a decent micronutrient content, equal parts cream and milk, and under 18% fat by FDA rule, typically 11 to 17%. It is a pretty average dairy product that trades fewer micronutrients and compounds for a less calorically dense option, so overall he places it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 587,
+  "name": "Ice Cream",
+  "why": "Ice cream is a somewhat higher-calorie dairy product with a mild profile, made with cream so fattier, and still delivering a noteworthy amount of milk's signature nutrients but with many more calories from fat and especially added sugar. Most brands also contain artificial flavors and additives, some linked to cancers and intestinal issues, so unsurprisingly he puts it in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 588,
+  "name": "Kefir",
+  "why": "Low-fat kefir is a very low-calorie drink with an impressive profile per calorie: a solid source of protein, vitamin A, phosphorus, calcium and B12, and a very powerful probiotic aiding digestion with antibacterial properties. It can be sugary with added sugars, and too much probiotic may cause digestive issues, gas and nausea, so it should not be drunk like water, but it is rewarding and goes in A tier.",
+  "repairs": [
+   "'A tear' -> A tier"
+  ],
+  "confidence": "high",
+  "note": "csv_tier is top tier but original_tier A; the caption says 'a tear' = A tier."
+ },
+ {
+  "id": 589,
+  "name": "Milk",
+  "why": "Milk is a lower-calorie dairy product per gram with a good profile (a cup is about 230 g): a source of protein including whey, a solid source per calorie of B12, B2, phosphorus and calcium, often fortified with vitamin D, and containing CLA, with fat that is about 70% saturated. People with lactose intolerance or a milk allergy should beware since plain milk rarely removes those, but given the benefits and ease of consumption he puts it in A tier.",
+  "repairs": [
+   "'little leak acid' -> linoleic acid (CLA)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 590,
+  "name": "Sour Cream",
+  "why": "Sour cream is a somewhat higher-calorie dairy product with a mild profile, roughly 18% milk fat with most calories from that, and it often has probiotics but only a limited amount because of pasteurization. It is very low in protein compared to most dairy, fine in dishes it complements but not delivering many dairy benefits, so he puts it in C tier.",
+  "repairs": [
+   "'sea tier' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 591,
+  "name": "Yogurt",
+  "why": "Non-fat Greek yogurt is a lower-calorie dairy product with an impressive profile: excellent protein per calorie, a great source of B12, B2, phosphorus and selenium, rich in probiotics shown to boost immune and digestive health, and shown to lower blood pressure. This applies only to plain Greek yogurt, since blended and fruit-on-the-bottom yogurts carry ice-cream amounts of added sugar, so check labels, and the plain kind rounds out the list in top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

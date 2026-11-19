@@ -1,0 +1,212 @@
+[
+ {
+  "food": "Abalone",
+  "why": "Abalone is an average-calorie saltwater mollusk with a standout micronutrient profile: about 7 g carbs per 100 g, the best vitamin K (K2, for bone health) on either list, plus selenium, vitamin E, iron and iodine. Downsides are that it is not for people with a shellfish allergy, though it is comparatively low in mercury, and he calls it a really solid choice that kicks off the list in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Bluegill",
+  "why": "Bluegill is a lower-calorie freshwater fish with a decent profile: a solid source of protein per calorie and a respectable source of selenium, calcium and magnesium, and it is low in mercury. He says it is nutritionally just a fish, so it goes in C tier.",
+  "tier_heard": "C"
+ },
+ {
+  "food": "Burbot",
+  "why": "Burbot is a lower-calorie freshwater fish with a mediocre profile that is good in protein per calorie, among the best for vitamin B1 and manganese, and higher in creatine. Because it carries a moderate amount of mercury and is just a standard non-fatty fish, it lands in C tier.",
+  "tier_heard": "C"
+ },
+ {
+  "food": "Butterfish",
+  "why": "Butterfish is a higher-calorie saltwater fish with a moderate profile that is fattier, among the better omega-3 sources, and has solid selenium and vitamin B12. It is a generally safe low-mercury fish, one of the better standard fish, so it goes in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Chinook Salmon",
+  "why": "Chinook salmon is a high-calorie fish with an excellent profile: very protein-dense and very high in fat, among the best fish for omega-3, the best phosphorus source on the list, and among the best seafood sources of vitamin B3, magnesium and vitamin A. It is very low in mercury, and he calls it his first top-tier resident.",
+  "tier_heard": "★"
+ },
+ {
+  "food": "Cisco",
+  "why": "Cisco is an average-calorie freshwater fish that is low in protein and high in fat, one of the best omega-3 fish per calorie, the best vitamin A source on the list (good for macular health) and among the best for vitamin D and B12. It is low in mercury, making it one of the better small fish, and goes in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Conch",
+  "why": "Conch is an average-calorie saltwater mollusk with a grand profile: very high in protein per calorie, the best source on the list of folate, magnesium and vitamin E, and among the better seafood sources of B12 and copper. It is pretty low in mercury like most shellfish, and its unique nutrients earn it the top tier.",
+  "tier_heard": "★"
+ },
+ {
+  "food": "Crappie",
+  "why": "Crappie is a lower-calorie freshwater fish that is high in protein per calorie, a good source of selenium and has a decent amount of iron and calcium. It is moderately mercury-dense and lacks traits to make up for that caution, so it goes in C tier.",
+  "tier_heard": "C"
+ },
+ {
+  "food": "Croaker",
+  "why": "Croaker is a higher-calorie freshwater fish that is somewhat fatty but whose omega-3 content does not match, though it is a dependable source of vitamin B12 and selenium. It is low in mercury so not actively harmful, but it is outdone by much of the competition and goes in C tier.",
+  "tier_heard": "C"
+ },
+ {
+  "food": "Cusk",
+  "why": "Cusk is a lower-calorie saltwater fish with a mediocre profile, higher in protein per calorie than most fish and in creatine, a good source of selenium with a fair bit of potassium and magnesium. It is a moderate-mercury fish and does nothing to separate itself, so it goes in C tier.",
+  "tier_heard": "C"
+ },
+ {
+  "food": "Drum",
+  "why": "Drum is an average-calorie freshwater fish with a solid profile and somewhat higher fat, making it a solid omega-3 source per calorie, plus a relevant amount of vitamin B12 and manganese. He says it is one of the most mercury-ridden fish in the sea and that offsets the positives, so it goes in D tier.",
+  "tier_heard": "D"
+ },
+ {
+  "food": "Hake",
+  "why": "Hake is a low-calorie saltwater fish with a mild profile that is very high in protein per calorie and one of the better fish sources of copper. It is a safer low-mercury fish but does not set itself apart nutritionally, so it goes in C tier.",
+  "tier_heard": "C"
+ },
+ {
+  "food": "King Crab",
+  "why": "King crab is a low-calorie saltwater crustacean with a superb profile: above-average protein and omega-3 per calorie, the best zinc on the list (immune function, wound healing), among the highest in B12 and copper, with relevant magnesium. It is not for people with a shellfish allergy but is very low in mercury, and it goes in the top tier.",
+  "tier_heard": "★"
+ },
+ {
+  "food": "King Mackerel",
+  "why": "King mackerel is an average-calorie saltwater fish with a respectable profile: high in protein and a significant contributor of vitamin B12, B3, B6 and vitamin A. It is notorious for being one of the most mercury-dense fish, which completely offsets the positives, so it goes in D tier.",
+  "tier_heard": "D"
+ },
+ {
+  "food": "Ling",
+  "why": "Ling is a lower-calorie deep-sea fish that is very high in protein per calorie, with a significant share of its fat as omega-3, a good source of selenium and a relevant source of magnesium and creatine. It is absurdly high in mercury, which negates any reason to eat it, so it goes in D tier.",
+  "tier_heard": "D"
+ },
+ {
+  "food": "Milkfish",
+  "why": "Milkfish is a higher-calorie fish from fresh and salt water with a good profile: high protein and high fat with an impressive amount of omega-3s, higher creatine and among the best vitamin B3. It has a moderate amount of mercury, but he thinks the good is worth it as long as it is not overconsumed, and it goes in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Monkfish",
+  "why": "Monkfish is a low-calorie saltwater fish with a somewhat lesser profile, a good source of selenium but short in every other way. It is moderately mercury-dense so you could not eat it that often, and it goes in D tier.",
+  "tier_heard": "D"
+ },
+ {
+  "food": "Mullet",
+  "why": "Mullet is an average-calorie fish from fresh and salt water with a fairly standard micronutrient profile but strong macros: a great source of protein and a solid contributor of omega-3, with good selenium and higher creatine. It is low in mercury and can be eaten fairly often, and it goes in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Perch",
+  "why": "Perch is a lower-calorie freshwater fish with a typical profile that is higher in protein per calorie than most fish, higher in manganese and has a relevant amount of zinc. It is low in mercury but is kind of just a fish, so it goes in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Pike",
+  "why": "Northern pike is a lower-calorie freshwater fish with a lesser profile, high in protein per calorie and a good source of vitamin B12 and creatine. It is often found to be very mercury-dense, not always but enough to be wary, so it goes in D tier.",
+  "tier_heard": "D"
+ },
+ {
+  "food": "Pollock",
+  "why": "Atlantic pollock is a low-calorie saltwater fish with a solid profile, pretty high in protein per calorie and a good source of vitamin B12, selenium, magnesium and creatine. It is a safe low-mercury fish but still just a fish, so it goes in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Pompano",
+  "why": "Pompano is a higher-calorie saltwater fish with a moderate profile that is undoubtedly fatty, with a solid amount of omega-3s, and among the best sources of vitamin B1 and potassium. It is low in mercury, making it a pretty sweet deal nutritionally, and it goes in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Porgy",
+  "why": "Porgy (scup) is an average-calorie saltwater fish with a standard profile, a good amount of omega-3 per calorie and a good source of selenium and vitamin B12. It is typically moderately mercury-dense, which lands it in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Rockfish",
+  "why": "Rockfish is a lower-calorie fish with a moderate profile, among the best sources of selenium and a fair source of vitamin D and potassium. Its relatively high mercury content drags it down to mediocrity, so it goes in C tier.",
+  "tier_heard": "C"
+ },
+ {
+  "food": "Roughy",
+  "why": "Orange roughy is a low-calorie fish with a disappointing profile, high in protein per calorie and the best selenium source on the list (an antioxidant also used for DNA synthesis). It is known to be very mercury-dense, which completely offsets the benefits, so it goes in D tier.",
+  "tier_heard": "D"
+ },
+ {
+  "food": "Sablefish",
+  "why": "Sablefish is a high-calorie fish with a moderate profile, the highest-fat fish on either list, with a good amount of omega-3 and the highest heart-healthy monounsaturated fat per gram, plus good selenium and relevant magnesium. It is a moderately mercury-dense fish too, so it goes in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Sea Cucumber",
+  "why": "Sea cucumber is a very low-calorie saltwater animal with a lopsided profile: the highest protein per calorie on either list, the best vitamin B2 source (red blood cell production) and the best copper source per calorie. It is not for people taking blood thinners but is low in mercury, a pretty safe exotic choice, and goes in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Shad",
+  "why": "Shad is a very high-calorie fresh and saltwater fish with a fairly standard micronutrient profile, one of the fattiest fish and on average one of the best omega-3 sources bar none, the highest in vitamin B3 (nervous, digestive and skin health) and among the best fish sources of phosphorus. It is low in mercury, which makes it close to the perfect package and an easy top-tier choice.",
+  "tier_heard": "★"
+ },
+ {
+  "food": "Shark",
+  "why": "Shark is an average-calorie, mostly saltwater fish with a decent profile that is surprisingly high in omega-3 per calorie and otherwise typical fish nutrition. As apex predators, sharks may be the most famous high-mercury fish, a hindrance that cannot be ignored, so it goes in D tier.",
+  "tier_heard": "D"
+ },
+ {
+  "food": "Sheepshead",
+  "why": "Sheepshead is an average-calorie saltwater fish with a solid profile, higher in protein per calorie, among the best sources of phosphorus and a great source of vitamin B12 and selenium. With its low mercury it is a pretty good lean fish, and it goes in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Smelt",
+  "why": "Rainbow smelt is an average-calorie fish from fresh and salt water with a more unique profile, higher in omega-3 per calorie, very high in vitamin B12 and with good manganese and zinc. It is a smaller low-mercury fish and one of the better just-a-fish options, so it goes in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Sockeye Salmon",
+  "why": "Sockeye salmon is an average-calorie fish with an impressive profile, astonishingly high in protein and respectably high in omega-3 (though less than Atlantic or Chinook), the best vitamin D source on the list, plus vitamin B6, B5 and one of the very best sources of B3. It is low in mercury like most salmon, and he says anyone doubting top tier is living in denial.",
+  "tier_heard": "★"
+ },
+ {
+  "food": "Sole",
+  "why": "Sole is a very low-calorie saltwater fish with an inferior profile that is especially middle-of-the-road, with protein, omega-3 and micros proportional to its calories. It is low in mercury so not actively harmful, but it does nothing to stand apart and goes in C tier.",
+  "tier_heard": "C"
+ },
+ {
+  "food": "Spiny Lobster",
+  "why": "Spiny lobster (rock lobster) is an average-calorie saltwater crustacean with an imposing profile, very high in protein and high in omega-3 per calorie, and among the best sources of zinc, vitamin B12 and selenium. It is not for people with a shellfish allergy but is low in mercury, and nutritionally it excels, earning the top tier.",
+  "tier_heard": "★"
+ },
+ {
+  "food": "Spot",
+  "why": "Spot is an average-calorie saltwater fish with a great profile and a pretty impressive protein and omega-3 content, among the best sources of vitamin B12 and B3 and uniquely of potassium. It is moderately mercury-dense, but he says the good qualities make up for that in this uncommon case, so it goes in A tier.",
+  "tier_heard": "A"
+ },
+ {
+  "food": "Sturgeon",
+  "why": "Sturgeon is an average-calorie fish from fresh and salt water with a solid profile and a good amount of omega-3, excelling in vitamin D, vitamin B3 and vitamin A. It is moderately mercury-dense so it cannot be eaten too often, and it goes in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Sucker",
+  "why": "White sucker is an average-calorie freshwater fish with a quality profile, higher in omega-3 per calorie and a genuinely good source of vitamin B12 and manganese. It contains a moderate amount of mercury, making it a fairly standard fish in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Tilefish",
+  "why": "Tilefish is an average-calorie saltwater fish with a solid profile, higher in protein and omega-3 and a relevant source of vitamin B12, selenium and potassium. It is one of the most infamously heavy-metal-dense fish, so he cannot recommend it and it goes in D tier.",
+  "tier_heard": "D"
+ },
+ {
+  "food": "Turbot",
+  "why": "Turbot is an average-calorie saltwater fish with a moderate profile, a decent amount of omega-3 per calorie, good vitamin B12 and selenium and the more unique magnesium. It is moderately mercury-dense and does not set itself apart significantly, so it goes in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Walleye",
+  "why": "Walleye is an average-calorie freshwater fish with a distinctive profile, the best source on the list of manganese (bone and hormone formation) and calcium, one of the better sources of vitamin B1 and higher in creatine. These are not enough to make up for its moderate mercury, so it goes in B tier.",
+  "tier_heard": "B"
+ },
+ {
+  "food": "Whelk",
+  "why": "Whelk is a high-calorie saltwater mollusk with a straight-up ridiculous profile: the most protein per gram of any animal covered, the best source on the list of B12, copper, selenium, iron and potassium, and among the best for B6 and magnesium, though with a notable carb content. It is particularly low in mercury so its downsides are minimal, and it goes in the top tier as the nutritional top dog.",
+  "tier_heard": "★"
+ },
+ {
+  "food": "Wolffish",
+  "why": "Wolffish is an average-calorie saltwater fish with a solid profile, high in omega-3 per calorie and containing a good amount of vitamin B12 and selenium. Its overall mediocrity combined with relatively high mercury leads him to put it in C tier.",
+  "tier_heard": "C"
+ }
+]

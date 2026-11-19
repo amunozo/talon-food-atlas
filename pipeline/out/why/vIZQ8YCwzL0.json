@@ -1,0 +1,276 @@
+[
+ {
+  "id": 151,
+  "name": "00 Flour",
+  "why": "00 flour is a somewhat lower-calorie flour with a pretty poor profile, made of durum wheat as the finest Italian grind for pizza dough and pasta, with moderate protein and mild manganese. It is a particularly refined flour with noticeably low fiber, a higher glycemic index than most, and usually not even enriched, so it was not made with nutrients in mind and gets D tier.",
+  "repairs": [
+   "'d0ero flour' -> doppio zero flour"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 152,
+  "name": "Acorn Flour",
+  "why": "Acorn flour is a high-calorie flour with a solid profile, uniquely very high in fat, mainly monounsaturated and heart-healthy for blood sugar and cholesterol, among the best for mostly insoluble fiber that aids regularity, and among the best for copper and vitamin B6. Acorns' tannins are usually well removed by leaching, though it is recommended to combine it with another flour for texture, and he places it in A tier as one of the better flours.",
+  "repairs": [
+   "'leeching' -> leaching"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 153,
+  "name": "All Purpose Flour",
+  "why": "All-purpose flour is an average-calorie flour with a decent profile: refined, with the bran and germ removed, but often enriched, which makes it one of the better sources of vitamin B1, selenium and B2. It has its place culinarily, being in everything, but nutritionally it falls short with low fiber and a generally higher glycemic index, so he puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 154,
+  "name": "Almond Flour",
+  "why": "Almond flour is a very high-calorie flour with a substantial profile made of blanched almonds: a solid protein source, the highest in fat (mainly polyunsaturated), the best source of vitamin E and B2, and among the best for copper, phosphorus and magnesium. It lowers LDL cholesterol and blood pressure and is much better for blood sugar than most flours, though it is often blended with a traditional flour, so he gives it top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 155,
+  "name": "Amaranth Flour",
+  "why": "Amaranth flour is an average-calorie flour with a sizable profile made of ground amaranth seeds: higher in protein among grain flours, the best source of phosphorus, magnesium and iron among them, and a good source of manganese and phenolic acid antioxidants that help prevent chronic diseases. It is popular for gluten-free baking and thickening and he calls it a natural next step from a praised pseudo-grain, so it goes in A tier.",
+  "repairs": [
+   "'gic acid' -> gallic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 156,
+  "name": "Barley Flour",
+  "why": "Barley flour is an average-calorie whole grain flour with a moderate profile, among the higher in fiber, especially soluble beta-glucan that boosts immunity and lowers cholesterol, a solid source of manganese and vitamin B3, and rich in lignans and flavonoids. He lists no downsides, saying it is not that special nutritionally, just a good flour from a good grain, so it lands in B tier.",
+  "repairs": [
+   "'manganesees' -> manganese",
+   "'lignens' -> lignans"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 157,
+  "name": "Bread Flour",
+  "why": "Bread flour is an average-calorie flour with a deceptive profile: refined hard wheat enriched afterward, making it among the better sources of selenium, B1, folate and B3, with slightly higher protein than most wheat flours. Much of its nutrition was removed, so its fiber is nearly non-existent and its glycemic index higher, and its high gluten makes bread for enjoyment rather than nutrients, which puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 158,
+  "name": "Buckwheat Flour",
+  "why": "Buckwheat flour is a low-calorie flour with a satisfactory profile made of ground buckwheat groats, unrelated to wheat and gluten-free, among the best sources of magnesium, and rich in antioxidants, notably rutin, a powerful anti-inflammatory. It also has a low glycemic index and a low anti-nutrient content, so its downsides are minimal and it has no real shortcomings, earning A tier.",
+  "repairs": [
+   "'routin' -> rutin",
+   "'gros' -> groats"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 159,
+  "name": "Cake Flour",
+  "why": "Cake flour is an average-calorie flour with a middling profile made of refined soft wheat, often enriched, which makes it among the better sources of vitamin B1, B3 and iron, and it has a higher starch content for energy over time. Refinement leaves very low fiber and a higher glycemic index than most flours, and its lower protein suits light baked goods but it prioritizes taste and texture over nutrition, so it goes in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 160,
+  "name": "Cassava Flour",
+  "why": "Cassava flour is an average-calorie flour with a pitiful profile whose main draw is very high resistant starch, which acts as a prebiotic for gut health and helps manage blood sugar. Untreated cassava can release cyanide compounds, though soaking and drying greatly reduce this, and it is the least nutritious choice by a landslide, lowest in protein and fat with low fiber, so it lands in D tier.",
+  "repairs": [
+   "'Kova flour' -> cassava flour"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 161,
+  "name": "Chickpea Flour",
+  "why": "Chickpea flour is a somewhat higher-calorie flour with a notable profile, among the highest in protein, the best source of folate, among the best for copper and a good source of manganese and magnesium, with various phenolic acid antioxidants. It is better for blood sugar than grain flours and more filling than most, and it can fully replace traditional flours though blending helps in baking, so he gives it top tier.",
+  "repairs": [
+   "'friulic, garlic' -> ferulic, gallic (approx.)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 162,
+  "name": "Coconut Flour",
+  "why": "Coconut flour is a high-calorie flour with a superior profile, a byproduct of coconut milk and oil, among the highest in fat (mainly lauric acid saturated fat) and higher than most in protein, and the highest in fiber by a mile, mostly insoluble. It is the best source of potassium and among the highest for copper, phosphorus, magnesium, iron and zinc, and a great gluten-free replacement that you may still blend for texture, so it is a top tier powerhouse.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 163,
+  "name": "Corn Flour",
+  "why": "Corn flour is an average-calorie flour with a mediocre profile made from the whole kernel (unlike cornstarch, which is only refined endosperm), particularly antioxidant rich with ferulic acid, lutein and zeaxanthin, higher in antioxidants than most grain flours. Overall it is a bit less in every other measure and often mixed with other flours for baking, so it is not bad but underwhelming and goes in C tier.",
+  "repairs": [
+   "'zeazanthin' -> zeaxanthin",
+   "'seed tier' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 164,
+  "name": "Millet Flour",
+  "why": "Millet flour is an above-average-calorie flour with a solid profile made of ground millet seeds and used in all kinds of gluten-free cooking, with higher antioxidant content than wheat, including flavonoids and phenolic acids like catechin and ferulic acid. Beyond that it is a solid whole grain choice, above average in many ways, so he gives it B tier.",
+  "repairs": [
+   "'kakin' -> catechin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 165,
+  "name": "Oat Flour",
+  "why": "Oat flour is a somewhat higher-calorie flour with an impressive profile made of ground whole oats: among the highest in protein and fiber (mainly soluble beta-glucan for immune and cholesterol benefits), the best grain source of phosphorus, and among the best for manganese and selenium, plus oat-specific avenanthramide antioxidants and resistant starch. He lists no downsides beyond often mixing it with another flour, and it earns A tier.",
+  "repairs": [
+   "'manganesees' -> manganese",
+   "'aviden thramides' -> avenanthramides"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 166,
+  "name": "Peanut Flour",
+  "why": "Peanut flour is a high-calorie flour with a stellar profile made of ground roasted peanuts: among the highest in protein, an excellent source of mostly insoluble fiber, about 22% fat (mainly monounsaturated), the best source of copper and manganese, and among the best for phosphorus, B3, zinc and potassium, with flavonoid and resveratrol antioxidants. It should be mixed with a more traditional flour, but that blending issue is not what he is judging, so it goes in top tier.",
+  "repairs": [
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 167,
+  "name": "Potato Flour",
+  "why": "Potato flour is an average-calorie flour with a mild profile made of whole, peeled, cooked, dried potatoes, among the best sources of vitamin B6 and potassium and containing more prebiotic resistant starch than most grain flours. It is below average in most other ways and not as nutrient-dense as the powerhouses, so he recommends blending it with other flours, and as a flour from a beloved food it lands in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 168,
+  "name": "Quinoa Flour",
+  "why": "Quinoa flour is a somewhat higher-calorie flour with a respectable profile, a higher-protein grain flour whose protein is pretty complete, among the best sources of folate, magnesium and vitamin B2, noticeably high in resistant starch, rich in antioxidant flavonoids and a lower glycemic index than most grain flours. He lists no downsides and calls it a popular gluten-free choice and a tried-and-true whole grain, so it goes in B tier.",
+  "repairs": [
+   "'corsetin and ceforall' -> quercetin and kaempferol (approx.)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Quinoa flour is a somewhat higher-calorie flour with a respectable profile, a higher-protein grain flour whose protein is pretty complete, among the best sources of folate, magnesium and vitamin B2, noticeably high in resistant starch, rich in antioxidants like quercetin and a lower glycemic index than most grain flours. He lists no downsides and calls it a popular gluten-free choice and a tried-and-true whole grain, so it goes in B tier. -> Quinoa flour is a somewhat higher-calorie flour with a respectable profile, a higher-protein grain flour whose protein is pretty complete, among the best sources of folate, magnesium and vitamin B2, noticeably high in resistant starch, rich in antioxidant flavonoids and a lower glycemic index than most grain flours. He lists no downsides and calls it a popular gluten-free choice and a tried-and-true whole grain, so it goes in B tier."
+ },
+ {
+  "id": 169,
+  "name": "Brown Rice Flour",
+  "why": "Brown rice flour is an average-calorie flour with a satisfactory profile that keeps the whole grain with bran and germ, among the better sources of manganese, vitamin B5 and vitamin E, and antioxidant rich with anthocyanins. The arsenic found in brown rice remains in the flour, so do not overconsume it, though that should be hard since it is recommended to blend, and being a bit below the average whole grain flour it goes in B tier.",
+  "repairs": [
+   "'manganesees' -> manganese",
+   "'penadin, and cyanin' -> peonidin and cyanidin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 170,
+  "name": "White Rice Flour",
+  "why": "White rice flour is an average-calorie flour with a lame profile, containing only the endosperm, which is easier to digest for sensitive stomachs and contains less arsenic than brown rice. It is disappointing in almost every other way (protein, fiber, glycemic index, vitamins and minerals) and desperately needs mixing with another flour for texture and substance, though not completely useless, so he gives it D tier.",
+  "repairs": [
+   "'endoperm' -> endosperm"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 171,
+  "name": "Rye Flour",
+  "why": "Rye flour is an average-calorie flour with a solid profile made of ground rye kernels, a good source of manganese and among the highest in mostly insoluble fiber, which improves digestion, regulates blood sugar and aids satiety. It is rich in phenolic acids and lignans, has a lower glycemic index than most flours including wheat, and can be used alone though foods come out denser, so it is a staple choice in A tier.",
+  "repairs": [
+   "'manganesees' -> manganese",
+   "'pholic' -> phenolic",
+   "'lignens' -> lignans"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 172,
+  "name": "Semolina Flour",
+  "why": "Semolina flour is an average-calorie flour with a somewhat lesser profile, made of durum wheat mainly for pasta and baked goods, a solid protein source and among the highest in folate. It is noticeably low in fiber, and he says it has culinary use but nutritionally is not very impressive, so it goes in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 173,
+  "name": "Sesame Flour",
+  "why": "Sesame flour is a somewhat higher-calorie flour with a fantastic profile: among the highest in protein of good quality, about 12% fat (mono- and polyunsaturated, heart healthy), and the best source on the list of vitamin B1, phosphorus, zinc, magnesium, vitamin B3, iron and B5. It also contains anti-inflammatory lignans, shown to be anti-arthritic, and he says crushing nuts and seeds does not change how impressive they are, so it gets top tier.",
+  "repairs": [
+   "'lignens' -> lignans",
+   "'sesame' -> sesamin"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Sesame flour is a somewhat higher-calorie flour with a fantastic profile: among the highest in protein of good quality, about 12% fat (mono- and polyunsaturated, heart healthy), and the best source on the list of vitamin B1, phosphorus, zinc, magnesium, vitamin B3, iron and B5. It also contains anti-inflammatory lignans including sesamin, shown to be anti-arthritic, and he says crushing nuts and seeds does not change how impressive they are, so it gets top tier. -> Sesame flour is a somewhat higher-calorie flour with a fantastic profile: among the highest in protein of good quality, about 12% fat (mono- and polyunsaturated, heart healthy), and the best source on the list of vitamin B1, phosphorus, zinc, magnesium, vitamin B3, iron and B5. It also contains anti-inflammatory lignans, shown to be anti-arthritic, and he says crushing nuts and seeds does not change how impressive they are, so it gets top tier."
+ },
+ {
+  "id": 174,
+  "name": "Sorghum Flour",
+  "why": "Sorghum flour is an average-calorie flour with a mediocre profile made of ground sorghum seed, mostly used for breads and baked goods, rich in flavonol antioxidants compared to most flours and with a lower glycemic index than most. Beyond that it is a fairly standard flour from a fairly standard whole grain, so he puts it in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 175,
+  "name": "Soy Flour",
+  "why": "Soy flour is an average-calorie flour with an excellent profile: incredibly high in very complete protein, higher in mostly insoluble fiber, with about 9 g of polyunsaturated fat and 9 g of sugar, the best source of potassium and calcium, and among the best for copper, selenium, phosphorus, B1, folate and magnesium, plus isoflavones. Baking with it alone gives dense results so blending is wise, and as one of the most nutritious foods ground up it gets top tier.",
+  "repairs": [
+   "'isoflavins' -> isoflavones"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 176,
+  "name": "Spelt Flour",
+  "why": "Spelt flour is a lower-calorie flour with a worthy profile made by milling spelt kernels, a type of wheat: high in protein for a grain flour, the best grain source of zinc, one of the better sources of manganese and phosphorus, and considered a more digestible grain. He lists no downsides, calling it a good choice that probably gets used less, so it goes in A tier.",
+  "repairs": [
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 177,
+  "name": "Triticale Flour",
+  "why": "Triticale flour is a lower-calorie flour with an expansive profile made from a wheat and rye hybrid: a good protein flour considered very digestible, among the highest in mostly insoluble fiber for regularity, the best grain source of manganese, copper and vitamin B5, and rich in phenolic antioxidants like ferulic acid. He lists no downsides and calls it one of the more nutritious flours flying under the radar, so it goes in A tier.",
+  "repairs": [
+   "'trite flour' -> triticale flour"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 178,
+  "name": "Whole Wheat Flour",
+  "why": "Whole wheat flour is a lower-calorie flour with a first-rate profile made of the ground whole kernel with all of wheat's nutrients: a solid protein source, the best source of selenium, among the highest in manganese, phosphorus and vitamin B1, with a wide variety of flavonoid and carotenoid antioxidants and a lower glycemic index that is better for blood sugar. He lists no downsides and calls it tried and true, so it rounds out the list in A tier.",
+  "repairs": [
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

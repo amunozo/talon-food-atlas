@@ -1,0 +1,1195 @@
+{
+ "video_id": "LI-sU1oxeWo",
+ "title": "Meats Ranked Part 2 - Nutrition Tier Lists",
+ "n_expected": 24,
+ "foods": [
+  {
+   "food": "Beaver",
+   "start": 158,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 210,
+    "protein_g": 34,
+    "fat_g": 7,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 292
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 78
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 56
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 21
+     }
+    ]
+   }
+  },
+  {
+   "food": "Boar",
+   "start": 234,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 160,
+    "protein_g": 28,
+    "fat_g": 4,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Bologna",
+   "start": 270,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 245,
+    "protein_g": 15,
+    "fat_g": 20,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": 60,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 18
+     }
+    ]
+   }
+  },
+  {
+   "food": "Caribou",
+   "start": 315,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 165,
+    "protein_g": 30,
+    "fat_g": 4,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 276
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 69
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 54
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 29
+     }
+    ]
+   }
+  },
+  {
+   "food": "Chorizo",
+   "start": 362,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 345,
+    "protein_g": 19,
+    "fat_g": 28,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": 66,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 30
+     }
+    ]
+   }
+  },
+  {
+   "food": "Egg White",
+   "start": 410,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 55,
+    "protein_g": 11,
+    "fat_g": 0,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Elk",
+   "start": 467,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 145,
+    "protein_g": 30,
+    "fat_g": 2,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 107
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 21
+     }
+    ]
+   }
+  },
+  {
+   "food": "Emu",
+   "start": 509,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 165,
+    "protein_g": 28,
+    "fat_g": 5,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 355
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 79
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 64
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 62
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 56
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 38
+     }
+    ]
+   }
+  },
+  {
+   "food": "Frog Legs",
+   "start": 552,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 90,
+    "protein_g": 21,
+    "fat_g": 0,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Goose",
+   "start": 584,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 240,
+    "protein_g": 29,
+    "fat_g": 13,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 46
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 26
+     }
+    ]
+   }
+  },
+  {
+   "food": "Horse",
+   "start": 621,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 175,
+    "protein_g": 28,
+    "fat_g": 6,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 132
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kangaroo",
+   "start": 663,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 155,
+    "protein_g": 34,
+    "fat_g": 1,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 25
+     }
+    ]
+   }
+  },
+  {
+   "food": "Moose",
+   "start": 699,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 135,
+    "protein_g": 29,
+    "fat_g": 1,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 263
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 23
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ostrich",
+   "start": 727,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 175,
+    "protein_g": 26,
+    "fat_g": 7,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 240
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 61
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 21
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pheasant",
+   "start": 756,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 240,
+    "protein_g": 32,
+    "fat_g": 12,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Quail",
+   "start": 788,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 225,
+    "protein_g": 25,
+    "fat_g": 14,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 66
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 23
+     }
+    ]
+   }
+  },
+  {
+   "food": "Raccoon",
+   "start": 833,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 255,
+    "protein_g": 29,
+    "fat_g": 14,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 346
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 29
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sausage Link",
+   "start": 867,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 320,
+    "protein_g": 12,
+    "fat_g": 29,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": 61,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Snail",
+   "start": 902,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 140,
+    "protein_g": 19,
+    "fat_g": 5,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": 26,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 59
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 53
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 46
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 23
+     }
+    ]
+   }
+  },
+  {
+   "food": "Spam",
+   "start": 957,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 315,
+    "protein_g": 13,
+    "fat_g": 27,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": 94,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Squirrel",
+   "start": 985,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 175,
+    "protein_g": 31,
+    "fat_g": 5,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 271
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Turkey Bacon",
+   "start": 1008,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 370,
+    "protein_g": 30,
+    "fat_g": 26,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": 134,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 78
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 59
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 29
+     }
+    ]
+   }
+  },
+  {
+   "food": "Turkey Leg",
+   "start": 1072,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 210,
+    "protein_g": 28,
+    "fat_g": 10,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 69
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 17
+     }
+    ]
+   }
+  },
+  {
+   "food": "Veal",
+   "start": 1103,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 170,
+    "protein_g": 24,
+    "fat_g": 8,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 147
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 18
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.037926,
+  "calls": [
+   {
+    "cost": 0.03792575,
+    "tokens": {
+     "prompt_tokens": 110261,
+     "completion_tokens": 6907,
+     "total_tokens": 117168
+    },
+    "wall_s": 57.3
+   }
+  ],
+  "wall_s": 57.3
+ }
+}

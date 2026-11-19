@@ -1,0 +1,278 @@
+[
+ {
+  "id": 592,
+  "name": "Almond Oil",
+  "why": "Almond oil is very high in monounsaturated fat, mainly oleic acid for heart health and cholesterol, and very high in vitamin E for hair and skin, and it has been shown to manage blood sugar and blood pressure. Unrefined almond oil has a low smoke point of about 225 degrees Fahrenheit and is not recommended for cooking, but overall it is a solid choice you can consume without worry, in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 593,
+  "name": "Avocado Oil",
+  "why": "Avocado oil is primarily monounsaturated fat, mostly oleic acid that is heart healthy and good for cholesterol, typically high in vitamin E, a solid source of the carotenoid lutein for eye health, and shown to reduce joint inflammation and arthritis pain. He calls it one of the safest and most consistently heart-promoting oils and puts it in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 594,
+  "name": "Butter",
+  "why": "Butter is mainly saturated fat, including palmitic and stearic acid with neutral to slightly positive effects on LDL and butyric acid that reduces gut inflammation and improves insulin sensitivity, and grass-fed butter has conjugated linoleic acid. Most studies still link mainly saturated diets with more heart issues than unsaturated ones, and people allergic to milk protein should avoid it, so he puts butter in the B tier.",
+  "repairs": [
+   "beets here -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 595,
+  "name": "Canola Oil",
+  "why": "Canola oil is mainly monounsaturated, a solid source of vitamin E and vitamin K, with heart-healthy oleic acid and a solid amount of the omega-3 alpha-linolenic acid, though that form needs converting and is less useful than seafood omega-3. Some studies link it to inflammation and oxidative stress while others see nothing, so it should be used in moderation, and it goes in the B tier.",
+  "repairs": [
+   "linolenic -> alpha-linolenic",
+   "beads here -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 596,
+  "name": "Chicken Fat",
+  "why": "Chicken fat is a balanced blend of the three fat types, lower in saturated fat than butter, lard and tallow, the highest in polyunsaturated fat of the animal fats, higher in choline, and consistently lowers LDL, with benefits for skin, hair and nails. The downside is its animal-based palmitic acid, but it is one of the best animal fats, though maybe not your go-to, so it goes in the A tier.",
+  "repairs": [
+   "AIDS here -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 597,
+  "name": "Coconut Oil",
+  "why": "Coconut oil is by far the highest in saturated fat, mainly lauric acid plus caprylic and capric acid, medium-chain fats linked to fat burning, lower Alzheimer's risk and antimicrobial effects, and it supplies antioxidants such as tocopherols and polyphenols. Studies on cholesterol are a mixed bag, mostly showing LDL increases, and too much is a bad thing and comes quickly, though he is optimistic, so it goes in the B tier.",
+  "repairs": [
+   "Lower gas acid -> lauric acid",
+   "beets here -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 598,
+  "name": "Corn Oil",
+  "why": "Corn oil is mainly polyunsaturated omega-6 linoleic acid, with a pretty high amount of vitamin E and phytosterols like beta-sitosterol that lower blood cholesterol. Too much omega-6 relative to omega-3 can cause inflammation and chronic disease, a four to one ratio is considered safe, the typical Western diet is about 15 to 1, and corn oil does not help, so he puts it in the D tier.",
+  "repairs": [
+   "beta cytosterol -> beta-sitosterol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 599,
+  "name": "Cottonseed Oil",
+  "why": "Cottonseed oil is mainly polyunsaturated, with omega-6 linoleic acid the most prominent, a solid source of vitamin E and vitamin K that consistently lowers LDL. The main problem is that its omega-6 does not help balance the omega-6 to omega-3 ratio and may promote inflammation, so you can do better and he puts it in the D tier.",
+  "repairs": [
+   "litholic -> linoleic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 600,
+  "name": "Duck Fat",
+  "why": "Duck fat is a fairly balanced poultry fat, mainly oleic acid, higher in choline for the neurotransmitter acetylcholine, shown to lower LDL cholesterol and reduce some chronic disease risks. It is the highest in saturated fat among poultry fats though still lower than butter, lard and tallow, which gives some people pause, and you should not cook exclusively with it, so it goes in the A tier.",
+  "repairs": [
+   "oil acid -> oleic acid",
+   "eights here -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 601,
+  "name": "Flaxseed Oil",
+  "why": "Flaxseed oil is mainly polyunsaturated and mostly omega-3 alpha-linolenic acid, shown to boost heart health, reduce inflammation, ease arthritis and lower some cancer risks, plus a solid source of vitamin E for skin and wound healing. The conversion rate is poor compared with seafood omega-3, and it has a very low smoke point, so just drizzle it on a salad, but you can use it freely, in the A tier.",
+  "repairs": [
+   "linolenic -> alpha-linolenic",
+   "eights here -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 602,
+  "name": "Ghee",
+  "why": "Ghee is clarified butter, mostly saturated fat, with palmitic, stearic and butyric acid like butter, consistently more vitamin A for eye health, conjugated linoleic acid for fat loss, a much higher smoke point and virtually guaranteed lactose-free. The differences from butter are subtle, but he calls ghee just the better butter and it earns a place in the A tier.",
+  "repairs": [
+   "eighth year -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 603,
+  "name": "Goose Fat",
+  "why": "Goose fat is mainly monounsaturated, the highest among the animal fats on the list, mostly oleic acid that helps manage cholesterol and heart disease risk, and a good source of choline, and it is the lowest in saturated fat of the animal fats. It still maybe should not be your go-to, but as a whole it goes in the A tier.",
+  "repairs": [
+   "AIDS here -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 604,
+  "name": "Grapeseed Oil",
+  "why": "Grapeseed oil is mainly polyunsaturated and the highest on the list, so its omega-6 linoleic acid is good for cholesterol and skin, bone and reproductive health, and it is high in vitamin E for skin. It is the worst culprit for throwing off the omega-6 to omega-3 ratio, which left unchecked leads to inflammation and chronic diseases, so it lands in the D tier.",
+  "repairs": [
+   "d-tier -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 605,
+  "name": "Hazelnut Oil",
+  "why": "Hazelnut oil is made almost entirely of monounsaturated fat, namely oleic acid, shown to manage cholesterol and blood pressure and reduce cardiovascular disease risk, and it is one of the best sources on the list of vitamin E for skin health and wound healing. He does not know why it is not talked about more because it is nothing short of amazing, and puts it in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 606,
+  "name": "Lard",
+  "why": "Lard is a mix of mainly monounsaturated and saturated fat, with palmitic and stearic acid having neutral effects on cholesterol, outshined by heart-healthy oleic acid, and it adds a little vitamin boost without contributing much omega-3 or omega-6. He finds it middle of the road and does not understand its bad reputation, saying use it in moderation rather than all the time, and puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 607,
+  "name": "Margarine",
+  "why": "Margarine is a blend of vegetable fats, mostly oleic acid in modern versions, but that is where the good ends: traditional margarine means partial hydrogenation and risky trans fats, and it is highly processed with chemicals and preservatives. Newer full hydrogenation and interesterification are young processes that do not seem much better, so there is no real reason to use it when safer, more nutritious options exist, and it goes in the F tier.",
+  "repairs": [
+   "interestification -> interesterification"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 608,
+  "name": "Olive Oil",
+  "why": "Olive oil is overwhelmingly monounsaturated, with oleic acid that manages cholesterol, raises HDL, lowers LDL and blood pressure, links to lower risks of certain cancers, respiratory disease and type 2 diabetes, plus vitamin K, vitamin E and phenolics like oleocanthal. Extra virgin is less refined, though not recommended for super high heat cooking, and he calls it one of the best cooking fats ever, in the top tier.",
+  "repairs": [
+   "HCL -> HDL",
+   "oleocanthal (as captioned)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 609,
+  "name": "Palm Oil",
+  "why": "Palm oil is mainly saturated fat followed closely by monounsaturated, with palmitic acid having a neutral to slightly negative effect on cholesterol, and studies on heart health are all across the board, with most not very positive. It contains tocotrienols, a form of vitamin E for brain protection, and is probably better than typical seed oils, but you can usually do a lot better, so it goes in the C tier.",
+  "repairs": [
+   "tocal triadles -> tocotrienols",
+   "seeds here -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 610,
+  "name": "Peanut Oil",
+  "why": "Peanut oil is mainly monounsaturated, with heart-healthy oleic acid and a high overall unsaturated fat concentration that makes it very heart healthy, and it is shown to improve insulin sensitivity. Its omega-3 to omega-6 ratio is literally non-existent and in excess can lead to serious inflammation, so it is a fine oil in moderation and goes in the C tier.",
+  "repairs": [
+   "seeds here -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 611,
+  "name": "Rice Bran Oil",
+  "why": "Rice bran oil is a mix of mono and polyunsaturated fat, mainly oleic and linoleic acids that improve cholesterol and heart health, with an impressive amount of vitamin E and a compound that suppresses inflammation. It is often highly processed, which hampers those nutrients, and it has a high omega-6 and very little omega-3, so he calls it not the worst choice and puts it in the C tier.",
+  "repairs": [
+   "original -> oryzanol (unclear, not named)",
+   "seeds here -> C tier",
+   "rice brain -> rice bran"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 612,
+  "name": "Safflower Oil",
+  "why": "High oleic safflower oil has as much oleic acid as avocado and olive oil, which boosts HDL, lowers LDL, reduces inflammation and manages blood pressure, and both varieties are pretty high in vitamin E. High linoleic safflower has a crazy high omega-6 to omega-3 ratio that may promote inflammation and chronic disease, so the high oleic version goes in the A tier, while the high linoleic would sit in the C tier.",
+  "repairs": [
+   "Highland oleic/no league -> high linoleic",
+   "eights here -> A tier",
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": "Verdict applies to high-oleic variety; high-linoleic would be C."
+ },
+ {
+  "id": 613,
+  "name": "Sesame Oil",
+  "why": "Sesame oil is an even split of mono and polyunsaturated fat, mainly oleic and linoleic acids that are heart healthy, with anti-inflammatory and antioxidant properties, lower blood pressure, blood sugar regulation, a neuroprotective antioxidant and improved arthritis symptoms. It has an awful omega-3 to omega-6 ratio that could cause inflammation, but it is probably the best of the oils with that issue, so he puts it in the B tier.",
+  "repairs": [
+   "sesimal -> sesamol",
+   "beads here -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 614,
+  "name": "Shortening",
+  "why": "Vegetable shortening is a pretty even blend of saturated and monounsaturated fats, made from cottonseed, palm or soybean oil. Traditional versions had trans fats, which some countries still allow, and today it is made through full hydrogenation or interesterification, which in theory beats trans fats but lacks enough human studies to confirm, so it does not escape the F tier.",
+  "repairs": [
+   "cotton seed -> cottonseed",
+   "interestification -> interesterification"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 615,
+  "name": "Soybean Oil",
+  "why": "Soybean oil is mainly polyunsaturated, specifically omega-6 linoleic acid, which is generally heart healthy and good for cholesterol, and it is a great source of vitamin K, shown to support bone health. Like many oils on the list, in excess it can create an imbalance between omega-3 and omega-6, so he puts soybean oil in the C tier.",
+  "repairs": [
+   "seeds here -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 616,
+  "name": "Sunflower Oil",
+  "why": "High oleic sunflower oil is shown to benefit cholesterol and heart health while fighting inflammation, and is among the highest of the oils in vitamin E. High linoleic sunflower oil resembles other seed oils with a wickedly high omega-6 to omega-3 ratio that can cause inflammation if unchecked, so the high oleic version goes in the A tier, while the high linoleic would be in the C tier.",
+  "repairs": [
+   "hyalinoleic -> high linoleic",
+   "eights here -> A tier",
+   "seeds here -> C tier"
+  ],
+  "confidence": "high",
+  "note": "Verdict applies to high-oleic variety; high-linoleic would be C."
+ },
+ {
+  "id": 617,
+  "name": "Tallow",
+  "why": "Beef tallow is an even split of saturated and monounsaturated fat, with oleic, palmitic and stearic acids, and its oleic acid and minimally processed saturated fats are generally heart healthy. It is a good source of choline, though less than poultry fats, rich in conjugated linoleic acid linked to weight loss, and good for skin, and he calls it a solid choice that goes under the radar, in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 618,
+  "name": "Walnut Oil",
+  "why": "Walnut oil is primarily polyunsaturated with a decent amount of omega-3 alpha-linolenic acid, which is heart protective and reduces stress and inflammation, and it is high in polyphenols with anti-inflammatory and blood sugar effects and linked to better cognition. Its omega-6 to omega-3 ratio is still pretty high but safer than most, and it is not recommended for cooking, but he calls it a really underutilized choice, and puts it in the B tier.",
+  "repairs": [
+   "linolenic -> alpha-linolenic",
+   "lagenamins -> unclear polyphenol (not named)"
+  ],
+  "confidence": "low",
+  "note": "Tier corrected from A to B (caption says 'round out our list in the B tier'; see build_data.py TIER_OVERRIDES).",
+  "audit_edit": "Walnut oil is primarily polyunsaturated with a decent amount of omega-3 alpha-linolenic acid, which is heart protective and reduces stress and inflammation, and it is high in polyphenols with anti-inflammatory and blood sugar effects and linked to better cognition. Its omega-6 to omega-3 ratio is still pretty high but safer than most, and it is not recommended for cooking, but he calls it a really underutilized choice, which the board places in the A tier. -> Walnut oil is primarily polyunsaturated with a decent amount of omega-3 alpha-linolenic acid, which is heart protective and reduces stress and inflammation, and it is high in polyphenols with anti-inflammatory and blood sugar effects and linked to better cognition. Its omega-6 to omega-3 ratio is still pretty high but safer than most, and it is not recommended for cooking, but he calls it a really underutilized choice, and puts it in the B tier."
+ }
+]

@@ -1,0 +1,127 @@
+[
+ {
+  "id": 525,
+  "name": "Almond Milk",
+  "why": "Almond milk is a very low-calorie drink and probably the best liquid source of vitamin E, plus a good source of calcium and often vitamin D, with little sugar. It lacks protein, so it cannot replicate animal milk, but he calls it a fairly inoffensive choice and puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 526,
+  "name": "Buffalo Milk",
+  "why": "Buffalo milk is a higher-calorie drink, fattier than whole cow milk at about 17 g per cup, with more protein, a great source of calcium, phosphorus and B12, extra fat-soluble vitamins A and E, and more conjugated linoleic acid. Lactose intolerance or milk-protein allergy rules it out and the calories add up quickly, but he calls it a shining example and puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 527,
+  "name": "Camel Milk",
+  "why": "Camel milk is lower in calories, among the best sources of protein per calorie and the best on the list for vitamin B1, with solid B12 and calcium, and it is shown to improve insulin sensitivity and have antibacterial and antiviral benefits. It is usually unpasteurized and raw camel milk has a history of infectious organisms, so he advises pasteurized or a trusted source, and puts it in A tier.",
+  "repairs": [
+   "'eights' -> A tier (tier word; confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 528,
+  "name": "Chocolate Milk",
+  "why": "Chocolate milk is mostly cow milk with a lot more sugar, still giving hefty protein and fat, calcium, phosphorus, B12 and usually fortified vitamin D, so bone-health and CLA benefits remain. It is not proven better for post-workout recovery, lactose and milk-allergy rules apply, and the sugar adds up quickly, so he puts it in C tier.",
+  "repairs": [
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 529,
+  "name": "Coconut Milk",
+  "why": "Coconut milk is exorbitantly high in calories, mostly saturated fat including lauric acid and medium-chain triglycerides that aid weight loss, and it is the best source per gram on the list of fiber, manganese, copper, iron, selenium, magnesium, potassium and zinc. It may improve cholesterol and reduce inflammation, but it is calorie-dense and fine only in moderation, so he puts it in B tier.",
+  "repairs": [
+   "'medium change glycerides' -> medium-chain triglycerides",
+   "'b-tier' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 530,
+  "name": "Cow Milk",
+  "why": "Cow milk has a varying calorie count by fat content but is a great source of B2, B12, phosphorus, calcium and often fortified vitamin D, and skim milk is the best on the list for protein per calorie and B12. It is also a solid source of CLA and branched-chain amino acids, though lactose intolerance and milk-protein allergy matter, so he puts it in top tier.",
+  "repairs": [
+   "'Vine vitamin B12' -> vitamin B2 and B12",
+   "'3.25 fats' -> 3.25 percent fat"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 531,
+  "name": "Goat Milk",
+  "why": "Goat milk is an average-calorie drink with a bit more protein and fat than whole cow milk, higher in phosphorus, calcium and potassium, and still a good source of B2 and vitamin D. It also has CLA, whey and casein benefits and oligosaccharides that feed gut bacteria, but lactose intolerance or milk allergy rules it out, so he puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 532,
+  "name": "Hemp Milk",
+  "why": "Hemp milk is a lower-calorie drink, lower in carbohydrates than almost every other option, with a decent amount of complete protein per calorie, some omega-3s for inflammation, solid phosphorus and calcium, and often added vitamins A and D. It has less to offer than other plant milks, so he puts it in C tier.",
+  "repairs": [
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 533,
+  "name": "Oat Milk",
+  "why": "Oat milk is an average-calorie drink typically enriched with calcium, phosphorus, potassium, vitamins A, D, B2 and B12, and it is shown to help bone health and lower LDL cholesterol. It is free of dairy, soy and nut allergens, but some brands are high in added sugar and it is very low in protein, so he puts it in C tier.",
+  "repairs": [
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 534,
+  "name": "Pea Milk",
+  "why": "Unsweetened pea milk is lower in calories with little to no sugar and a great amount of protein per calorie, comparable to animal milk and rich in branched-chain amino acids. It is often fortified with B12, calcium and vitamin D, with some omega-3 from algae and decent iron, but many brands add sugar, homemade lacks fortification and the protein is less bioavailable, so he puts it in B tier.",
+  "repairs": [
+   "'pmilk'/'P protein' -> pea milk/pea protein"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 535,
+  "name": "Rice Milk",
+  "why": "Rice milk is an average-calorie drink that is a good source of manganese and often fortified with calcium, B12, vitamin D and vitamin A, and it is the milk least likely to flare up allergies. It is very high in sugar and has practically no protein, so he questions calling it milk and puts it in D tier.",
+  "repairs": [
+   "'Deeds here for disgrace' -> D tier (for disgrace)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 536,
+  "name": "Sheep Milk",
+  "why": "Sheep milk is a higher-calorie drink with an impressive profile: 15 g protein and 17 g fat per cup, making it the most protein-dense option, the best source of B12, B2 and phosphorus, and an excellent source of calcium. It gives the antioxidant, fat and CLA benefits of other animal milks, but lactose intolerance or milk-protein allergy rules it out, so he puts it in A tier.",
+  "repairs": [
+   "'Sheet milk' -> sheep milk",
+   "'eights here' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 537,
+  "name": "Soy Milk",
+  "why": "Soy milk is an average-calorie drink with about 8 g of protein per cup, comparable to animal milks, and a solid source of copper, manganese, selenium, iron and B6, usually fortified with the usual milk micros. It may combat chronic inflammation and improve cholesterol, but soy allergy rules it out, many brands add sugar and soy is thought, with inconsistent evidence, to affect testosterone and estrogen, so he ends the list with it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

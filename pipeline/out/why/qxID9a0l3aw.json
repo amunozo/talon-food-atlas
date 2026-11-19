@@ -1,0 +1,215 @@
+[
+ {
+  "id": 69,
+  "name": "Avocado Toast",
+  "why": "Avocado toast (1:1 avocado to whole wheat toast) is a lowish-calorie food with a solid profile: oleic acid for heart health, about 6 g of mostly insoluble fiber, and among the best sources on the list of manganese, vitamin K, copper, B6 and E, plus antioxidants like glutathione. Toppings vary, but even plain it delivers nutrients, energy and satiety, so he puts it in A tier.",
+  "repairs": [
+   "carotenonoids -> carotenoids",
+   "pholic acids -> phenolic acids",
+   "manganesees -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 70,
+  "name": "Bacon",
+  "why": "Bacon is a very high-calorie food with a matching inflated profile (though you would not eat 100 g): the highest protein by weight, the fattiest food on the list, and the highest selenium, plus vitamin B3, phosphorus, zinc and many B vitamins. The processing, curing and additives keep it from coming even close to a healthy choice, so he puts it in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 71,
+  "name": "Bagel",
+  "why": "A bagel is an average-calorie food with a fine profile: made of hard wheat so surprisingly high in protein, fairly fiber-rich (about 4 g, mainly insoluble), and typically among the better sources of manganese, selenium and vitamin B1. Many store-bought bagels are refined (less protein and fiber, more simple carbs) and the toppings matter as much, so he puts them in C tier.",
+  "repairs": [
+   "fiber richch -> fiber rich"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 72,
+  "name": "Biscuits & Gravy",
+  "why": "Biscuits and gravy (with sausage) is an average-calorie dish with a lesser profile that is not void of nutrients, notably phosphorus, but is defined by simple carbs and fat with low protein and fiber. These are generally empty calories that will not energize or satisfy you like other breakfast foods, so he puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "He names fewer than four nutrients; the rest of his reasoning is about carbs, sugar and satiety."
+ },
+ {
+  "id": 73,
+  "name": "Cereal",
+  "why": "Cereal is typically a higher-calorie food with a wild profile: most of its vitamins and minerals (B vitamins, folate, calcium, iron, zinc and others) come from fortification, and the best ones are fairly rich in protein and fiber. But it is mainly refined carbs with added sugars and a very high glycemic index, often with artificial flavors and colors tied to gut issues, so a generous placement is C tier.",
+  "repairs": [
+   "manganesees -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 74,
+  "name": "Cinnamon Roll",
+  "why": "Cinnamon rolls are a high-calorie food with a sorry micronutrient profile, with only some calcium and phosphorus going for them, while he likes what cinnamon offers but not like this. Beyond that they are just fat, simple carbs and added sugars, an easy choice to be the first resident of F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "He names fewer than four nutrients; the rest of his reasoning is about carbs, sugar and satiety."
+ },
+ {
+  "id": 75,
+  "name": "Croissant",
+  "why": "Croissants are a higher-calorie food with a cruddy profile, not a bad source of protein, fiber (roughly 3 g), selenium and comparatively folate, but mainly simple carbs with a surprising amount of added sugar and fat. They are often filled, which can somewhat justify them as a delivery method, but alone they do not offer what he wants from breakfast, so he puts them in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 76,
+  "name": "Danish",
+  "why": "Fruit Danish is a high-calorie food with a dismal profile, and most commercial ones use preserves or purees rather than real fruit. The result is simple carbs, added sugar and unhelpful fats, without being nutritious or satiating, so he puts it in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "No specific nutrients named, only the lack of them."
+ },
+ {
+  "id": 77,
+  "name": "Donut",
+  "why": "Glazed donuts are a high-calorie food with a disappointing profile, with lots of calories from simple carbs, fats and added sugars and no protein or fiber to make the energy last. He says it should surprise no one that donuts go in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "No specific nutrients named, only the lack of them."
+ },
+ {
+  "id": 78,
+  "name": "Eggs",
+  "why": "Whole scrambled eggs are a lower-calorie breakfast food with an excellent profile: very bioavailable protein with healthy fats for satiety, the best choline and vitamin D on the list, and among the best selenium, B12, B2, B5, vitamin A, lutein and zeaxanthin (eye antioxidants). Nothing does nutrients and satiety like whole eggs among traditional breakfast foods, so he puts them in the top tier.",
+  "repairs": [
+   "zeazanthin -> zeaxanthin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 79,
+  "name": "Egg Whites",
+  "why": "Egg whites are a very low-calorie food with an extremely polarizing profile: mainly water and protein, giving the highest protein per calorie on the list by a landslide, plus solid selenium and vitamin B2. They are great for people wanting a lot of protein but less good in practice than whole eggs for energy, satiety and nutrients, yet he still puts them in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 80,
+  "name": "English Muffin",
+  "why": "English muffins are an average-calorie food with a middling profile, higher than most breakfast foods in protein and fiber (about 3 g) and a good source of selenium. Many are refined flour though whole grain types exist, and like bagels it depends on what you put in them, so this middle-of-the-road bread-based choice goes in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 81,
+  "name": "French Toast",
+  "why": "French toast is an average-calorie breakfast food with a faulty profile that depends on the bread and on eggs, milk, butter and cinnamon, giving a bit more complexity: some protein, fiber and vitamin A. Beyond that it is mainly simple carbs and sugars that will not satisfy you as much as other foods, so he puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 82,
+  "name": "Grits",
+  "why": "Corn grits are a low-calorie food with a ghastly profile to match (numbers are for cooked, water-filled grits). Corn is naturally not very nutritious, though rich in the carotenoids lutein and zeaxanthin and several phenolic acids, and it works for those who must stay gluten-free, but they lack nutritional substance, so he puts grits in D tier.",
+  "repairs": [
+   "zeazanthin -> zeaxanthin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 83,
+  "name": "Hash Browns",
+  "why": "Hash browns are an average-calorie food with a half-baked profile: fairly fibrous, with a mild amount of vitamin E and potassium, and potato carbs are more complex than breads, which is better for satiety and blood sugar. They are most commonly deep fried in not the best fats, so they are not innocent like regular potatoes and still lack much of what makes a good breakfast, so he puts them in C tier.",
+  "repairs": [
+   "mainly in soluble fiber -> mainly insoluble fiber (caption likely a split of 'insoluble')"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 84,
+  "name": "Muffin",
+  "why": "Blueberry muffins are a high-calorie food with a mild profile, usually made of all-purpose flour, and a decent source of vitamin K, while the appeal of fruits and nuts is only partly preserved and overshadowed by the rest. Low protein, low fiber, and high simple carbs and sugar make a familiar story, so he puts muffins in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 85,
+  "name": "Oatmeal",
+  "why": "Oatmeal with milk is a low-calorie breakfast food with an outstanding profile: very satiating thanks to relevant protein and high fiber per calorie, notably beta-glucan that aids cholesterol, among the best manganese, with milk adding phosphorus, B12 and calcium, plus resistant starch for the gut and phenolic antioxidants. It checks energy and satiety for breakfast, so he puts it in A tier.",
+  "repairs": [
+   "aaninthramides -> avenanthramides"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 86,
+  "name": "Pancake",
+  "why": "Pancakes are an average-calorie breakfast food with a pedestrian profile, a middle-of-the-road grain dish with moderate protein and fiber and a relevant amount of selenium, phosphorus and calcium. The bulk is non-nutritious, unsatisfying simple carbohydrates when made traditionally (buckwheat or protein pancakes offer more), so typical pancakes go in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 87,
+  "name": "Quiche",
+  "why": "Spinach quiche is a higher-calorie food with an impressive profile, a genuine protein source and the highest vitamin K (blood clotting) and vitamin A (vision and immune function) on the list, plus among the best manganese, B5, phosphorus, calcium and choline. It is highly customizable, energizing and satiating, which is what he wants, so he puts it in A tier.",
+  "repairs": [
+   "kiche -> quiche",
+   "manganesees -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 88,
+  "name": "Sausage",
+  "why": "Pork breakfast sausage is a higher-calorie food with a substantial profile, high in protein and fat, the best vitamin B12 on the list (brain function, DNA synthesis), the best B5 and zinc, and among the best of the other B vitamins. It is almost always a processed meat, cured, smoked and full of additives, so he cannot call it healthy despite the good numbers and puts it in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 89,
+  "name": "Smoothie",
+  "why": "Strawberry banana smoothie is a low-calorie choice with a variable profile, mostly just the fruits plus often milk or yogurt, mostly sugar as the main macro, though it is easy to thicken with fat and protein. Blending hardly alters fruit's nutrients, so you get fiber, vitamin C, potassium and plenty of antioxidants and plant compounds, a net positive but not the most nutritious or satiating, so he puts smoothies in B tier.",
+  "repairs": [
+   "lowc -> low"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 90,
+  "name": "Toaster Pastry",
+  "why": "Toaster pastries are a high-calorie food with a fortified profile, getting their nutrients (iron, several B vitamins, often vitamin A) almost entirely from fortification. They are very high in sugar, low in fiber and protein per calorie, made of refined flour and almost never real fruit, so they go in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 91,
+  "name": "Waffle",
+  "why": "Waffles are a higher-calorie food with a moderate profile, not much different from pancakes: middling protein and fiber with a notable amount of selenium, calcium and iron. Beyond that they are mainly refined carbs, though whole-grain waffles have potential, but the average waffle does you no favors, so he puts them in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 92,
+  "name": "Yogurt",
+  "why": "Yogurt with fruit is a low-calorie food with a solid profile (varying by type), mostly a better protein source per calorie plus dairy nutrients like B12, B2, phosphorus and calcium, with probiotics, prebiotics, fiber and fruit for gut health, and it delivers energy and satiety. Store-bought versions with tons of fast-acting added sugar would rank lower, but intentional homemade fruit yogurt has an argument for the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "Verdict hedged on type: homemade fruit yogurt in the top tier; store-bought with lots of added sugar would rank lower."
+ }
+]

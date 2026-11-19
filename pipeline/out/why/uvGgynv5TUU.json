@@ -1,0 +1,363 @@
+[
+ {
+  "id": 364,
+  "name": "Alfalfa Sprouts",
+  "why": "Alfalfa sprouts are a lower-calorie vegetable with a solid micronutrient profile per calorie, high in protein per calorie, the best source on either list of vitamin B5, and studied for LDL cholesterol lowering thanks to saponins, with uses for lowering blood sugar and easing menopause symptoms. He calls them a nutritious option safe for the general population and puts them in the B tier.",
+  "repairs": [
+   "panthic acid -> pantothenic acid",
+   "sapin and -> saponins",
+   "alalas -> alfalfa"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 365,
+  "name": "Arrowroot",
+  "why": "Arrowroot is a higher-calorie starchy vegetable, higher in carbohydrates than most, with a notable amount of resistant starch that aids satiety, feeds gut bacteria as a prebiotic and supports immune health, plus the best folate on either list for red blood cell formation. Overall it is fairly standard for a root vegetable, so he puts it in the B tier.",
+  "repairs": [
+   "aerot -> arrowroot"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 366,
+  "name": "Bamboo Shoots",
+  "why": "Bamboo shoots are an incredibly low-calorie vegetable with a mild micronutrient profile, a solid source of potassium per calorie, shown to promote gut health and lower LDL cholesterol. Fresh ones contain toxic amounts of a harmful compound, so they must be soaked and boiled, which also lowers goitrogens and anti-nutrients such as tannins, phytates and oxalates, making them a fine choice with many disclaimers in the C tier.",
+  "repairs": [
+   "taxify -> a toxic compound (unclear, not named)",
+   "Fates -> phytates"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 367,
+  "name": "Bean Sprouts",
+  "why": "Bean sprouts are a lower-calorie vegetable with a quality micronutrient profile, a good source of protein per calorie, copper and folate, rich in insoluble fiber for digestion, helpful for blood sugar control, and full of bioavailable flavonoid and phenolic antioxidants. They contain some anti-nutrients, namely phytic acid and tannins, but cooking lowers these, and they offer a fair amount so he puts them in the B tier.",
+  "repairs": [
+   "fate -> folate",
+   "bean sprats -> bean sprouts"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 368,
+  "name": "Beet Greens",
+  "why": "Beet greens are a low-calorie vegetable with a spectacular micronutrient profile, among the best on either list for vitamin K, potassium and macular-protecting carotenoids, and a good source per calorie of copper, magnesium and vitamin C, with glucosinolates for anti-inflammatory benefits. They contain a fair amount of oxalates when raw, which can inhibit absorption and contribute to kidney stones, but their nutrient density earns them the first top tier of the list.",
+  "repairs": [
+   "ludian and zanthin -> lutein and zeaxanthin",
+   "pottassium -> potassium"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 369,
+  "name": "Bitter Melon",
+  "why": "Bitter melon is a very low-calorie food with a decent micronutrient profile, the best source of vitamin C on the list when raw and a good source of folate and potassium per calorie, plus antioxidants like gallic and chlorogenic acid, and it has long been used to improve blood sugar control. It may interfere with insulin and diabetes medications, but overall he calls it a good choice and puts it in the B tier.",
+  "repairs": [
+   "fate -> folate",
+   "kaken -> unclear antioxidant (not named)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 370,
+  "name": "Broccoli Rabe",
+  "why": "Broccoli rabe is a low-calorie vegetable with an impressive micronutrient profile, a surprisingly decent source of protein per calorie, among the best for vitamin K and carotenoids convertible to vitamin A, and a solid source of vitamin C and folate. It is high in prebiotics and glucosinolates with anti-inflammatory and antimicrobial benefits, and he calls it a nutritious choice for the A tier.",
+  "repairs": [
+   "fate -> folate",
+   "Rob -> rabe"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 371,
+  "name": "Cassava",
+  "why": "Cassava is the highest-calorie vegetable on either list with a subpar micronutrient profile, highest in carbohydrates and very starchy, with a noteworthy amount of resistant starch that feeds gut bacteria, and that is kind of it. It is the least nutritious vegetable per calorie here and can be quite toxic if eaten raw, so he puts it in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 372,
+  "name": "Celeriac",
+  "why": "Celeriac, also called celery root, is a low-calorie vegetable with a mediocre micronutrient profile, a decent source of vitamin K and rich in polyphenol antioxidants with anti-inflammatory and LDL-lowering effects that benefit heart health. It is simply one of the less nutritious picks on the list, so he puts it in the C tier.",
+  "repairs": [
+   "Circ -> celeriac"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 373,
+  "name": "Chinese Broccoli",
+  "why": "Chinese broccoli is a lower-calorie vegetable with a solid micronutrient profile, a good source of vitamin K, vitamin C, folate and carotenoids like beta carotene, with glucosinolates such as sulforaphane that have anti-inflammatory, antibacterial and anti-cancer benefits. Cruciferous vegetables are consistently shown to boost heart health, so he calls it a pretty nutritious and innocent choice and puts it in the A tier.",
+  "repairs": [
+   "Fates -> folate",
+   "beta kerene -> beta carotene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 374,
+  "name": "Daikon",
+  "why": "Daikon is a very low-calorie cruciferous vegetable, closely related to radishes, with a mild micronutrient profile, a solid source of vitamin C and copper per calorie, polyphenols like quercetin and ferulic acid for anti-inflammatory and immune benefits, and glucosinolates with antibacterial and anti-cancer effects. He finds it fine but fairly unimpressive, so it goes in the C tier.",
+  "repairs": [
+   "daon -> daikon",
+   "cortin -> quercetin",
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 375,
+  "name": "Dandelion Greens",
+  "why": "Dandelion greens are a lower-calorie vegetable with a stunning micronutrient profile, the most vitamin E on either list, calcium when raw, and among the highest in vitamin K and carotenoids like beta carotene, plus glucosinolates with anti-inflammatory and antimicrobial benefits. They are fairly high in oxalates, but cooking remedies that, and he calls them highly nutritious, landing in the top tier.",
+  "repairs": [
+   "danelon -> dandelion",
+   "beta katene -> beta carotene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 376,
+  "name": "Fennel",
+  "why": "Fennel is an average-calorie vegetable with a decent micronutrient profile, a good source of vitamin K and carotenoids convertible to vitamin A, plus polyphenols such as chlorogenic acid, quercetin and apigenin that fight chronic inflammation, with antibacterial properties and a link to slowing age-related cognitive decline. He calls it fine but unspectacular and puts it in the C tier.",
+  "repairs": [
+   "ID source -> good source",
+   "cortin, appenine -> quercetin, apigenin",
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 377,
+  "name": "Garden Cress",
+  "why": "Garden cress is a lower-calorie vegetable with an impressive micronutrient profile, among the best sources of vitamin K, vitamin C and carotenoids, and a solid potassium source per calorie, shown to combat insulin resistance and protect against toxic effects of some heavy metals. It has some phytates and oxalates but not enough to concern him, calling it a great green for the top tier.",
+  "repairs": [
+   "Crest -> cress",
+   "Fates -> phytates"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 378,
+  "name": "Ginger",
+  "why": "Ginger is a higher-calorie root with a mild micronutrient profile and only a decent copper source, but its medicinal compounds are the draw: gingerol is antibacterial, eases indigestion and joint pain and muscle soreness, shogaol combats chronic diseases, and it fights nausea and lowers blood sugar. It has some tannins and oxalates, which soaking or cooking helps, though you rarely eat enough to matter, and he puts it in the top tier.",
+  "repairs": [
+   "Ginger all -> gingerol",
+   "shogul -> shogaol",
+   "mning sickness -> morning sickness"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 379,
+  "name": "Green Onion",
+  "why": "Green onion, also called scallion, is a lower-calorie vegetable with a solid micronutrient profile, among the best sources on the list of vitamin K and a decent source per calorie of vitamin C and carotenoids. Like regular onions it has allicin with antimicrobial and anti-cancer effects and antioxidants such as quercetin that support immunity, and he has only good things to say, so it goes in the A tier.",
+  "repairs": [
+   "Allison -> allicin",
+   "cortin -> quercetin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 380,
+  "name": "Heart of Palm",
+  "why": "Heart of palm is a high-calorie, polarizing vegetable, among the highest in carbohydrates and by far the highest in sugar at about 17 g per 100 g, but the best source among the vegetables so far of copper, potassium, zinc and phosphorus, and among the best for vitamin B6. It is also rich in polyphenols against chronic inflammation, and with serious merit he puts it in the A tier.",
+  "repairs": [
+   "17 G per 100 G per gram -> 17 g per 100 g"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 381,
+  "name": "Jerusalem Artichoke",
+  "why": "Jerusalem artichoke is a higher-calorie vegetable with a decent micronutrient profile, among the highest in sugar at about 10 g per 100 g, but the best source on the list of iron, with prebiotic inulin that feeds gut bacteria and helps with diabetes and phenolic acids behind its antioxidant effects. It has a fair amount of oxalates and phytates, which cooking lowers, and as one of the more unique options it lands in the B tier.",
+  "repairs": [
+   "Fates -> phytates"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 382,
+  "name": "Jicama",
+  "why": "Jicama is an average-calorie vegetable with a lesser micronutrient profile, notably among the highest in fiber, mainly soluble fiber that improves intestinal health, and a decent source of vitamin C. However, it contains a compound called rotenone that can be toxic in large amounts, so he calls it a generally inferior choice and puts it in the D tier.",
+  "repairs": [
+   "hikma -> jicama"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 383,
+  "name": "Kohlrabi",
+  "why": "Kohlrabi is a lower-calorie vegetable with a middling micronutrient profile, among the better sources of vitamin C and a decent source per calorie of copper, vitamin B6 and potassium, with anthocyanins, glucosinolates and isothiocyanates that help with inflammation, heart health and some chronic diseases. It has oxalates and lectins, but cooking largely removes them, and he calls it a good vegetable for the B tier.",
+  "repairs": [
+   "kabi -> kohlrabi",
+   "col Robie -> kohlrabi"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 384,
+  "name": "Lotus Root",
+  "why": "Lotus root is a higher-calorie vegetable with a moderate micronutrient profile, rich in mostly insoluble fiber for digestion, a solid source of vitamin C and copper, and rich in antioxidants such as quercetin and catechin against chronic inflammation. It contains a wide variety of nutrients, but not an impressive amount per calorie compared with other vegetables, so it goes in the C tier.",
+  "repairs": [
+   "cortin, kakin -> quercetin, catechin",
+   "C forall -> unclear (not named)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 385,
+  "name": "Moringa",
+  "why": "Moringa leaves are an average-calorie vegetable with a great micronutrient profile, the highest protein on the list and the best on either list for vitamins B1, B2 and B6, among the best for manganese, vitamin K, calcium and carotenoids, plus antioxidants that fight inflammation, and shown to lower LDL and reduce arthritis pain. It is higher in oxalates, tannins and saponins, which cooking greatly reduces, so he puts it in the top tier.",
+  "repairs": [
+   "Maringa/meringa -> moringa",
+   "cortin -> quercetin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 386,
+  "name": "Nopal",
+  "why": "Nopal is an extremely low-calorie vegetable, a great source per calorie of manganese, calcium and magnesium and rich in flavonoids with antioxidant and anti-inflammatory effects, with antiviral and neuroprotective properties he does not itemize. It is high in tannins, oxalates and phytates, which cooking dramatically reduces, and as one of the best nutrient-per-calorie options he puts it in the A tier.",
+  "repairs": [
+   "noal -> nopal",
+   "cortin, cherol -> quercetin, kaempferol (approx.)",
+   "Fates -> phytates"
+  ],
+  "confidence": "low",
+  "note": "Flavonoid names garbled; only 'quercetin' used.",
+  "audit_edit": "Nopal is an extremely low-calorie vegetable, a great source per calorie of manganese, calcium and magnesium and rich in flavonoids like quercetin with antioxidant and anti-inflammatory effects, with antiviral and neuroprotective properties he does not itemize. It is high in tannins, oxalates and phytates, which cooking dramatically reduces, and as one of the best nutrient-per-calorie options he puts it in the A tier. -> Nopal is an extremely low-calorie vegetable, a great source per calorie of manganese, calcium and magnesium and rich in flavonoids with antioxidant and anti-inflammatory effects, with antiviral and neuroprotective properties he does not itemize. It is high in tannins, oxalates and phytates, which cooking dramatically reduces, and as one of the best nutrient-per-calorie options he puts it in the A tier."
+ },
+ {
+  "id": 387,
+  "name": "Radicchio",
+  "why": "Radicchio is a low-calorie vegetable with a decent micronutrient profile, among the best sources on the list of vitamin K and copper, with a relevant amount of vitamin E, potassium and vitamin C, and anthocyanin antioxidants that prevent oxidative stress and intestinal damage. He calls it not overly complicated but a good one nonetheless, putting it in the B tier.",
+  "repairs": [
+   "rikio -> radicchio"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 388,
+  "name": "Red Cabbage",
+  "why": "Red cabbage is a lower-calorie vegetable with a solid micronutrient profile, a great source of vitamin C and a good source of vitamin K, vitamin B6 and carotenoids like beta carotene and lycopene, with more anthocyanins than green cabbage and glucosinolates such as sulforaphane for heart health and gut inflammation. It has a notable amount of tannins that cooking removes, and he calls it a net upgrade on green cabbage in the A tier.",
+  "repairs": [
+   "katene, lopine -> carotene, lycopene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 389,
+  "name": "Red Onion",
+  "why": "Red onion is a lower-calorie vegetable with a lesser micronutrient profile, valued instead for non-nutrient compounds: quercetin and fisetin antioxidants, anthocyanins behind its color and anti-inflammatory effects, and allicin and other sulfur compounds with antimicrobial, antifungal and anti-cancer benefits, plus prebiotics for gut health. Onions can cause gastrointestinal discomfort in some people, but for everyone else he finds a lot to love and puts them in the A tier.",
+  "repairs": [
+   "cortin -> quercetin",
+   "Allison -> allicin",
+   "those cyanin -> anthocyanin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 390,
+  "name": "Rhubarb",
+  "why": "Rhubarb is a lower-calorie vegetable with a mild micronutrient profile, a decent source of vitamin K, potassium and calcium, with an impressive polyphenol content, mainly anthocyanins responsible for its red color, that gives anti-inflammatory and anti-cancer effects. It is higher in oxalates, which inhibit absorption including of its own calcium, so he calls it a fairly standard vegetable and puts it in the C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 391,
+  "name": "Rutabaga",
+  "why": "Rutabaga is a lower-calorie vegetable with a moderate micronutrient profile, a solid source of vitamin C per calorie and a decent source of potassium and vitamin B6, with glucosinolates that bring anti-cancer, anti-inflammatory and heart health benefits. He sees it as about as bare bones as a vegetable gets, offering nothing unique but doing nothing wrong, so it goes in the C tier.",
+  "repairs": [
+   "rudaba -> rutabaga"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 392,
+  "name": "Shallots",
+  "why": "Shallots are a somewhat higher-calorie vegetable with a mild micronutrient profile, among the highest in sugar at about 8 g per 100 g, a decent source of vitamin B6, with allicin that is antibacterial, antifungal and anti-cancer, a sulfur compound aiding blood clotting, and quercetin antioxidants. They have some lectins, phytates and oxalates, though not as many as others and cooking reduces them, and as a mini sugary onion they go in the B tier.",
+  "repairs": [
+   "allisin -> allicin",
+   "Fates -> phytates",
+   "cortin -> quercetin",
+   "sulfinates -> unclear sulfur compound"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 393,
+  "name": "Swiss Chard",
+  "why": "Swiss chard is a low-calorie vegetable with an excellent micronutrient profile, the best magnesium on either list, among the best for vitamin K and carotenoids, a great source per calorie of vitamin C, copper, potassium, vitamin E and iron, and rich in flavonoids with anti-inflammatory effects. It is somewhat higher in oxalates, which can contribute to kidney stones in excess but drop when cooked, and he calls it about as perfect as a leafy green gets, in the top tier.",
+  "repairs": [
+   "cortin came for all -> quercetin, kaempferol",
+   "beta katene -> beta carotene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 394,
+  "name": "Taro Root",
+  "why": "Taro root is a high-calorie vegetable with a mid micronutrient profile, among the highest in carbohydrates and the highest in fiber, mainly soluble, plus resistant starch that feeds gut flora and prevents blood sugar spikes, and a decent source of vitamin B6, copper, vitamin E and potassium. It has oxalates and tannins that cooking somewhat remedies, and as a good example of a root vegetable it goes in the C tier.",
+  "repairs": [
+   "teror -> taro"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 395,
+  "name": "Turnip Greens",
+  "why": "Turnip greens are a low-calorie vegetable with a fantastic micronutrient profile, when raw the richest on either list in calcium and carotenoids, among the best for folate, copper and vitamin K, and a great source per calorie of vitamin C, vitamin B6 and vitamin E, plus flavonoid antioxidants, isothiocyanates and glucosinolates. They contain a relevant amount of oxalates and phytates, which cooking reduces, and he puts them in the top tier.",
+  "repairs": [
+   "Fate -> folate",
+   "Fates -> phytates",
+   "cortin, cerol -> quercetin, kaempferol (not named)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 396,
+  "name": "Water Spinach",
+  "why": "Water spinach is a low-calorie vegetable with an impressive micronutrient profile, apparently not related to traditional spinach, and among the best sources of vitamin K and carotenoids such as beta carotene, lutein, zeaxanthin and beta cryptoxanthin per calorie. It contains a fair amount of oxalates, which cooking helps with, and he calls it a fantastic green rounding out the list in the top tier.",
+  "repairs": [
+   "coronoids -> carotenoids",
+   "ludian zanthin -> lutein, zeaxanthin",
+   "beta cryptanthus -> beta cryptoxanthin"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

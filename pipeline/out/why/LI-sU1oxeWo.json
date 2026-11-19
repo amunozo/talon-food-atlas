@@ -1,0 +1,220 @@
+[
+ {
+  "id": 397,
+  "name": "Beaver",
+  "why": "Beaver meat is an average-calorie meat with an impressive profile, incredibly protein dense, the best iron source on either list and best choline on this list, among the best in selenium and phosphorus, plus B6 and great creatine, with about 7% fat and lower B3 than most meats. It ideally should come from a non-polluted environment, but if you can get it safely it is excellent, so top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 398,
+  "name": "Boar",
+  "why": "Boar is a lower-calorie red meat with a decent profile whose main contributions are B vitamins, notably B6 and B12, among the best sources of choline on the list, and a great source of creatine. It is one of the leaner game meats, mostly monounsaturated oleic fat, but is comparatively a poor source of iron and can carry harmful bacteria if not prepared properly; overall it is a perfectly fine meat for the B tier.",
+  "repairs": [
+   "'Bor' -> boar"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 399,
+  "name": "Bologna",
+  "why": "Bologna is a higher-calorie, fattier processed meat with a less-than-stellar profile, among the best sources on the list of vitamin B1 (thiamin), with mainly oleic, palmitic, stearic and linoleic fats that are not inherently bad. The real problem is that it is smoked, cured and loaded with carcinogenic chemical preservatives, and is excessively sodium dense; it cannot be called healthy, only an occasional treat, so it goes in the D tier.",
+  "repairs": [
+   "'baloney' -> bologna",
+   "'OIC' -> oleic",
+   "'steric' -> stearic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 400,
+  "name": "Caribou",
+  "why": "Caribou is a lower-calorie, very lean meat with a quality profile: the best non-organ source of vitamin B2, the best source on either list of zinc, and among the best for B12, B5 and choline, making it one of the most micronutrient-dense meats per calorie. Because caribou feed mainly on grasses it has higher omega-3 and conjugated linoleic acid, with no real consistent drawbacks, so it goes in the top tier.",
+  "repairs": [
+   "'caraboo/caribon' -> caribou",
+   "'conjugated linolic acid' -> conjugated linoleic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 401,
+  "name": "Chorizo",
+  "why": "Chorizo is a higher-calorie processed meat, a pork sausage with unique seasonings and an average profile, a decent source of protein and the usual meat micronutrients but defined by its fat, a balanced blend of mono- and saturated (oleic, palmitic, stearic). Like all processed meats it is cured and full of preservatives linked to cancer risk and very sodium dense, so it should not be a regular part of the diet and goes in the D tier.",
+  "repairs": [
+   "'Chito' -> chorizo"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 402,
+  "name": "Egg White",
+  "why": "Egg whites are a very low-calorie, lopsided food, almost 90% water and macronutritionally just protein, with only notable selenium and vitamin B2 and none of the saturated fat or cholesterol of the yolk, which he thinks harmless in reasonable amounts for most people. They lack much of whole eggs' nutritional value, but as pure protein they are about as good as it gets, so he puts them in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 403,
+  "name": "Elk",
+  "why": "Elk is a low-calorie red meat with a solid profile, very lean compared to common red meats, an excellent source of vitamin B12, and containing creatine, carnosine and conjugated linoleic acid, with CLA and omega-3s more prevalent than in beef thanks to a more grass-fed diet. There are no consistent downsides, and he calls it lean and nutritious, so it goes in the A tier.",
+  "repairs": [
+   "'conjugated lenic acid' -> conjugated linoleic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 404,
+  "name": "Emu",
+  "why": "Emu is an average-calorie meat with an exceptional profile, the best source on either list of vitamin B6 and on this list of B12, and also high in selenium, vitamin B5 and B3, and among the best in B2 and zinc. He does not know why this big bird is so micronutrient dense, perhaps its diet, and calls it arguably the most nutritious meat so far, which lands it safely in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 405,
+  "name": "Frog Legs",
+  "why": "Frog legs are a very low-calorie, exceptionally lean meat whose protein-to-fat ratio puts most meats and poultry to shame, one of the best sources of copper, selenium and potassium per calorie, with a fair amount of vitamin E, unusual among meats. He says to eat only the legs, since the rest has more potential to be dangerous, but properly prepared the legs are pretty safe and nutritious, so they go in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 406,
+  "name": "Goose",
+  "why": "Goose is a higher-calorie meat with a respectable profile, among the best sources on the list of phosphorus and by far the highest in vitamin B5 among poultry, consistently more micronutrient dense than chicken per gram. It is much fattier, one of the fattiest natural meats, mostly oleic, palmitic, stearic and linoleic fat, but nothing is particularly wrong with it, so he calls it well rounded and puts it in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 407,
+  "name": "Horse",
+  "why": "Horse is an average-calorie meat with a decent profile, a solid vitamin B12 content and among the best sources of creatine, with average protein and fat, mostly oleic and palmitic. It is noticeably lower in vitamin B2 than most meats, nothing it offers is not done better by another meat, and its sale is banned in the US, so he sees no reason to eat it over better red and game meats and puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 408,
+  "name": "Kangaroo",
+  "why": "Kangaroo is a lower-calorie meat with a solid profile per calorie, actually the highest-protein meat on either list and one of the leanest, pretty much protein incarnate, rich in conjugated linoleic acid and carnosine. It is above average in every relevant meat micronutrient except vitamin B6, where it falls a little short, and he says kangaroo is great, so it goes in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 409,
+  "name": "Moose",
+  "why": "Moose is a low-calorie, exceptionally lean red meat with a great profile and virtually no fat, an excellent source of vitamin B12 and among the best on the list in choline, carnosine and creatine, with pretty impressive micronutrients per calorie. He has nothing bad to say about it, since it checks all the boxes of what you expect from meat, so it goes in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 410,
+  "name": "Ostrich",
+  "why": "Ostrich is a lower-calorie red meat with a pretty impressive profile, among the best sources of vitamin B12 and selenium, with a fair amount of creatine (more than turkey, less than chicken) and anserine, shown to improve brain blood flow. Some parts are very lean while the fatty parts are mainly oleic and palmitic; it provides everything you would expect from meat, so he puts it in the A tier.",
+  "repairs": [
+   "'P acid' -> palmitic acid (not used)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 411,
+  "name": "Pheasant",
+  "why": "Pheasant is a higher-calorie meat with a solid profile, one of the most protein-dense meats on the list yet one of the fattiest natural meats, among the best sources of vitamin B6, and among the highest in monounsaturated fat (oleic, palmitic and linoleic acids among the most prominent). It excels in a lot of ways that matter most, so he puts it in the top tier.",
+  "repairs": [
+   "'palic acid' -> palmitoleic acid (best guess)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Pheasant is a higher-calorie meat with a solid profile, one of the most protein-dense meats on the list yet one of the fattiest natural meats, among the best sources of vitamin B6, and among the highest in monounsaturated fat (oleic, palmitic, palmitoleic and linoleic acids). It excels in a lot of ways that matter most, so he puts it in the top tier. -> Pheasant is a higher-calorie meat with a solid profile, one of the most protein-dense meats on the list yet one of the fattiest natural meats, among the best sources of vitamin B6, and among the highest in monounsaturated fat (oleic, palmitic and linoleic acids among the most prominent). It excels in a lot of ways that matter most, so he puts it in the top tier."
+ },
+ {
+  "id": 412,
+  "name": "Quail",
+  "why": "Quail is a higher-calorie meat with a good profile, the best non-organ source of copper and among the best in vitamin B3 and B6, uniquely containing small amounts of vitamins A, E and K. It is one of the fattiest real meats and the highest in polyunsaturated fat on both lists, but it is noticeably lower in vitamin B12 than most meats; overall it is a fine nutritious choice for the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 413,
+  "name": "Raccoon",
+  "why": "Raccoon is a higher-calorie meat with a solid profile, the best source on the list of vitamin B1 (thiamin) and among the best in vitamin B2, B12, iron and choline. It is one of the fattiest unprocessed meats, mostly oleic, palmitic, linoleic and stearic fats, and must be cooked and prepared properly to avoid potential diseases, but overall it is a nutritious choice for the A tier.",
+  "repairs": [
+   "'vitam Vin B1 thamin' -> vitamin B1 thiamin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 414,
+  "name": "Sausage Link",
+  "why": "Breakfast sausage links are a high-calorie meat with a mediocre profile, with over twice as much fat as protein, mostly monounsaturated oleic with palmitic, linoleic and stearic. This beef or pork product is usually highly processed, with many additives and preservatives associated with several chronic diseases, and is just not nutritious; a fine occasional breakfast treat and nothing more, so it earns the D tier.",
+  "repairs": [
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 415,
+  "name": "Snail",
+  "why": "Snail is a low-calorie meat with a unique profile, the only option on either list to significantly provide vitamin E, easily the best magnesium source, among the best for copper, phosphorus and selenium, with some EPA and DPA omega-3s. It is lower in protein than natural meats and poultry and must not be eaten raw, because of dangerous infections, but prepared properly it offers things no other meat can, so top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 416,
+  "name": "Spam",
+  "why": "Spam is a high-calorie processed meat with a less-than-stellar profile, a decent source of selenium but otherwise just really fatty (oleic, palmitic, stearic and linoleic). It is cured, filled with additives and excessively sodium dense, so it is not the optimal choice if health is a concern, which goes without saying, and he puts it in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 417,
+  "name": "Squirrel",
+  "why": "Squirrel is an average-calorie meat with a solid profile, very protein dense compared to most meats and among the best sources on the list of vitamin B12, iron and choline. It is not very fatty, mostly oleic and linoleic fat, and has everything you would look for in a meat with no real shortcomings, so he puts it in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 418,
+  "name": "Turkey Bacon",
+  "why": "Turkey bacon is a very high-calorie meat, the best source on either list of phosphorus and potassium and among the best for B3 and zinc, beating pork bacon on every micronutrient but B1, with about 30% fewer calories and the highest polyunsaturated fat. It is often cured (cancer risk), excessively sodium dense and often has added sugars; not healthy but with merit, so he puts it in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 419,
+  "name": "Turkey Leg",
+  "why": "Turkey leg is an average-calorie meat with a good profile, comparable to dark versus white chicken meat, among the best sources of selenium and among the highest in poultry creatine. Being darker it trades some protein for fat, mostly oleic, linoleic and palmitic, and it is a bit lower in vitamin B12 than most meats, but it is a choice that is hard to go wrong with, so it goes in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 420,
+  "name": "Veal",
+  "why": "Veal is an average-calorie meat with a solid profile, a younger beef with similar compounds: a great source of vitamin B12, the best source of creatine on the list, and a good amount of choline, conjugated linoleic acid and carnosine. It is less protein dense than adult beef and has significantly less iron, a couple of notable shortcomings, but still a great choice, so the verdict is the B tier.",
+  "repairs": [
+   "'ve' -> veal",
+   "'conjugated lolic acid' -> conjugated linoleic acid"
+  ],
+  "confidence": "low",
+  "note": "Tier corrected from A to B (caption says 'round out our list in the B tier'; see build_data.py TIER_OVERRIDES).",
+  "audit_edit": "Veal is an average-calorie meat with a solid profile, a younger beef with similar compounds: a great source of vitamin B12, the best source of creatine on the list, and a good amount of choline, conjugated linoleic acid and carnosine. It is less protein dense than adult beef and has significantly less iron, a couple of notable shortcomings, but still a great choice, so the verdict is the A tier. -> Veal is an average-calorie meat with a solid profile, a younger beef with similar compounds: a great source of vitamin B12, the best source of creatine on the list, and a good amount of choline, conjugated linoleic acid and carnosine. It is less protein dense than adult beef and has significantly less iron, a couple of notable shortcomings, but still a great choice, so the verdict is the B tier."
+ }
+]

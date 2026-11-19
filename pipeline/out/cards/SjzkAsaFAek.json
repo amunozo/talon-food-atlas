@@ -1,0 +1,1901 @@
+{
+ "video_id": "SjzkAsaFAek",
+ "title": "Sweets Ranked - Nutrition Tier Lists",
+ "n_expected": 39,
+ "foods": [
+  {
+   "food": "Almond Butter",
+   "start": 121,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 615,
+    "protein_g": 21,
+    "fat_g": 56,
+    "carbs_g": 19,
+    "fiber_g": 4,
+    "sugar_g": 4,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 161
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 104
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 93
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 73
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 72
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 70
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 30
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ambrosia",
+   "start": 201,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 75,
+    "protein_g": 1,
+    "fat_g": 1,
+    "carbs_g": 16,
+    "sugar_g": 13,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Baklava",
+   "start": 246,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 440,
+    "protein_g": 7,
+    "fat_g": 29,
+    "carbs_g": 38,
+    "sugar_g": 13,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Brownies",
+   "start": 290,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 465,
+    "protein_g": 6,
+    "fat_g": 29,
+    "carbs_g": 50,
+    "sugar_g": 37,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Butterscotch",
+   "start": 321,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 390,
+    "protein_g": 0,
+    "fat_g": 3,
+    "carbs_g": 90,
+    "sugar_g": 81,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cake",
+   "start": 344,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 370,
+    "protein_g": 5,
+    "fat_g": 15,
+    "carbs_g": 53,
+    "sugar_g": 39,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Caramel",
+   "start": 374,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 380,
+    "protein_g": 5,
+    "fat_g": 8,
+    "carbs_g": 77,
+    "sugar_g": 66,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cashew Butter",
+   "start": 407,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 585,
+    "protein_g": 18,
+    "fat_g": 49,
+    "carbs_g": 28,
+    "sugar_g": 9,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 243
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 65
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 65
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 24
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cheesecake",
+   "start": 476,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 320,
+    "protein_g": 6,
+    "fat_g": 23,
+    "carbs_g": 26,
+    "sugar_g": 22,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Dark Chocolate",
+   "start": 516,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 600,
+    "protein_g": 8,
+    "fat_g": 43,
+    "carbs_g": 46,
+    "sugar_g": 24,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 196
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 85
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 66
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 57
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Milk Chocolate",
+   "start": 597,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 535,
+    "protein_g": 8,
+    "fat_g": 30,
+    "carbs_g": 59,
+    "sugar_g": 52,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 54
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 16
+     }
+    ]
+   }
+  },
+  {
+   "food": "White Chocolate",
+   "start": 636,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 540,
+    "protein_g": 6,
+    "fat_g": 32,
+    "carbs_g": 59,
+    "sugar_g": 59,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Churros",
+   "start": 668,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 420,
+    "protein_g": 6,
+    "fat_g": 22,
+    "carbs_g": 49,
+    "sugar_g": 23,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cinnamon Roll",
+   "start": 700,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 450,
+    "protein_g": 4,
+    "fat_g": 27,
+    "carbs_g": 49,
+    "sugar_g": 26,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cookies",
+   "start": 733,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 490,
+    "protein_g": 6,
+    "fat_g": 28,
+    "carbs_g": 58,
+    "sugar_g": 33,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Custard",
+   "start": 759,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 120,
+    "protein_g": 4,
+    "fat_g": 4,
+    "carbs_g": 18,
+    "sugar_g": 5,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Donut",
+   "start": 789,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 405,
+    "protein_g": 6,
+    "fat_g": 23,
+    "carbs_g": 44,
+    "sugar_g": 23,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Frosting",
+   "start": 817,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 420,
+    "protein_g": 0,
+    "fat_g": 16,
+    "carbs_g": 68,
+    "sugar_g": 63,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Frozen Yogurt",
+   "start": 835,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 160,
+    "protein_g": 4,
+    "fat_g": 6,
+    "carbs_g": 24,
+    "sugar_g": 24,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fruitcake",
+   "start": 862,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 325,
+    "protein_g": 3,
+    "fat_g": 9,
+    "carbs_g": 62,
+    "sugar_g": 27,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fudge",
+   "start": 919,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 410,
+    "protein_g": 2,
+    "fat_g": 10,
+    "carbs_g": 77,
+    "sugar_g": 73,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Gelatin",
+   "start": 943,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 60,
+    "protein_g": 1,
+    "fat_g": 0,
+    "carbs_g": 14,
+    "sugar_g": 14,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Gingerbread",
+   "start": 972,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 355,
+    "protein_g": 4,
+    "fat_g": 16,
+    "carbs_g": 49,
+    "sugar_g": 28,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 15
+     }
+    ]
+   }
+  },
+  {
+   "food": "Gummies",
+   "start": 998,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 395,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 99,
+    "sugar_g": 59,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Hazelnut Spread",
+   "start": 1023,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 540,
+    "protein_g": 5,
+    "fat_g": 30,
+    "carbs_g": 62,
+    "sugar_g": 54,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Honey",
+   "start": 1075,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 305,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 82,
+    "sugar_g": 82,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ice Cream",
+   "start": 1122,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 205,
+    "protein_g": 4,
+    "fat_g": 11,
+    "carbs_g": 24,
+    "sugar_g": 21,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ice Pops",
+   "start": 1156,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 80,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 19,
+    "sugar_g": 14,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Jam",
+   "start": 1178,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 280,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 69,
+    "sugar_g": 49,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Macaroons",
+   "start": 1225,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 460,
+    "protein_g": 3,
+    "fat_g": 23,
+    "carbs_g": 61,
+    "sugar_g": 45,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Maple Syrup",
+   "start": 1254,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 260,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 67,
+    "sugar_g": 61,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 127
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 98
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Marshmallow",
+   "start": 1289,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 320,
+    "protein_g": 2,
+    "fat_g": 0,
+    "carbs_g": 81,
+    "sugar_g": 58,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Molasses",
+   "start": 1306,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 290,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 75,
+    "sugar_g": 75,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 67
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 61
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 54
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 20
+     }
+    ]
+   }
+  },
+  {
+   "food": "Parfait",
+   "start": 1358,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 85,
+    "protein_g": 3,
+    "fat_g": 1,
+    "carbs_g": 16,
+    "sugar_g": 12,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Peanut Butter",
+   "start": 1415,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 600,
+    "protein_g": 22,
+    "fat_g": 51,
+    "carbs_g": 22,
+    "sugar_g": 11,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 82
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 72
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 61
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 23
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pie",
+   "start": 1485,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 265,
+    "protein_g": 2,
+    "fat_g": 13,
+    "carbs_g": 37,
+    "sugar_g": 16,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pudding",
+   "start": 1520,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 130,
+    "protein_g": 1,
+    "fat_g": 4,
+    "carbs_g": 23,
+    "sugar_g": 17,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sherbet",
+   "start": 1552,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 145,
+    "protein_g": 1,
+    "fat_g": 2,
+    "carbs_g": 30,
+    "sugar_g": 24,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Whipped Cream",
+   "start": 1583,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 290,
+    "protein_g": 2,
+    "fat_g": 31,
+    "carbs_g": 3,
+    "sugar_g": 3,
+    "fiber_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 4
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.054541,
+  "calls": [
+   {
+    "cost": 0.054541,
+    "tokens": {
+     "prompt_tokens": 152236,
+     "completion_tokens": 10988,
+     "total_tokens": 163224
+    },
+    "wall_s": 72.4
+   }
+  ],
+  "wall_s": 72.4
+ }
+}

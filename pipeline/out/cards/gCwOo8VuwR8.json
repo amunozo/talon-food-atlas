@@ -1,0 +1,1503 @@
+{
+ "video_id": "gCwOo8VuwR8",
+ "title": "Organ Meats Ranked - Nutrition Tier Lists",
+ "n_expected": 30,
+ "foods": [
+  {
+   "food": "Brain (Beef)",
+   "start": 152,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~195",
+    "protein_g": "~13g",
+    "fat_g": "~16g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 633
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 55
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Brain (Lamb)",
+   "start": 214,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~275",
+    "protein_g": "~17g",
+    "fat_g": "~22g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 1004
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 71
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 53
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 26
+     }
+    ]
+   }
+  },
+  {
+   "food": "Brain (Pork)",
+   "start": 257,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~140",
+    "protein_g": "~12g",
+    "fat_g": "~10g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 62
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 16
+     }
+    ]
+   }
+  },
+  {
+   "food": "Gizzard (Chicken)",
+   "start": 288,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~155",
+    "protein_g": "~30g",
+    "fat_g": "~3g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 80
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 18
+     }
+    ]
+   }
+  },
+  {
+   "food": "Gizzard (Turkey)",
+   "start": 318,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~155",
+    "protein_g": "~26g",
+    "fat_g": "~5g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 163
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 80
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 27
+     }
+    ]
+   }
+  },
+  {
+   "food": "Heart (Beef)",
+   "start": 344,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~165",
+    "protein_g": "~29g",
+    "fat_g": "~5g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 450
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 93
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 71
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 62
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 36
+     }
+    ]
+   }
+  },
+  {
+   "food": "Heart (Chicken)",
+   "start": 390,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~185",
+    "protein_g": "~26g",
+    "fat_g": "~8g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 304
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 66
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 57
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 56
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 53
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 28
+     }
+    ]
+   }
+  },
+  {
+   "food": "Heart (Lamb)",
+   "start": 418,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~185",
+    "protein_g": "~25g",
+    "fat_g": "~8g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 467
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 92
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 85
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 68
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 23
+     }
+    ]
+   }
+  },
+  {
+   "food": "Heart (Pork)",
+   "start": 447,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~150",
+    "protein_g": "~24g",
+    "fat_g": "~5g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 158
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 131
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 56
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 46
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 36
+     }
+    ]
+   }
+  },
+  {
+   "food": "Heart (Turkey)",
+   "start": 475,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~175",
+    "protein_g": "~25g",
+    "fat_g": "~8g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 579
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 118
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 103
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 92
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 118
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kidney (Beef)",
+   "start": 500,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~160",
+    "protein_g": "~27g",
+    "fat_g": "~5g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 1038
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 305
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 228
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 30
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kidney (Lamb)",
+   "start": 530,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~135",
+    "protein_g": "~24g",
+    "fat_g": "~4g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 3287
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 398
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 159
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 69
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 41
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kidney (Pork)",
+   "start": 558,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~150",
+    "protein_g": "~25g",
+    "fat_g": "~5g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 567
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 324
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 122
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 76
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 57
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 34
+     }
+    ]
+   }
+  },
+  {
+   "food": "Liver (Beef)",
+   "start": 589,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~175",
+    "protein_g": "~27g",
+    "fat_g": "~5g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 3463
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 1620
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 860
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 263
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 139
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 109
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 79
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 69
+     }
+    ]
+   }
+  },
+  {
+   "food": "Liver (Chicken)",
+   "start": 665,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~170",
+    "protein_g": "~26g",
+    "fat_g": "~6g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 879
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 478
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 178
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 166
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 160
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 140
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 87
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 72
+     }
+    ]
+   }
+  },
+  {
+   "food": "Liver (Lamb)",
+   "start": 701,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~240",
+    "protein_g": "~26g",
+    "fat_g": "~13g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 3571
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 1091
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 864
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 353
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 211
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 127
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 104
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 101
+     }
+    ]
+   }
+  },
+  {
+   "food": "Liver (Pork)",
+   "start": 752,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~165",
+    "protein_g": "~26g",
+    "fat_g": "~4g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 779
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 600
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 169
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 123
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 99
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 95
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 70
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 53
+     }
+    ]
+   }
+  },
+  {
+   "food": "Liver (Turkey)",
+   "start": 788,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~190",
+    "protein_g": "~27g",
+    "fat_g": "~8g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 1200
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 1175
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 207
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 185
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 172
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 117
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 87
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 81
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pancreas (Beef)",
+   "start": 813,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~270",
+    "protein_g": "~27g",
+    "fat_g": "~17g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 691
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 88
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 85
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 65
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 23
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pancreas (Lamb)",
+   "start": 841,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~235",
+    "protein_g": "~23g",
+    "fat_g": "~15g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 213
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 118
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 62
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pancreas (Pork)",
+   "start": 863,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~220",
+    "protein_g": "~29g",
+    "fat_g": "~11g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 713
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 132
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 95
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 34
+     }
+    ]
+   }
+  },
+  {
+   "food": "Spleen (Beef)",
+   "start": 883,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~145",
+    "protein_g": "~25g",
+    "fat_g": "~4g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 219
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 209
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 166
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 103
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 56
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 35
+     }
+    ]
+   }
+  },
+  {
+   "food": "Spleen (Lamb)",
+   "start": 918,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~155",
+    "protein_g": "~27g",
+    "fat_g": "~5g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 220
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 215
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 91
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 24
+     }
+    ]
+   }
+  },
+  {
+   "food": "Spleen (Pork)",
+   "start": 941,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~150",
+    "protein_g": "~28g",
+    "fat_g": "~3g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 123
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 115
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 90
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 20
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sweetbread (Beef)",
+   "start": 964,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~320",
+    "protein_g": "~22g",
+    "fat_g": "~25g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sweetbread (Lamb)",
+   "start": 1000,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~145",
+    "protein_g": "~21g",
+    "fat_g": "~7g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 104
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 79
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tongue (Beef)",
+   "start": 1021,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~285",
+    "protein_g": "~19g",
+    "fat_g": "~22g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 130
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 15
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tongue (Lamb)",
+   "start": 1056,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~275",
+    "protein_g": "~22g",
+    "fat_g": "~20g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 263
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tongue (Pork)",
+   "start": 1078,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~270",
+    "protein_g": "~24g",
+    "fat_g": "~19g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 25
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tripe (Beef)",
+   "start": 1099,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "~95",
+    "protein_g": "~12g",
+    "fat_g": "~4g",
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 4
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.040384,
+  "calls": [
+   {
+    "cost": 0.0403845,
+    "tokens": {
+     "prompt_tokens": 108432,
+     "completion_tokens": 8851,
+     "total_tokens": 117283
+    },
+    "wall_s": 47.1
+   }
+  ],
+  "wall_s": 47.1
+ }
+}

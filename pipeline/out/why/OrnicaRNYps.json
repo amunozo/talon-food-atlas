@@ -1,0 +1,405 @@
+[
+ {
+  "id": 469,
+  "name": "Allspice",
+  "why": "Allspice is a lower-calorie spice with a mild profile, historically used as a home remedy for colds, cramps, indigestion and headaches, with varying success for inflammation, bloating and blood sugar. It contains quercetin (anti-cancer and antiviral), gallic acid (brain health) and eugenol (antibacterial, antifungal, anti-cancer), and is shown to ease menopause symptoms by binding estrogen receptors, a textbook example of how spices benefit the body, so B tier.",
+  "repairs": [
+   "'cortin' -> quercetin",
+   "'metapa symptoms' -> menopause symptoms"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 470,
+  "name": "Anise",
+  "why": "Anise seed is an average-calorie spice with a decent profile whose unique flavor comes from the antioxidant anethole, which with gallic acid, shikimic acid and other compounds gives it impressive anti-inflammatory, antimicrobial and antifungal capabilities. It has been used as an antidepressant and to help prevent UTIs, and he calls it a unique, worthwhile spice in B tier.",
+  "repairs": [
+   "'anthol' -> anethole",
+   "'cortin' -> quercetin",
+   "'lemon' -> limonene (approx.)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Anise seed is an average-calorie spice with a decent profile whose unique flavor comes from the antioxidant anethole, which with quercetin, gallic acid, limonene and shikimic acid gives it impressive anti-inflammatory, antimicrobial and antifungal capabilities. It has been used as an antidepressant and to help prevent UTIs, and he calls it a unique, worthwhile spice in B tier. -> Anise seed is an average-calorie spice with a decent profile whose unique flavor comes from the antioxidant anethole, which with gallic acid, shikimic acid and other compounds gives it impressive anti-inflammatory, antimicrobial and antifungal capabilities. It has been used as an antidepressant and to help prevent UTIs, and he calls it a unique, worthwhile spice in B tier."
+ },
+ {
+  "id": 471,
+  "name": "Basil",
+  "why": "Basil is a lower-calorie herb with a great profile, a good source of vitamin K, though dried basil's numbers should be read with quantity in mind. It is shown to provide many medicinal benefits including improving memory and skin health, combating chronic inflammation, stress and depression, and regulating blood pressure, so he places it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 472,
+  "name": "Bay Leaf",
+  "why": "Bay leaf is an average-calorie spice with a moderate profile, a pretty good source of iron and manganese, shown to boost immune health and act as a digestive aid for upset stomach, and possibly aid memory and cognitive function. Eating whole leaves is not recommended because they are difficult to digest, and it is not proven to offer nearly as much as other herbs and spices, so C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 473,
+  "name": "Black Pepper",
+  "why": "Black pepper is an average-calorie spice with a decent profile, a good source of manganese whose main benefits come from piperine, an antioxidant that protects against cell damage, cancer damage, inflammation and arthritis, helps prevent Alzheimer's and Parkinson's and improves memory. It also stimulates digestive enzymes, improves absorption of carotenoids and curcumin, helps prevent diarrhea and is linked to better blood sugar and cholesterol, and as one of the most thoroughly studied spices it goes in top tier.",
+  "repairs": [
+   "'peeran' -> piperine",
+   "'circumin' -> curcumin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 474,
+  "name": "Caraway",
+  "why": "Caraway seed is an average-calorie spice with a mild profile, a fine source of iron with antioxidants limonene and carvone, anti-inflammatory effects in the colon and IBS relief, use for gas, cramping, bloating and stomach ulcers, and less tested uses for diabetes and brain health. Its benefits are less notable and less proven than other spices, so he puts it in C tier.",
+  "repairs": [
+   "'lemine' -> limonene"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 475,
+  "name": "Cardamom",
+  "why": "Cardamom is an average-calorie spice with a pretty good profile, an excellent source of manganese backed by enough studies, with antioxidant properties shown to help high blood pressure, anti-inflammatory effects in the liver, natural anti-cancer effects with studies on oral and skin cancers, and use for healing stomach ulcers. He lists no downsides, calling it an all-around good and more proven spice, so B tier.",
+  "repairs": [
+   "'manganes' -> manganese",
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 476,
+  "name": "Cayenne Pepper",
+  "why": "Cayenne pepper is an average-calorie spice with an impressive profile, a great source of provitamin A carotenoids (alpha- and beta-carotene) for eye and immune health, and capsaicin, which benefits heart health, blood sugar, pain and inflammation relief and somewhat athletic performance, plus flavonoids, vitamin C and E. In excess spicy foods can irritate digestion, particularly with IBS and GERD, but it is too powerful to ignore and goes in top tier.",
+  "repairs": [
+   "'capsacin' -> capsaicin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 477,
+  "name": "Celery Seed",
+  "why": "Celery seed is a higher-calorie spice with a solid profile, a sound source of iron and manganese with a fair amount of polyphenol antioxidants, whose manganese and calcium contribute to bone health and formation, and with digestive and antibacterial properties. He lists no downsides and calls it a perfectly fine spice, so it goes in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 478,
+  "name": "Chives",
+  "why": "Chives are a lower-calorie herb with an impressive profile at least when dried, related to garlic, onions and leeks, very rich in carotenoids including lutein and zeaxanthin, plus vitamin C and K, and containing allicin, shown to help prevent cancers such as breast and gastrointestinal and to improve memory. He lists no downsides, calling them a solid and healthy addition, so they land in A tier.",
+  "repairs": [
+   "'ludian and zanthin' -> lutein and zeaxanthin",
+   "'allisin' -> allicin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 479,
+  "name": "Cilantro",
+  "why": "Cilantro (coriander leaves) is a lower-calorie herb with a relevant profile, a decent source of vitamin K and carotenoids, with a wide array of antioxidants that benefit skin and heart health, activate enzymes that reduce blood sugar and lower heart disease risk. Fresh cilantro has antibacterial effects against foodborne illness and studies show anti-cancer effects for prostate and breast cancers, and he calls it a common herb worth including, so B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 480,
+  "name": "Cinnamon",
+  "why": "Cinnamon is an average-calorie spice with a respectable profile and one of the most researched, a good source of manganese loaded with polyphenols for inflammation, blood pressure and cholesterol, plus cinnamaldehyde against infections, and shown to combat insulin resistance and type 2 diabetes. Ceylon is safer in higher quantities, while cassia contains coumarin, harmful in larger doses and potentially damaging to the liver, and cinnamon lands in top tier.",
+  "repairs": [
+   "'polyenals' -> polyphenols",
+   "'cinnamal dhide' -> cinnamaldehyde",
+   "'Salon' -> Ceylon",
+   "'Casia' -> cassia",
+   "'cumarin' -> coumarin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 481,
+  "name": "Cloves",
+  "why": "Ground cloves are an average-calorie spice with a lopsided profile, an excellent source of manganese (brain function, bone building), rich in eugenol, an antioxidant shown to promote cancer cell death, prevent liver diseases and combat bone density loss, plus nigericin for blood sugar and antimicrobial effects against harmful oral bacteria. Higher amounts may harm the liver because eugenol is toxic in high amounts, but he calls it a wonderful spice in A tier.",
+  "repairs": [
+   "'a PO oxidative damage preventer' -> an antioxidant / oxidative damage preventer"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 482,
+  "name": "Coriander Seed",
+  "why": "Coriander seeds are an average-calorie spice with a mild profile, a decent source of iron with well-researched antioxidants (including tocopherols) that contribute to anti-inflammation, anti-cancer effects, immune health and brain health. They are also shown to lower cholesterol, regulate blood sugar, improve memory and help prevent UTIs, and he calls them a perfectly good option like the leaves, so B tier.",
+  "repairs": [
+   "'portin turpine and Toco ferals' -> quercetin(?), terpinene, tocopherols (approx.)"
+  ],
+  "confidence": "high",
+  "note": "Antioxidant names garbled; only terpene and tocopherols referenced.",
+  "audit_edit": "Coriander seeds are an average-calorie spice with a mild profile, a decent source of iron with well-researched antioxidants (including a terpene and tocopherols) that contribute to anti-inflammation, anti-cancer effects, immune health and brain health. They are also shown to lower cholesterol, regulate blood sugar, improve memory and help prevent UTIs, and he calls them a perfectly good option like the leaves, so B tier. -> Coriander seeds are an average-calorie spice with a mild profile, a decent source of iron with well-researched antioxidants (including tocopherols) that contribute to anti-inflammation, anti-cancer effects, immune health and brain health. They are also shown to lower cholesterol, regulate blood sugar, improve memory and help prevent UTIs, and he calls them a perfectly good option like the leaves, so B tier."
+ },
+ {
+  "id": 483,
+  "name": "Cumin",
+  "why": "Cumin is a somewhat higher-calorie spice with a good profile, a solid source of iron and of antioxidants like apigenin and luteolin that give one of the best anti-cancer effects among common spices. It helps blood sugar control and raises HDL, has antibacterial and antifungal properties, and treats diarrhea and indigestion by boosting digestive enzymes and bile release, so he calls it a healthy option in A tier.",
+  "repairs": [
+   "'appenine and lud diolan' -> apigenin and luteolin",
+   "'certain Trends' -> certain trends"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 484,
+  "name": "Curry Powder",
+  "why": "Curry powder is an average-calorie spice mix with a usually pretty solid profile, a blend of spices such as chili pepper, coriander, cumin, fennel, fenugreek, ginger, mustard seed, turmeric and black pepper, many of which offer anti-inflammatory effects for certain arthritis, better blood flow and heart health, brain function, blood sugar, digestion, and antibacterial, antifungal and anti-cancer properties. No two blends are the same, so he gives it V tier, for varies.",
+  "repairs": [
+   "'fenu Greek' -> fenugreek"
+  ],
+  "confidence": "high",
+  "note": "Verdict is a joke 'V tier' (varies), matching original_tier V."
+ },
+ {
+  "id": 485,
+  "name": "Dill Weed",
+  "why": "Dill weed is a lower-calorie herb with a decent profile, a solid source of iron when dried and a decent source of carotenoids that the body converts to vitamin A, plus vitamin C, flavonoids that are anti-inflammatory, tannins that are antimicrobial and terpenoids that aid liver, brain and heart health. It is not the most thoroughly studied, but he places it in B tier.",
+  "repairs": [
+   "'dillweed' -> dill weed"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 486,
+  "name": "Fennel Seed",
+  "why": "Fennel seed is an average-calorie spice with a fine profile, a decent source of manganese and iron, full of polyphenols like chlorogenic acid, quercetin and apigenin with anti-inflammatory effects against chronic, especially heart-related, diseases, plus anethole with powerful anti-cancer properties. It is also antimicrobial, eases gassiness and suppresses appetite, and he calls it a little health bomb in A tier.",
+  "repairs": [
+   "'cortin' -> quercetin",
+   "'appenine' -> apigenin",
+   "'aniol' -> anethole",
+   "'AER' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 487,
+  "name": "Garlic Powder",
+  "why": "Garlic powder is an average-calorie spice with a mild profile, less potent than fresh garlic but one of the oldest medicinal foods, with benefits from sulfur compounds like allicin: immune support against colds and flu, lower LDL, and antioxidants that help prevent cognitive decline. It lowers blood pressure about as well as medication with fewer side effects and helps detoxify heavy metals like lead, so despite being the lesser form it gets top tier.",
+  "repairs": [
+   "'allisin' -> allicin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 488,
+  "name": "Ginger",
+  "why": "Ground ginger is an average-calorie spice with a quality profile, a solid source of manganese whose main compound gingerol fights indigestion (bloating, gas, abdominal pain), infections including flu, inflammation including joint pain and muscle soreness, nausea and morning sickness, and menstrual pain. Dried ginger also has shogaol, which helps prevent neurodegenerative diseases by inhibiting brain inflammation, and it lowers blood sugar in type 2 diabetes and combats certain cancers, so top tier.",
+  "repairs": [
+   "'shal' -> shogaol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 489,
+  "name": "Mace",
+  "why": "Mace (from the shell of nutmeg seeds) is a higher-calorie spice with a fair profile, a decent source of copper, shown to have anti-inflammatory effects for joint pain, improve blood flow, memory and temporary focus, and to benefit digestion by relieving bloating, constipation and gas. He lists no real downsides but jokes it is arguably more useful for self-defense (pepper spray), and he puts it in D tier.",
+  "repairs": [
+   "'hitri' -> javitri (alt. name)",
+   "'SP ice' -> spice"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 490,
+  "name": "Marjoram",
+  "why": "Marjoram is an average-calorie herb in the same family as oregano with a great profile, a solid source of iron and vitamin K and antioxidants like carvacrol, which combats chronic inflammation and certain autoimmune diseases. It has been used for fungal infections and foodborne illness and to regulate the menstrual cycle, but is best avoided by pregnant women because of potential hormonal influence, and it is not researched enough for a higher placement than B tier.",
+  "repairs": [
+   "'margarum/margam' -> marjoram",
+   "'food born elsis' -> foodborne illness"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 491,
+  "name": "Mint",
+  "why": "Mint is a lower-calorie herb with a fair profile, covering mainly peppermint and spearmint, both pretty high in carotenoids per calorie, with aroma and consumption shown to improve memory and alertness and combat fatigue, and acting as a muscle relaxant and pain reliever for headaches or menstrual cramps. Peppermint is higher in menthol, which eases IBS symptoms and indigestion, but both offer a bit less than most herbs, so D tier.",
+  "repairs": [
+   "'spearm minint' -> spearmint",
+   "'deter' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 492,
+  "name": "Mustard Seed",
+  "why": "Mustard seed is a higher-calorie spice with a mediocre profile, a solid source of selenium with antimicrobial benefits against certain harmful bacteria and shown to prevent the spread of certain cancers, with one study on bladder cancer. It is fine but a lot less proven than most spices, so he puts it in D tier.",
+  "repairs": [
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 493,
+  "name": "Nutmeg",
+  "why": "Nutmeg is a higher-calorie spice with a meager profile that contains a wide array of antioxidants like cyanidins and phenolics such as ferulic and caffeic acids, which with other compounds combat inflammation and joint pain, and is shown to reduce LDL cholesterol and blood sugar and have antibacterial properties toward oral bacteria. In excess it has more common negative effects like nausea and rapid heart rate, but as a whole it is a useful spice in C tier.",
+  "repairs": [
+   "'SE tier' -> C tier",
+   "'caic acids' -> caffeic acids",
+   "'tpin' -> terpenes (approx.)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Nutmeg is a higher-calorie spice with a meager profile that contains a wide array of antioxidants like cyanidins and phenolics such as ferulic and caffeic acids, which with terpenes combat inflammation and joint pain, and is shown to reduce LDL cholesterol and blood sugar and have antibacterial properties toward oral bacteria. In excess it has more common negative effects like nausea and rapid heart rate, but as a whole it is a useful spice in C tier. -> Nutmeg is a higher-calorie spice with a meager profile that contains a wide array of antioxidants like cyanidins and phenolics such as ferulic and caffeic acids, which with other compounds combat inflammation and joint pain, and is shown to reduce LDL cholesterol and blood sugar and have antibacterial properties toward oral bacteria. In excess it has more common negative effects like nausea and rapid heart rate, but as a whole it is a useful spice in C tier."
+ },
+ {
+  "id": 494,
+  "name": "Onion Powder",
+  "why": "Onion powder is an average-calorie spice with a meek profile whose benefits come from sulfur compounds like allicin (anti-cancer, heart and cognition protective), antioxidants including anti-inflammatory quercetin and diabetes-fighting anthocyanins, and gut-friendly prebiotics. It is also shown to prevent bone mass deterioration, certain bacterial growth and certain cancers, and like fresh onions it has a lot to offer beneath the surface, so A tier.",
+  "repairs": [
+   "'allisin' -> allicin",
+   "'cortin' -> quercetin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 495,
+  "name": "Oregano",
+  "why": "Dried oregano is an average-calorie herb with a sound profile, a solid source of vitamin K and iron and rich in carvacrol and thymol, which reduce inflammation and the risk of chronic diseases. It has potent antibacterial and antiviral properties against infections causing diarrhea, nausea and stomach problems, and studies show it helps prevent the spread of certain cancers including colon cancer, one of the most studied and backed herbs, so A tier.",
+  "repairs": [
+   "'chronic disas diseases' -> chronic diseases"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 496,
+  "name": "Paprika",
+  "why": "Paprika is an average-calorie spice with a superb profile in sweet, smoked or hot varieties, very high in carotenoids including beta-carotene, lutein and zeaxanthin (convertible to vitamin A, protective for eyes, and linked to lower heart disease and cancer risk including breast cancer), plus a decent source of iron and vitamin E. Hotter paprikas contain capsaicin against inflammation and pain and possibly improving insulin sensitivity, with some of the most potent benefits of any spice, so top tier.",
+  "repairs": [
+   "'ludan and zanthin' -> lutein and zeaxanthin",
+   "'capsacin' -> capsaicin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 497,
+  "name": "Parsley",
+  "why": "Parsley is a low-calorie herb with a substantial profile, a solid source of vitamin K and antioxidants such as vitamin C, carotenoids and flavonoids like apigenin that boost immunity, plus antibacterial oils such as apiol and nitrates that improve blood flow. It is shown to improve heart function, lower heart disease risk and blood sugar, keep kidneys healthy, regulate urinary pH and improve pancreatic function, a wonderful herb with a laundry list of benefits in A tier.",
+  "repairs": [
+   "'appenine' -> apigenin",
+   "'marasin' -> myristicin (approx.)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 498,
+  "name": "Rosemary",
+  "why": "Rosemary is an average-calorie herb with a mild profile, rich in antioxidants including phenolic compounds, flavonoids and other compounds that combat chronic inflammation and cellular damage, and its consumption is shown to improve cognitive function, concentration, memory and sleep quality and to relieve stress, anxiety and mild pain. He finds its benefits not quite as proven as other herbs, so he places it in D tier.",
+  "repairs": [
+   "'derpo' -> terpenes (approx.)",
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Rosemary is an average-calorie herb with a mild profile, rich in antioxidants including phenolic compounds, flavonoids and terpenes that combat chronic inflammation and cellular damage, and its consumption is shown to improve cognitive function, concentration, memory and sleep quality and to relieve stress, anxiety and mild pain. He finds its benefits not quite as proven as other herbs, so he places it in D tier. -> Rosemary is an average-calorie herb with a mild profile, rich in antioxidants including phenolic compounds, flavonoids and other compounds that combat chronic inflammation and cellular damage, and its consumption is shown to improve cognitive function, concentration, memory and sleep quality and to relieve stress, anxiety and mild pain. He finds its benefits not quite as proven as other herbs, so he places it in D tier."
+ },
+ {
+  "id": 499,
+  "name": "Saffron",
+  "why": "Saffron is an average-calorie spice with a solid profile, a good source of manganese with an impressive variety of antioxidants: crocin and crocetin carotenoids that combat brain-cell inflammation and help with appetite control, kaempferol with anti-inflammatory, anti-cancer and antidepressant properties, and a signature compound for brain cell health, memory and mood. Known as the sunshine spice for boosting mood and combating depression, it is a very beneficial spice in A tier.",
+  "repairs": [
+   "'croin and crotin' -> crocin and crocetin",
+   "'catenoids' -> carotenoids",
+   "'came forall' -> kaempferol",
+   "'saffronolive' -> safranal (approx.)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Saffron is an average-calorie spice with a solid profile, a good source of manganese with an impressive variety of antioxidants: crocin and crocetin carotenoids that combat brain-cell inflammation and help with appetite control, kaempferol with anti-inflammatory, anti-cancer and antidepressant properties, and safranal for brain cell health, memory and mood. Known as the sunshine spice for boosting mood and combating depression, it is a very beneficial spice in A tier. -> Saffron is an average-calorie spice with a solid profile, a good source of manganese with an impressive variety of antioxidants: crocin and crocetin carotenoids that combat brain-cell inflammation and help with appetite control, kaempferol with anti-inflammatory, anti-cancer and antidepressant properties, and a signature compound for brain cell health, memory and mood. Known as the sunshine spice for boosting mood and combating depression, it is a very beneficial spice in A tier."
+ },
+ {
+  "id": 500,
+  "name": "Sage",
+  "why": "Ground sage is an average-calorie herb with a great profile, a significant source of vitamin K and the best source on the list of vitamin B6, with polyphenols (chlorogenic, caffeic, rosmarinic and ellagic acids) shown to reduce cancer risk and improve memory and brain function, raise HDL and lower LDL. It has antimicrobial benefits for oral health, improves insulin sensitivity and treats menopause symptoms, and he calls it probably the herb with the most potential benefits, so top tier.",
+  "repairs": [
+   "'polyal' -> polyphenol",
+   "'cafeic Ros marinic and alagic' -> caffeic, rosmarinic and ellagic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 501,
+  "name": "Savory",
+  "why": "Summer savory is an average-calorie herb with a respectable profile, a decent source of iron, manganese and calcium, with antibacterial and antifungal properties, shown to combat intestinal issues like indigestion, diarrhea and nausea. From what he could gather its benefits are not as well established as other herbs, so he places it in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 502,
+  "name": "Tarragon",
+  "why": "Tarragon is an average-calorie herb with a decent profile, a notable source of iron and manganese, with antimicrobial properties and shown to improve insulin sensitivity, relieve arthritis pain and act as a natural sleep aid. It is another herb that is not quite as well researched, so he places it in C tier.",
+  "repairs": [
+   "'Teragon' -> tarragon"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 503,
+  "name": "Thyme",
+  "why": "Thyme is an average-calorie herb with a solid profile, a pretty good source of vitamin K and iron, with anti-cancer benefits specifically for colon cancer, protection against harmful oral bacteria, and consumption shown to raise HDL and increase dopamine and serotonin to boost mood. It has been used as a home remedy for coughs and respiratory conditions, but it does not have quite as much going on as others, so B tier.",
+  "repairs": [
+   "'time' -> thyme"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 504,
+  "name": "Turmeric",
+  "why": "Turmeric is an average-calorie spice with a pretty impressive profile, a solid source of manganese and iron whose main compound curcumin has powerful anti-inflammatory effects, helps in cancer treatment, and combats arthritis and joint pain, Alzheimer's and cognitive decline, with piperine improving its absorption. It is best avoided by people with iron deficiency since it may inhibit iron absorption, but its health benefits are among the best, so top tier.",
+  "repairs": [
+   "'cirin / circumin' -> curcumin",
+   "'paring' -> piperine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 505,
+  "name": "Vanilla Extract",
+  "why": "Vanilla extract is an average-calorie spice with a practically non-existent profile, whose most notable features are the phenolics vanillin and vanillic acid, with antioxidant, anti-inflammatory, anti-cancer, liver-protective and neuroprotective benefits. Human studies are comparatively limited, so while you should use it if a recipe calls for it, he puts it in D tier.",
+  "repairs": [
+   "'vanilic' -> vanillic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 506,
+  "name": "White Pepper",
+  "why": "White pepper is an average-calorie spice with a fine profile, essentially black pepper from ripe berries that are soaked to remove the outer layer, and still rich in antioxidants including piperine, which combats chronic inflammation, arthritis and neurodegenerative diseases, stimulates digestive enzymes and improves curcumin absorption. Its benefits are pretty similar to its unripe counterpart's and he lists no downsides, so it rounds out the list in top tier.",
+  "repairs": [
+   "'pepperine' -> piperine"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

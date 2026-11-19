@@ -1,0 +1,166 @@
+[
+ {
+  "id": 454,
+  "name": "Beech",
+  "why": "Beech mushrooms are average in calories with a lesser micronutrient profile: a solid source of vitamin B3 and biotin, a decent source of vitamin D when exposed to sunlight, rich in flavonoid and phenolic antioxidants with anti-inflammatory, anti-cancer and gut-health benefits. There is not much more to say, but he calls them a worthy inclusion if you like the taste, in B tier.",
+  "repairs": [
+   "'Beach' -> beech",
+   "'pheny' -> phenolic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 455,
+  "name": "Chanterelle",
+  "why": "Chanterelles are lower in calories with an impressive profile: among the most fibrous on the list and among the best sources of iron and copper, plus vitamin D with sunlight. Their flavonoids, polyphenols and polysaccharides are linked to lower inflammation and better immune health with anti-cancer benefits, and he calls them one of the more nutritious options, in A tier.",
+  "repairs": [
+   "'sh anal'/'Chantal' -> chanterelle",
+   "'AER' -> A tier",
+   "'myosin and kakin' -> likely myricetin and catechin (uncertain)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 456,
+  "name": "Cloud Ear (Dried)",
+  "why": "Dried cloud ear is higher in calories with a solid profile and a great source of fiber, manganese, selenium, iron and vitamin B2. Its polyphenols are shown to combat cancer and heart disease, it has a prebiotic effect and may protect the liver, but it is lower in protein and some micros per calorie and should be soaked and cooked before use, so he puts it in B tier.",
+  "repairs": [
+   "'clou ear' -> cloud ear",
+   "'liver d image' -> liver damage"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 457,
+  "name": "Cremini",
+  "why": "Cremini is lower in calories with a great profile and the best source on the list of vitamin B2, among the best for copper, biotin and selenium, with gut-friendly bacteria and antioxidants including glutathione. It has anti-cancer effects via aromatase inhibition and lowers blood pressure; cooking is recommended to remove a likely carcinogenic compound, and he puts it in A tier.",
+  "repairs": [
+   "'crini' -> cremini",
+   "'a gertin' -> agaritine (carcinogen; cooking recommended)",
+   "'AG garagas bosporus' -> Agaricus bisporus"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 458,
+  "name": "Enoki",
+  "why": "Enoki is average in calories and micronutrients but the best source on the list of vitamin B3, with a range of antioxidants (including caffeic, chlorogenic, ellagic, ferulic and gallic acids) that boost immunity and reduce inflammation. It helps prevent stomach cancer, lowers LDL cholesterol and supports brain function and memory, so he calls it a solid pick in A tier.",
+  "repairs": [
+   "'anoi' -> enoki",
+   "'cortin' -> likely quercetin",
+   "'alagic' -> ellagic"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Enoki is average in calories and micronutrients but the best source on the list of vitamin B3, with a range of antioxidants (quercetin, caffeic, chlorogenic, ellagic, ferulic and gallic acids) that boost immunity and reduce inflammation. It helps prevent stomach cancer, lowers LDL cholesterol and supports brain function and memory, so he calls it a solid pick in A tier. -> Enoki is average in calories and micronutrients but the best source on the list of vitamin B3, with a range of antioxidants (including caffeic, chlorogenic, ellagic, ferulic and gallic acids) that boost immunity and reduce inflammation. It helps prevent stomach cancer, lowers LDL cholesterol and supports brain function and memory, so he calls it a solid pick in A tier."
+ },
+ {
+  "id": 459,
+  "name": "King Oyster",
+  "why": "King oyster is average in calories with a slightly lesser profile, a good source of vitamin B3 and biotin, with anti-inflammatory effects for arthritis and chronic muscle pain thanks to ergothioneine. Its lovastatin lowers LDL cholesterol and it was very effective at suppressing breast and colon cancer cells, a very unique mushroom he puts in B tier.",
+  "repairs": [
+   "'beads here' -> B tier",
+   "'Ergo thionine' -> ergothioneine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 460,
+  "name": "Lion's Mane",
+  "why": "Lion's mane is average in calories with a solid profile, the most fibrous fungus on the list and a very good source of biotin; its compounds stimulate brain cells, combat Alzheimer's and dementia, relieve anxiety and depression, speed nervous-system recovery, prevent ulcers and reduce heart disease risk, inflammation and high blood sugar. As one of the most researched mushrooms, he puts it in top tier.",
+  "repairs": [
+   "'bio' -> biotin",
+   "'herisson and arenos' -> hericenones and erinacines (uncertain)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 461,
+  "name": "Maitake",
+  "why": "Maitake is average in calories with an impressive profile and the best source on the list of biotin, plus a good source of vitamin B3 and copper. It is shown to lower LDL cholesterol, combat breast cancer and type 2 diabetes, treat high blood pressure and cold symptoms and boost immune proteins, one of the more nutritious options, so he puts it in A tier.",
+  "repairs": [
+   "'myi'/'Mitaki' -> maitake"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 462,
+  "name": "Morel",
+  "why": "Morels are lower in calories with the best micronutrient content per calorie on the list: best source of iron, copper, phosphorus, manganese and zinc, plus a solid source of vitamin D; their antioxidants benefit heart and brain health and combat diabetes. He gives no downsides and says as nutritious as mushrooms get, so he has no choice but top tier.",
+  "repairs": [
+   "'moral' -> morel"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 463,
+  "name": "Oyster",
+  "why": "Oyster mushrooms are average in calories with a lower profile, a solid source of vitamin B3 and biotin, with phenolic antioxidants and ergothioneine that combat inflammation and reduce liver damage. Their beta-glucan feeds gut bacteria that make short-chain fatty acids for heart health, helps regulate blood sugar and has antiviral and antibacterial effects, a worthy inclusion he puts in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 464,
+  "name": "Portobella",
+  "why": "Portobellos are lower in calories with a solid profile and among the best sources of vitamin B2 and selenium; their polyphenols, ergothioneine and glutathione prevent oxidative damage, inflammation and many cancers, beta-glucan lowers LDL, and they lower blood sugar and help the gut. Cooking is recommended because of a potential carcinogen, but they are the standard for mushrooms, in A tier.",
+  "repairs": [
+   "'a gartine' -> agaritine",
+   "'aformentioned' -> aforementioned"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 465,
+  "name": "Shiitake",
+  "why": "Shiitake is average in calories with a humble profile but among the most fibrous on the list, with polysaccharides that lower inflammation, support immunity and inhibit leukemia cells; beta-glucan, sterols and another compound lower LDL for heart health, and it has antibacterial and antiviral effects. Though often heralded as one of the healthiest, on this list he puts it in A tier.",
+  "repairs": [
+   "'aeronine' -> likely eritadenine (uncertain)",
+   "'steriles' -> sterols"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Shiitake is average in calories with a humble profile but among the most fibrous on the list, with polysaccharides that lower inflammation, support immunity and inhibit leukemia cells; eritadenine, beta-glucan and sterols lower LDL for heart health, and it has antibacterial and antiviral effects. Though often heralded as one of the healthiest, on this list he puts it in A tier. -> Shiitake is average in calories with a humble profile but among the most fibrous on the list, with polysaccharides that lower inflammation, support immunity and inhibit leukemia cells; beta-glucan, sterols and another compound lower LDL for heart health, and it has antibacterial and antiviral effects. Though often heralded as one of the healthiest, on this list he puts it in A tier."
+ },
+ {
+  "id": 466,
+  "name": "White",
+  "why": "White button mushrooms are lower in calories with a solid profile and the best source on the list of selenium, plus a good source of copper and vitamin B2. Polyphenols and polysaccharides support heart and gut health, combat inflammation and certain cancers and lower LDL and blood sugar; cooking is recommended to remove a potential carcinogen, and he calls them popular and nutritious, in A tier.",
+  "repairs": [
+   "'a guenee' -> agaritine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 467,
+  "name": "Wood Ear",
+  "why": "Wood ear is low in calories with a respectable profile, a great source of copper and vitamin B5 and very rich in antioxidants that help prevent Alzheimer's and dementia. Its polysaccharides boost immunity and beta-glucan feeds gut bacteria, but it is lower in protein than most mushrooms and should be cooked to remove harmful bacteria, a distinctive mushroom in B tier.",
+  "repairs": [
+   "'raw woodier' -> wood ear"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 468,
+  "name": "Nutritional Yeast (Fortified)",
+  "why": "Nutritional yeast is high in calories with a stupidly strong micronutrient content, but the recommended serving is 10 g or less, so numbers look inflated; it is often one of the better plant-based B12 sources, still a good source of B1, B2, B3, B5 and folate at that amount, fairly protein-dense, with glutathione and beta-glucan. He sees no downsides and has no choice but top tier.",
+  "repairs": [
+   "'gluto' -> glutathione",
+   "'a rate of heavy metals' -> helps remove heavy metals (uncertain)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Nutritional yeast is high in calories with a stupidly strong micronutrient content, but the recommended serving is 10 g or less, so numbers look inflated; it is a leading plant-based B12 source, still a good source of B1, B2, B3, B5 and folate at that amount, fairly protein-dense, with glutathione and beta-glucan. He sees no downsides and has no choice but top tier. -> Nutritional yeast is high in calories with a stupidly strong micronutrient content, but the recommended serving is 10 g or less, so numbers look inflated; it is often one of the better plant-based B12 sources, still a good source of B1, B2, B3, B5 and folate at that amount, fairly protein-dense, with glutathione and beta-glucan. He sees no downsides and has no choice but top tier."
+ }
+]

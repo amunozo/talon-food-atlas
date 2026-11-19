@@ -1,0 +1,1473 @@
+{
+ "video_id": "GR4PhrFh-i4",
+ "title": "Plant Proteins Ranked - Nutrition Tier Lists",
+ "n_expected": 29,
+ "foods": [
+  {
+   "food": "Almonds",
+   "start": 111,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 600,
+    "protein_g": 21,
+    "fat_g": 53,
+    "carbs_g": 21,
+    "fiber_g": 11,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 159
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 97
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 92
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 70
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 67
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 27
+     }
+    ]
+   }
+  },
+  {
+   "food": "Amaranth",
+   "start": 172,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 100,
+    "protein_g": 4,
+    "fat_g": 2,
+    "carbs_g": 19,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Beans",
+   "start": 214,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 145,
+    "protein_g": 9,
+    "fat_g": 1,
+    "carbs_g": 26,
+    "fiber_g": 9,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Buckwheat",
+   "start": 255,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 90,
+    "protein_g": 3,
+    "fat_g": 1,
+    "carbs_g": 20,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cashews",
+   "start": 300,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 575,
+    "protein_g": 15,
+    "fat_g": 46,
+    "carbs_g": 33,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 246
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 70
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 65
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 24
+     }
+    ]
+   }
+  },
+  {
+   "food": "Chia Seeds",
+   "start": 342,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 485,
+    "protein_g": 17,
+    "fat_g": 31,
+    "carbs_g": 42,
+    "fiber_g": 34,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 123
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 118
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 103
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 100
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 84
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 55
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 52
+     }
+    ]
+   }
+  },
+  {
+   "food": "Edamame",
+   "start": 389,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 140,
+    "protein_g": 12,
+    "fat_g": 8,
+    "carbs_g": 9,
+    "fiber_g": 5,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 72
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Falafel",
+   "start": 426,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 335,
+    "protein_g": 13,
+    "fat_g": 18,
+    "carbs_g": 32,
+    "fiber_g": 7,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Flaxseeds",
+   "start": 465,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 535,
+    "protein_g": 18,
+    "fat_g": 42,
+    "carbs_g": 29,
+    "fiber_g": 27,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 136
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 135
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 108
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 98
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 92
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 46
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 36
+     }
+    ]
+   }
+  },
+  {
+   "food": "Hemp Seeds",
+   "start": 514,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 555,
+    "protein_g": 32,
+    "fat_g": 49,
+    "carbs_g": 9,
+    "fiber_g": 4,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 330
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 235
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 178
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 175
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 107
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 90
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 47
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lentils",
+   "start": 571,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 115,
+    "protein_g": 9,
+    "fat_g": 0,
+    "carbs_g": 20,
+    "fiber_g": 8,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 45
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lupin Beans",
+   "start": 609,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 120,
+    "protein_g": 16,
+    "fat_g": 3,
+    "carbs_g": 10,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Miso",
+   "start": 653,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 200,
+    "protein_g": 13,
+    "fat_g": 6,
+    "carbs_g": 25,
+    "fiber_g": 5,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Mycoprotein",
+   "start": 705,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 90,
+    "protein_g": 11,
+    "fat_g": 3,
+    "carbs_g": 5,
+    "fiber_g": 4,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 213
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 69
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Natto",
+   "start": 760,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 210,
+    "protein_g": 19,
+    "fat_g": 11,
+    "carbs_g": 13,
+    "fiber_g": 5,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 74
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 67
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 22
+     }
+    ]
+   }
+  },
+  {
+   "food": "Oats",
+   "start": 798,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 380,
+    "protein_g": 14,
+    "fat_g": 6,
+    "carbs_g": 69,
+    "fiber_g": 10,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 140
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 55
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 46
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 24
+     }
+    ]
+   }
+  },
+  {
+   "food": "Okara",
+   "start": 843,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 75,
+    "protein_g": 4,
+    "fat_g": 2,
+    "carbs_g": 12,
+    "fiber_g": 5,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Peanuts",
+   "start": 876,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 585,
+    "protein_g": 24,
+    "fat_g": 50,
+    "carbs_g": 21,
+    "fiber_g": 8,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 90
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 78
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 45
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 30
+     }
+    ]
+   }
+  },
+  {
+   "food": "Peas",
+   "start": 929,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 85,
+    "protein_g": 5,
+    "fat_g": 0,
+    "carbs_g": 16,
+    "fiber_g": 6,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 16
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pistachios",
+   "start": 972,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 570,
+    "protein_g": 21,
+    "fat_g": 46,
+    "carbs_g": 28,
+    "fiber_g": 10,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 143
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 86
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 67
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 57
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 21
+     }
+    ]
+   }
+  },
+  {
+   "food": "Quinoa",
+   "start": 1018,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 120,
+    "protein_g": 4,
+    "fat_g": 2,
+    "carbs_g": 21,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Seitan",
+   "start": 1050,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 125,
+    "protein_g": 25,
+    "fat_g": 1,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sesame Seeds",
+   "start": 1092,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 575,
+    "protein_g": 18,
+    "fat_g": 50,
+    "carbs_g": 23,
+    "fiber_g": 12,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 238
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 107
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 98
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 90
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 88
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 81
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 70
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 60
+     }
+    ]
+   }
+  },
+  {
+   "food": "Soybeans",
+   "start": 1140,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 170,
+    "protein_g": 18,
+    "fat_g": 9,
+    "carbs_g": 8,
+    "fiber_g": 6,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 45
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 17
+     }
+    ]
+   }
+  },
+  {
+   "food": "Soybean Sprouts",
+   "start": 1178,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 80,
+    "protein_g": 9,
+    "fat_g": 5,
+    "carbs_g": 7,
+    "fiber_g": 1,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 59
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sprouted Bread",
+   "start": 1209,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 190,
+    "protein_g": 13,
+    "fat_g": 2,
+    "carbs_g": 34,
+    "fiber_g": 5,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 70
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 54
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tempeh",
+   "start": 1245,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 195,
+    "protein_g": 20,
+    "fat_g": 11,
+    "carbs_g": 8,
+    "fiber_g": 6,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 60
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 56
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "TVP",
+   "start": 1292,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 365,
+    "protein_g": 51,
+    "fat_g": 3,
+    "carbs_g": 33,
+    "fiber_g": 18,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 167
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 138
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 104
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 83
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 83
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 78
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 76
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 48
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tofu",
+   "start": 1357,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 145,
+    "protein_g": 17,
+    "fat_g": 9,
+    "carbs_g": 3,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 68
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 14
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.054684,
+  "calls": [
+   {
+    "cost": 0.05468425,
+    "tokens": {
+     "prompt_tokens": 131896,
+     "completion_tokens": 8469,
+     "total_tokens": 140365
+    },
+    "wall_s": 36.0
+   }
+  ],
+  "wall_s": 36.0
+ }
+}

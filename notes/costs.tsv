@@ -1,0 +1,2 @@
+date	task	workflow	model	run	turns	fresh	reread	out	minutes	images	cost	result	verdict
+2026-11-19	Pilot: per-food reasons from Seaweed episode (9 foods)	A captions+Sonnet vs C Gemini4Neon video	sonnet-5-5	a59ec024	17	72068	755000	16861	4.4	0	0.42$	A 9/9 tiers, 0 unsupported; C 9/9 tiers, 0 unsupported, 72 card nutrients; C cost $0.32 OpenRouter, Sonnet run $0.42 API-equiv	

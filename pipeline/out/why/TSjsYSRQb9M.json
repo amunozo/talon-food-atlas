@@ -1,0 +1,174 @@
+[
+ {
+  "id": 507,
+  "name": "American",
+  "why": "American cheese is an average-calorie processed product that must be at least 51 percent real cheese, among the highest in fat but among the best per gram in calcium and phosphorus, though lower in vitamin B2 than expected. It is exceptionally sodium dense, with extra ingredients and preservatives that if eaten regularly bring inflammation, digestive trouble and kidney risk, and while fine in moderation it is less nutritious and riskier than real cheese, so it goes in the D tier.",
+  "repairs": [
+   "Hyrum 6 oils -> hydrogenated oils (approx., not named)",
+   "d-tier -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 508,
+  "name": "Blue",
+  "why": "Blue cheese is an average-calorie semi-soft cheese with a slightly below average profile, typically among the best sources of vitamin B5 with plenty of phosphorus, calcium and vitamin B12, more CLA than most, and probiotic effects from fermentation. It is typically very high in sodium, the mold can cause allergies, and pasteurization is recommended for listeria but reduces nutritional quality, so he calls it perfectly fine and puts it in the C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 509,
+  "name": "Brie",
+  "why": "Brie is a lower-calorie soft cheese with a slightly subpar profile, among the better sources of vitamin B2 and a solid source of B12, with probiotic benefits, higher CLA than most cheeses and more whey protein, which is higher in leucine and benefits muscle growth. Pasteurization is recommended for soft cheese, and it is typically much lower in calcium and phosphorus than expected, but he calls it another good choice and puts it in the C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 510,
+  "name": "Cheddar",
+  "why": "Cheddar is a higher-calorie hard cheese with an average profile and among the fattiest, but among the best sources on the list of vitamin A, selenium, zinc and the unique vitamin K2 for bone and heart health. It is fermented and aged so lower in lactose, has more casein, and is easy to find grass-fed with more omega-3, and he has nothing negative beyond the usual cheese warnings, so it goes in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 511,
+  "name": "Colby",
+  "why": "Colby is a higher-calorie semi-hard cheese with a below average profile and among the fattiest, a good source of calcium and phosphorus, usually fermented for a probiotic effect, and its rinsed curds make it less acidic than cheddar. It has no explicit downsides beyond being a bit subpar in nutrient density, so he calls it a perfectly fine pick and puts it in the C tier.",
+  "repairs": [
+   "micro content -> micronutrient content",
+   "seeds here -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 512,
+  "name": "Feta",
+  "why": "Feta is a lower-calorie soft cheese with a unique profile he calls honestly the best per calorie, the best vitamin B6 on the list and among the best for B2 and B1, plus one of the best probiotics, higher whey and often more CLA and omega-3 from grass-fed animals. It should be eaten pasteurized, which may slightly impede its nutritional value, but it is widely accepted as one of the healthiest cheeses, in the A tier.",
+  "repairs": [
+   "sheet milk -> sheep milk"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 513,
+  "name": "Gjetost (Brunost)",
+  "why": "Gjetost is a higher-calorie goat milk cheese with a very unique profile, cooked until the lactose caramelizes so it is easily the highest in carbs and sugar, but it is the best source on the list of vitamins B2, B5, B1 and potassium and among the best for B12 and vitamin A. Those come with many less useful sugar calories and it is especially low in zinc, so unique is not useful, and it goes in the C tier.",
+  "repairs": [
+   "brewnost/jatos/your toast -> brunost/gjetost",
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 514,
+  "name": "Goat Cheese",
+  "why": "Goat cheese is an average-calorie cheese with a unique profile, typically lower in lactose, with more A2 casein, which is less likely to upset milk protein allergies, and more medium-chain triglycerides with anti-inflammatory and antibacterial benefits, plus the best vitamin A on the list, copper, iron and vitamin B2. It is lower in vitamin B12, selenium and zinc than expected, but he calls it unique and actually useful and puts it in the B tier.",
+  "repairs": [
+   "microbes -> minerals (not named)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 515,
+  "name": "Gouda",
+  "why": "Gouda is an average-calorie semi-hard cheese with a middle-of-the-road profile, usually lower in lactose than most cow cheeses, among the best on the list for phosphorus and zinc, and a solid source of calcium and vitamin B12. That is all he has to say nutritionally, as it embodies the word average, so it goes in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 516,
+  "name": "Gruyère",
+  "why": "Gruyere is a higher-calorie semi-hard cheese with a respectable profile, typically very low in lactose, exceptionally fat and protein dense, and among the best sources of calcium, phosphorus and zinc. He does not have much to say but finds it excels in most of the important ways he judges cheeses, so it goes in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 517,
+  "name": "Monterey",
+  "why": "Monterey Jack is an average-calorie semi-hard cheese with a slightly lesser profile, with above average content of most relevant nutrients including protein, fat, calcium and phosphorus, and pepper jack is just Monterey with peppers and spices. He sees it as a good choice without any particular warning, so it goes in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 518,
+  "name": "Mozzarella",
+  "why": "Whole fat mozzarella is a lower-calorie semi-soft cheese with a solid profile, among the best sources of vitamin B12, with a strong probiotic effect that benefits gut health and decreases inflammation, and it is typically lower in sodium because fresh cheeses need less of it. The numbers are for the whole-fat kind while mozzarella is often skim, but he calls it another solid choice for the B tier.",
+  "repairs": [
+   "beads here -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 519,
+  "name": "Paneer",
+  "why": "Paneer is a lower-calorie, typically soft, unaged cheese with one of the best unique profiles, among the best on the list for vitamins B1, B2, B6, B12 and potassium, with more whey and casein, omega-3 and CLA than most. It has more lactose than most cheeses, is significantly lower in vitamin A and selenium, and pasteurization is recommended, but it is generally regarded as one of the healthier choices, in the A tier.",
+  "repairs": [
+   "way to casein -> whey and casein"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 520,
+  "name": "Parmesan",
+  "why": "Parmesan is a higher-calorie hard cheese with an impressive profile, very protein dense, the best selenium on the list, and among the best for zinc, phosphorus and calcium, with lower lactose from aging and the highest casein for slow-digesting protein that may aid satiety. More casein makes milk allergy triggers more likely and it is lower in vitamin A, but it is one of the most nutritious picks, in the A tier.",
+  "repairs": [
+   "pigs -> picks"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 521,
+  "name": "Provolone",
+  "why": "Provolone is an average-calorie semi-hard cheese with an average profile, notably higher in protein than the average cheese, lower in lactose, and a solid source of calcium, phosphorus and vitamin B12. Its vitamin A is much lower than you would expect, so he calls it a pretty middle-of-the-road cheese and puts it in the B tier.",
+  "repairs": [
+   "cow calcium -> calcium"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 522,
+  "name": "Ricotta",
+  "why": "Ricotta is a very low-calorie soft cheese, richer in whey protein than most cheeses, which is higher in amino acids like leucine, a really good source of vitamin B12 per calorie, and low in sodium because it is fresh. It is especially low in vitamin A and zinc, but it makes its name as the lower-calorie cheese and should be appreciated as such, so it goes in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 523,
+  "name": "Romano",
+  "why": "Romano is a higher-calorie hard cheese with an impressive profile, the highest in protein on the list, mainly casein, and the best source of calcium and phosphorus, with more vitamin K2 and medium-chain triglycerides when made with sheep milk. It normally has less vitamin B12 and could cause issues for people with milk allergies, but nutritionally he says it might be the very best at being a cheese, in the A tier.",
+  "repairs": [
+   "sheet milk -> sheep milk",
+   "microbes -> minerals (not named)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 524,
+  "name": "Swiss",
+  "why": "Swiss is a higher-calorie semi-hard cheese with a great profile, among the highest in protein and fat, the best source by weight of vitamin B12 and zinc, and among the best for vitamin A, calcium, phosphorus and selenium, with more vitamin K2, lower lactose, lower sodium and higher CLA. He lists no downsides beyond the general cheese ones and calls it about as close to perfect as we will get, rounding out the list in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

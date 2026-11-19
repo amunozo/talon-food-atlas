@@ -1,0 +1,231 @@
+[
+ {
+  "id": 179,
+  "name": "Bagel Chips",
+  "why": "Bagel chips are an average-calorie snack with an average profile, fairly fibrous and among the best sources on the list of selenium, vitamin B3, B1, folate and iron, and lower in pro-inflammatory fats than most because they are baked rather than fried. They are often refined, often have added sugar and can be alarmingly sodium dense, so they are not the worst but should not be a daily food, and he puts them in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 180,
+  "name": "Banana Chips",
+  "why": "Banana chips are a higher-calorie snack with a moderate profile, fairly fibrous with both soluble and insoluble fiber, and among the better sources of manganese. Store-bought ones are surprisingly bad, deep-fried in pro-inflammatory oil with a high glycemic index boosted by a sugar coating, though baked versions are much better, so they go in C tier as not the worst chips on the market.",
+  "repairs": [
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 181,
+  "name": "Beef Jerky",
+  "why": "Beef jerky is an average-calorie snack with a meaty profile, a real source of protein, the best source on the list of zinc and phosphorus, and among the best for B12, folate and iron. It has the downsides of a processed meat: cured or smoked, which technically classifies it as carcinogenic, with alarming sodium, added sugars and nitrate preservatives, so it is not a health food but a nutritious occasional treat in B tier.",
+  "repairs": [
+   "'worstachure' -> Worcestershire"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 182,
+  "name": "Beef Sticks",
+  "why": "Beef sticks are a high-calorie snack with a middling profile, among the highest in protein and the highest in fat on the list (mainly saturated and monounsaturated), the best source of vitamin B12, among the best for B2, and a relevant source of zinc and iron. They are another cured meat with a potential carcinogenic risk and are commercially riddled with artificial ingredients and preservatives, so they are an average snack and go in C tier.",
+  "repairs": [
+   "'high-calored' -> high-calorie"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 183,
+  "name": "Corn Chips",
+  "why": "Corn chips are a high-calorie snack with a mild profile, fatty from corn or canola oil, which is where their relevant vitamin E comes from, and otherwise pretty lacking. They have a high glycemic index, a crazy sodium content and sometimes acrylamide, a potential carcinogen, plus other additives, so he puts them in D tier.",
+  "repairs": [
+   "'acryumide' -> acrylamide"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 184,
+  "name": "Crackers",
+  "why": "Saltine crackers are an average-calorie snack with a surprisingly decent profile, often the best source of iron and vitamin B1 and among the best for B2, B3 and folate, though much of that comes from enrichment. They are made of refined flour with a high glycemic index, so you should not pack them down regularly, though they are not the worst choice and are great for a stomach ache, and he gives them C tier.",
+  "repairs": [
+   "'riched' -> enriched",
+   "'macronutrient' likely micronutrient (not used)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 185,
+  "name": "Cheese Crackers",
+  "why": "Cheese crackers are a higher-calorie snack with a middle-of-the-road profile, the best source on the list of folate for cell growth and red blood cells, and among the best for vitamin B1 and iron. They are typically much fattier from the cheese and oil, commercially contain a lot of junk and are still largely refined flour, so they join C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 186,
+  "name": "French Fries",
+  "why": "French fries are a lower-calorie snack with a lesser profile; being potato, they offer some nutrients, notably vitamin B6. Commercial fries contain artificial flavorings and preservatives, are often fried in pro-inflammatory oils, are likely incredibly sodium dense and are fairly likely to contain acrylamide, though they can be made innocently, so the average fries go in D tier.",
+  "repairs": [
+   "'acryomide' -> acrylamide"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 187,
+  "name": "Fruit Snacks",
+  "why": "Fruit snacks are a somewhat lower-calorie snack with a polarizing profile, with some added vitamin C and antioxidants. Mostly they are lots of sugar, often corn syrup, and many contain no real fruit, or only juice or another diminished form, plus artificial colors and ingredients, making them a prime candidate for F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 188,
+  "name": "Graham Crackers",
+  "why": "Graham crackers are an average-calorie snack with a standard profile that varies a lot but usually has some fiber and iron. Mainly they are simple carbs with a surprising amount of sugar, so overall he places them in D tier.",
+  "repairs": [],
+  "confidence": "low",
+  "note": "Short slice with few nutrient claims; only fiber, iron and sugar mentioned, so 4-6 nutrients/benefits not available."
+ },
+ {
+  "id": 189,
+  "name": "Granola Bar",
+  "why": "Granola bars are an average-calorie snack with a solid profile, containing a fair amount of protein and both soluble and insoluble fiber, and among the best sources of manganese, copper and magnesium. Most commercial bars are full of added sugar and other junk and some are more health oriented than others, but given their core ingredients there is a lot to like, so he puts them in B tier.",
+  "repairs": [
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 190,
+  "name": "Pita Chips",
+  "why": "Pita chips are an average-calorie snack with an impressive profile, pretty high in protein for a carb-based snack, very fibrous (soluble and insoluble), and among the best sources of selenium, vitamin B1, B3, folate and iron. Commercially they are often refined grains that spike blood sugar, so he advises making your own by baking whole grain pita for 10 minutes, which earns A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 191,
+  "name": "Plantain Chips",
+  "why": "Plantain chips are a higher-calorie snack with a distinct profile, with more starch than sugar compared to banana chips (digested slower and more satiating), the best source of vitamin K and B5, and among the better for vitamin C, B6 and potassium. Commercially they may be coated in junk and are noticeably less fibrous than banana chips, but overall they are the better choice, so he places them in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 192,
+  "name": "Popcorn",
+  "why": "Popcorn is a somewhat lower-calorie snack and the best source on the list of mostly insoluble fiber, one of the best in the world, bordering on a genuine protein source and among the best for phosphorus, magnesium and zinc, with polyphenol antioxidants. It is a whole grain and hard to overeat, but theater and microwave versions use hydrogenated or palm oils and artificial flavorings, so make it air-popped with salt and olive or coconut oil for top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 193,
+  "name": "Pork Rinds",
+  "why": "Pork rinds are a higher-calorie snack with a meat-oriented profile, the highest in protein and very fatty, the best source of selenium, among the highest in B12, and one of the few snacks often free of carbohydrates. They are very processed, cured and deep fried, often loaded with artificial colors and flavors, and sometimes seem to have more sodium than pork, so this nutritious base put through the ringer lands in C tier.",
+  "repairs": [
+   "'pork rind' -> pork rinds"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 194,
+  "name": "Potato Chips",
+  "why": "Potato chips are a high-calorie snack with a shockingly decent profile: very fatty, much of it polyunsaturated from vegetable oils, some fiber from the potato, the best source on the list of vitamin B6 and potassium, and a decent source of vitamin C. They are still the poster child of unhealthy snacks, almost entirely simple carbs with not the best fats, and while not the worst thing in the world they go in D tier.",
+  "repairs": [
+   "'macronutrient' -> micronutrient (not used)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 195,
+  "name": "Pretzels",
+  "why": "Pretzels are a lower-calorie snack with a solid profile that can be quite fibrous, helping gut health and digestion, and are among the best sources of manganese and vitamin B3, often enriched with other nutrients. They are mainly simple carbs with a higher glycemic index than he would like and may contain preservatives, but they are far from the worst salty snack, so on a good day they get B tier.",
+  "repairs": [
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 196,
+  "name": "Raisins",
+  "why": "Raisins are a lower-calorie snack with a fine profile, fairly fibrous, among the better sources of potassium, and a great source of polyphenol antioxidants, specifically resveratrol, an anti-inflammatory and heart preserver. They are very high in sugar like many fruits, so portion control is the main concern, but they can be just dried grapes and are one of the less damaging popular snacks, earning A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 197,
+  "name": "Rice Cakes",
+  "why": "Rice cakes are a somewhat lower-calorie snack with a superior profile when made with brown rice (a whole grain), the best source on the list of manganese and vitamin B3, and among the better for phosphorus, copper and magnesium. Many are made with white rice, which is less nutritious and spikes blood sugar, and puffed rice has lower antioxidant content, but with slight hesitation they are still one of the better choices in B tier.",
+  "repairs": [
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 198,
+  "name": "Shrimp Crackers",
+  "why": "Shrimp crackers are an average-calorie snack with a sizable profile, often a fairly fibrous cracker and among the better sources of manganese and selenium. They are often surprisingly sugary, so mainly simple carbs, and most on the market are deep fried, so despite shrimp sounding promising he puts them in D tier.",
+  "repairs": [
+   "'casava' -> cassava"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 199,
+  "name": "Sweet Potato Fries",
+  "why": "Sweet potato fries are a low-calorie snack with a great profile per calorie, pretty fibrous (mostly insoluble) alongside high resistant starch, and the highest on the list in provitamin A carotenoids, antioxidants for macular and immune health. They are more commonly baked, though commercial versions have a bit too much oil and simple carbs to call innocent, but at their best they are a genuinely healthy snack in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 200,
+  "name": "Taro Chips",
+  "why": "Taro chips are a somewhat higher-calorie snack with a more distinct profile, among the highest in fiber, the best source on the list of vitamin E for skin health, and a better source of vitamin B6 and potassium. Traditionally they are a pretty good, underrated choice, but in practice they are sold with lots of additives; still a better choice that deserves more attention, so he gives them B tier.",
+  "repairs": [
+   "'tarroot' -> taro root"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 201,
+  "name": "Tortilla Chips",
+  "why": "Tortilla chips are an average-calorie snack with a subpar profile, usually corn or flour with vegetable oil, spices and lots of other junk, with some buried nutrients like protein, fiber and magnesium. They are just a pile of simple carbohydrates, typically fried, so there may be acrylamide, with no real redeeming qualities beyond an addicting crunch, so they go in D tier.",
+  "repairs": [
+   "'acryomide' -> acrylamide"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 202,
+  "name": "Trail Mix",
+  "why": "Trail mix is an average-calorie snack with a terrific profile, a legitimate source of protein and fiber, rich in healthier fats from nuts, usually the best source on the list of copper and magnesium, and among the best for vitamin E, phosphorus and zinc, plus protective antioxidants. Dried fruit and candy can push sugar higher than you would want for a meal, so read the ingredients or make your own, and judged at its best it is top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 203,
+  "name": "Veggie Chips",
+  "why": "Veggie chips are an average-calorie snack with a middling profile, among the highest in monounsaturated fats on the list with a respectable content of fiber, potassium and vitamin B6. They are generally not as good as the name suggests because they are made from degraded forms of vegetables such as starches, powders and pastes, with oils, seasonings and preservatives, and refinement has destroyed much of the nutrition, so they go in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

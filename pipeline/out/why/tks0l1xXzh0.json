@@ -1,0 +1,128 @@
+[
+ {
+  "id": 701,
+  "name": "Chia Seed",
+  "why": "Chia seeds are an average-calorie seed with one of the best profiles, ridiculously high in omega-3 (about 18 g per 100 g, in the less useful ALA form), the highest in fiber (about 34 g per 100 g), the best source of vitamin K and B6, and rich in antioxidants that support gut health and blood sugar. Lectins and phytic acid can impair mineral absorption, but soaking greatly reduces them, so he gives them top tier.",
+  "repairs": [
+   "'alas' -> ALA (alpha-linolenic acid)",
+   "'came for all' -> kaempferol",
+   "'miracetin/corcetin' -> myricetin/quercetin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 702,
+  "name": "Fenugreek",
+  "why": "Fenugreek is a lower-calorie seed with a solid profile: by far the best iron source per gram on the list, a solid source of fiber, rich in flavonoids and phenolics, and shown to regulate cholesterol and blood sugar, boost testosterone and increase breast milk production. It seems safe in moderation but excess can cause blood sugar and digestive issues, which is mainly why he places it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 703,
+  "name": "Flax Seed",
+  "why": "Flax seeds are a higher-calorie seed with an average profile: the best source of vitamin B1 and choline, among the best for magnesium, manganese, molybdenum and fiber, very high in omega-3 (about 23 g per 100 g, the less useful ALA form), and rich in lignans for blood pressure and heart disease. Phytic acid and cyanogenic glycosides that may impair thyroid function in excess are downsides, but the benefits outweigh them, earning top tier.",
+  "repairs": [
+   "'alas' -> ALA",
+   "'kumaric acid' -> coumaric acid",
+   "'lignins' -> lignans"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 704,
+  "name": "Hemp Seed",
+  "why": "Hemp seeds are a higher-calorie food with the highest micronutrient profile on the list, the highest in protein, and the best source of manganese, vitamin E, magnesium, phosphorus, zinc and vitamin B3, plus among the best for B1, B2 and iron. He names no downsides and says that for raw nutritional output they take the cake, so they join the top tier.",
+  "repairs": [
+   "'a nuts' -> a nut"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 705,
+  "name": "Lentils",
+  "why": "Lentils are the lowest-calorie item on the list by a long shot with a lower micronutrient content, but a solid source of folate, manganese, iron and fiber per calorie, with polyphenol antioxidants that survive cooking and help regulate blood sugar and cholesterol. They contain lectins, tannins and phytic acid that can inhibit mineral absorption, though cooking reduces these, so he places them in B tier as a lower-calorie option that fills nutrient gaps.",
+  "repairs": [
+   "'beets/on the mat' -> B tier / 'put themselves on the map'",
+   "'cows calcium' -> calcium",
+   "'procyanid and flavinols' -> procyanidins and flavanols"
+  ],
+  "confidence": "high",
+  "note": "csv_tier is A but original_tier B; the caption 'beets here' supports B."
+ },
+ {
+  "id": 706,
+  "name": "Lotus Seed",
+  "why": "Lotus seeds (makhana) are a lower-calorie seed with a lower-than-average profile: the highest in carbohydrates per gram with a good amount of fiber, the lowest in fat by far, and the best source of potassium. They contain antioxidants tied to protection against heart disease and type 2 diabetes, plus an enzyme that repairs proteins and collagen, and are shown to boost kidney function and be safe in moderation, so he calls them a fair B tier option.",
+  "repairs": [
+   "'macana' -> makhana",
+   "'beads here' -> B tier",
+   "'L ISO aspartyl methyl transferase' -> L-isoaspartyl methyltransferase"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 707,
+  "name": "Poppy Seed",
+  "why": "Poppy seeds are an average-calorie seed with an above-average profile: the best calcium source on the list and among the best for manganese, zinc, copper, phosphorus and magnesium, plus omega-9 fatty acids for heart, skin and brain health in moderation. They contain a notable amount of phytic acid, but at recommended amounts they do more good than harm, so they go in A tier.",
+  "repairs": [
+   "'AIDS here' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 708,
+  "name": "Pumpkin Seed",
+  "why": "Pumpkin seeds (pepitas) are a higher-calorie seed with an average profile, among the best sources of protein and the highest in saturated fat (neutral to positive for cholesterol), and among the best for magnesium, phosphorus, manganese, iron, copper and zinc. They are linked with lower cancer risk and help sleep, heart, prostate and bladder health; they are higher in phytic acid, but the pros far outweigh the cons, so A tier.",
+  "repairs": [
+   "'a to your' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 709,
+  "name": "Safflower Seed",
+  "why": "Safflower seeds are an average-calorie seed with an average micronutrient content: the best source of vitamin B5 and B2, plus antioxidants like vitamin E and phytosterols that fight inflammation, regulate cholesterol and protect the heart. He names no real downsides beyond eating them in moderation, calling them a fine addition to a meal plan, so they land in B tier.",
+  "repairs": [
+   "'beats here' -> B tier",
+   "'composterol' -> campesterol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 710,
+  "name": "Sesame Seed",
+  "why": "Sesame seeds are a higher-calorie seed with a more impressive profile: the highest in monounsaturated fat (mainly oleic acid), the best copper source, and among the best for calcium, zinc, iron and manganese, with vitamin E, lignans and sesamin that help blood pressure, cartilage and thyroid health. They contain oxalates and phytic acid that impair absorption, but soaking and roasting limit these, and a sprinkle helps anyone, so he gives them top tier.",
+  "repairs": [
+   "'beats here' -> B tier (next food)",
+   "'lignins' -> lignans"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 711,
+  "name": "Sunflower Seed",
+  "why": "Sunflower seeds are the highest-calorie item on the list per gram, the highest in fat (oleic and linoleic acids that lower LDL), the best source of selenium and folate, and among the best for vitamin E, copper, B1 and B3, with antioxidants that help inflammation, blood pressure and cholesterol. They are higher in cadmium, a heavy metal that harms kidneys in excess, but generally safe in moderation, so he gives them a solid A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 712,
+  "name": "Watermelon Seed",
+  "why": "Watermelon seeds are a higher-calorie seed with a below-average profile: among the best sources of protein and the highest in saturated fat, among the best for zinc and magnesium, and shown to benefit skin, hair, metabolism, energy, blood sugar and heart health. They are higher in the anti-nutrient phytic acid, though soaking reduces it, and he calls them a fine snack in moderation that rounds out the list in B tier.",
+  "repairs": [
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

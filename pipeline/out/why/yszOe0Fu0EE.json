@@ -1,0 +1,283 @@
+[
+ {
+  "id": 783,
+  "name": "Bacon",
+  "why": "Pan-cooked pork bacon is a high-calorie, high-protein, high-fat meat (protein is concentrated because it is dehydrated) with great selenium, the best phosphorus on the list and mostly monounsaturated oleic acid. It is very high in saturated fat and extremely high in sodium (linked to stomach cancer and high blood pressure) and often has nitrates that can form carcinogens, so given varying quality he puts it in C tier.",
+  "repairs": [
+   "nitrousamines -> nitrosamines",
+   "earthorbic -> erythorbic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 784,
+  "name": "Ground Beef",
+  "why": "90/10 ground beef is a mid-calorie, high-protein, decently fatty meat that is a good source of zinc, B12, heme iron, choline and especially creatine, plus carnosine and conjugated linoleic acid for fat loss. Red meat has long been linked to cancer, so the risk is still potentially there and most beef is grain-fed, but for bulking or athletes he puts it in A tier.",
+  "repairs": [
+   "eights here -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 785,
+  "name": "Bison",
+  "why": "Bison is a lower-calorie, mid-protein, mildly fatty meat, notably leaner than beef and usually grass-fed, rich in selenium and zinc, with B vitamins, heme iron, a great amount of creatine, choline and conjugated linoleic acid. The red meat and cancer link has not been completely severed, but the unique benefits cannot be denied, so it joins A tier.",
+  "repairs": [
+   "AIDS here -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 786,
+  "name": "Bratwurst",
+  "why": "Cooked pork bratwurst is a high-calorie, low-protein, very fatty meat with a lower-than-average micronutrient profile, offering good selenium and mostly oleic acid plus palmitic acid and some linoleic acid. Its calories contribute little against its low protein, it is higher in sodium and often has preservatives, so it is a treat rather than a staple and goes in D tier.",
+  "repairs": [
+   "steric -> stearic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 787,
+  "name": "Chicken Breast",
+  "why": "Cooked chicken breast is a low-calorie, high-protein, low-fat meat among the leanest on the list, great for weight loss and lean muscle growth, with some of the best vitamin B3 and B6 and high carnosine. Fried, rotisserie or lunch-meat versions may have preservatives, curing, more sodium or questionable oils, but it still keeps most positives, so he puts it in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 788,
+  "name": "Chicken Thigh",
+  "why": "Cooked chicken thigh is a mid-calorie, mid-protein, relatively fatty meat with a decent micronutrient profile: much higher in zinc than breast, a good source of selenium and vitamin B3, and the skin is among the best sources of glycine. It trades some protein for fat (oleic, palmitic and linoleic acids), which makes it a little less appealing, so he puts it in A tier.",
+  "repairs": [
+   "vitamin 3 -> vitamin B3",
+   "splashable -> unclear, kept as 'less appealing'"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 789,
+  "name": "Cod",
+  "why": "Atlantic cod is a very low-calorie, mid-protein, low-fat meat with a mild micronutrient profile: a very lean protein, a good source of selenium, high in creatine, with lower mercury at about 0.11 ppm. It is lower in protein and omega-3s than other fish, may contain parasites and has been associated with gout, so it falls short nutritionally and goes in B tier.",
+  "repairs": [
+   "beach here -> B tier (confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": "Tier word garbled; tier taken from original_tier."
+ },
+ {
+  "id": 790,
+  "name": "Crab",
+  "why": "Cooked Dungeness crab is a low-calorie, mid-protein, low-fat meat with a really solid profile: high in vitamin B12, a good source of selenium, zinc and omega-3s, one of the best sources of copper and a good source of astaxanthin. It is higher in sodium than most meats, so do not eat too much, and has been associated with gout, but its unique benefits earn the top tier.",
+  "repairs": [
+   "keratinoid -> carotenoid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 791,
+  "name": "Duck",
+  "why": "Cooked domestic duck is a mid-calorie, mid-protein, pretty fatty meat with a decent profile: a good source of selenium and certain B vitamins, shown to promote heart health and bone strength, with mostly oleic acid and then palmitic acid, which he says can raise large LDL particles. Nothing it provides cannot be done better by some other meat, so he puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 792,
+  "name": "Egg",
+  "why": "Whole chicken eggs are a mid-calorie, lower-protein, higher-fat food with almost every nutrient except vitamin C: great selenium, among the best vitamin A, folate, B2, B5 and E, very high choline and good creatine. Despite being high in cholesterol they are shown to raise HDL, with amino acids in ideal ratios, and they are filling, so he puts eggs in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 793,
+  "name": "Goat",
+  "why": "Cooked goat is a low-calorie, mid-to-high-protein, low-fat meat and among the leanest red meats, high in zinc, B2, B3 and B12, with good heme iron and high choline. It is shown to release cancer-inducing chemicals when cooked at high heat, though less researched than other meats, and as the leaner red meat with unique benefits it goes in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 794,
+  "name": "Ham",
+  "why": "Lunch meat ham is a lower-calorie, low-protein, somewhat fatty meat with a mild micronutrient profile: high in selenium, a good source of vitamin B1, higher in manganese than most meats and a good source of carnosine. It is higher in sodium than most meats (blood pressure and stomach cancer risk) and curing, smoking and nitrate preservatives may raise cancer risk, so he puts it in C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 795,
+  "name": "Hot Dog",
+  "why": "Beef and pork hot dogs are a high-calorie, low-protein, very fatty meat with a practically negligible micronutrient profile, offering only some selenium and vitamin B12. They have more than double the fat as protein, include myristic acid that raises LDL, are higher in sodium (high blood pressure, stomach cancer) and tied to colon cancer, and are eaten with sugary buns, so he gives them F tier.",
+  "repairs": [
+   "maristic -> myristic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 796,
+  "name": "Lamb",
+  "why": "Cooked lamb is a high-calorie, mid-protein, high-fat meat with a decent profile: good vitamin B12, selenium and creatine, and a very high amount of conjugated linoleic acid, linked to fat loss. It is among the fattier red meats with a complex fat profile including a good amount of myristic acid, which raises LDL more, so it is not something to build your diet around and goes in B tier.",
+  "repairs": [
+   "beads here -> B tier (confirmed by original_tier)",
+   "mint protein -> mid protein"
+  ],
+  "confidence": "high",
+  "note": "Tier word garbled; tier taken from original_tier."
+ },
+ {
+  "id": 797,
+  "name": "Liver",
+  "why": "Cooked beef liver is a low-calorie, higher-protein, low-fat meat and among the most nutrient-dense foods on the planet, among the richest sources of vitamin B12 and copper and the highest in vitamin A, one of the best meat sources of folate and very high in choline, all while being incredibly lean. Too much vitamin A or copper can cause toxicity, so you can eat too much, but it is too nutritious to leave out of the top tier.",
+  "repairs": [
+   "oxy sedated -> oxidative"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 798,
+  "name": "Mutton",
+  "why": "Cooked mutton is a relatively high-calorie, very high-protein, pretty fatty red meat with an impressive profile: great vitamin B12, good selenium, zinc, iron and creatine, plus taurine, glutathione and conjugated linoleic acid. Red meats like it are associated with heart disease and certain cancers, but nutritionally it is a cut above the rest of the red meats, so he puts it in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 799,
+  "name": "Pepperoni",
+  "why": "Pepperoni is a very high-calorie, mid-protein, very fatty meat with a surprisingly good micronutrient profile, a good source of selenium and manganese, but it has twice as much fat as protein, including a relevant amount of myristic acid that raises LDL. It is very high in sodium and preserved with carcinogenic nitrates, so it should not be a consistent part of your diet, though it is fine in moderation, which puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 800,
+  "name": "Ground Pork",
+  "why": "Cooked ground pork is a high-calorie, mid-to-high-protein, high-fat meat with a good profile: one of the best sources of vitamin B1, high in selenium and a good source of creatine, carnosine and choline. It is much fattier than most red meats, and high-heat cooking raises heterocyclic amines while undercooking risks parasites like tapeworms, but it is overall a net positive and edges into B tier.",
+  "repairs": [
+   "edges out in the beets here -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 801,
+  "name": "Pork Chops",
+  "why": "Pan-fried pork chops are a high-calorie, mid-protein, high-fat meat with a solid profile: a good source of selenium, vitamin B1, creatine, carnosine and choline. Pork is pretty fatty for red meat, and he advises cooking it thoroughly while preferably limiting high heat, but it offers similar benefits across the board, so they go in B tier like the rest of the pork.",
+  "repairs": [
+   "beets here -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 802,
+  "name": "Rabbit",
+  "why": "Cooked wild rabbit is a lower-calorie, very high-protein, very lean meat with a very solid profile, one of the few mammals counted as white meat, with an amazing amount of vitamin B12, great iron, and good choline and creatine. With no real notable downsides it may be the healthiest meat on the list, so it lands in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 803,
+  "name": "Salami",
+  "why": "Salami is a high-calorie, lower-protein, higher-fat meat with a surprisingly high micronutrient profile, particularly good in B vitamins like B1 and B12, but it is really fatty, with palmitic, stearic and myristic saturated fats. It is also very high in sodium, highly processed with nitrate preservatives and more prone to harmful pathogens, so like other processed meats it should not be a major part of your diet and goes in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 804,
+  "name": "Salmon",
+  "why": "Raw sockeye salmon is a mid-calorie, mid-protein, mildly fatty food with an impressive profile: easily the best omega-3 source on the list (over 1300 mg per 100 g, as EPA and DHA), an amazing source of vitamin D, very high in B12 and selenium, plus creatine and astaxanthin. Mercury is typically low enough not to be concerning, and he says it would be a crime to put it below the top tier.",
+  "repairs": [
+   "0.8 022 -> 0.022 ppm (best guess)",
+   "HCL -> HDL"
+  ],
+  "confidence": "high",
+  "note": "Mercury number garbled in caption; interpreted as 0.022 ppm.",
+  "audit_edit": "Raw sockeye salmon is a mid-calorie, mid-protein, mildly fatty food with an impressive profile: easily the best omega-3 source on the list (over 1300 mg per 100 g, as EPA and DHA), an amazing source of vitamin D, very high in B12 and selenium, plus creatine and astaxanthin. Mercury is only around 0.022 ppm, not concerning, and he says it would be a crime to put it below the top tier. -> Raw sockeye salmon is a mid-calorie, mid-protein, mildly fatty food with an impressive profile: easily the best omega-3 source on the list (over 1300 mg per 100 g, as EPA and DHA), an amazing source of vitamin D, very high in B12 and selenium, plus creatine and astaxanthin. Mercury is typically low enough not to be concerning, and he says it would be a crime to put it below the top tier."
+ },
+ {
+  "id": 805,
+  "name": "Italian Sausage",
+  "why": "Cooked pork Italian sausage is a high-calorie, low-protein, very fatty meat with a solid profile, a good source of B vitamins especially B1, but it is just really fatty, adding a lot of unnecessary calories. It is higher in sodium (high blood pressure and certain cancers) and often processed with nitrate and nitrite preservatives, so like most processed meats it should be eaten in moderation and goes in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 806,
+  "name": "Shrimp",
+  "why": "Cooked shrimp is the lowest-calorie item on the list, mid-protein and among the leanest, with a good source of omega-3s (about 350 mg per 100 g), great selenium, good vitamin B12 and astaxanthin. It is sometimes covered in sulfites, but overall it is a fairly safe and very nutritious meat, so he puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 807,
+  "name": "Steak",
+  "why": "Beef tenderloin steak is a higher-calorie, higher-protein, higher-fat meat with an important set of micronutrients: good selenium and B vitamins, beef's known zinc, carnosine, high choline, good creatine, taurine, glutathione and conjugated linoleic acid. The same heart disease and cancer risks linked to red meat apply, including carcinogenic compounds formed in high-heat cooking, but beef has a lot to offer, so it joins A tier.",
+  "repairs": [
+   "AIDS here -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 808,
+  "name": "Canned Tuna",
+  "why": "Canned skipjack tuna is a low-calorie, high-protein, very lean meat with an impressive profile: amazing selenium, very good vitamin D, great B3 and B12, about 280 mg omega-3 per 100 g and good creatine. Mercury is slightly higher at about 0.13 ppm and it is significantly higher in sodium than fresh tuna, but it is an effective, cheap meat that can be a diet staple, so it goes in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 809,
+  "name": "Fresh Tuna",
+  "why": "Fresh yellowfin tuna is a very low-calorie, higher-protein, very lean meat, better than canned in some ways and inferior in others, with good selenium, great B3 and B6, vitamin D, about 240 mg omega-3 per 100 g and creatine. It has significantly more mercury, about 0.35 ppm, enough that you can definitely eat too much of it, so he puts it in B tier.",
+  "repairs": [
+   "beets here -> B tier (confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 810,
+  "name": "Turkey Breast",
+  "why": "Roast turkey breast is a low-calorie, high-protein, very lean meat with a solid count of micros: good selenium, vitamins B3 and B6, carnosine and choline, and shown to improve heart health. More processed varieties can have preservatives and a lot of sodium, but turkey breast is one of the more appealing meats thanks to how ridiculously lean it is, so he puts it in the top tier.",
+  "repairs": [
+   "splashable -> appealing (unclear)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 811,
+  "name": "Ground Turkey",
+  "why": "Cooked ground turkey is a mid-calorie, high-protein, higher-fat meat with a decent-to-good profile: great selenium, good B vitamins, carnosine and choline. It is typically much fattier, with oleic, linoleic, palmitic and stearic acids, but he considers it a very underrated option and puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 812,
+  "name": "Venison",
+  "why": "Cooked ground venison is a lower-calorie, higher-protein, somewhat fatty meat with a really solid profile: an impressive amount of B vitamins with B6 and B12 notable, good zinc and heme iron, good choline and carnosine, and a solid amount of creatine. It is one of the few meats with more saturated than unsaturated fat, but it is one of the better red meats and caps the list in A tier.",
+  "repairs": [
+   "steric -> stearic"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

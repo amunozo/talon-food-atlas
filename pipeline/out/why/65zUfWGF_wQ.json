@@ -1,0 +1,234 @@
+[
+ {
+  "id": 122,
+  "name": "Banana Bread",
+  "why": "Banana bread is a higher-calorie bread with a poor micronutrient profile: some potassium, B-vitamins and healthy fats from the banana and nuts get lost in refinement, leaving it very high in sugar and very low in protein and fiber, with a bigger blood sugar impact than most refined breads. He treats it as a dessert rather than a bread and puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 123,
+  "name": "Barley Bread",
+  "why": "Barley bread is a real, minimally processed bread with a somewhat higher protein and fiber content, immune-boosting beta-glucan that lowers LDL cholesterol, good vitamin B3 and selenium, phenolic antioxidants such as ferulic and coumaric acids, and a lower glycemic index than wheat bread. He ranks it A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 124,
+  "name": "Brioche",
+  "why": "Brioche is a very high-calorie bread made of refined flour with butter, eggs and milk, making it the highest-fat bread on the list (mainly saturated), though it is top for vitamin A and relatively low in carbs. Its refined flour and low fiber, and the vegetable oils in commercial versions, are the drawbacks, so he puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 125,
+  "name": "Cheese Bread",
+  "why": "Cheese bread is a high-calorie, high-fat bread that, thanks to the cheese, is the best source of vitamin K2, which supports calcium binding and bone health. It is otherwise far from the most nutritious, with refined flour and low fiber, and more of a treat than a bread, so he puts it in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 126,
+  "name": "Ciabatta Bread",
+  "why": "Ciabatta is an average-calorie fermented bread: fermentation improves vitamin and mineral bioavailability, breaks down fructans and phytates for easier digestion, and supports a healthier gut microbiome. Its nutrition is only average, but he considers it a better, cleaner bread that fully justifies eating it, and puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 127,
+  "name": "Cinnamon Bread",
+  "why": "Cinnamon bread has a lesser micronutrient profile made of refined flour, butter, milk, eggs and lots of sugar; the cinnamon itself is antioxidant-rich and helps regulate blood sugar, but it cannot offset the simple carbs and added sugar almost always found in the bread. He sees it as a dessert and puts it in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 128,
+  "name": "Cornbread",
+  "why": "Cornbread is the best source on the list of phosphorus and is richer in lutein and zeaxanthin carotenoids, and it can be gluten free. However, it is often surprisingly sugary and has little fiber compared with basic grain breads, and it is not really eaten like other breads, so he puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 129,
+  "name": "Cracked Wheat Bread",
+  "why": "Cracked wheat bread is a whole-grain bread with a lower glycemic index than whole wheat, among the most fibrous (mainly insoluble fiber that regulates bowel movement), the best source of vitamin B6, a good source of manganese, and rich in anti-inflammatory phenolic acids like ferulic acid. He calls it a great example of simple bread and ranks it A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 130,
+  "name": "Egg Bread",
+  "why": "Egg bread is the best source on the list of vitamin B2 and among the best for selenium, and depending on the recipe it can be higher in protein, vitamin A, vitamin D, choline, lutein and zeaxanthin. It can also be mostly refined wheat flour like modern bread, so he fairly puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 131,
+  "name": "Focaccia",
+  "why": "Focaccia is a lower-calorie bread made with olive oil, so its fat is almost entirely heart-healthy monounsaturated fat that lowers cholesterol, and it is among the best sources of folate and one of the lowest-carb breads. It is not special but does no real harm, so he puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 132,
+  "name": "French Bread",
+  "why": "French bread is traditionally fermented, giving beneficial bacteria, easier digestion and better bioavailability, and it is the best source of vitamin B1 and among the best for selenium and vitamin B2, with somewhat higher protein and no unnecessary added ingredients. He calls it unremarkable but not detrimental and puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 133,
+  "name": "Frybread",
+  "why": "Frybread is a higher-calorie, simple processed bread made of refined flour and fat, so it is not particularly nutritious in any way. It is deep-fried in fats or oils that are at best unhelpful calories and at worst contribute to chronic inflammation, and he puts it in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 134,
+  "name": "Garlic Bread",
+  "why": "Garlic bread is the best source of folate (needed for DNA synthesis, cell division and red blood cell formation) and among the best for vitamin K, with garlic's allicin offering immune and heart benefits. Its extra calories come from fat spread whose effect depends on the fat used, and it is otherwise a refined bread, so he puts it in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 135,
+  "name": "Multigrain Bread",
+  "why": "Multigrain bread is consistently the highest in protein and fiber on the list, the best source of manganese, iron and magnesium, and among the best for selenium, phosphorus and copper, with a lower glycemic index, more satiety and heart-health benefits. He says it combines the best qualities of the best breads and puts it in top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 136,
+  "name": "Naan Bread",
+  "why": "Naan is a somewhat higher-calorie bread made with yeast, milk or yogurt, oil and eggs; it is among the higher-protein breads, a better source of manganese, and about 5% fiber, mainly insoluble, which improves digestive flow. He calls it a fine choice that is hard to go wrong with and puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 137,
+  "name": "Oat Bran Bread",
+  "why": "Oat bran bread is a lower-calorie bread with about 5% fiber, notably soluble beta-glucan that supports immune health, blood sugar and cholesterol, plus high selenium, vitamin B1, and oats' anti-inflammatory, anticancer avenanthramide antioxidants. He says that anything with oats is probably going to be pretty good and puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 138,
+  "name": "Pita Bread",
+  "why": "Pita bread has an impressive micronutrient profile, with the richest selenium (an antioxidant and DNA-formation mineral) and copper (red blood cell synthesis) on the list, and the whole wheat version has about 6 grams of mainly insoluble fiber. It is also rich in cell-protective phenolic acid antioxidants, and he puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 139,
+  "name": "Potato Bread",
+  "why": "Potato bread is among the highest in protein and phosphorus, higher in fiber (about 6 grams, mainly insoluble), and the best source of potassium and calcium, with protective phenolic acids and a lower glycemic index than most breads. He calls it a surprisingly effective combination and puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 140,
+  "name": "Pumpernickel Bread",
+  "why": "Pumpernickel is a very high-fiber bread with more soluble fiber than most breads for a great prebiotic effect, among the best sources of copper and manganese, a good source of antioxidant, gut-supporting lignans, and a very low glycemic index. He sees it as a perfect whole-grain bread and puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 141,
+  "name": "Raisin Bread",
+  "why": "Raisin bread is made of refined flour and typically full of added sugar, making it a less nutritious choice; the raisins themselves are rich in polyphenol antioxidants like quercetin, kaempferol and resveratrol, but the criticism is aimed at the rest of the bread. He calls it a pleasure bread and puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 142,
+  "name": "Rice Bran Bread",
+  "why": "Rice bran bread is the best source of vitamin B3 and a better source of manganese and vitamin B1, with fair soluble and insoluble fiber, flavonoid antioxidants and good effects on blood sugar. It is higher in phytic acid and brown rice contains some arsenic, so it should not be overconsumed, but he puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 143,
+  "name": "Rye Bread",
+  "why": "Rye bread is fiber-rich with more insoluble fiber and resistant starch, among the better sources of selenium, higher in antioxidants (phenolic acids and lignans), one of the best choices for heart health, cholesterol and blood sugar, and filling and easily digestible. He says it does not disappoint and puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 144,
+  "name": "Soda Bread",
+  "why": "Soda bread lacks yeast and is made of refined flour, baking soda and buttermilk; it is sometimes richer in calcium but is usually nutritionally nothing special. He says it is not bad enough for the depths of F tier, but unremarkable in every way, so he puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 145,
+  "name": "Sourdough Bread",
+  "why": "Sourdough is a higher-protein bread, rich in prebiotic resistant starch, the best source of vitamin B1, among the best for vitamin B2 and iron, higher in flavonoid and phenolic antioxidants, and better for blood sugar. Its fermentation reduces phytate, breaks down gluten and fructans for easier digestion and feeds gut bacteria, so he adds it to the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 146,
+  "name": "Sprouted Bread",
+  "why": "Sprouted bread is very low in calories and has the most protein per calorie by far, about 5% fiber that is more soluble, high manganese and selenium, and boosted flavonoid, phenolic acid and carotenoid antioxidants. Sprouting lowers phytate and gluten and helps blood sugar, making it the most nutritious bread on the list, and he sends it straight to the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 147,
+  "name": "Sweet Bread",
+  "why": "Sweet bread is a high-calorie bread (not the organ meat) that is basically refined flour baked with extra sugar and fat, with a higher lipid content and only a decent amount of selenium. He says it may be the bread most designed for taste above all else, and puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 148,
+  "name": "Tennis Bread",
+  "why": "Tennis bread is an enriched, average-calorie bread with a pretty decent profile, among the highest in vitamin B1 and folate. However, it is defined by its refined flour, making it just another unremarkable choice, so he puts it in C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 149,
+  "name": "White Bread",
+  "why": "White bread is a processed, refined bread that is often enriched and may be easier to digest, but it is less nutritious than most, especially in fiber, and not very satiating. Commercially it often has preservatives and extra sugar, making it a typical cause of blood sugar spikes, so he puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ },
+ {
+  "id": 150,
+  "name": "Whole Wheat Bread",
+  "why": "Whole wheat bread is among the most protein-dense breads, about 6% fiber (mainly insoluble, regulating bowel movement), the best source of vitamin E and zinc, and among the best for manganese and phosphorus, rich in phenolic acids and lignans, and better than most for blood sugar and heart health. He rounds out the list with it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "source: Gemini transcript (no YouTube captions)"
+ }
+]

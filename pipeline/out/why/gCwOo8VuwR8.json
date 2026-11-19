@@ -1,0 +1,301 @@
+[
+ {
+  "id": 243,
+  "name": "Brain (Beef)",
+  "why": "Beef brain is a somewhat higher-calorie organ meat with a standard profile, a solid source of B12, phosphorus, choline and carnosine, and the best organ meat for omega-3 DHA; its phosphatidylserine, sphingomyelin and BDNF support cognition, mood and gut health. He lists no downsides and calls it a good opener, putting it in B tier.",
+  "repairs": [
+   "'toosa hexanoic acid' -> docosahexaenoic acid (DHA)",
+   "'phospho tidal Serene' -> phosphatidylserine",
+   "'Brin' -> brain"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 244,
+  "name": "Brain (Lamb)",
+  "why": "Lamb brain is high in calories and fattier than beef brain, with higher DHA, the highest phosphorus on the list, the highest copper and B12 among brains, and some vitamin C, plus the same phospholipids, BDNF and choline. He sees it as higher in calories but arguably more nutritious, and puts it in B tier.",
+  "repairs": [
+   "'3 to2 to1' -> roughly 3:2:1 fat ratio"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 245,
+  "name": "Brain (Pork)",
+  "why": "Pork brain is low in calories with a lesser profile, the leanest of the three brains and so the least DHA, though still more than any other organ meat; it still has choline, phosphatidylserine, BDNF, gut-supporting sphingomyelin and exercise-boosting carnosine. As arguably the lesser of the three brains, he puts it in C tier.",
+  "repairs": [
+   "'fingo myelin' -> sphingomyelin",
+   "'phosphole Serene' -> phosphatidylserine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 246,
+  "name": "Gizzard (Chicken)",
+  "why": "Chicken gizzard is average in calories with a mild profile; it is poultry stomach, very lean and the highest in protein per gram and per calorie on the list, rich in collagen, and otherwise about as nutritious as chicken cuts. He says it is not a good first organ meat and has a lot less going on than others, so it goes in B tier.",
+  "repairs": [
+   "'be tier' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 247,
+  "name": "Gizzard (Turkey)",
+  "why": "Turkey gizzard is average in calories, a bit fattier than chicken gizzard but noticeably more micronutrient-dense, with relevant B12, selenium, B3 and copper. Because gizzard is mainly smooth muscle with no function that makes it more nutritious, he calls it one of the less exciting organs and puts it in C tier.",
+  "repairs": [
+   "'micro den' -> micronutrient dense",
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 248,
+  "name": "Heart (Beef)",
+  "why": "Beef heart is average in calories, among the most protein-dense meats on the list and a solid source of B12, B2, copper and iron, with carnosine, creatine, taurine, DHA from grass-fed cows, and coenzyme Q10 for energy and heart health. Often seen as the best and one of the more palatable organ meats, it is the first in top tier.",
+  "repairs": [
+   "'beefart' -> beef heart",
+   "'tarine' -> taurine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 249,
+  "name": "Heart (Chicken)",
+  "why": "Chicken heart is average in calories with a unique profile, the best source on the list of zinc, a great source of B12 and B5, the highest iron among hearts, and higher in coenzyme Q10 than beef heart, with DHA, creatine and taurine. He mentions no downsides and calls it another fantastic health-oriented choice, in top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 250,
+  "name": "Heart (Lamb)",
+  "why": "Lamb heart is average in calories with a solid profile, generally the highest omega-3 among hearts and a reliable source of B12, B2 and selenium, plus carnosine, creatine, coenzyme Q10 and conjugated linoleic acid, which aids fat loss. He mentions no downsides and calls it an excellent food like all hearts, placing it in A tier.",
+  "repairs": [
+   "'lamart' -> lamb heart",
+   "'conjugated lolic acid' -> conjugated linoleic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 251,
+  "name": "Heart (Pork)",
+  "why": "Pork heart is average in calories with a quality profile, the best source on the list of vitamin B1, and a good source of B12 and B2, among the highest in coenzyme Q10, with carnosine and taurine. It is more nutritious than pork meat itself, and since it is hard to go wrong with heart, he puts it in A tier.",
+  "repairs": [
+   "'por card' -> pork heart"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 252,
+  "name": "Heart (Turkey)",
+  "why": "Turkey heart is average in calories with a great profile, the highest of the hearts in vitamin B6 and a good source of B12, B2, selenium and copper, with coenzyme Q10 and taurine, and more nutritious than turkey meat. He mentions no downsides and says it is hard to go wrong, putting it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 253,
+  "name": "Kidney (Beef)",
+  "why": "Beef kidney is average in calories and consistently the second most micronutrient-dense organ after liver, among the best for protein per calorie, one of the highest in selenium and B2, an excellent B12 source, and rich in carnosine, choline and ergothioneine. He calls it one of the most nutritious foods he has covered, in A tier.",
+  "repairs": [
+   "'Ergo thionine' -> ergothioneine",
+   "'micro Den' -> micronutrient dense"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 254,
+  "name": "Kidney (Lamb)",
+  "why": "Lamb kidney is lower in calories with a plentiful profile and very lean for lamb, one of the higher protein sources per calorie, and a fantastic source of B12, selenium, B2 and iron, with ergothioneine, choline and carnosine. He mentions no downsides and calls it nutrient-dense and only tame by comparison, putting it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 255,
+  "name": "Kidney (Pork)",
+  "why": "Pork kidney is average in calories with a bountiful profile, one of the leanest parts of the pig and the best source of selenium, an antioxidant used in DNA synthesis, and high in B12, B2 and copper, with choline, carnosine and ergothioneine. He mentions no downsides and gives it the spotlight in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 256,
+  "name": "Liver (Beef)",
+  "why": "Beef liver is average in calories with a ridiculous profile, the highest on the list of copper, B3, B6 and choline, and among the richest in true vitamin A, B12, B2 and B5, plus carnosine, taurine and CLA. Very high copper and vitamin A can cause toxicity if overconsumed, though he thinks that is unlikely; he calls it a powerhouse, top tier.",
+  "repairs": [
+   "'lier' -> liver",
+   "'nasin' -> niacin",
+   "'overc consuming' -> overconsuming"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 257,
+  "name": "Liver (Chicken)",
+  "why": "Chicken liver is average in calories with an impressive profile, the highest on the list of vitamin B5, among the best sources of vitamin A and folate, and a great source of B12, B2 and selenium, rich in choline. The vitamin A toxicity warning applies, though it is less rich in copper; he calls it wickedly nutritious and puts it in top tier.",
+  "repairs": [
+   "'Panic acid' -> pantothenic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 258,
+  "name": "Liver (Lamb)",
+  "why": "Lamb liver is high in calories and the fattiest liver, with the highest B12 and B2 on the list, plus vitamin A, copper, other B vitamins, carnosine, choline and a hefty CLA content. As with all livers he warns to watch vitamin A and copper amounts to avoid toxicity, but liver is hyped for a reason, so it goes in top tier.",
+  "repairs": [
+   "'conjugated lolic acid' -> conjugated linoleic acid"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 259,
+  "name": "Liver (Pork)",
+  "why": "Pork liver is average in calories and surprisingly lean for a liver, the highest among livers in iron and zinc, and a great source of B12, vitamin A, B2 and selenium, with carnosine, choline and taurine. The same vitamin A toxicity warning applies, but liver is very nutritious, so pork liver also joins top tier.",
+  "repairs": [
+   "'tarine' -> taurine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 260,
+  "name": "Liver (Turkey)",
+  "why": "Turkey liver is higher in calories with a stellar profile, the best source on the list of folate, among the highest in vitamin A, B12 and copper, and rich in choline and taurine. Vitamin A overconsumption still applies, and he treats the verdict as obvious, in top tier.",
+  "repairs": [
+   "'Fate' -> folate",
+   "'overc consumption' -> overconsumption"
+  ],
+  "confidence": "high",
+  "note": "Tier word not spoken in this slice (he says he shouldn't need to say it); top tier taken from original_tier and consistent with the other livers."
+ },
+ {
+  "id": 261,
+  "name": "Pancreas (Beef)",
+  "why": "Beef pancreas is a high-calorie organ meat with a solid profile and fairly fatty, with about twice as much saturated and monounsaturated as polyunsaturated fat, among the highest in phosphorus, with good B12 and B5 and a relevant amount of vitamin C. He calls it nutritious but nothing special among organs, so it goes in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 262,
+  "name": "Pancreas (Lamb)",
+  "why": "Lamb pancreas is high in calories with a typical profile and a notable amount of mainly saturated and monounsaturated fat, a good source of B12 and selenium, with some vitamin C. Among livers, hearts and kidneys it is pretty standard meat, so he puts the lamb version in C tier.",
+  "repairs": [
+   "'sea tier' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 263,
+  "name": "Pancreas (Pork)",
+  "why": "Pork pancreas is higher in calories with a respectable profile, among the highest in protein per gram on the list and noticeably leaner than the other pancreases, and rich in B12, selenium and B5. Aside from protein he finds it a pretty ordinary offal, and puts it in B tier.",
+  "repairs": [
+   "'onar ofal' -> ordinary offal"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 264,
+  "name": "Spleen (Beef)",
+  "why": "Beef spleen is lower in calories with a distinct profile, among the best sources of protein per calorie, the highest on the list of iron and vitamin C, and rich in B12, selenium and copper, with peptides that stimulate immune function via white blood cells. He calls it an unsuspectingly great meat and puts it in A tier.",
+  "repairs": [
+   "'grap meat' -> great meat"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 265,
+  "name": "Spleen (Lamb)",
+  "why": "Lamb spleen is average in calories with a quality profile, right behind the highest iron on the list, rich in B12 and selenium, with a relevant vitamin C content and peptides that improve immune function. He calls it solid but fairly standard for an organ meat, and puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 266,
+  "name": "Spleen (Pork)",
+  "why": "Pork spleen is average in calories with a middling profile, among the best sources of protein per calorie, among the richest in iron, with high B12 and selenium and the immune-supporting spleen peptides and white-blood-cell benefits. He calls it a good choice for organ meat nutrition, and puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 267,
+  "name": "Sweetbread (Beef)",
+  "why": "Beef sweetbread is the thymus gland, very high in calories and the highest on the list in fat by weight and saturated fat, though that fat carries some omega-3 and CLA, plus some vitamin C and taurine. He concedes it is one of the more inferior organ meats, not providing enough to stand out, so it goes in D tier.",
+  "repairs": [
+   "'deter' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 268,
+  "name": "Sweetbread (Lamb)",
+  "why": "Lamb sweetbread is average in calories with a mild profile, not nearly as fatty as beef sweetbread, the best source on the list of phosphorus, and rich in B12 and taurine. Overall it is just less nutritious than other organs, which is enough to put it in D tier.",
+  "repairs": [
+   "'taring' -> taurine",
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 269,
+  "name": "Tongue (Beef)",
+  "why": "Beef tongue is high in calories with a meager profile, consistently very fatty and the highest in monounsaturated fat on the list, rich in B12 and choline, with higher creatine and carnosine from being skeletal muscle. It is mild in flavor and good for newcomers, but for its calories there is not enough here, so he puts it in D tier.",
+  "repairs": [
+   "'Coline' -> choline"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 270,
+  "name": "Tongue (Lamb)",
+  "why": "Lamb tongue is high in calories with a slight profile, very fatty and among the highest in both monounsaturated fat and the more controversial saturated fat, richer in B12 and choline. Nutritionally it pales next to most organ meats, so it is also in D tier.",
+  "repairs": [
+   "'dorgan' -> organ",
+   "'deter' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 271,
+  "name": "Tongue (Pork)",
+  "why": "Pork tongue is high in calories with a mild profile, among the highest in generally healthy monounsaturated fat and a decent source of B12, zinc and choline. He says if you eat tongue it is because you like it, not because it is the most nutritious organ meat, so it joins D tier.",
+  "repairs": [
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 272,
+  "name": "Tripe (Beef)",
+  "why": "Beef tripe, the edible muscle wall of the stomach, is very low in calories with a poor profile, a less popular, tougher meat with low nutrient content to match its low calories. Its nutrition is not nonexistent but he has nothing more to say, and it rounds out the list in D tier.",
+  "repairs": [
+   "'poultry' -> poor (garbled, from context 'low nutrient content')",
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

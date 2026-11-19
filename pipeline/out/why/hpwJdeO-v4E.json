@@ -1,0 +1,298 @@
+[
+ {
+  "id": 668,
+  "name": "Anchovy",
+  "why": "Anchovies are among the highest-calorie foods on the list with an average micronutrient profile, among the highest in protein and fat and one of the best omega-3 sources per gram, plus the best vitamin B3 on the list and high creatine. Mercury is low at around 0.02 ppm (he jokes about the smell), so he calls it an A tier fish.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 669,
+  "name": "Bass",
+  "why": "Largemouth bass is an average-calorie fish with a below-average micronutrient profile, though among the best sources of manganese and slightly above average for protein, omega-3s, vitamin B12 and creatine. Mercury is unfortunately about 0.17 ppm, but as an all-around average fish that offers more than it takes it just squeaks into B tier.",
+  "repairs": [
+   "Beats here -> B tier (confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": "Tier word garbled; tier taken from original_tier."
+ },
+ {
+  "id": 670,
+  "name": "Carp",
+  "why": "Carp is an average-calorie fish with slightly above-average micronutrients and is the best source on the list of vitamin D, phosphorus and potassium, which support calcium use and bone health, tissue repair and cellular fluid balance. With a solid amount of omega-3s and lower mercury of about 0.11 ppm, he gives it a solid A tier.",
+  "repairs": [
+   "a to your -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 671,
+  "name": "Catfish",
+  "why": "Catfish is a lower-calorie fish with a lesser micronutrient profile, among the best sources of vitamin D and a solid source of B12, and a pretty safe fish for mercury at about 0.03 ppm. It is lower in protein, neither lean nor fatty, and does not stand out in any way, so he puts it in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 672,
+  "name": "Caviar",
+  "why": "Caviar is one of the highest-calorie foods with one of the better profiles: the fattiest item on the list, high in saturated fat, with by far the most omega-3s per gram, the best magnesium, vitamin B5 and choline, and among the best B12, iron, B2 and calcium. It is believed to have among the lowest heavy metals of seafood, so he takes it as the first top tier slot.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 673,
+  "name": "Clam",
+  "why": "Clams are an average-calorie food with the highest micronutrient content per gram on the list: the highest protein of the shellfish, and the best source of vitamin B12, iron and vitamin C. Watch out for shellfish being a somewhat common allergen and a leading cause of foodborne illness, but judging by nutrient capacity he puts clams in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 674,
+  "name": "Cod",
+  "why": "Atlantic cod is the lowest-calorie fish with the lowest micronutrient content per gram, a very lean protein source, one of the better sources of selenium per calorie and one of the best of choline. Heavy metals are generally lower at about 0.11 ppm, but it offers nothing another fish does not offer more of, so it is fine but goes in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 675,
+  "name": "Crab",
+  "why": "Dungeness crab is a lower-calorie food with an above-average profile, among the best sources of vitamin B12, copper and zinc, and a good source of astaxanthin, which he says raises HDL and protects the brain. Mercury is pretty low at about 0.07 ppm, though cadmium is noteworthy, and given the value in those meaty claws he puts it in A tier.",
+  "repairs": [
+   "HCL levels -> HDL levels"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 676,
+  "name": "Crawfish",
+  "why": "Crawfish is the lowest-calorie food on the list with a somewhat subpar profile per calorie: a solid source of selenium, B12, copper and creatine, but very low in protein and omega-3s compared with other shellfish, so you would have to eat a lot. Mercury is low at about 0.03 ppm, but you will tire of peeling them before making up the difference, so it goes in D tier.",
+  "repairs": [
+   "detier -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 677,
+  "name": "Cuttlefish",
+  "why": "Cuttlefish is an average-calorie food with one of the better profiles and the best protein on the list, the best vitamin B2, among the best selenium, iron, phosphorus and copper, and among the highest creatine. Mercury is lower at about 0.06 ppm but be wary of a notable cadmium amount, and its unmatched high-protein profile earns a secure top tier spot.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 678,
+  "name": "Eel",
+  "why": "Eel is a higher-calorie fish with one of the better profiles and among the fattiest, with the highest monounsaturated fat (about 9 g, shown to help the heart), the best source of vitamin E and vitamin A (eye health) and among the best vitamin D. Mercury is lower at about 0.05 ppm and its unique nutrient profile earns A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 679,
+  "name": "Flounder",
+  "why": "Flounder is a lower-calorie fish with a lower-than-average micronutrient content, a very lean protein source and a good source of omega-3s, selenium, vitamin B12 and choline, with lesser mercury at about 0.06 ppm. It is as average as a fish comes, nutritious and inoffensive but unspectacular, so he puts it in C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 680,
+  "name": "Grouper",
+  "why": "Grouper is a lower-calorie fish with one of the lowest micronutrient profiles, a very lean protein source and higher in creatine and choline than other fish. It has a concerningly high heavy-metal load of around 0.45 ppm mercury and nothing special to offset it, so it belongs in D tier and should be consumed in serious moderation.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 681,
+  "name": "Haddock",
+  "why": "Haddock is a lower-calorie fish with a subpar micronutrient profile, again a very lean protein source and, like other white fish, a good source of choline, but otherwise nothing special. Mercury is lower at about 0.06 ppm, so it is just another fine fish and goes in C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 682,
+  "name": "Halibut",
+  "why": "Pacific halibut is an average-calorie fish with an average profile, one of the better protein sources, among the best magnesium on the list (muscle and nerve function, bone and DNA) and higher in creatine and choline than most fish. Mercury of about 0.24 ppm is high enough to keep an eye on, so it is fine in moderation and lands in C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 683,
+  "name": "Herring",
+  "why": "Atlantic herring is a higher-calorie fish with a solid profile, among the fattiest foods and one of the highest in omega-3 fatty acids, and one of the best sources of vitamin B12. Its lower mercury content of about 0.08 ppm and great provision of essential nutrients earn it a solid A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 684,
+  "name": "Lobster",
+  "why": "Northern lobster is one of the lowest-calorie foods with a less-than-average profile: among the best copper on the list and very lean, but very little omega-3, plus a solid source of creatine and astaxanthin. As with all shellfish, watch for allergies and foodborne illness, though mercury is low at about 0.11 ppm, and he calls it an unorthodox choice for C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 685,
+  "name": "Mackerel",
+  "why": "Atlantic mackerel is the highest-calorie food on the list with one of the best profiles: among the fattiest, the highest in saturated fat (about 4 g), high in monounsaturated fat (about 7 g), a solid omega-3 source, and among the best for vitamin B12, vitamin D and magnesium. Mercury is lower at about 0.05 ppm, a shining example of a fatty fish, so it takes A tier.",
+  "repairs": [
+   "erusic -> erucic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 686,
+  "name": "Mahi Mahi",
+  "why": "Mahi mahi, also called dolphin fish, is a lower-calorie fish with lower-than-average micronutrients, a very lean protein source, the best vitamin B3 per calorie on the list and, like other white fish, a good source of choline. Mercury is higher at about 0.18 ppm, so it is just fine, nutritious but nothing special in normal quantities, and goes in C tier.",
+  "repairs": [
+   "seeds here -> C tier (confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": "Tier word garbled; tier taken from original_tier."
+ },
+ {
+  "id": 687,
+  "name": "Mussel",
+  "why": "Blue mussels are an average-calorie food with one of the best profiles, among the highest in carbs (about 7 g), a solid omega-3 source, the best vitamin B1 and folate, and among the best B12, manganese, selenium and vitamin C. Mercury is low at about 0.02 ppm, but cadmium is higher and shellfish are more prone to foodborne illness, yet they are very nutritious and join the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 688,
+  "name": "Octopus",
+  "why": "Octopus is an average-calorie food with a superior profile, one of the best protein sources, among the best vitamin B12, selenium, iron and B6, and one of the best creatine sources. Mercury is very low at about 0.04 ppm, but it can carry higher lead and arsenic, which he says to watch for, though it is so nutritious it goes in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 689,
+  "name": "Oyster",
+  "why": "Pacific oysters are an average-calorie food with one of the best profiles: the highest carbs on the list (about 10 g per 100 g), the highest omega-3 of any shellfish, the best zinc, selenium and copper, among the best B12, manganese and iron, plus a strongly antioxidant compound called DHMBA. Mercury is low at about 0.01 ppm, but cadmium and lead can be notable, and he still puts oysters in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 690,
+  "name": "Salmon",
+  "why": "Atlantic salmon is a higher-calorie fish with an above-average profile, among the best omega-3 sources and one of the best for vitamin D, B3, B6, B2 and B1, higher in creatine than most fish and among the best in astaxanthin, which he says raises HDL and promotes brain health. With low mercury of about 0.02 ppm he gives it a comfortable top tier placement.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 691,
+  "name": "Sardine",
+  "why": "Sardines are a higher-calorie fish with an above-average profile, among the fattiest with a solid omega-3 share, the highest calcium on the list and among the best B12 and phosphorus, with low mercury of about 0.01 ppm. The one catch is an omega-6 load of over 3,500 mg per 100 g, which can worsen the omega-3 to omega-6 ratio when you already eat omega-6 elsewhere, so he places them in B tier.",
+  "repairs": [
+   "infamous nation -> inflammation"
+  ],
+  "confidence": "high",
+  "note": "original_tier is B while csv_tier is A; B used as instructed."
+ },
+ {
+  "id": 692,
+  "name": "Scallop",
+  "why": "Scallops are a lower-calorie food with a lower micronutrient profile: a decent source of protein per calorie, a mild source of omega-3s and some micronutrients, all of which you can get better from other foods on the list. Mercury is very low, typically under 0.01 ppm, but cadmium is higher, and since they offer nothing to stand out they go in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 693,
+  "name": "Shrimp",
+  "why": "Shrimp is a lower-calorie food with a less-than-average profile, among the leanest protein sources with a solid portion of its fat as omega-3s and a solid source of the carotenoid astaxanthin. Despite low mercury of about 0.01 ppm it falls short on nutrient density compared with other seafood, so it goes in C tier.",
+  "repairs": [
+   "sea tier -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 694,
+  "name": "Snapper",
+  "why": "Snapper is a lower-calorie fish with an average profile, among the best protein sources per calorie on the list and one of the best for creatine and choline. Mercury is somewhat notable at about 0.1 ppm, but it is a notch above most other white fish, so it edges into B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 695,
+  "name": "Squid",
+  "why": "Squid is among the lowest-calorie items with a below-average profile, very lean and among the best copper sources, but easily the lowest in protein per gram, which is an important nutrient here. Mercury is generally low at about 0.04 ppm so it is not bad for you, but some foods have to sit at the bottom, so it goes in D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 696,
+  "name": "Swordfish",
+  "why": "Swordfish is an average-calorie fish with a solid profile, a good omega-3 source and among the highest in vitamin D, vitamin B3 and vitamin E. The problem is easily the highest heavy-metal load on the list, about one part per million of mercury, so it should be eaten in serious moderation, though it is still very nutritious and lands in B tier.",
+  "repairs": [
+   "Beats here -> B tier (confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": "original_tier is B while csv_tier is C; B used as instructed."
+ },
+ {
+  "id": 697,
+  "name": "Tilapia",
+  "why": "Tilapia is an average-calorie fish with a below-average profile, one of the better protein sources and higher than most fish in creatine and choline. It has more omega-6 (about 300 mg) than omega-3, but since both are low this is not much of a concern, and with low mercury of about 0.01 ppm it is a fine white fish in C tier.",
+  "repairs": [
+   "seeds here -> C tier (confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": "Tier word garbled; tier taken from original_tier."
+ },
+ {
+  "id": 698,
+  "name": "Trout",
+  "why": "Trout is an average-calorie fish with a pretty average profile, a solid omega-3 source, among the best vitamin D and B12, and one of the best for creatine and astaxanthin. With relatively low mercury of about 0.07 ppm it is nutritionally solid and has earned a spot in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 699,
+  "name": "Tuna",
+  "why": "Skipjack tuna is an average-calorie fish with a middling profile, among the highest in protein on the list, the best vitamin B6 source (brain, nervous and immune function) and among the best vitamin B3. Canned tuna has somewhat higher mercury, typically about 0.15 ppm but sometimes more, yet it is a staple for a reason, so he puts it in A tier.",
+  "repairs": [
+   "uncanned -> canned"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 700,
+  "name": "Yellowtail",
+  "why": "Yellowtail is a higher-calorie fish with a subpar micronutrient profile, though among the best vitamin B3 sources, and it excels in macros with more protein than tuna and more omega-3s than salmon, the best of both worlds. Mercury is lower at about 0.06 ppm, so it rounds out the list in the top tier.",
+  "repairs": [
+   "moral -> more"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

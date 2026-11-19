@@ -1,0 +1,264 @@
+[
+ {
+  "id": 619,
+  "name": "Apple Juice",
+  "why": "Apple juice is a mid-calorie drink with more natural sugar than an apple and fewer micronutrients, keeping some polyphenols (quercetin, catechin, chlorogenic acid) and fiber that help cholesterol and chronic-disease protection. Most nutrients sit in the peel, and juice often has significant added sugar, so check the label; it is strictly inferior to the fruit but fine, in C tier.",
+  "repairs": [
+   "'sea tier' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 620,
+  "name": "Beer",
+  "why": "Beer is an average-calorie drink, mostly from alcohol at 7 calories per gram, with a surprisingly high micronutrient content; light-to-moderate intake is linked to lower heart disease risk and better insulin sensitivity and bone density, with limited evidence, but beer can cause dependence and excess is linked to liver disease, depression, cancers and weight gain. He won't advocate it, and puts it in D tier.",
+  "repairs": [
+   "'index success' -> excess (garbled)"
+  ],
+  "confidence": "high",
+  "note": "original_tier D differs from csv F; D used as instructed."
+ },
+ {
+  "id": 621,
+  "name": "Beet Juice",
+  "why": "Beet juice is a lower-calorie drink with a deceptively good iron content and one of the few liquids that reliably supplies folate and potassium, plus betaine for the liver and decent fiber; its main draw is improved cardiovascular performance via higher plasma nitrate. He calls it one of the better and typically less sugary juices, in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 622,
+  "name": "Black Tea",
+  "why": "Black tea is virtually calorie-free with a good manganese content, plus polyphenols (catechins, theaflavins, thearubigins) shown to regulate cholesterol and blood sugar and aid gut bacteria, and flavonoids for heart health. It has more caffeine than other teas but less than coffee, so caffeine-sensitive people may notice irregularities; otherwise it is hard to go wrong, in A tier.",
+  "repairs": [
+   "'theoflavins and theorubicans' -> theaflavins and thearubigins",
+   "'AIDS here' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 623,
+  "name": "Carrot Juice",
+  "why": "Carrot juice is average in calories with a great profile, one of the best ways to get carotenoids that become vitamin A for the eyes, plus vitamin K, C, B6, potassium and vitamin E; it is a solid immune booster with anti-cancer and blood-sugar-regulating properties. He mentions no downsides and calls it a standout example of getting nutrients from a drink, in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 624,
+  "name": "Cherry Juice",
+  "why": "Tart cherry juice is higher in calories and sugarier, with a decent profile and a solid source of vitamin C; its main draw is muscle soreness relief, especially after long endurance exercise, and some help for strength recovery. It often contains added sugar, so check the label; he calls it a fine juice with unique qualities, in B tier.",
+  "repairs": [
+   "'beets here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 625,
+  "name": "Coconut Water",
+  "why": "Coconut water is lower in calories and sugar with a decent profile, a surprisingly good source of vitamin C, manganese and potassium, and shown to help blood sugar regulation, heart health and kidney stone prevention. He mentions no downsides, calling it nothing spectacular but a very inoffensive drink, and puts it in B tier.",
+  "repairs": [
+   "'beets here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 626,
+  "name": "Coffee",
+  "why": "Coffee is very low in calories with a mild profile; its caffeine fights fatigue and may aid athletic performance, and it protects the liver, heart and long-term brain function, though less definitively; chlorogenic and ferulic acid are anti-inflammatory and anti-cancer. It can be addictive, cause anxiety and disrupt sleep, but offers more than it risks, so A tier.",
+  "repairs": [
+   "'AIDS here' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 627,
+  "name": "Cranberry Juice",
+  "why": "Cranberry juice is average in calories with a solid profile, a good source of vitamins C, K and E, and its main draw is helping with urinary tract infections via proanthocyanidins that stop bacteria attaching; quercetin supports heart and digestive health. It very commonly has added sugar, so check the label; he calls it very healthy if a little sugary, in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 628,
+  "name": "Energy Drinks",
+  "why": "Energy drinks are average in calories with a ton of sugar and a variable profile, usually fortified with extreme B vitamins, vitamin C and taurine and able to improve short-term alertness through caffeine; the main problem is the sugar, or artificial sweeteners instead, and excess is shown to cause heart and liver issues and energy inconsistency. He won't advocate them, so F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 629,
+  "name": "Grape Juice",
+  "why": "Grape juice is higher in calories with a mild profile, a solid source of manganese, often with added vitamin C, and flavonols that reduce inflammation, manage cholesterol and support immune, digestive and gut health; it is one of the sugarier juices and often has added sugar, so check the label. One of the lesser fruit juices but could be worse, in C tier.",
+  "repairs": [
+   "'sea tier' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 630,
+  "name": "Grapefruit Juice",
+  "why": "Grapefruit juice is average in calories with an impressive profile: lots of vitamin C, beta-carotene that becomes vitamin A, lycopene and flavonols for anti-cancer and anti-inflammatory effects, and citric acid for skin health and kidney stone prevention; it can interfere with certain medications and may contain added sugar. He calls it one of the better fruit juices, in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 631,
+  "name": "Green Tea",
+  "why": "Green tea is very low in calories with a mild profile and much less caffeine than most caffeinated drinks; it has more EGCG than other teas, giving anti-cancer, anti-Alzheimer's and antimicrobial effects, and L-theanine, which stimulates the brain and combats anxiety. It has no consistent health concerns beyond occasional alertness issues, and he calls it perfectly fine, in A tier.",
+  "repairs": [
+   "'epigally catechin three galleate' -> epigallocatechin-3-gallate (EGCG)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 632,
+  "name": "Hot Cocoa",
+  "why": "Hot cocoa made with milk is higher in calories with a decent profile that mainly comes from the milk: complete protein, milk fat, vitamins B2, B12 and D, calcium and phosphorus; it adds cocoa and typically a good amount of sugar. Not the worst thing to indulge in, but it shouldn't be your go-to hot drink, so he puts it in D tier.",
+  "repairs": [
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 633,
+  "name": "Lemonade",
+  "why": "Lemonade made properly is an average-calorie drink with a mild profile; the lemon gives a good amount of vitamin C and citric acid for skin health and kidney stone prevention; it is usually a sugar bomb, though homemade lets you control that. He calls it a pleasure drink with a little merit and couldn't bring himself to give it F, so D tier.",
+  "repairs": [
+   "'The Limited the lemon' -> garbled; read as 'the lemon'",
+   "'detier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 634,
+  "name": "Milk",
+  "why": "Whole milk is a higher-calorie drink with an impressive profile: about 8 g complete protein per cup (casein aids calcium and phosphorus absorption, whey is shown to help manage blood pressure), about 8 g fat, CLA, calcium, phosphorus, B2, B12 and usually fortified vitamin D. Downsides are lactose intolerance, added sugar in some brands and milk allergy in about 5 percent of people; he puts it in A tier.",
+  "repairs": [
+   "'in case casein' -> and casein",
+   "'AIDS in' -> aids in"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Whole milk is a higher-calorie drink with an impressive profile: about 8 g complete protein per cup (casein aids calcium and phosphorus absorption, whey lowers blood pressure), about 8 g fat, CLA, calcium, phosphorus, B2, B12 and usually fortified vitamin D. Downsides are lactose intolerance, added sugar in some brands and milk allergy in about 5 percent of people; he puts it in A tier. -> Whole milk is a higher-calorie drink with an impressive profile: about 8 g complete protein per cup (casein aids calcium and phosphorus absorption, whey is shown to help manage blood pressure), about 8 g fat, CLA, calcium, phosphorus, B2, B12 and usually fortified vitamin D. Downsides are lactose intolerance, added sugar in some brands and milk allergy in about 5 percent of people; he puts it in A tier."
+ },
+ {
+  "id": 635,
+  "name": "Orange Juice",
+  "why": "Orange juice is an average-calorie drink with a solid profile, with plenty of vitamin C for bone formation, wound healing and gums, citric acid for skin and kidney stones, flavonoids that lower cholesterol and carotenoids that become vitamin A. It is naturally sugary and some brands add more, but at its best the good outweighs that, so B tier.",
+  "repairs": [
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 636,
+  "name": "Pineapple Juice",
+  "why": "Pineapple juice is a higher-calorie drink with a good amount of manganese and vitamin C and bromelain, which reduces inflammation and improves digestion, immunity and heart health; it also has about 3 g of fiber per cup, unusual for a drink. It is one of the more sugary juices and often has added sugar, so he can't rank it higher than C tier.",
+  "repairs": [
+   "'sea tier' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 637,
+  "name": "Pomegranate Juice",
+  "why": "Pomegranate juice is somewhat higher in calories with a decent profile, a solid source of vitamin K and one of the best juices for antioxidants (punicalagins, anthocyanins, hydrolysable tannins) that fight inflammation and brain oxidative damage and support gut bacteria. It has a fair amount of natural sugar and often more added, but offers more than other sugary drinks, so B tier.",
+  "repairs": [
+   "'Punic allergens' -> punicalagins",
+   "'elegitanins' -> ellagitannins",
+   "'beets here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 638,
+  "name": "Prune Juice",
+  "why": "Prune juice is higher in calories with a solid profile, a good source of B6, vitamin C, potassium, manganese and iron, and a solid amount of fiber for a drink, making it a go-to for constipation; the problem is its consistently high sugar content. He calls it not a bad juice and useful, and puts it in C tier.",
+  "repairs": [
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 639,
+  "name": "Soda",
+  "why": "Cola soda is an average-calorie drink with a non-existent micronutrient profile; it has some caffeine benefits and carbonation may help digestion and constipation, but he admits he is reaching, because sodas are sugar bombs, often with high-fructose corn syrup, the worst kind of sugar. No surprise, he puts it in F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 640,
+  "name": "Diet Soda",
+  "why": "Diet cola is low in calories with a barely existent micronutrient profile; instead of sugar it uses artificial sweeteners like aspartame and sucralose, with mixed studies from harmless to linked to heart disease and cancer, mixed weight-loss results, and acids linked to tooth erosion plus artificial flavors and preservatives. It is not nutritious, and he can't recommend it, so F tier.",
+  "repairs": [
+   "'acosulfane' -> acesulfame"
+  ],
+  "confidence": "high",
+  "note": "original_tier F differs from csv D; F used as instructed."
+ },
+ {
+  "id": 641,
+  "name": "Sports Drinks",
+  "why": "Sports drinks are lower in calories with minimal micronutrients; their draw is sugar for quick energy during or after exercise and electrolytes like potassium and sodium, which vary by brand; outside exercise they are just sugary water, and even during it they are usually unnecessary for most people. Having less sugar than most fruit juices, he puts them in C tier.",
+  "repairs": [
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 642,
+  "name": "Sweet Tea",
+  "why": "Sweet tea is an average-calorie drink with one notable micronutrient, manganese, since tea is naturally a good source; it is basically black tea with extra sugar, with amounts varying by brand, though even at its worst it is not normally as bad as soda. He therefore puts it in D tier.",
+  "repairs": [
+   "'micronutrients exactly one' -> one notable micronutrient"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 643,
+  "name": "Tomato Juice",
+  "why": "Tomato juice is low in calories with an impressive profile, a good source of vitamin C and alpha and beta-carotene, and rich in lycopene and antioxidants with strong heart-health and sun and cancer protection; quite a few products contain notable added sugar and salt. He calls it a solid contender for the healthiest fruit juice, in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 644,
+  "name": "Water",
+  "why": "Water is a suspiciously low-calorie drink with a non-existent micronutrient profile; drinking water has only minuscule calcium, magnesium, sodium and potassium that contribute nothing nutritionally. It offers none of the good or bad of other drinks, but it is just water, the most important nutrient, so it is a resident of the top tier.",
+  "repairs": [
+   "'sill residents' -> sole residents (of the top tier)",
+   "'drinking water' -> likely 'tap water' (uncertain)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Water is a suspiciously low-calorie drink with a non-existent micronutrient profile; tap water has only minuscule calcium, magnesium, sodium and potassium that contribute nothing nutritionally. It offers none of the good or bad of other drinks, but it is just water, the most important nutrient, so it is a resident of the top tier. -> Water is a suspiciously low-calorie drink with a non-existent micronutrient profile; drinking water has only minuscule calcium, magnesium, sodium and potassium that contribute nothing nutritionally. It offers none of the good or bad of other drinks, but it is just water, the most important nutrient, so it is a resident of the top tier."
+ },
+ {
+  "id": 645,
+  "name": "Wine",
+  "why": "Wine, red and white, is a higher-calorie drink with a mild profile; alcohol is 7 calories per gram, and red barely but consistently beats white with more manganese, potassium, iron and antioxidants like resveratrol and catechin; in moderation it reduces inflammation, heart disease and cancer risk, but excess means dependency, depression and liver disease. He won't suggest it but it has uses, D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "original_tier D differs from csv F; D used as instructed."
+ }
+]

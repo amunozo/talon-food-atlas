@@ -1,0 +1,1019 @@
+{
+ "video_id": "0ekX1bE_gIM",
+ "title": "Beans Ranked - Nutrition Tier Lists",
+ "n_expected": 20,
+ "foods": [
+  {
+   "food": "Adzuki Beans",
+   "start": 177,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "130",
+    "protein_g": "8",
+    "fat_g": null,
+    "carbs_g": "25",
+    "fiber_g": "7",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Baked Beans",
+   "start": 224,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "105",
+    "protein_g": "5",
+    "fat_g": null,
+    "carbs_g": "21",
+    "fiber_g": "6",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Black Beans",
+   "start": 291,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "130",
+    "protein_g": "9",
+    "fat_g": null,
+    "carbs_g": "24",
+    "fiber_g": "9",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Black Eyed Peas",
+   "start": 348,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "115",
+    "protein_g": "8",
+    "fat_g": null,
+    "carbs_g": "21",
+    "fiber_g": "7",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cannellini Beans",
+   "start": 390,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "140",
+    "protein_g": "10",
+    "fat_g": null,
+    "carbs_g": "25",
+    "fiber_g": "6",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Chickpeas",
+   "start": 441,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "165",
+    "protein_g": "9",
+    "fat_g": null,
+    "carbs_g": "27",
+    "fiber_g": "8",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cranberry Beans",
+   "start": 490,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "135",
+    "protein_g": "9",
+    "fat_g": null,
+    "carbs_g": "25",
+    "fiber_g": "10",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Edamame",
+   "start": 524,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "120",
+    "protein_g": "11",
+    "fat_g": null,
+    "carbs_g": "10",
+    "fiber_g": "5",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 78
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fava Beans",
+   "start": 632,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "110",
+    "protein_g": "8",
+    "fat_g": null,
+    "carbs_g": "20",
+    "fiber_g": "5",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Great Northern Beans",
+   "start": 705,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "120",
+    "protein_g": "8",
+    "fat_g": null,
+    "carbs_g": "21",
+    "fiber_g": "7",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Jelly Beans",
+   "start": 740,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "375",
+    "protein_g": "0",
+    "fat_g": null,
+    "carbs_g": "94",
+    "fiber_g": "0",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 1
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kidney Beans",
+   "start": 778,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "125",
+    "protein_g": "9",
+    "fat_g": null,
+    "carbs_g": "23",
+    "fiber_g": "6",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lima Beans",
+   "start": 821,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "125",
+    "protein_g": "7",
+    "fat_g": null,
+    "carbs_g": "24",
+    "fiber_g": "5",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lupin Beans",
+   "start": 870,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "120",
+    "protein_g": "16",
+    "fat_g": null,
+    "carbs_g": "10",
+    "fiber_g": "3",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Mung Beans",
+   "start": 919,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "105",
+    "protein_g": "7",
+    "fat_g": null,
+    "carbs_g": "19",
+    "fiber_g": "8",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Navy Beans",
+   "start": 953,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "140",
+    "protein_g": "8",
+    "fat_g": null,
+    "carbs_g": "26",
+    "fiber_g": "11",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pink Beans",
+   "start": 997,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "150",
+    "protein_g": "9",
+    "fat_g": null,
+    "carbs_g": "28",
+    "fiber_g": "5",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pinto Beans",
+   "start": 1032,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "145",
+    "protein_g": "9",
+    "fat_g": null,
+    "carbs_g": "26",
+    "fiber_g": "9",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Refried Beans",
+   "start": 1063,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "90",
+    "protein_g": "5",
+    "fat_g": null,
+    "carbs_g": "15",
+    "fiber_g": "5",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Soybeans",
+   "start": 1109,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "175",
+    "protein_g": "17",
+    "fat_g": null,
+    "carbs_g": "10",
+    "fiber_g": "6",
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 15
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.037674,
+  "calls": [
+   {
+    "cost": 0.03767375,
+    "tokens": {
+     "prompt_tokens": 116135,
+     "completion_tokens": 5760,
+     "total_tokens": 121895
+    },
+    "wall_s": 45.3
+   }
+  ],
+  "wall_s": 45.3
+ }
+}

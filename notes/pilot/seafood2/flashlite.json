@@ -1,0 +1,3239 @@
+{
+ "episode_summary": "In this episode, Talon ranks various seafood options based on their nutritional value and health risks. The foods that earn the top (star) tier are Chinook Salmon, Conch, King Crab, Shad, Sockeye Salmon, Spiny Lobster, Sea Cucumber, Smelt, and Whelk.",
+ "foods": [
+  {
+   "food": "Abalone",
+   "why": "Abalone is an A-tier food that is a solid, salty choice with a stand-out micronutrient profile. It is a great source of vitamin K2, selenium, vitamin E, iron, and iodine, and it is comparatively low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 175,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 21,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 6,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 350,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 101,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin E",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 40,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 34,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 32,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin K",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 28,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Bluegill",
+   "why": "Bluegill is a C-tier food that is a solid source of protein per calorie. It is a good source of selenium, calcium, and magnesium, and it is low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 115,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 200,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 96,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 35,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 11,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  },
+  {
+   "food": "Burbot",
+   "why": "Burbot is a C-tier food that is a good source of protein per calorie. It is high in vitamin B1, manganese, and creatine, but it contains a moderate amount of mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 115,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 280,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 39,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 38,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 37,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B1",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 36,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 28,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  },
+  {
+   "food": "Butterfish",
+   "why": "Butterfish is an A-tier food that is a fatty fish and a good source of omega-3s. It is a solid source of selenium and vitamin B12, and it is generally a safe, low-mercury fish.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 185,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 22,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 10,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 1290,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 76,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 44,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 38,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Chinook Salmon",
+   "why": "Chinook Salmon is a top-tier food that is both very protein-dense and very high in fat. It is the best source of phosphorus on the list and is also a great source of vitamin B3, magnesium, and vitamin A, while being low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 230,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 26,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 13,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 2140,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 120,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 63,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 53,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 36,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "★"
+  },
+  {
+   "food": "Cisco",
+   "why": "Cisco is an A-tier food that is a low-protein, high-fat fish and one of the best omega-3 sources per calorie. It is the best source of vitamin A on the list and is also a great source of vitamin D and vitamin B12, while being low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 175,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 16,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 12,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 1520,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 178,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin D",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 88,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin A",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 24,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 21,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Conch",
+   "why": "Conch is a top-tier food that is very high in protein per calorie. It is the best source of folate on the list and is also a great source of vitamin B12, selenium, magnesium, and vitamin E, while being low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 130,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 26,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 120,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 219,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 73,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 60,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 48,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Folate",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 45,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin E",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 42,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "★"
+  },
+  {
+   "food": "Crappie",
+   "why": "Crappie is a C-tier food that is high in protein per calorie. It is a good source of selenium, iron, and calcium, but it is moderately mercury-dense.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 115,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 310,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 100,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 46,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 33,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Iron",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 14,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 11,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 11,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  },
+  {
+   "food": "Croaker",
+   "why": "Croaker is a C-tier food that is a somewhat fatty fish, but its omega-3 content does not match its fat content. It is a dependable source of vitamin B12 and selenium, and it is low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 190,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 20,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 8,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 480,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 99,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 73,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 34,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 32,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 25,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B1",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 14,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  },
+  {
+   "food": "Cusk",
+   "why": "Cusk is a C-tier food that is higher in protein per calorie than most fish and is a good source of creatine. It is a good source of selenium, potassium, and magnesium, but it has a moderate mercury content.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 110,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 24,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 200,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 37,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 34,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 20,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 12,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  },
+  {
+   "food": "Drum",
+   "why": "Drum is a D-tier food that is a somewhat higher-fat fish and a solid source of omega-3s. It is a good source of vitamin B12 and manganese, but it is one of the most mercury-ridden fish in the sea.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 155,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 23,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 6,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 1000,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 96,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 39,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 33,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 33,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "D"
+  },
+  {
+   "food": "Hake",
+   "why": "Hake is a C-tier food that is a very high-protein fish per calorie and a good source of copper. It is a safe, low-mercury fish, but it does not have any standout nutritional qualities.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 90,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 20,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 250,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 65,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 46,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 33,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 28,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 14,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 11,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  },
+  {
+   "food": "King Crab",
+   "why": "King Crab is a top-tier food that is an above-average source of protein and omega-3s per calorie. It is the best source of zinc on the list and is also a great source of vitamin B12 and copper, while being low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 95,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 19,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 440,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 479,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 131,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 73,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Zinc",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 69,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 40,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 16,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "★"
+  },
+  {
+   "food": "King Mackerel",
+   "why": "King Mackerel is a D-tier food that is a high-protein fish and a significant source of vitamins B12, B3, B6, and A. However, it is notorious for being one of the most mercury-dense fish in the sea, which offsets its nutritional benefits.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 135,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 26,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 3,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 420,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 750,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 66,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 45,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 45,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 39,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "D"
+  },
+  {
+   "food": "Ling",
+   "why": "Ling is a D-tier food that is very high in protein per calorie and a good source of selenium, magnesium, and creatine. However, it is absurdly high in mercury, which completely negates its nutritional benefits.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 110,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 24,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 400,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 36,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 20,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "D"
+  },
+  {
+   "food": "Milkfish",
+   "why": "Milkfish is an A-tier food that is high in protein and fat, with an impressive amount of omega-3s. It is a good source of creatine and vitamin B3, and although it contains a moderate amount of mercury, it is worth eating in moderation.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 190,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 26,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 9,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 1000,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 136,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 52,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 38,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 30,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Monkfish",
+   "why": "Monkfish is a D-tier food that is a good source of selenium, but it falls short in every other nutritional category. It is also a moderately mercury-dense fish, so it cannot be eaten often.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 95,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 19,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 100,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 43,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 37,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 21,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 16,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "D"
+  },
+  {
+   "food": "Mullet",
+   "why": "Mullet is an A-tier food that is a great source of protein and a solid contributor of omega-3 fatty acids. It is a good source of selenium and creatine, and it is a low-mercury fish that can be eaten fairly often.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 150,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 5,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 850,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 39,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 38,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 35,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 16,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Perch",
+   "why": "Perch is a B-tier food that is higher in protein per calorie than most fish and is a good source of manganese and zinc. It is a low-mercury fish that is a solid, standard choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 115,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 370,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 92,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 39,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 37,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 21,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Pike",
+   "why": "Pike is a D-tier food that is a high-protein fish and a good source of vitamin B12 and creatine. However, it is often found to be very mercury-dense, which is a cause for concern.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 115,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 180,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 96,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 40,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 13,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "D"
+  },
+  {
+   "food": "Pollock",
+   "why": "Pollock is a B-tier food that is high in protein per calorie and a good source of vitamin B12, selenium, magnesium, and creatine. It is a safe, low-mercury fish that is a solid, standard choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 85,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 19,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 340,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 153,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 40,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 25,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 25,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 22,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Pompano",
+   "why": "Pompano is an A-tier food that is a very fatty fish and full of omega-3s. It is a good source of vitamin B1 and potassium, and it is a low-mercury fish, making it a pretty sweet deal.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 210,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 24,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 12,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 990,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B1",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 52,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 50,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 49,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 24,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 21,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Porgy",
+   "why": "Porgy is a B-tier food that is higher in omega-3s per calorie and a good source of selenium and vitamin B12. However, it is typically a moderately mercury-dense fish.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 135,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 24,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 4,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 770,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 68,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 34,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Rockfish",
+   "why": "Rockfish is a C-tier food that is a good source of selenium, vitamin D, and potassium. However, its relatively high mercury content drags it down into mediocrity.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 110,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 22,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 390,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 139,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 66,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 35,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin D",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 19,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  },
+  {
+   "food": "Roughy",
+   "why": "Roughy is a D-tier food that is high in protein per calorie and is the best source of selenium on the list. However, it is very mercury-dense, which completely offsets any benefits.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 105,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 23,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 50,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 161,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 20,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 15,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin E",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 12,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 11,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 8,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "D"
+  },
+  {
+   "food": "Sablefish",
+   "why": "Sablefish is a B-tier food that is the highest in fat and monounsaturated fat on either list. It is a good source of selenium and magnesium, but it is a moderately mercury-dense fish.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 250,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 17,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 20,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 1300,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 60,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 32,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Sea Cucumber",
+   "why": "Sea Cucumber is an A-tier food that is the highest protein-per-calorie food on either list. It is the best source of vitamin B2 and copper, and it is a low-mercury, safe exotic choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 55,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 13,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 50,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 72,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 61,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 36,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 20,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 19,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin A",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 7,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Shad",
+   "why": "Shad is a top-tier food that is one of the fattiest fish on the list and one of the best omega-3 sources. It is the highest source of vitamin B3 on the list and is also a great source of phosphorus, while being low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 250,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 22,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 18,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 2500,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 68,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 50,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 36,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 24,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "★"
+  },
+  {
+   "food": "Shark",
+   "why": "Shark is a D-tier food that is surprisingly high in omega-3s per calorie and provides a decent amount of other nutrients. However, it is a famous example of a high-mercury fish, which is a significant hindrance.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 130,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 21,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 5,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 980,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 65,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 62,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 30,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 14,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "D"
+  },
+  {
+   "food": "Sheepshead",
+   "why": "Sheepshead is a B-tier food that is high in protein per calorie and a good source of phosphorus, vitamin B12, and selenium. It is a low-mercury, lean fish that is a pretty good choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 125,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 26,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 190,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 96,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 93,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 50,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Smelt",
+   "why": "Smelt is an A-tier food that is high in omega-3s per calorie and excels in a few key micros. It is very high in vitamin B12 and a good source of manganese and zinc, and it is a low-mercury fish.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 125,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 23,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 3,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 800,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 165,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 42,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 39,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 20,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Zinc",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 19,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Sockeye Salmon",
+   "why": "Sockeye Salmon is a top-tier food that is astonishingly high in protein and respectably high in omega-3s. It is the best source of vitamin D on the list and is also a great source of vitamin B12, vitamin B6, vitamin B5, and vitamin B3, while being low in mercury.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 155,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 27,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 6,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 1010,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 186,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin D",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 112,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 65,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 64,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 63,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 44,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "★"
+  },
+  {
+   "food": "Sole",
+   "why": "Sole is a C-tier food that is a middle-of-the-road fish nutritionally. It is low in mercury, but it does nothing to stand out from the other fish on the list.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 85,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 15,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 350,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 59,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 55,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 44,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin D",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 23,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 9,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 8,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  },
+  {
+   "food": "Spiny Lobster",
+   "why": "Spiny Lobster is a top-tier food that is very high in protein and omega-3s per calorie. It is one of the best sources of zinc, vitamin B12, and selenium, and it is a low-mercury, safe choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 145,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 26,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 520,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 168,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 108,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Zinc",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 66,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 46,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 33,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 31,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "★"
+  },
+  {
+   "food": "Spot",
+   "why": "Spot is an A-tier food that has an impressive protein and omega-3 content. It is one of the best sources of vitamin B12, vitamin B3, and potassium, and although it is moderately mercury-dense, its nutritional qualities make it worth eating.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 160,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 24,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 6,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 990,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 144,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 53,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 36,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 34,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 21,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Sturgeon",
+   "why": "Sturgeon is a B-tier food that is a good source of omega-3s and excels in vitamins D, B3, and A. It is a moderately mercury-dense fish, so it cannot be eaten too often, but it has enough nutritional upside to be a B-tier choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 135,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 21,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 5,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 550,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 104,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin D",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 86,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 63,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 39,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin A",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Sucker",
+   "why": "Sucker is a B-tier food that is higher in omega-3s per calorie and is a genuinely good source of vitamin B12 and manganese. It contains a moderate amount of mercury, but it is a fairly standard fish choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 120,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 22,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 3,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 780,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 96,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 38,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 33,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 28,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Tilefish",
+   "why": "Tilefish is a D-tier food that is higher in protein and omega-3 fatty acids. However, it is one of the most infamously mercury-dense fish on the planet, so it cannot be recommended.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 145,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 5,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 1050,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 104,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 94,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 34,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 23,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 22,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B5",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "D"
+  },
+  {
+   "food": "Turbot",
+   "why": "Turbot is a B-tier food that is a good source of omega-3s per calorie, vitamin B12, selenium, and magnesium. It is a moderately mercury-dense fish, but it is a solid, standard choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 120,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 21,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 4,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 700,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 106,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 24,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 19,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 16,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Walleye",
+   "why": "Walleye is a B-tier food that is the best source of manganese on the list and a good source of calcium, vitamin B1, and creatine. It contains a moderate amount of mercury, but it is a solid, standard choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 120,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 470,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 96,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 45,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 38,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B1",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 26,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 25,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Whelk",
+   "why": "Whelk is a top-tier food that has the most protein per gram of any animal on either list. It is the best source of vitamin B12, copper, and selenium, and it is a low-mercury, safe choice, provided you avoid the poisonous ones.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 275,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 48,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 190,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 754,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 229,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 163,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Iron",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 56,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 50,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 43,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "★"
+  },
+  {
+   "food": "Wolffish",
+   "why": "Wolffish is a C-tier food that is high in omega-3s per calorie and a good source of vitamin B12 and selenium. However, its overall mediocrity and relatively high mercury content make it a C-tier choice.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 125,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 22,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Fat",
+     "amount": 3,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Omega-3 (DHA+EPA)",
+     "amount": 870,
+     "unit": "mg",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B12",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 98,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Selenium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 85,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 37,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B6",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 36,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B3",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B1",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 16,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "C"
+  }
+ ]
+}

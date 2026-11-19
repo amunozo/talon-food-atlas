@@ -1,0 +1,572 @@
+{
+ "episode_summary": "In this episode of Nutrition Tier Lists, Talon evaluates nine edible seaweeds and algae based on their nutrient profiles per 100g, health benefits, and potential risks. He highlights algae as the original aquatic source of DHA and EPA omega-3 fatty acids and an unmatched source of iodine, while cautioning that recommended daily servings are often much smaller than 100g. Because the entire food group is exceptionally nutrient-dense, every entry lands in B tier or higher, with Chlorella and Spirulina earning the top \u2605 tier.",
+ "foods": [
+  {
+   "food": "Chlorella",
+   "why": "Chlorella is a nutrient-packed freshwater algae high in complete protein, DHA/EPA omega-3s, carotenoids, and micronutrients like vitamin K, vitamin A, iron, and zinc that support immune and eye health. Although it is lower in iodine than most seaweeds and requires high-quality sourcing and modest servings (10-20g) to avoid heavy-metal contamination or overconsumption, its extraordinary nutrition earns an automatic top-tier spot.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 410,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 57,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 25,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin K",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 1167,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin A",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 1025,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Iron",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 721,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Zinc",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 475,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 253,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "\u2605"
+  },
+  {
+   "food": "Dulse",
+   "why": "Dulse is a red seaweed that leads the list in fiber and potassium while providing substantial protein, iron, omega-3s, iodine, and antioxidants. Its drawbacks are very high sodium and iodine levels that limit recommended intake to 20g per day, yet it still delivers impressive nutrition in small amounts and lands in A tier.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 270,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 29,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 43,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Iron",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 157,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Potassium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 104,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 68,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 58,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 48,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Irish Moss",
+   "why": "Irish moss is the top raw seaweed on the list for iron, vitamin B2, and zinc, and also supplies folate, DHA/EPA omega-3s, iodine, and sulfated polysaccharides. It is best known as a source of carrageenan, which can be hard for some people to digest though not actively harmful in its natural form, placing it in B tier.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 50,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 12,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Iron",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 49,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Folate",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 46,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 36,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Phosphorus",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 22,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Zinc",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Kelp",
+   "why": "Brown kelp is the best raw source of vitamin K on the list and offers tyrosine, fucoidan, DHA/EPA omega-3s, and antioxidants like fucoxanthin and phlorotannins. However, it has the highest iodine content of the group, making iodine overconsumption a realistic concern, which puts it in B tier.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 45,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 2,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 10,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin K",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 55,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Folate",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 45,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 30,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Calcium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 17,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Iron",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 16,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Nori",
+   "why": "Nori provides notable plant protein, comparatively high DHA and EPA omega-3s, and leads the list in vitamin C alongside eye-supporting carotenoids and phlorotannins. Even though it contains less iodine than other seaweeds, its well-rounded vitamin and antioxidant profile gives it an edge and places it in A tier.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 35,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 6,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 5,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin C",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 43,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 43,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Folate",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 37,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 34,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin A",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 29,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  },
+  {
+   "food": "Ogo",
+   "why": "Ogo is a lower-calorie red seaweed that stands out as the best raw source of calcium on the list, while also supplying strong amounts of manganese, iron, iodine, and DHA/EPA omega-3s. It also contains agar to support digestive health, making this less common choice well worth eating and earning it a spot in B tier.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 30,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 6,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 70,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Calcium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 50,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Iron",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 42,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 30,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin K",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 20,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Sea Grapes",
+   "why": "Sea grapes are a very low-calorie green seaweed that rank as the best raw source of magnesium and vitamin E on the list while also delivering vitamin C, fucoidan, iodine, and omega-3s. Because they pack impressive nutrition per calorie, Talon places them in B tier.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 20,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 1,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 3,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 56,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin E",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 35,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 22,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin C",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 15,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Calcium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 11,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "B"
+  },
+  {
+   "food": "Spirulina",
+   "why": "Technically a cyanobacteria rather than seaweed, spirulina is the most protein-dense food on the list with a complete amino acid profile, massive copper and B-vitamin levels, iron, omega-3s, and anti-inflammatory phycocyanin. Although it is low in iodine, unsuitable for some autoimmune disorders, and best limited to around 10g per day like a supplement, its unmatched nutrient profile easily places it in the top tier.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 290,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 58,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 24,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 677,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 282,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B1",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 198,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Iron",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 158,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 83,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "\u2605"
+  },
+  {
+   "food": "Wakame",
+   "why": "Wakame is regarded as the highest seaweed in DHA and EPA omega-3s and leads raw options in manganese and folate while providing seaweed-specific antioxidants like fucoxanthin and phlorotannins. Its high sodium and very high iodine levels limit how much can safely be eaten, but it remains an excellent choice and earns A tier.",
+   "key_nutrients": [
+    {
+     "nutrient": "Calories",
+     "amount": 45,
+     "unit": "kcal",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Protein",
+     "amount": 3,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Carbs",
+     "amount": 9,
+     "unit": "g",
+     "pct_dv": null,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Manganese",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 61,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Folate",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 49,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Copper",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 32,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Magnesium",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 27,
+     "basis": "per 100 g"
+    },
+    {
+     "nutrient": "Vitamin B2",
+     "amount": null,
+     "unit": null,
+     "pct_dv": 18,
+     "basis": "per 100 g"
+    }
+   ],
+   "tier_on_board": "A"
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+[
+ {
+  "id": 204,
+  "name": "Almond Butter",
+  "why": "Almond butter is a high-calorie food with the best micronutrient profile on the list: the most fat, mostly monounsaturated, substantial protein, about 10 g of fiber, and the best vitamin E, plus manganese, magnesium and copper, and it is satiating and blood sugar stable. The caveats are the added sugar, oil and preservatives often found in it, so he puts it in the top tier.",
+  "repairs": [
+   "Manganesees -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 205,
+  "name": "Ambrosia",
+  "why": "Ambrosia is a low-calorie sweet with a solid micronutrient profile per calorie, mostly from its fruit: relevant fiber, a significant amount of vitamin C, and antioxidants that he links to immune health and blood pressure. It is more natural and less tampered with than the rest of the list and affects blood sugar much less, so he calls it a great sweet tooth tamer and puts it in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 206,
+  "name": "Baklava",
+  "why": "Baklava is a higher-calorie dessert with a moderate micronutrient profile, offering healthy nut fats for heart, brain and hormone health, copper, selenium, several B vitamins, vitamin A from the butter, relevant protein and a good starch to sugar ratio. It is still a dessert, but certainly not the worst one and probably better than many people's meals, so he puts it in the B tier.",
+  "repairs": [
+   "phlo dough -> phyllo dough"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 207,
+  "name": "Brownies",
+  "why": "Brownies are a higher-calorie dessert with a decent micronutrient profile, supplying some protein, mostly monounsaturated fat, copper, manganese, selenium, vitamin A and some cocoa antioxidants. The big drawback is a lot of sugar, and despite not being complete garbage nutritionally, he puts them in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 208,
+  "name": "Butterscotch",
+  "why": "Butterscotch is a moderate-calorie sweet with a non-existent micronutrient profile, made of just brown sugar and butter, with only a vague study suggesting it may improve brain function. Because it is essentially just sugar, it earns a place in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 209,
+  "name": "Cake",
+  "why": "Chocolate cake is an average-calorie dessert with a mediocre micronutrient profile, giving a little protein from eggs and flour, some fat from butter and chocolate, and minor amounts of copper and selenium. It is baked with a whole lot of sugar and likely refined starch, a treat best saved for birthdays, so he puts cake in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 210,
+  "name": "Caramel",
+  "why": "Caramel is an average-calorie sweet with a mild micronutrient profile made of butter, cream and sugar, offering some protein, vitamin B2, phosphorus, calcium and compounds believed to have antioxidant effects. However, it is about two thirds sugar, so he sends it straight to the F tier.",
+  "repairs": [
+   "aldahhides -> aldehydes"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 211,
+  "name": "Cashew Butter",
+  "why": "Cashew butter is a high-calorie food with an impressive micronutrient profile: pretty high in protein, monounsaturated fat just behind almond butter, the best copper, plus zinc, vitamins B1 and B5, magnesium and phosphorus, supporting heart, brain, bone and immune health without aggravating blood sugar. Watch for added vegetable oils and sugar, and for excess calories even in its pure form, but he is happy to put it in the top tier.",
+  "repairs": [
+   "thamin -> thiamin",
+   "panaththenic -> pantothenic"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 212,
+  "name": "Cheesecake",
+  "why": "Cheesecake is an average-calorie dessert with a mild micronutrient profile, giving some protein, a fair amount of mostly saturated and monounsaturated fat and a notable dose of vitamin A, and it tends to have less sugar than most desserts. It is still more sugar than you should have regularly, but homemade versions can be made not terrible, and as a personal favorite it lands in the B tier.",
+  "repairs": [
+   "vitamin A proper -> vitamin A (unclear caption, kept as vitamin A)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 213,
+  "name": "Dark Chocolate",
+  "why": "Dark chocolate is a high-calorie treat with a wonderful micronutrient profile: the best protein apart from nut butters, the highest fiber at 11 percent, the best iron, and among the best copper, manganese, magnesium, phosphorus and zinc, plus antioxidants for immunity and skin. Check that it truly has at least 70 percent cocoa solids, remember it is calorie dense, and enjoy it smartly, which earns the A tier.",
+  "repairs": [
+   "olic, stic acid -> oleic, stearic acid"
+  ],
+  "confidence": "high",
+  "note": "Lists flavanols/lignans garbled; only 'antioxidants' used"
+ },
+ {
+  "id": 214,
+  "name": "Milk Chocolate",
+  "why": "Milk chocolate is a higher-calorie sweet with a surprisingly sufficient micronutrient profile, with protein comparable to dark chocolate, some fat and fiber, notable copper, phosphorus, B vitamins including B12, and some cocoa antioxidants. Sugar ranges from high to very high, but he says you can definitely do worse, so it best belongs in the C tier.",
+  "repairs": [
+   "flavads -> flavanols (not named in output)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 215,
+  "name": "White Chocolate",
+  "why": "White chocolate is a higher-calorie sweet with a lesser micronutrient profile, containing no cocoa solids, only cocoa butter, milk solids and sugar, with the lowest protein and worst fatty acid profile of the chocolates, though a fair bit of phosphorus, vitamin B12 and calcium. It has more sugar than milk chocolate and nearly no fiber, making it easily the worst for blood sugar, so he puts it in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 216,
+  "name": "Churros",
+  "why": "Churros are an average-calorie treat with a middling micronutrient profile, the best source of folate on the list and among the best for selenium, plus some protein. They are often eaten powdered or syrupy, though you can make them with less sugar and more cinnamon, and overall he calls them not the worst dish and puts them in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 217,
+  "name": "Cinnamon Roll",
+  "why": "Cinnamon rolls are a somewhat higher-calorie treat with a mediocre micronutrient profile, somehow the best source of vitamin K on the list and among the best for selenium and calcium, with cinnamon doing the bare minimum for blood sugar and inflammation. They always come with sugar, though not nearly as much as many others, so he puts them in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 218,
+  "name": "Cookies",
+  "why": "Chocolate chip cookies are a high-calorie treat with a passable micronutrient profile, providing some protein, copper and manganese. They are still mainly refined starch and sugar, but far from the worst thing on the list, so to his own surprise cookies go in the C tier.",
+  "repairs": [
+   "manganesees -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 219,
+  "name": "Custard",
+  "why": "Custard is a low-calorie sweet, lower in sugar than most dairy treats, with a mild protein source per calorie and moderate vitamin B12 and phosphorus. Those numbers are custard at its best, since many versions add sugar and preservatives, but it is one of the better dairy desserts and goes in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 220,
+  "name": "Donut",
+  "why": "Glazed donuts are a somewhat higher-calorie treat with a second-rate micronutrient profile, offering some protein, a fair amount of healthful monounsaturated fat and one of the best sources of vitamin B1. They are mainly refined carbs and sugar, with sugar in it and on it, yet still far from the worst on the list, so he puts donuts in the C tier.",
+  "repairs": [
+   "thamin -> thiamin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 221,
+  "name": "Frosting",
+  "why": "Frosting is a high-calorie sweet with a micronutrient profile that astonishingly does exist because it includes cream and butter, offering some vitamin B2, vitamin K and vitamin E. There is far too much sugar to ever redeem it, so it fits the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 222,
+  "name": "Frozen Yogurt",
+  "why": "Frozen yogurt is a lower-calorie treat made from milk rather than cream, so it is less fatty, with a mild source of phosphorus, vitamin B12 and calcium per calorie and some gut-friendly probiotics. Protein and sugar vary wildly by brand, and some use hazardous artificial flavors and preservatives, but it can be fairly harmless if made carefully, so he puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 223,
+  "name": "Fruitcake",
+  "why": "Fruitcake is an average-calorie treat with a slight micronutrient profile, offering some fiber, iron and mostly monounsaturated fat from nuts, but its candied or dried fruits lose most of their nutritional and antioxidant value. That is dwarfed by the often added sugar and non-nutritious flour, so it goes in the D tier.",
+  "repairs": [
+   "Fruit cake/fruitc cake -> fruitcake"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 224,
+  "name": "Fudge",
+  "why": "Fudge is a higher-calorie sweet with a decent micronutrient profile, giving only some copper and, generously, flavonoid antioxidants that come accidentally with the chocolate, and cocoa is not even essential. It is one of the truest examples of a sugar bomb, so it goes in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 225,
+  "name": "Gelatin",
+  "why": "Gelatin is a low-calorie sweet with a pathetic micronutrient profile, made of collagen and sugar, with collagen amino acids that could help joint, gut, skin and brain health in theory. In practice that collagen is minimal and degraded and vanishes in sugar, flavors, colors and additives, so he puts gelatin in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 226,
+  "name": "Gingerbread",
+  "why": "Gingerbread is an average-calorie sweet with an adequate micronutrient profile, among the better sources of selenium and a decent source of manganese, copper, magnesium and iron, with not the worst fatty acid profile. Sugar content varies, and the ginger and cinnamon are barely there, so he puts it in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 227,
+  "name": "Gummies",
+  "why": "Gummies are an average-calorie sweet with a non-existent micronutrient profile, made of sugar, sugary syrup, gelatin and maybe citric acid, with truly nothing nutritious. His only positive is that chewiness means you may eat less, but this is the most automatic placement to date, in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 228,
+  "name": "Hazelnut Spread",
+  "why": "Hazelnut spread is a high-calorie sweet with a deceptively decent micronutrient profile, providing some protein, copper, manganese, vitamin E and iron, but it barely resembles hazelnuts. Several popular brands are over 50 percent sugar, it uses palm oil he calls not the best for heart health and inflammation, and it is often advertised as healthy, so it goes in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 229,
+  "name": "Honey",
+  "why": "Honey is an average-calorie sweetener with a menial micronutrient profile and is basically sugar, but it is rich in antioxidant, anti-inflammatory compounds that make it better than sugar for LDL, blood pressure and heart health. It is still overwhelmingly sugar, yet it is used as a sweetener rather than pretending to be real food, so he puts it in the C tier.",
+  "repairs": [
+   "corsetin apagenine kakin narangenine ludolin -> quercetin, apigenin, kaempferol(?), naringenin, luteolin (not named in output)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 230,
+  "name": "Ice Cream",
+  "why": "Ice cream is a slightly lower-calorie sweet with a subpar micronutrient profile, typically fattier than frozen yogurt, with some dairy nutrients such as vitamin B2, vitamin B12, phosphorus, vitamin A and calcium, though none are really relevant. They are swamped by added sugars and artificial flavorings, colors and preservatives, so he puts ice cream in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 231,
+  "name": "Ice Pops",
+  "why": "Ice pops are a comparatively low-calorie treat with a fictional micronutrient profile, mainly water, corn syrup and fruit juice, with maybe some plant compounds or electrolytes. Sometimes they are mostly frozen sugar water with food dyes, so he puts them in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 232,
+  "name": "Jam",
+  "why": "Jam is an average-calorie food with a varying micronutrient profile, usually a decent vitamin C content, a variety of antioxidants depending on the fruit, and pectin, a prebiotic that feeds beneficial gut bacteria. Homemade jam can be innocent, but many store-bought jams contain artificial flavors, preservatives and food dyes, and jelly is even less nutritious, so he puts jam in the B tier out of respect for what it can be.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 233,
+  "name": "Macaroons",
+  "why": "Coconut macaroons are a higher-calorie treat with a lousy micronutrient profile, with many calories from lauric acid, a coconut saturated fat with antimicrobial, heart and skin benefits, so the fats could be far worse, plus some copper. Generally they are just a lot of sugar and there are much better ways to get coconut, so macaroons go to the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 234,
+  "name": "Maple Syrup",
+  "why": "Maple syrup is a lowish-calorie sweet with a lopsided micronutrient profile, the best source of manganese on the list and of vitamin B2, rich in polyphenol antioxidants such as Quebecol, and slightly better than refined sugar for gut health and insulin resistance. It is still mainly sugar, but like honey it earns bonus points for how it is actually used, so he puts it in the C tier.",
+  "repairs": [
+   "manganesees -> manganese",
+   "riboplavin -> riboflavin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 235,
+  "name": "Marshmallow",
+  "why": "Marshmallows are an average-calorie treat with a feeble micronutrient profile, mainly sugar, corn syrup and gelatin, with only minimal protein from the gelatin collagen. Being mainly 50 shades of sugar, they go straight to the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 236,
+  "name": "Molasses",
+  "why": "Molasses is an average-calorie sweetener with a genuinely impressive micronutrient profile, the best source of vitamin B6 on the list plus potassium, selenium, and among the best for manganese and magnesium, with iron and calcium that make it better than sugar for anemia and bones. It is richer in polyphenols and may ease joint pain, but do not expect it to make that much of a difference, so he puts it in the C tier.",
+  "repairs": [
+   "manganesees -> manganese",
+   "sugar bead -> sugar beet (not named in output)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 237,
+  "name": "Parfait",
+  "why": "Parfait is a low-calorie treat with a solid micronutrient profile, the best source of vitamin B12 on the list if made with yogurt and often among the best for vitamin C, with varying protein and prebiotics from yogurt plus fruit, nuts and granola. Commercial versions almost always carry excess preservatives and added sugar, so choose additions wisely when making it yourself, and it goes in the A tier.",
+  "repairs": [
+   "parfets -> parfaits"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 238,
+  "name": "Peanut Butter",
+  "why": "Peanut butter is a high-calorie food with an imposing micronutrient profile, the highest in protein on the list, mostly monounsaturated fat, the best vitamin B3, and among the best for manganese, vitamin E, phosphorus, magnesium and B6, plus antioxidants, and its protein and fat are satiating. Choose one with just peanuts and maybe salt, avoiding added sugars and hydrogenated oils, and it goes in the top tier.",
+  "repairs": [
+   "nascin -> niacin",
+   "turmeric acid -> unclear (probably p-coumaric acid), not named in output"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 239,
+  "name": "Pie",
+  "why": "Apple pie is an average-calorie dessert with a lousy micronutrient profile, with only minimal amounts of protein, fiber, healthy fats and antioxidants, plus some sugar, though it can be made without much. Desserts are not designed with nutrition in mind, so pie goes in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 240,
+  "name": "Pudding",
+  "why": "Vanilla pudding is a lower-calorie treat with a negligible micronutrient profile, made of milk, sugar, vanilla and a thickener, and is usually very sugary. It can be made with better ingredients, but in summary it is sugar, preservatives and artificial colors with nothing positive to speak of, so it goes in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 241,
+  "name": "Sherbet",
+  "why": "Orange sherbet is a lower-calorie sweet with a lacking micronutrient profile, usually lower in calories than other frozen treats because it has less fat, but the sugar is all the same and reaches your system even quicker. Classic sherbet has no real positives, and he gives no pity points, so it goes straight to the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 242,
+  "name": "Whipped Cream",
+  "why": "Whipped cream is an average-calorie treat with a mild micronutrient profile, the best source of vitamin A on the list for macular and immune function, though mostly fat with varying sugar like an average dairy product. Like honey or maple syrup it is an add-on, and its airy texture means it does not take much to sweeten a topping, so he finishes the list with it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

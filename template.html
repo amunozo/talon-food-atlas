@@ -1,0 +1,912 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Talon Food Atlas — every Nutrition Tier List in one place</title>
+<meta name="description" content="An unofficial interactive atlas of Talon Fitness&#39;s Nutrition Tier Lists: 813 placements across 26 food groups from 30 episodes, with links to every episode.">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#131312">
+<link rel="canonical" href="https://www.amunozo.com/talon-food-atlas/">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23282824'/%3E%3Crect x='5' y='5' width='22' height='4.5' rx='1.5' fill='%23ff7f7f'/%3E%3Crect x='5' y='11.5' width='17' height='4.5' rx='1.5' fill='%23ffbf7f'/%3E%3Crect x='5' y='18' width='13' height='4.5' rx='1.5' fill='%23ffdf7f'/%3E%3Crect x='5' y='24.5' width='8' height='3.5' rx='1.5' fill='%23bfff7f'/%3E%3C/svg%3E">
+<link rel="icon" type="image/png" sizes="48x48" href="favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Talon Food Atlas">
+<meta property="og:title" content="Talon Food Atlas — every Nutrition Tier List in one place">
+<meta property="og:description" content="An unofficial interactive atlas of Talon Fitness&#39;s Nutrition Tier Lists: 813 placements across 26 food groups from 30 episodes, with links to every episode.">
+<meta property="og:url" content="https://www.amunozo.com/talon-food-atlas/">
+<meta property="og:image" content="https://www.amunozo.com/talon-food-atlas/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Talon's ranking of food groups as a tier list, from ★ to F">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Talon Food Atlas — every Nutrition Tier List in one place">
+<meta name="twitter:description" content="An unofficial interactive atlas of Talon Fitness&#39;s Nutrition Tier Lists: 813 placements across 26 food groups from 30 episodes, with links to every episode.">
+<meta name="twitter:image" content="https://www.amunozo.com/talon-food-atlas/og.png">
+<style>
+:root {
+  --bg: #131312;
+  --panel: #1e1e1b;
+  --panel-2: #282824;
+  --row: #1a1a17;
+  --line: #070706;
+  --line-soft: #34342f;
+  --line-strong: #4a4a42;
+  --text: #ecebe4;
+  --muted: #a6a59a;
+  --accent: #8cc4ff;
+  --label-w: 104px;
+  --tmin: 100px;
+  --radius: 10px;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.45 Arial, "Helvetica Neue", Helvetica, "Liberation Sans", sans-serif;
+  min-height: 100vh;
+}
+a { color: var(--accent); }
+button, select { font: inherit; }
+.view-title:focus { outline: none; }
+:focus-visible { outline: 3px solid #fff; outline-offset: 2px; }
+
+.wrap { max-width: 1240px; margin: 0 auto; padding: 0 20px 56px; }
+
+/* Header */
+.top {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: 14px 24px; padding: 14px 0 12px; margin-bottom: 16px;
+  border-bottom: 1px solid var(--line-soft);
+}
+.brand { display: flex; align-items: center; gap: 14px; min-width: 0; }
+.logo {
+  flex: none; display: grid; grid-template-rows: repeat(4, 1fr); gap: 3px;
+  width: 32px; height: 32px; padding: 4px; border-radius: 7px; background: var(--panel-2);
+}
+.logo i { display: block; border-radius: 2px; }
+.logo i:nth-child(1) { background: #ff7f7f; width: 100%; }
+.logo i:nth-child(2) { background: #ffbf7f; width: 78%; }
+.logo i:nth-child(3) { background: #ffdf7f; width: 58%; }
+.logo i:nth-child(4) { background: #bfff7f; width: 36%; }
+h1 { margin: 0; font-size: 1.25rem; line-height: 1.15; font-weight: 700; }
+.subtitle { margin: 2px 0 0; color: var(--muted); font-size: .8rem; }
+.credit { margin: 3px 0 0; font-size: .8rem; line-height: 1.3; }
+.credit a { color: var(--accent); font-weight: 700; text-decoration: none; }
+.credit a:hover { text-decoration: underline; }
+.about-btn {
+  flex: none; white-space: nowrap; cursor: pointer; font-weight: 700; color: var(--text);
+  background: var(--panel); border: 1px solid var(--line-soft); border-radius: 8px; padding: 8px 14px;
+}
+.about-btn:hover { border-color: var(--line-strong); background: var(--panel-2); }
+
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.quick { display: flex; }
+.quick a {
+  display: inline-flex; align-items: center; gap: 6px; white-space: nowrap;
+  text-decoration: none; color: var(--text); font-weight: 700;
+  background: var(--panel); border: 1px solid var(--line-soft); border-radius: 8px;
+  padding: 8px 14px;
+}
+.quick a:hover { border-color: var(--line-strong); background: var(--panel-2); }
+.quick a[aria-current="page"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+.pick { position: relative; display: flex; align-items: center; min-width: 0; }
+.pick label {
+  position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+  color: var(--muted); font-size: .8rem; pointer-events: none;
+}
+select {
+  appearance: none; -webkit-appearance: none;
+  background: var(--panel) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23a6a59a' stroke-width='2'/%3E%3C/svg%3E") no-repeat right 12px center;
+  color: var(--text); border: 1px solid var(--line-soft); border-radius: 8px;
+  padding: 8px 36px 8px 54px; min-width: 240px; max-width: 100%; cursor: pointer;
+}
+select:hover { border-color: var(--line-strong); }
+option, optgroup { background: var(--panel); color: var(--text); }
+
+.notice { text-align: center; color: var(--muted); font-size: .85rem; margin: 0 0 10px; }
+.notice.is-error { color: #ffd6d6; background: #3a1c1c; border: 1px solid #6b2f2f; border-radius: 10px; padding: 12px 14px; font-size: .95rem; }
+.v-note b { display: inline-grid; place-items: center; min-width: 18px; height: 18px; margin-right: 5px; padding: 0 4px; border-radius: 4px; background: var(--panel-2); color: var(--text, #eee); font-size: .75rem; }
+
+/* View heading */
+.view-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 16px; margin: 0 0 12px; }
+.view-title { margin: 0; font-size: 1.6rem; font-weight: 700; line-height: 1.25; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; }
+.vt-count {
+  font-size: .8rem; font-weight: 700; color: var(--muted);
+  background: var(--panel-2); border-radius: 999px; padding: 1px 9px;
+}
+.vt-tier { font-size: .8rem; font-weight: 700; color: #1a1a17; border-radius: 999px; padding: 1px 9px; }
+.view-meta { margin: 0; color: var(--muted); font-size: .85rem; display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.view-headline { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.videos { display: flex; flex-wrap: wrap; gap: 6px 8px; margin: 0; padding: 0; list-style: none; }
+.videos a {
+  display: inline-flex; align-items: baseline; gap: 8px; text-decoration: none;
+  color: var(--text); font-weight: 700; font-size: .9rem; line-height: 1.3;
+  background: var(--panel); border: 1px solid var(--line-soft); border-radius: 8px; padding: 6px 12px 6px 10px;
+}
+.videos a:hover { border-color: #c4302b; background: var(--panel-2); }
+.videos .play { color: #ff6b63; font-size: .8em; }
+.videos .date { color: var(--muted); font-weight: 400; font-size: .8rem; }
+.key { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+.key .badge { position: static; }
+
+/* Unranked tray: the groups Talon didn't rank, as a one-row board under the main one */
+.tray { margin: 22px 0 0; }
+.tray-title { margin: 0 0 10px; font-size: 1rem; font-weight: 700; }
+.tier-label.unranked { background: #3a3a35; color: var(--text); }
+.tier-label.unranked .tier-count { background: rgba(255,255,255,.12); }
+
+/* Tier board */
+.board {
+  border: 2px solid var(--line); background: var(--line); border-radius: 8px;
+  overflow: clip; display: grid; gap: 2px;
+}
+.tier { display: flex; background: var(--row); }
+.tier-label {
+  flex: 0 0 var(--label-w); width: var(--label-w);
+  color: #1a1a17; text-align: center; padding: 14px 4px;
+}
+.tier-head { position: sticky; top: 10px; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+.tier-letter { font-size: 2.6rem; font-weight: 700; line-height: 1; }
+.tier-count {
+  font-size: .72rem; font-weight: 700; line-height: 1.5;
+  background: rgba(0,0,0,.13); border-radius: 999px; padding: 0 8px;
+  font-variant-numeric: tabular-nums;
+}
+.tier.is-empty .tier-label { padding: 0 4px; height: 48px; display: flex; align-items: center; justify-content: center; }
+.tier.is-empty .tier-head { position: static; }
+.tier.is-empty .tier-letter { font-size: 1.9rem; }
+.tier-tiles {
+  flex: 1 1 auto; min-width: 0; padding: 2px;
+  display: grid; gap: 2px; align-content: start;
+  grid-template-columns: repeat(auto-fill, minmax(var(--tmin), 1fr));
+}
+
+/* Tiles: emoji on a tinted card, name on a strip, group colour as an accent */
+.tile {
+  position: relative; aspect-ratio: 1 / 1; width: 100%; min-width: 0;
+  margin: 0; padding: 0; border: 0; border-radius: 3px;
+  background: var(--tb, #333);
+  color: #fff; cursor: pointer; overflow: hidden;
+  display: flex; flex-direction: column; text-align: center; text-decoration: none;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.07);
+}
+.tile::before {
+  content: ""; position: absolute; left: 0; right: 0; top: 0; height: 4px; background: var(--tc, #888);
+}
+.tile .emoji {
+  flex: 1 1 auto; min-height: 0; display: flex; align-items: center; justify-content: center;
+  font-size: 34px; line-height: 1; padding-top: 4px;
+}
+.tile .name {
+  flex: none; display: block;
+  padding: 4px 3px 5px; background: rgba(0,0,0,.5);
+  font-size: 12px; line-height: 1.15; font-weight: 600;
+  overflow-wrap: anywhere; text-wrap: balance;
+  max-height: calc(3 * 1.15em + 9px); overflow: hidden;
+}
+.tile.n-md .name { font-size: 11.5px; }
+.tile.n-lg .name { font-size: 11px; }
+/* Text-only food tiles (TierMaker text-tile feel): bold centred name on the tinted card. */
+.tile.txt { justify-content: center; align-items: center; padding: 20px 6px; }
+.tile.txt::before { display: none; }
+.tile.txt .name {
+  background: none; padding: 0; max-height: none; width: 100%;
+  font-size: 15px; line-height: 1.12; font-weight: 700;
+  overflow-wrap: normal; word-break: normal; hyphens: manual;
+}
+.tile.txt .name.wrap-any { overflow-wrap: anywhere; }
+/* Groups ranked by Talon but with no food rows: on the board, not a link. */
+.tile.empty { cursor: default; background: #26261f; box-shadow: inset 0 0 0 1px rgba(255,255,255,.18); }
+.tile.empty::before { opacity: .45; }
+.tile.empty .cnt { background: rgba(0,0,0,.7); color: #d6d5cc; }
+.tile.empty:hover { filter: none; box-shadow: inset 0 0 0 1px rgba(255,255,255,.3); }
+.tile.empty:hover .emoji { transform: none; }
+.tile .cnt {
+  position: absolute; top: 7px; left: 5px;
+  font-size: 10px; font-weight: 700; line-height: 1.5; padding: 0 5px;
+  border-radius: 999px; background: rgba(0,0,0,.55); color: #fff;
+}
+.tile:hover { box-shadow: inset 0 0 0 2px rgba(255,255,255,.75); filter: brightness(1.12); z-index: 1; }
+.tile:hover .emoji { transform: scale(1.1); }
+.tile:focus-visible { outline: 3px solid #fff; outline-offset: 0; box-shadow: 0 0 0 6px #000; z-index: 2; }
+@media (prefers-reduced-motion: no-preference) {
+  .tile { transition: box-shadow .12s, filter .12s; }
+  .tile .emoji { transition: transform .12s; }
+}
+
+.badge {
+  position: absolute; top: 7px; right: 4px;
+  min-width: 17px; height: 17px; padding: 0 3px;
+  border-radius: 9px; background: #fff; color: #111; text-shadow: none;
+  font-size: 11px; font-weight: 800; line-height: 17px; text-align: center;
+  box-shadow: 0 0 0 2px rgba(0,0,0,.55);
+}
+.badge.moved-up { background: #7fff7f; }
+.badge.moved-down { background: #ff9a9a; }
+.badge.info { min-width: 14px; height: 14px; line-height: 14px; font-size: 10px; background: #e4e3dc; }
+
+.foot { margin: 14px 0 0; color: var(--muted); font-size: .85rem; text-align: center; }
+.site-foot { margin: 28px 0 0; padding-top: 14px; border-top: 1px solid var(--line-soft); color: var(--muted); font-size: .8rem; text-align: center; line-height: 1.6; }
+.site-foot a { font-weight: 700; }
+.site-foot .sep { margin: 0 6px; }
+
+/* Modal */
+dialog {
+  border: 1px solid var(--line-soft); border-radius: 14px;
+  background: var(--panel); color: var(--text);
+  padding: 0; width: min(560px, calc(100vw - 24px)); max-height: calc(100vh - 24px);
+  overflow: auto; box-shadow: 0 24px 64px rgba(0,0,0,.6);
+}
+dialog::backdrop { background: rgba(0,0,0,.72); }
+@media (prefers-reduced-motion: no-preference) {
+  dialog[open] { animation: pop .16s ease-out; }
+  @keyframes pop { from { opacity: 0; transform: translateY(8px) scale(.98); } }
+}
+.dlg-head {
+  display: flex; gap: 14px; align-items: center; padding: 18px 18px 14px;
+  border-bottom: 1px solid var(--line-soft);
+  background: linear-gradient(var(--tc, #888), var(--tc, #888)) top / 100% 5px no-repeat, var(--tb, var(--panel));
+  border-radius: 14px 14px 0 0;
+}
+.dlg-tier {
+  flex: none; width: 56px; height: 56px; border-radius: 6px; display: grid; place-items: center;
+  color: #1a1a17; font-size: 28px; font-weight: 700; line-height: 1;
+}
+.dlg-titles { flex: 1; min-width: 0; }
+.dlg-moved { display: inline-block; margin: 6px 0 0; padding: 2px 10px; border-radius: 999px; background: rgba(0,0,0,.35); font-size: .82rem; font-weight: 700; }
+.dlg-moved[hidden] { display: none; }
+.dlg-head h2 { margin: 0; font-size: 1.4rem; line-height: 1.2; font-weight: 700; overflow-wrap: anywhere; }
+.dlg-sub { margin: 4px 0 0; color: #e4e3dc; font-size: .88rem; }
+.dlg-close {
+  flex: none; align-self: flex-start; width: 36px; height: 36px; border-radius: 8px;
+  background: transparent; color: var(--text); border: 1px solid var(--line-soft);
+  font-size: 1.3rem; cursor: pointer; line-height: 1;
+}
+.dlg-close:hover { background: var(--panel-2); border-color: var(--line-strong); }
+.dlg-body { padding: 14px 18px 18px; }
+.note { margin: 12px 0; padding: 10px 12px; background: #2b281b; border-left: 3px solid #ffdf7f; border-radius: 6px; }
+.note b { display: block; font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: #ffdf7f; margin-bottom: 2px; }
+dl {
+  margin: 12px 0; display: grid; grid-template-columns: max-content 1fr; gap: 7px 14px;
+  padding: 12px 14px; background: var(--row); border: 1px solid var(--line-soft); border-radius: 10px;
+}
+dt { color: var(--muted); font-size: .88rem; }
+dd { margin: 0; overflow-wrap: anywhere; }
+.evidence { margin: 12px 0 0; color: #cfcec6; font-size: .92rem; }
+.links { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 0; }
+.links a, .btn {
+  display: inline-flex; align-items: center; gap: 4px; padding: 8px 14px; border-radius: 8px; text-decoration: none;
+  background: var(--panel-2); color: var(--text); border: 1px solid var(--line-strong); cursor: pointer; font-weight: 700;
+}
+.links a:hover, .btn:hover { background: #34342f; border-color: #6a6a60; }
+.links a.primary { background: var(--text); color: #1a1a17; border-color: var(--text); }
+.links a.primary:hover { background: #fff; border-color: #fff; }
+.sec { margin: 14px 0 0; }
+.sec h3 { margin: 0 0 6px; font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.sec h3 .basis { text-transform: none; letter-spacing: 0; font-weight: 400; color: #cfcec6; font-size: .82rem; }
+.why { margin: 0; }
+.prov { margin: 6px 0 0; color: var(--muted); font-size: .78rem; line-height: 1.4; }
+.macros { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 10px; padding: 0; list-style: none; }
+.macros li { display: inline-flex; align-items: baseline; gap: 5px; padding: 4px 9px; border-radius: 999px; background: var(--panel-2); border: 1px solid var(--line-soft); font-size: .84rem; white-space: nowrap; }
+.macros .k { color: var(--muted); font-size: .76rem; }
+.macros .v { font-weight: 700; }
+.micros { margin: 0; padding: 10px 12px; list-style: none; background: var(--row); border: 1px solid var(--line-soft); border-radius: 10px; }
+.micros li { display: grid; grid-template-columns: minmax(84px, 9.5em) 1fr 3.4em; gap: 10px; align-items: center; font-size: .84rem; padding: 2px 0; }
+.micros .mn { overflow-wrap: anywhere; line-height: 1.25; }
+.micros .bar { height: 8px; border-radius: 4px; background: #2e2e29; overflow: hidden; }
+.micros .bar i { display: block; height: 100%; border-radius: 4px; background: var(--accent); }
+.micros .pct { text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
+.micros-toggle { margin: 6px 0 0; padding: 4px 0; background: none; border: 0; color: var(--accent); cursor: pointer; font-size: .84rem; font-weight: 700; }
+.micros-toggle:hover { text-decoration: underline; }
+#about .dlg-head { background: var(--panel-2); }
+.about-logo { width: 44px; height: 44px; padding: 6px; gap: 4px; background: var(--row); }
+.about-body p { margin: 0 0 12px; }
+.about-body h3 { margin: 16px 0 6px; font-size: .95rem; font-weight: 700; }
+.about-body ul { margin: 0 0 14px; padding-left: 20px; }
+.about-body li { margin: 0 0 7px; }
+.about-body li::marker { color: var(--muted); }
+.about-body .about-data { padding: 10px 12px; background: var(--row); border: 1px solid var(--line-soft); border-radius: 10px; color: #cfcec6; font-size: .92rem; }
+.about-body p:last-child { margin-bottom: 0; }
+
+@media (max-width: 720px) {
+  .top { flex-direction: column; align-items: stretch; }
+  /* About moves up beside the title so the view picker keeps the full row. */
+  .top { position: relative; }
+  .brand { padding-right: 84px; }
+  .about-btn { position: absolute; top: 14px; right: 0; }
+  .toolbar { flex-wrap: nowrap; }
+  .pick { flex: 1; min-width: 0; }
+  select { width: 100%; min-width: 0; }
+}
+@media (max-width: 600px) {
+  :root { --label-w: 50px; --tmin: 72px; }
+  .wrap { padding: 0 8px 40px; }
+  .top { padding: 12px 0 10px; margin-bottom: 14px; }
+  h1 { font-size: 1.1rem; }
+  .subtitle { display: none; }
+  .view-title { font-size: 1.25rem; }
+  /* Group-board head: episode links and badge legend share one row so the board starts higher. */
+  .view-head { align-items: center; }
+  .view-headline { display: contents; }
+  .view-title { flex: 1 1 100%; }
+  .view-meta { margin-left: auto; }
+  .videos .date { display: none; }
+  .quick a { padding: 8px 11px; }
+  .about-btn { padding: 7px 11px; top: 12px; }
+  .pick label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  select { padding-left: 12px; }
+  .tier-label { padding: 10px 2px; }
+  .tier-letter { font-size: 1.8rem; }
+  .tier-count { font-size: .68rem; padding: 0 6px; }
+  .tile .emoji { font-size: 24px; padding-top: 10px; }
+  .tile .cnt { top: 6px; left: 3px; font-size: 9px; padding: 0 4px; }
+  .tile .name { font-size: 11px; }
+  .tile.n-md .name, .tile.n-lg .name { font-size: 10px; }
+  .tile.txt { padding: 18px 3px; }
+  .tile.txt .name { font-size: 12.5px; }
+  .videos a { font-size: .85rem; padding: 6px 10px 6px 8px; }
+  .dlg-head { padding: 14px 14px 12px; gap: 12px; }
+  .dlg-body { padding: 12px 14px 16px; }
+  dl { grid-template-columns: 1fr; gap: 0; }
+  .micros li { grid-template-columns: 7.4em 1fr 3.2em; gap: 8px; }
+  dd { margin-bottom: 8px; }
+  dd:last-child { margin-bottom: 0; }
+}
+</style>
+<script data-goatcounter="https://amunozo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <span class="logo" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+      <div>
+        <h1>Talon Food Atlas</h1>
+        <p class="subtitle">Nutrition tier lists from Talon Fitness videos</p>
+        <p class="credit"><a href="https://www.youtube.com/@Talon_Fitness" target="_blank" rel="noopener noreferrer" aria-label="Rankings by Talon Fitness (YouTube channel, opens in a new tab)">Rankings by Talon Fitness ↗</a></p>
+      </div>
+    </div>
+    <nav class="toolbar" aria-label="View">
+      <div class="quick" id="quick"></div>
+      <div class="pick">
+        <label for="viewSelect">View</label>
+        <select id="viewSelect"></select>
+      </div>
+      <button type="button" class="about-btn" id="aboutBtn" aria-haspopup="dialog">About</button>
+    </nav>
+  </header>
+
+  <p class="notice" id="notice" hidden></p>
+  <main id="main">
+    <div class="view-head">
+      <div class="view-headline">
+        <h2 class="view-title" id="viewTitle" tabindex="-1"></h2>
+        <ul class="videos" id="videos" aria-label="Episodes" hidden></ul>
+      </div>
+      <p class="view-meta" id="viewMeta"></p>
+    </div>
+    <div class="board" id="board"></div>
+    <section class="tray" id="tray" hidden aria-labelledby="trayTitle">
+      <h3 class="tray-title" id="trayTitle">Not ranked as a group, but each has its own tier list</h3>
+      <div class="board" id="trayBoard"></div>
+    </section>
+  </main>
+  <footer class="site-foot">Unofficial fan project. All rankings and analysis by <a href="https://www.youtube.com/@Talon_Fitness" target="_blank" rel="noopener noreferrer">Talon Fitness</a> — watch the Nutrition Tier Lists.<span class="sep" aria-hidden="true">·</span>Made by <a href="https://www.amunozo.com/" target="_blank" rel="noopener noreferrer">amunozo.com</a></footer>
+</div>
+
+<dialog id="dlg" aria-labelledby="dlgTitle">
+  <div class="dlg-head">
+    <div class="dlg-tier" id="dlgTier" role="img"></div>
+    <div class="dlg-titles">
+      <h2 id="dlgTitle"></h2>
+      <p class="dlg-sub" id="dlgSub"></p>
+      <span class="dlg-moved" id="dlgMoved" hidden></span>
+    </div>
+    <button type="button" class="dlg-close" id="dlgClose" aria-label="Close details">&times;</button>
+  </div>
+  <div class="dlg-body" id="dlgBody"></div>
+</dialog>
+
+<dialog id="about" aria-labelledby="aboutTitle">
+  <div class="dlg-head">
+    <span class="logo about-logo" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+    <div class="dlg-titles"><h2 id="aboutTitle">About this atlas</h2></div>
+    <button type="button" class="dlg-close" id="aboutClose" aria-label="Close about">&times;</button>
+  </div>
+  <div class="dlg-body about-body" id="aboutBody"></div>
+</dialog>
+
+<script>
+const DATA = /*__DATA__*/null;
+
+(function () {
+  'use strict';
+
+  const $ = (id) => document.getElementById(id);
+  let tiers = [], groups = [], foods = [];
+  let groupByName = new Map(), tierById = new Map(), tierIdx = new Map(), foodById = new Map();
+  let tint = new Map();
+  let lastFocus = null;
+  let focusHeading = false;
+  const BASE_TITLE = document.title;
+  let firstRenderDone = false;
+  const TALON_URL = 'https://www.youtube.com/@Talon_Fitness', SITE_URL = 'https://www.amunozo.com/', ISSUES_URL = 'https://github.com/amunozo/talon-food-atlas/issues';
+  // Summary counts and the Food Groups episode come from DATA.meta (written by build_data.py).
+  let META = {};
+
+  function el(tag, props, children) {
+    const n = document.createElement(tag);
+    if (props) for (const k in props) {
+      const v = props[k];
+      if (v == null || v === false) continue;
+      if (k === 'class') n.className = v;
+      else if (k === 'text') n.textContent = v;
+      else if (k === 'style') n.style.cssText = v;
+      else n.setAttribute(k, v);
+    }
+    if (children) for (const c of children) if (c) n.append(c);
+    return n;
+  }
+
+  function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : ''; }
+
+  /* Dark tint of a group colour for the tile body (white text stays far above 4.5:1). */
+  function mix(hex, base, t) {
+    const p = (h) => [1, 3, 5].map(i => parseInt(h.slice(i, i + 2), 16));
+    const a = /^#[0-9a-f]{6}$/i.test(hex) ? p(hex) : [85, 85, 85], b = p(base);
+    return '#' + a.map((v, i) => Math.round(v * t + b[i] * (1 - t)).toString(16).padStart(2, '0')).join('');
+  }
+  function colorVars(color) {
+    if (!tint.has(color)) tint.set(color, '--tb:' + mix(color, '#1c1c19', 0.42) + ';--tc:' + color);
+    return tint.get(color);
+  }
+
+  /* ---------- routing ---------- */
+  function parseHash() {
+    let h = '';
+    try { h = decodeURIComponent((location.hash || '').replace(/^#/, '')); } catch (e) { return { view: 'groups' }; }
+    if (h.startsWith('group=')) {
+      const name = h.slice(6);
+      if (groupByName.has(name) && groupByName.get(name).count > 0) return { view: 'group', group: name };
+    }
+    return { view: 'groups' };
+  }
+  function routeToHash(r) {
+    return r.view === 'group' ? '#group=' + encodeURIComponent(r.group) : '#groups';
+  }
+  function go(route) {
+    const h = routeToHash(route);
+    if (location.hash === h) render(); else location.hash = h;
+  }
+
+  /* ---------- chrome ---------- */
+  function buildSelect() {
+    const sel = $('viewSelect');
+    sel.textContent = '';
+    const rankedCount = groups.filter(g => g.group_tier).length;
+    sel.append(el('option', { value: '#groups', text: 'Food groups (' + rankedCount + ')' }));
+    const og = el('optgroup', { label: 'Single food group' });
+    for (const g of groups) {
+      if (!g.count) continue;
+      og.append(el('option', { value: '#group=' + encodeURIComponent(g.name), text: g.emoji + ' ' + g.name + ' (' + g.count + ')' }));
+    }
+    sel.append(og);
+    sel.addEventListener('change', () => { focusHeading = true; location.hash = sel.value; });
+  }
+
+  function updateChrome(route) {
+    $('viewSelect').value = routeToHash(route);
+    const quick = $('quick');
+    quick.textContent = '';
+    // Only the way back; on #groups the dropdown already says where you are.
+    if (route.view !== 'groups') quick.append(el('a', { href: '#groups', text: '← Food groups' }));
+    quick.hidden = route.view === 'groups';
+  }
+
+  /* ---------- tiles ---------- */
+  // Break points for the few words too wide for a tile at 10-12px (shown as a hyphen when used).
+  const SPLIT = /(berry|bread|scotch|finger|nickel|mallow|granate|protein|shire|callit|radish|naise|steen|melon|ments|head|comb|cake|seed|kraut|flower|wheat|milk|dough|cress|sprout)/i;
+  function softBreak(name) {
+    return name.split(' ').map(w => {
+      if (w.length < 10) return w;
+      const m = SPLIT.exec(w);
+      return m && m.index >= 3 && w.length - m.index >= 3 ? w.slice(0, m.index) + '­' + w.slice(m.index) : w;
+    }).join(' ');
+  }
+  function nameClass(n) {
+    const longest = Math.max(...n.split(/\s+/).map(w => w.length));
+    if (n.length > 22 || longest > 10) return ' n-lg';
+    if (n.length > 12) return ' n-md';
+    return '';
+  }
+
+  function foodTileEl(f, extra, titleText) {
+    const g = groupByName.get(f.group) || { color: '#555555' };
+    const b = el('button', {
+      type: 'button', class: 'tile txt', style: colorVars(g.color),
+      'data-kind': 'food', 'data-id': f.id,
+      title: titleText, 'aria-label': titleText, 'aria-haspopup': 'dialog'
+    });
+    b.append(el('span', { class: 'name', text: softBreak(f.name), 'aria-hidden': 'true' }));
+    if (extra) b.append(extra);
+    return b;
+  }
+
+  /* Shrink each text-tile name until it fits its tile (min 10px); only then allow mid-word breaks. */
+  function fitNames() {
+    const MIN = 10;
+    for (const n of document.querySelectorAll('#board .tile.txt .name')) {
+      n.style.fontSize = ''; n.classList.remove('wrap-any');
+      const box = n.parentElement, cs = getComputedStyle(box);
+      const availH = box.clientHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom);
+      let size = parseFloat(getComputedStyle(n).fontSize);
+      const over = () => n.scrollWidth > n.clientWidth + 1 || n.offsetHeight > availH + 1;
+      while (over() && size > MIN) { size = Math.max(MIN, size - 0.5); n.style.fontSize = size + 'px'; }
+      if (over()) n.classList.add('wrap-any');
+    }
+  }
+  let fitTimer = 0;
+  window.addEventListener('resize', () => { clearTimeout(fitTimer); fitTimer = setTimeout(fitNames, 80); });
+
+  function foodTile(f) {
+    let badge = null, title = f.name;
+    if (f.moved) {
+      const up = tierIdx.get(f.tier) < tierIdx.get(f.original_tier);
+      badge = el('span', { class: 'badge ' + (up ? 'moved-up' : 'moved-down'), text: up ? '↑' : '↓', 'aria-hidden': 'true' });
+      title += ' (moved ' + (up ? 'up' : 'down') + ' from ' + f.original_tier + ')';
+    } else if (f.correction) {
+      badge = el('span', { class: 'badge info', text: 'i', 'aria-hidden': 'true' });
+      title += ' (has a note)';
+    }
+    return foodTileEl(f, badge, title);
+  }
+
+  const EMPTY_NOTE = 'Ranked as a group; no individual foods in the data';
+  function groupTile(g) {
+    const has = g.count > 0;
+    const label = has ? g.name + ' (' + g.count + ' food' + (g.count === 1 ? '' : 's') + '): show its foods' : g.name + ': ' + EMPTY_NOTE;
+    // Groups with foods are plain links to their board; empty ones stay focusable so the note is reachable by keyboard.
+    const t = has
+      ? el('a', { class: 'tile' + nameClass(g.name), href: routeToHash({ view: 'group', group: g.name }),
+                  style: colorVars(g.color), 'data-kind': 'group', 'data-id': g.name, title: label, 'aria-label': label })
+      : el('div', { class: 'tile empty' + nameClass(g.name), style: colorVars(g.color), tabindex: '0', role: 'note',
+                    'data-kind': 'group', 'data-id': g.name, title: EMPTY_NOTE, 'aria-label': label });
+    t.append(el('span', { class: 'emoji', text: g.emoji, 'aria-hidden': 'true' }),
+             el('span', { class: 'name', text: softBreak(g.name), 'aria-hidden': 'true' }),
+             el('span', { class: 'cnt', text: has ? String(g.count) : '–', 'aria-hidden': 'true' }));
+    return t;
+  }
+
+  /* ---------- rendering ---------- */
+  function cmp(a, b) { return a.localeCompare(b, 'en', { sensitivity: 'base', numeric: true }); }
+
+  const V_DESC = 'V: varies (Talon’s tier for Curry Powder)';
+  function tierRow(letter, labelCls, labelStyle, list, makeEl, ariaName) {
+    const tilesBox = el('div', { class: 'tier-tiles' });
+    for (const it of list) tilesBox.append(makeEl(it));
+    const desc = letter === 'V' ? V_DESC : null;
+    const label = el('div', { class: 'tier-label' + (labelCls ? ' ' + labelCls : ''), style: labelStyle, title: desc }, [
+      el('div', { class: 'tier-head' }, [
+        el('span', { class: 'tier-letter', text: letter }),
+        el('span', { class: 'tier-count', text: String(list.length), title: list.length + ' tiles in ' + ariaName })
+      ])
+    ]);
+    return el('section', { class: 'tier', 'aria-label': (desc ? 'Tier ' + desc : ariaName[0].toUpperCase() + ariaName.slice(1)) + ', ' + list.length + ' items' }, [label, tilesBox]);
+  }
+
+  // keepEmpty: tier ids whose row is shown even with no tiles (label only, short row).
+  function renderBoard(items, tierOf, makeEl, sorter, keepEmpty) {
+    const board = $('board');
+    const buckets = new Map(tiers.map(t => [t.id, []]));
+    for (const it of items) { const b = buckets.get(tierOf(it)); if (b) b.push(it); }
+    const frag = document.createDocumentFragment();
+    for (const t of tiers) {
+      const list = buckets.get(t.id);
+      if (!list.length) {
+        if (keepEmpty && keepEmpty.includes(t.id)) frag.append(el('section', { class: 'tier is-empty', 'aria-label': 'Tier ' + t.label + ', none' }, [
+          el('div', { class: 'tier-label', style: 'background:' + t.color }, [el('div', { class: 'tier-head' }, [el('span', { class: 'tier-letter', text: t.label })])]),
+          el('div', { class: 'tier-tiles' })
+        ]));
+        continue;
+      }
+      list.sort(sorter);
+      frag.append(tierRow(t.label, '', 'background:' + t.color, list, makeEl, 'tier ' + t.label));
+    }
+    board.textContent = '';
+    if (!frag.childNodes.length) board.append(el('p', { class: 'foot', text: 'Nothing to show.' }));
+    board.append(frag);
+  }
+
+  const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  function fmtDate(iso) {
+    const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+    return m ? MONTHS[+m[2] - 1] + ' ' + +m[3] + ', ' + m[1] : String(iso);
+  }
+
+  function setTitle(parts) {
+    const h = $('viewTitle'); h.textContent = '';
+    for (const p of parts) h.append(p);
+  }
+
+  function badgeKey(list) {
+    const meta = $('viewMeta');
+    const has = (fn) => list.some(fn);
+    const item = (cls, txt, label) => el('span', { class: 'key' }, [el('span', { class: 'badge ' + cls, text: txt, 'aria-hidden': 'true' }), label]);
+    if (has(f => f.moved && tierIdx.get(f.tier) < tierIdx.get(f.original_tier))) meta.append(item('moved-up', '↑', 'moved up later'));
+    if (has(f => f.moved && tierIdx.get(f.tier) > tierIdx.get(f.original_tier))) meta.append(item('moved-down', '↓', 'moved down later'));
+    if (has(f => !f.moved && f.correction)) meta.append(item('info', 'i', 'has a note'));
+  }
+
+  function render() {
+    const route = parseHash();
+    // Unknown, malformed or retired hashes (#all, #group=Eggs, ...) fall back to the groups view.
+    if (location.hash !== routeToHash(route) && route.view === 'groups') {
+      try { history.replaceState(null, '', '#groups'); } catch (e) { /* file:// in some browsers */ }
+    }
+    updateChrome(route);
+    const meta = $('viewMeta'), tray = $('tray'), trayBoard = $('trayBoard');
+    meta.textContent = '';
+    tray.hidden = true; trayBoard.textContent = '';
+    const vids = $('videos'); vids.textContent = ''; vids.hidden = true;
+
+    if (route.view === 'group') {
+      const g = groupByName.get(route.group);
+      const list = foods.filter(f => f.group === g.name);
+      const t = tierById.get(g.group_tier);
+      setTitle([g.emoji + ' ' + g.name, ' ', el('span', { class: 'vt-count', text: list.length + ' foods' }),
+        g.group_tier ? ' ' : null, g.group_tier ? el('span', { class: 'vt-tier', style: 'background:' + (t ? t.color : '#888'), text: 'Group tier ' + g.group_tier }) : null].filter(Boolean));
+      for (const v of (g.videos || [])) {
+        const u = safeUrl(v.url);
+        if (!u) continue;
+        const short = String(v.title || g.name).replace(/\s*[-–—]\s*Nutrition Tier Lists?\s*$/i, '');
+        vids.append(el('li', null, [el('a', { href: u, target: '_blank', rel: 'noopener noreferrer',
+          title: (v.title || short) + (v.published ? ' (published ' + fmtDate(v.published) + ')' : '') + ', opens on YouTube in a new tab' }, [
+          el('span', { class: 'play', text: '▶', 'aria-hidden': 'true' }), short,
+          v.published ? el('span', { class: 'date', text: fmtDate(v.published) }) : null
+        ])]));
+      }
+      vids.hidden = !vids.childNodes.length;
+      badgeKey(list);
+      const vNames = list.filter(f => f.tier === 'V').map(f => f.name).sort(cmp);
+      if (vNames.length) meta.append(el('span', { class: 'key v-note' }, [el('b', { text: 'V' }), ' = varies: Talon’s own tier for ' + vNames.join(' and ')]));
+      renderBoard(list, f => f.tier, foodTile, (a, b) => cmp(a.name, b.name) || a.id - b.id);
+      fitNames();
+    } else {
+      const ranked = groups.filter(g => g.group_tier);
+      setTitle(['Talon’s ranking of food groups', ' ', el('span', { class: 'vt-count', text: String(ranked.length) })]);
+      const empty = ranked.filter(g => !g.count).map(g => g.name);
+      meta.append('Click a group to see its foods.' + (empty.length ? ' ' + empty.join(' and ') + (empty.length > 1 ? ' were ranked only as groups' : ' was ranked only as a group') + ', with no individual foods.' : ''));
+      // Show the empty D row so the scale reads ★ A B C D F (Talon put no group in D); V stays hidden.
+      renderBoard(ranked, g => g.group_tier, groupTile, (a, b) => cmp(a.name, b.name), ['D']);
+      const unranked = groups.filter(g => !g.group_tier && g.count > 0).sort((a, b) => cmp(a.name, b.name));
+      if (unranked.length) {
+        trayBoard.append(tierRow('–', 'unranked', null, unranked, groupTile, 'groups not ranked by Talon'));
+        tray.hidden = false;
+      }
+    }
+    document.title = BASE_TITLE;
+    if (firstRenderDone) countView(route.view === 'group' ? route.group : 'Food groups');
+    firstRenderDone = true;
+    if (focusHeading) { focusHeading = false; $('viewTitle').focus(); }
+  }
+
+  /* Analytics: GoatCounter counts the first load itself; hash-driven views are counted here.
+     Never throws when the script is blocked or missing, and skips file://. */
+  function countView(name) {
+    try {
+      if (location.protocol === 'file:') return;
+      const gc = window.goatcounter;
+      if (gc && typeof gc.count === 'function') {
+        gc.count({ path: location.pathname + location.hash, title: document.title + ' — ' + name, event: false });
+      }
+    } catch (e) { /* analytics is optional */ }
+  }
+
+  /* ---------- about ---------- */
+  const NUM_WORDS = ['No', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Eleven', 'Twelve'];
+  function ext(href, text) { return el('a', { href, target: '_blank', rel: 'noopener noreferrer', text }); }
+  function videoId(u) { const m = /[?&]v=([\w-]+)/.exec(u || ''); return m ? m[1] : ''; }
+  function buildAbout() {
+    const body = $('aboutBody'); body.textContent = '';
+    // Fallbacks (counted from the foods) only matter if build_data.py ever stops writing meta.
+    const num = (v, fb) => (typeof v === 'number' && isFinite(v)) ? v : fb;
+    const foodEps = new Set(foods.map(f => videoId(f.chapter_url) || f.video_title).filter(Boolean));
+    const placements = num(META.placements, foods.length);
+    const foodEpisodes = num(META.food_episodes, foodEps.size);
+    const moved = num(META.moved, foods.filter(f => f.moved).length);
+    const fge = META.food_groups_episode || {};
+    const fgeTitle = fge.title || 'Food Groups Ranked';
+    const fgeUrl = safeUrl(fge.url);
+    const unranked = groups.filter(g => !g.group_tier && g.count > 0).length;
+    const vFoods = foods.filter(f => f.tier === 'V').map(f => f.name);
+    const plural = (n, one, many) => n === 1 ? one : many;
+    body.append(
+      el('p', null, ['An unofficial, fan-made atlas of the Nutrition Tier Lists by ', ext(TALON_URL, 'Talon Fitness'),
+        '. The rankings, the nutrition analysis and the work behind them are all his. This page just puts every episode in one place. Every food links to the moment it appears in its episode.']),
+      el('h3', { text: 'How to read it:' }),
+      el('ul', null, [
+        el('li', { text: 'Tiers compare foods within the same food group. An A among candy is not an A among vegetables, so foods from different groups are never mixed on one board.' }),
+        el('li', { text: 'The first board is Talon’s own ranking of the food groups.' + (unranked ? ' ' + (NUM_WORDS[unranked] || String(unranked)) + plural(unranked, ' group has its own episode but wasn’t ranked as a group; it sits in the row below.', ' groups have their own episode but weren’t ranked as a group; they sit in the row below.') : '') }),
+        moved ? el('li', { text: moved + plural(moved, ' placement follows a correction', ' placements follow corrections') + ' Talon made after the episode, in the video description or later videos. Where he gave a range, the atlas uses the smallest move. Those tiles show ↑ or ↓, and their details quote what he said and give the original tier. Tiles marked ⓘ carry a note.' }) : null,
+        el('li', { text: 'Each food’s details include a short summary of Talon’s reasoning and the nutrition card from the episode. Both were extracted with AI (from captions and video) and spot-checked, so treat them as a guide and watch the chapter for the real thing.' }),
+        vFoods.length ? el('li', { text: 'Curry Powder sits alone in a “V” tier, “for it varies”: Talon invented it on the spot because no two curry blends are the same.' }) : null
+      ]),
+      el('p', { class: 'about-data' }, ['Data: ' + placements + plural(placements, ' placement', ' placements') + ' from ' + foodEpisodes + plural(foodEpisodes, ' episode', ' episodes') + ', plus ',
+        fgeUrl ? ext(fgeUrl, fgeTitle) : fgeTitle, fge.published ? ' (' + fmtDate(fge.published) + ')' : '',
+        '. Placements were read from each episode’s final board; four late ones in Grains Ranked were cross-checked against ',
+        ext('https://www.youtube.com/watch?v=dp_1u2KJx-0&lc=UgxB0QKOXqVONfE8UUh4AaABAg', 'a viewer’s transcription'), ' in the comments.']),
+      el('p', null, ['Made by ', ext(SITE_URL, 'amunozo.com'), '. Spotted a mistake? ', ext(ISSUES_URL, 'Open an issue'), '.'])
+    );
+  }
+  function openAbout() {
+    const a = $('about');
+    a.scrollTop = 0;
+    if (!a.open) a.showModal();
+  }
+
+  /* ---------- modal ---------- */
+  function link(href, text, primary) {
+    const u = safeUrl(href);
+    return u ? el('a', { href: u, target: '_blank', rel: 'noopener noreferrer', class: primary ? 'primary' : null,
+      text: primary ? '▶ ' + text : text + ' ↗', 'aria-label': text + ' (opens in a new tab)' }) : null;
+  }
+  function row(dl, k, v) {
+    if (!v) return;
+    dl.append(el('dt', { text: k }), el('dd', { text: v }));
+  }
+  function dlgHead(color, title, sub) {
+    $('dlg').querySelector('.dlg-head').style.cssText = colorVars(color);
+    $('dlgTitle').textContent = title;
+    $('dlgSub').textContent = sub;
+  }
+
+  const MACROS = [['calories', 'Calories', ''], ['protein_g', 'Protein', ' g'], ['fat_g', 'Fat', ' g'], ['carbs_g', 'Carbs', ' g'],
+    ['fiber_g', 'Fiber', ' g'], ['sugar_g', 'Sugar', ' g'], ['sodium_mg', 'Sodium', ' mg']];
+  const MICROS_SHOWN = 8;
+  let microsSeq = 0;
+  function whySection(f) {
+    if (!f.why) return null;
+    const src = f.why_source === 'transcript' ? 'from an automatic transcript of the episode (it has no YouTube captions)' : 'from the episode’s captions';
+    return el('section', { class: 'sec', 'aria-labelledby': 'whyH' }, [
+      el('h3', { id: 'whyH', text: 'Why this tier' }),
+      el('p', { class: 'why', text: f.why }),
+      el('p', { class: 'prov', text: 'Summary of Talon’s reasoning, written by AI ' + src + ' — watch the chapter for his full take.' })
+    ]);
+  }
+  function cardSection(f) {
+    const c = f.card;
+    if (!c) return null;
+    const approx = new Set(c.approx || []), lt = new Set(c.lt || []);
+    const pre = (k) => (lt.has(k) ? '<' : '') + (approx.has(k) ? '~' : '');
+    const chip = (k, v) => el('li', null, [el('span', { class: 'k', text: k }), el('span', { class: 'v', text: v })]);
+    const chips = [];
+    for (const [key, label, unit] of MACROS) {
+      const v = c[key];
+      if (typeof v === 'number' && isFinite(v)) chips.push(chip(label, pre(key) + v + unit));
+    }
+    if (c.omega3) chips.push(chip('Omega-3', pre('omega3') + c.omega3));
+    const basis = c.basis ? c.basis.charAt(0).toUpperCase() + c.basis.slice(1) : '';
+    const sec = el('section', { class: 'sec', 'aria-labelledby': 'cardH' }, [
+      el('h3', { id: 'cardH' }, ['Nutrition card', basis ? el('span', { class: 'basis', text: ' · ' + basis }) : null])
+    ]);
+    if (chips.length) sec.append(el('ul', { class: 'macros', 'aria-label': 'Macros' }, chips));
+    const micros = (c.micros || []).filter(m => m && m.n && typeof m.dv === 'number' && isFinite(m.dv));
+    if (micros.length) {
+      const listId = 'micros' + (++microsSeq);
+      const ul = el('ul', { class: 'micros', id: listId, 'aria-label': 'Micronutrients, % daily value' });
+      micros.forEach((m, i) => {
+        const w = Math.max(0, Math.min(100, m.dv));
+        ul.append(el('li', { hidden: i >= MICROS_SHOWN ? '' : null }, [
+          el('span', { class: 'mn', text: m.n }),
+          el('span', { class: 'bar', 'aria-hidden': 'true' }, [el('i', { style: 'width:' + w + '%' })]),
+          el('span', { class: 'pct', text: m.dv + '%' })
+        ]));
+      });
+      sec.append(ul);
+      if (micros.length > MICROS_SHOWN) {
+        const btn = el('button', { type: 'button', class: 'micros-toggle', 'aria-expanded': 'false', 'aria-controls': listId,
+          text: 'Show all (' + micros.length + ')' });
+        btn.addEventListener('click', () => {
+          const open = btn.getAttribute('aria-expanded') !== 'true';
+          btn.setAttribute('aria-expanded', String(open));
+          btn.textContent = open ? 'Show fewer' : 'Show all (' + micros.length + ')';
+          ul.querySelectorAll('li').forEach((li, i) => { if (i >= MICROS_SHOWN) li.hidden = !open; });
+        });
+        sec.append(btn);
+      }
+    }
+    const frame = safeUrl(f.nutrition_frame_url);
+    sec.append(el('p', { class: 'prov' }, ['Values read by AI from the nutrition card shown in the episode; may contain errors. Check the ',
+      frame ? el('a', { href: frame, target: '_blank', rel: 'noopener noreferrer', text: 'nutrition frame', 'aria-label': 'nutrition frame (opens in a new tab)' }) : 'nutrition frame', '.']));
+    return sec;
+  }
+
+  function openFood(f) {
+    const g = groupByName.get(f.group) || { color: '#555555', name: f.group };
+    const t = tierById.get(f.tier);
+    dlgHead(g.color, f.name, f.group);
+    const sq = $('dlgTier');
+    sq.textContent = t ? t.label : f.tier;
+    sq.style.background = t ? t.color : '#888';
+    sq.setAttribute('aria-label', 'Tier ' + f.tier); sq.title = 'Tier ' + f.tier;
+    const mv = $('dlgMoved');
+    mv.hidden = !f.moved;
+    mv.textContent = f.moved ? (tierIdx.get(f.tier) < tierIdx.get(f.original_tier) ? '↑ ' : '↓ ') + 'originally ' + f.original_tier : '';
+    const body = $('dlgBody'); body.textContent = '';
+    if (f.correction) body.append(el('p', { class: 'note' }, [el('b', { text: 'Talon’s correction' }), f.correction]));
+    const why = whySection(f), card = cardSection(f);
+    if (why) body.append(why);
+    if (card) body.append(card);
+    const dl = el('dl');
+    row(dl, 'Serving basis', f.serving_basis);
+    row(dl, 'Video', f.video_title);
+    row(dl, 'Published', f.published ? fmtDate(f.published) : '');
+    if (dl.childNodes.length) body.append(dl);
+    if (f.evidence_note) body.append(el('p', { class: 'evidence', text: f.evidence_note }));
+    const links = [link(f.chapter_url, 'Watch chapter', true), link(f.board_url, 'Final board'), link(f.nutrition_frame_url, 'Nutrition frame')].filter(Boolean);
+    if (links.length) body.append(el('div', { class: 'links' }, links));
+    showDialog();
+  }
+
+  function showDialog() {
+    const d = $('dlg');
+    d.scrollTop = 0;
+    if (!d.open) d.showModal();
+  }
+  function closeDialog(restore) {
+    const d = $('dlg');
+    if (d.open) d.close();
+    if (restore !== false && lastFocus && document.contains(lastFocus)) lastFocus.focus();
+  }
+
+  function init() {
+    buildSelect();
+    const onBoardClick = (e) => {
+      const b = e.target.closest('.tile');
+      if (!b) return;
+      if (b.dataset.kind === 'food') { lastFocus = b; openFood(foodById.get(+b.dataset.id)); }
+      else if (b.tagName === 'A' && !(e.ctrlKey || e.metaKey || e.shiftKey || e.altKey)) focusHeading = true;   // the link navigates via the hash
+    };
+    $('board').addEventListener('click', onBoardClick);
+    $('trayBoard').addEventListener('click', onBoardClick);
+    const d = $('dlg');
+    $('dlgClose').addEventListener('click', () => closeDialog());
+    d.addEventListener('click', (e) => { if (e.target === d) closeDialog(); });   // backdrop click
+    d.addEventListener('close', () => { if (lastFocus && document.contains(lastFocus)) lastFocus.focus(); });
+    buildAbout();
+    const ab = $('about');
+    $('aboutBtn').addEventListener('click', openAbout);
+    $('aboutClose').addEventListener('click', () => ab.close());
+    ab.addEventListener('click', (e) => { if (e.target === ab) ab.close(); });   // backdrop click
+    ab.addEventListener('close', () => $('aboutBtn').focus());
+    window.addEventListener('hashchange', () => { closeDialog(false); if (ab.open) ab.close(); render(); window.scrollTo(0, 0); });
+    render();
+  }
+
+  function showError(msg) {
+    const n = $('notice'); n.textContent = msg; n.classList.add('is-error'); n.setAttribute('role', 'alert'); n.hidden = false;
+  }
+  if (!DATA || !Array.isArray(DATA.tiers) || !Array.isArray(DATA.groups) || !Array.isArray(DATA.foods)) {
+    showError('The tier list data is missing from this page, so nothing can be shown. Please try again later.');
+    return;
+  }
+  try {
+    tiers = DATA.tiers; groups = DATA.groups; foods = DATA.foods;
+    META = (DATA.meta && typeof DATA.meta === 'object') ? DATA.meta : {};
+    groupByName = new Map(groups.map(g => [g.name, g]));
+    tierById = new Map(tiers.map(t => [t.id, t]));
+    tierIdx = new Map(tiers.map((t, i) => [t.id, i]));
+    foodById = new Map(foods.map(f => [f.id, f]));
+    init();
+  } catch (err) {
+    showError('Could not show the tier list: ' + err.message);
+  }
+})();
+</script>
+</body>
+</html>

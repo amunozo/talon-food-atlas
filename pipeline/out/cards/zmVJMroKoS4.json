@@ -1,0 +1,802 @@
+{
+ "video_id": "zmVJMroKoS4",
+ "title": "Fats & Oils Ranked - Nutrition Tier Lists",
+ "n_expected": 27,
+ "foods": [
+  {
+   "food": "Almond Oil",
+   "start": 238,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 196
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Avocado Oil",
+   "start": 286,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 163
+     }
+    ]
+   }
+  },
+  {
+   "food": "Butter",
+   "start": 317,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "670",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Canola Oil",
+   "start": 408,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "8",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 89
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 87
+     }
+    ]
+   }
+  },
+  {
+   "food": "Chicken Fat",
+   "start": 461,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Coconut Oil",
+   "start": 518,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "845",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Corn Oil",
+   "start": 602,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 71
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cottonseed Oil",
+   "start": 685,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 176
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 31
+     }
+    ]
+   }
+  },
+  {
+   "food": "Duck Fat",
+   "start": 716,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Flaxseed Oil",
+   "start": 753,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "53",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 87
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ghee",
+   "start": 811,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "850",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 93
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Goose Fat",
+   "start": 864,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Grapeseed Oil",
+   "start": 889,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 144
+     }
+    ]
+   }
+  },
+  {
+   "food": "Hazelnut Oil",
+   "start": 926,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 236
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lard",
+   "start": 950,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "850",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Margarine",
+   "start": 992,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "695",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "2",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 116
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 72
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 25
+     }
+    ]
+   }
+  },
+  {
+   "food": "Olive Oil",
+   "start": 1065,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "875",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 72
+     }
+    ]
+   }
+  },
+  {
+   "food": "Palm Oil",
+   "start": 1129,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 80
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Peanut Oil",
+   "start": 1167,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 78
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Rice Bran Oil",
+   "start": 1194,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "845",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "2",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 162
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 31
+     }
+    ]
+   }
+  },
+  {
+   "food": "Safflower Oil",
+   "start": 1233,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "855",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 171
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sesame Oil",
+   "start": 1285,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Shortening",
+   "start": 1326,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Soybean Oil",
+   "start": 1369,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "865",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "7",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 230
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 41
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sunflower Oil",
+   "start": 1395,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "875",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "0",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 205
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tallow",
+   "start": 1433,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "1",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Walnut Oil",
+   "start": 1468,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "860",
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": {
+     "amount": "10",
+     "unit": "g"
+    },
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 2
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.044795,
+  "calls": [
+   {
+    "cost": 0.044795,
+    "tokens": {
+     "prompt_tokens": 145070,
+     "completion_tokens": 5685,
+     "total_tokens": 150755
+    },
+    "wall_s": 41.8
+   }
+  ],
+  "wall_s": 41.8
+ }
+}

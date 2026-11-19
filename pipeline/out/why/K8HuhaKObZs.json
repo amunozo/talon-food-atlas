@@ -1,0 +1,120 @@
+[
+ {
+  "id": 771,
+  "name": "Acorns",
+  "why": "Acorns are one of the lowest-calorie nuts, with a higher carb to fat ratio than the rest, great fiber, among the best nut sources of vitamin B6 and folate, and antioxidants like vitamin E, gallic acid and ellagic acid, and they seldom trouble tree nut allergies. The real problem is tannins, anti-nutrients that may cause liver damage and must be leached out, and being unspectacular and a pain to prepare puts them in the D tier.",
+  "repairs": [
+   "net sources -> nut sources",
+   "Leech -> leach"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 772,
+  "name": "Almonds",
+  "why": "Almonds are a mid-calorie, higher-protein nut with an impressive micronutrient collection, among the best for fiber, very high in vitamin E, easily the best vitamin B2 and calcium on the list, and a great source of magnesium and manganese, with heart-health, blood pressure and blood sugar benefits. They contain phytic acid and oxalates, and people allergic to tree nuts should pass, so in many ways nutritionally perfect, he places them in the top tier when eaten in moderation.",
+  "repairs": [
+   "vitamin A -> vitamin E (caption repeated), only vitamin E used"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 773,
+  "name": "Brazil Nuts",
+  "why": "Brazil nuts are the highest in saturated fat and lowest in carbs, with an outstanding selenium content, over 20 times the amount in canned tuna, plus the best phosphorus and magnesium on the list, among the best copper, plus vitamin B1 and antioxidants like gallic and ellagic acid, supporting heart and thyroid health. Phytic acid and oxalates are drawbacks, too much selenium can cause selenosis, and tree nut allergies rule them out, so he puts them in the B tier.",
+  "repairs": [
+   "stalinosis -> selenosis",
+   "beads here -> B tier"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Brazil nuts are the highest in saturated fat and lowest in carbs, with an outstanding selenium content, over 20 times the amount in canned tuna, plus the best phosphorus and magnesium on the list, among the best copper, vitamin B1 and antioxidants like gallic and ellagic acid, supporting heart and thyroid health. Phytic acid and oxalates are drawbacks, too much selenium can cause selenosis, and tree nut allergies rule them out, so he puts them in the B tier. -> Brazil nuts are the highest in saturated fat and lowest in carbs, with an outstanding selenium content, over 20 times the amount in canned tuna, plus the best phosphorus and magnesium on the list, among the best copper, plus vitamin B1 and antioxidants like gallic and ellagic acid, supporting heart and thyroid health. Phytic acid and oxalates are drawbacks, too much selenium can cause selenosis, and tree nut allergies rule them out, so he puts them in the B tier."
+ },
+ {
+  "id": 774,
+  "name": "Cashews",
+  "why": "Cashews are a mid-calorie nut, average in macronutrition but excelling in micronutrients: the best copper and iron on the list, rich in vitamin K and zinc, among the best for magnesium, phosphorus and vitamin B5, plus polyphenol and carotenoid antioxidants, especially when roasted, and heart-healthy fats. They contain phytic acid and oxalates and cause issues with tree nut allergies, but he calls them very nutritious and puts them in the A tier.",
+  "repairs": [
+   "net sources -> nut sources"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 775,
+  "name": "Chestnuts",
+  "why": "Eastern chestnuts are very low in calories, protein and fat, derive most calories from carbohydrates, and have the highest sugar at about 10 grams, with a unique but unimpressive profile, the best vitamin C on the list, and mild manganese, copper and vitamin B6. Raw chestnuts contain tannins that may cause stomach irritation, nausea or liver damage, they have oxalates, and they trouble people with tree nut allergies, but since they offer something unique they go in the C tier.",
+  "repairs": [
+   "olagic acid -> ellagic acid",
+   "seeds here -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 776,
+  "name": "Hazelnuts",
+  "why": "Hazelnuts are a middle-of-the-road nut with an impressive micronutrient profile, a high concentration of heart-healthy monounsaturated fat, among the best for manganese, vitamin B6, folate and copper, a great source of vitamin E, and phenolic antioxidants that reduce cholesterol and inflammation, plus improved insulin sensitivity. They have a fair amount of oxalates and warrant caution with tree nut allergies, but he calls them a great food for the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 777,
+  "name": "Macadamia Nuts",
+  "why": "Macadamia nuts are the highest in calories and fat, easily the highest in heart-healthy monounsaturated fat, among the best for vitamin B1, a great source of manganese, with antioxidants such as flavonoids and tocotrienols, and linked to lower blood pressure and blood sugar. They tend to trouble people with tree nut allergies, and the main issue is that they are really highly caloric relative to their nutritional output, so he places them in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 778,
+  "name": "Peanuts",
+  "why": "Peanuts are a mid-calorie nut with the highest protein on the list, the best vitamin B3 and folate, good manganese and magnesium, and antioxidants such as resveratrol and isoflavones, helping heart health and blood sugar. They need the most watching on the list: peanut allergy, with 30 to 40 percent overlap with tree nut allergy, phytic acid, oxalates and aflatoxin from damp storage mold, so he puts them in the B tier with a solid argument for A.",
+  "repairs": [
+   "Beats here -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 779,
+  "name": "Pecans",
+  "why": "Pecans are a higher-calorie, higher-fat nut with a decent micronutrient profile, their monounsaturated fats linked with improved heart health, a really good source of manganese, copper and zinc, and flavonoid antioxidants shown to regulate blood sugar, reduce inflammation and help prevent mental decline. They contain phytic acid and warrant caution with tree nut allergies, but he calls them a solid nut deserving the B tier.",
+  "repairs": [
+   "the cons -> unclear (dropped)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 780,
+  "name": "Pine Nuts",
+  "why": "Pine nuts are average in calories and macros but have one of the more impressive micronutrient showings, the best manganese, zinc and vitamin K on the list, and a good source of phosphorus, iron and vitamin E, shown to lower LDL, promote heart health and boost the brain. They contain varying amounts of phytic acid and oxalates and should be avoided with tree nut allergies, but he calls them really nutritious and places them in the A tier.",
+  "repairs": [
+   "AIDS here -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 781,
+  "name": "Pistachios",
+  "why": "Pistachios are an average-calorie nut, higher in protein and fiber than most, with the best vitamin B6, vitamin B1 and potassium on the list and antioxidants including lutein, zeaxanthin, polyphenols and tocopherols, promoting healthy gut bacteria and blood vessel health. They contain phytic acid, which somewhat inhibits mineral absorption, and you should avoid them with tree nut allergies, but he calls them a great and healthy nut for the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 782,
+  "name": "Walnuts",
+  "why": "Walnuts are an average nut in calories and macros but highest in polyunsaturated fat, the only nut with notable omega-3, about 9,100 milligrams per 100 grams, around seven times as much as salmon, plus manganese, copper, vitamin B6 and folate, and the highest antioxidant activity from polyphenols and melatonin. They contain oxalates and phytic acid and should be avoided with tree nut allergies, but the benefits outshine this and they round out the list in the top tier.",
+  "repairs": [
+   "9 100 milligrams -> 9,100 mg"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

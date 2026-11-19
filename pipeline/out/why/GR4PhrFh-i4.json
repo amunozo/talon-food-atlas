@@ -1,0 +1,309 @@
+[
+ {
+  "id": 93,
+  "name": "Almonds",
+  "why": "Almonds are a high-calorie food with an incredible profile, about 3 to 4 g of protein per 100 calories, the most fat on the list (mainly heart-healthy monounsaturated), and the best source of vitamin E and vitamin B2, plus manganese, magnesium and flavonoid antioxidants. The downside is phytic acid, an anti-nutrient that soaking and roasting can remedy, and because the protein is overshadowed he puts them in the C tier.",
+  "repairs": [
+   "'kakin, corsetin' -> catechin, quercetin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 94,
+  "name": "Amaranth",
+  "why": "Cooked amaranth is a low-calorie food with a lower micronutrient profile, giving just shy of 4 g of protein per 100 calories, a more complete protein than most grains and legumes. It is a decent source of manganese, phosphorus and magnesium, is antioxidant rich, and has lower anti-nutrients when cooked; the draw is needing fewer calories to reach its protein, so he puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 95,
+  "name": "Beans",
+  "why": "Beans (specifically pinto) are an average-calorie food with a respectable profile, giving about 6 g of protein per 100 calories, higher fiber (soluble and insoluble), among the best folate, antioxidant flavonoids and anthocyanins, and very satiating. They can be anti-nutrient-dense, though soaking and cooking helps; not the first protein choice but a staple supplemental source, so he puts them in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 96,
+  "name": "Buckwheat",
+  "why": "Buckwheat groats are a low-calorie food (the cooked groats absorb water) with a lesser profile, giving just below 4 g of complete protein per 100 calories, fairly fibrous with much soluble fiber feeding gut bacteria. They are antioxidant rich (quercetin, rutin, ferulic and chlorogenic acids, a compound shown to improve insulin sensitivity) and low in anti-nutrients, but fall a bit short of much of the list, so they go in the C tier.",
+  "repairs": [
+   "'corsetin' -> quercetin",
+   "'routtin' -> rutin",
+   "'DCI' kept as D-chiro-inositol (best guess)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Buckwheat groats are a low-calorie food (the cooked groats absorb water) with a lesser profile, giving just below 4 g of complete protein per 100 calories, fairly fibrous with much soluble fiber feeding gut bacteria. They are antioxidant rich (quercetin, rutin, ferulic and chlorogenic acids, D-chiro-inositol for insulin sensitivity) and low in anti-nutrients, but fall a bit short of much of the list, so they go in the C tier. -> Buckwheat groats are a low-calorie food (the cooked groats absorb water) with a lesser profile, giving just below 4 g of complete protein per 100 calories, fairly fibrous with much soluble fiber feeding gut bacteria. They are antioxidant rich (quercetin, rutin, ferulic and chlorogenic acids, a compound shown to improve insulin sensitivity) and low in anti-nutrients, but fall a bit short of much of the list, so they go in the C tier."
+ },
+ {
+  "id": 97,
+  "name": "Cashews",
+  "why": "Cashews are a high-calorie food with about 3 g of protein per 100 calories, lower because they are very fatty, mainly monounsaturated fat. They are the highest on the list in copper (for red blood cells), a notable source of magnesium and zinc, polyphenol rich with a low glycemic index; they are higher in phytic acid, fixable by soaking and roasting, and not very protein-dense, so he puts them in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 98,
+  "name": "Chia Seeds",
+  "why": "Chia seeds are a high-calorie food with an exceptional profile, 3 to 4 g of fairly complete protein per 100 calories, mainly fat from ALA omega-3 (the least efficiently converted one). They are highest in fiber and selenium, among the best in phosphorus, copper, magnesium, calcium and vitamin D3, and rich in polyphenols, but they are not especially protein-dense per calorie, so he puts them in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 99,
+  "name": "Edamame",
+  "why": "Edamame is a lowish-calorie food with a solid profile, about 8 g of complete protein per 100 g, a good source per calorie of folate, vitamin K and choline, and rich in isoflavones with anti-inflammatory and anti-cancer effects. It lowers LDL cholesterol and has fewer anti-nutrients than most legumes; it usually blows the competition away but is more tame here, so he can only afford the A tier.",
+  "repairs": [
+   "'isoflavins' -> isoflavones",
+   "'Edomame/edetomame' -> edamame"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 100,
+  "name": "Falafel",
+  "why": "Falafel is a higher-calorie food with a shoddy profile, made of chickpeas or fava beans with herbs and spices, deep fried or baked, giving about 4 g of protein per 100 calories, pretty fibrous, some antioxidants and notably low in anti-nutrients. The main problem is the deep frying, which carries a much higher carcinogenic risk (baked is better), and it is not impressive nutritionally, so he puts falafel in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 101,
+  "name": "Flaxseeds",
+  "why": "Flaxseed is a high-calorie food with a fantastic profile, 3 to 4 g of protein per 100 calories, very fatty with a significant share of the less effective ALA omega-3, and very fiber dense. It is the best source of vitamin B1, a great source of copper, manganese, magnesium and choline, rich in lignans, though it has a fair amount of phytic acid; the protein is quite quaint amid all that, so it goes in the C tier.",
+  "repairs": [
+   "'lignens' -> lignans"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 102,
+  "name": "Hemp Seeds",
+  "why": "Hemp seeds are a high-calorie food with a ludicrous profile, just shy of 6 g of more-complete protein per 100 g, very fatty (mainly polyunsaturated, partly ALA), and highest on the list in manganese, phosphorus, magnesium and zinc, among the highest in copper and vitamin B1. They also have tocotrienol antioxidants, arginine for heart and blood pressure, and lower anti-nutrients; being below and way above others in different ways, he puts them in the B tier.",
+  "repairs": [
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 103,
+  "name": "Lentils",
+  "why": "Lentils are a lower-calorie food with an on-par profile, giving just under 8 g of protein per 100 calories when cooked, virtually fat-free and richer in mainly soluble fiber. They are among the best sources of folate, fairly iron rich per calorie, polyphenol rich with anti-inflammatory, LDL-lowering saponins, and low in anti-nutrients, so he calls them another popular plant protein pick for the B tier.",
+  "repairs": [
+   "'sapinins' -> saponins"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 104,
+  "name": "Lupin Beans",
+  "why": "Lupin beans are a lower-calorie food with a manageable profile whose main selling point is an amazing 13 g of very complete protein per 100 calories, the highest non-soy, non-gluten option on the list. They are rich in oligosaccharides for the gut microbiome, contain conglutin that aids blood sugar regulation, and are lower in anti-nutrients than most legumes; he expects them to be a face of plant protein and gives them the first top tier spot.",
+  "repairs": [
+   "'olosaccharides' -> oligosaccharides",
+   "'congluten' -> conglutin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 105,
+  "name": "Miso",
+  "why": "Miso is an average-calorie food made by fermenting soybeans with koji, giving 6 to 7 g of protein per 100 calories, with fermentation making nutrients more bioavailable and providing probiotics for gut health, plus a great source of vitamin K2 for bones and soy isoflavones for inflammation and heart health. Watch the high sodium and potential allergens, but it is much better absorbed than most foods here, so it goes in the A tier.",
+  "repairs": [
+   "'Cooji' -> koji",
+   "'isoflavins' -> isoflavones"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 106,
+  "name": "Mycoprotein",
+  "why": "Mycoprotein is a low-calorie food made from fermented, heat-treated fungal mycelium, technically neither plant nor animal, giving about 12 g of complete protein per 100 calories. It is among the best sources of manganese and zinc, a good source of phosphorus, selenium and folate, rich in ergothioneine and glutathione, and low in anti-nutrients; some people may have allergy or digestive issues and some products contain egg or milk, but he puts it in the top tier.",
+  "repairs": [
+   "'Moprotein/mop protein' -> mycoprotein",
+   "'mcelium' -> mycelium",
+   "'ergoionine' -> ergothioneine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 107,
+  "name": "Natto",
+  "why": "Natto is a somewhat higher-calorie food of soybeans fermented with bacteria, with over 9 g of protein per 100 calories, probiotics for gut health, better bioavailability, among the highest iron and one of the best sources of vitamin K2, plus isoflavones and nattokinase for blood flow. He says unique does not mean good, but natto is both, so it goes in the top tier.",
+  "repairs": [
+   "'Natada' -> natto",
+   "'nattoinace' -> nattokinase",
+   "'isoflavins' -> isoflavones"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 108,
+  "name": "Oats",
+  "why": "Oats are a higher-calorie food with a great profile, 3 to 4 g of far better-than-grain protein per 100 calories, the most carbs on the list, among the highest fiber with cholesterol-lowering beta-glucan, plus resistant starch, manganese, ferulic acid and avenanthramides. They have a fair amount of phytic acid, partly remedied by cooking, and protein is just good, not great, so they go in the C tier.",
+  "repairs": [
+   "'betalucan' -> beta-glucan",
+   "'avanthramides' -> avenanthramides",
+   "'manganesees' -> manganese"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 109,
+  "name": "Okara",
+  "why": "Okara is a low-calorie food with a mild profile, the fiber-rich soy pulp left from making soy milk, giving 4 to 5 g of better-than-most protein per 100 calories, very high mainly insoluble fiber, and isoflavone and tocopherol antioxidants, with low anti-nutrients from its creation process. It has less going on than most soy products, so he puts it in the B tier.",
+  "repairs": [
+   "'isoflavin' -> isoflavone",
+   "'tocopereral' -> tocopherol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 110,
+  "name": "Peanuts",
+  "why": "Peanuts are a high-calorie food with a solid profile, among the highest protein by weight (about 4 g per 100 calories), very fatty with mostly monounsaturated fat, the highest in vitamin B3, among the highest in magnesium, vitamin E and biotin, and rich in resveratrol and other polyphenols. They have phytates, lectins and tannins, eased by soaking and roasting, and are a common allergen; the protein is nearly drowned out, so C tier.",
+  "repairs": [
+   "'turmeric acid' -> likely p-coumaric acid (not used)",
+   "'phitates' -> phytates"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 111,
+  "name": "Peas",
+  "why": "Peas are a low-calorie food with a unique profile, 6 to 7 g of protein per 100 calories, decent mainly insoluble fiber and about 6 g of sugar, the best source of vitamin C on the list, provitamin A carotenoids, and quercetin, kaempferol, lutein and zeaxanthin. They are moderately anti-nutrient-rich (phytic acid, lectins), reduced by cooking; not the first thing for protein but they can help, so he puts them in the B tier.",
+  "repairs": [
+   "'corsetin' -> quercetin",
+   "'camarol' -> kaempferol",
+   "'zeazanthin' -> zeaxanthin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 112,
+  "name": "Pistachios",
+  "why": "Pistachios are a high-calorie food with a standout profile, just under 4 g of protein per 100 calories, very fatty (mostly monounsaturated) and fibrous, the best source of vitamin B6 and among the highest in copper and B1, with tocopherols, lutein, zeaxanthin and blood-pressure and LDL-lowering components. Their phytic acid is reduced by roasting, and as one of the more protein-forward nuts but not protein dense, they go in the C tier.",
+  "repairs": [
+   "'tocopererals' -> tocopherols",
+   "'zeazanthin' -> zeaxanthin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 113,
+  "name": "Quinoa",
+  "why": "Cooked quinoa is a lower-calorie food with a moderate profile, giving about 4 g of complete protein per 100 calories, with a good amount of prebiotic resistant starch and flavonoid antioxidants like quercetin. It is rather satiating for its calories and has lower anti-nutrients than most of the list; it is generally nutrient dense but not a standout in any one way, so he puts it in the B tier.",
+  "repairs": [
+   "'corettin' -> quercetin",
+   "'ceerol' -> kaempferol (best guess)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Cooked quinoa is a lower-calorie food with a moderate profile, giving about 4 g of complete protein per 100 calories, with a good amount of prebiotic resistant starch and flavonoid antioxidants like quercetin and kaempferol. It is rather satiating for its calories and has lower anti-nutrients than most of the list; it is generally nutrient dense but not a standout in any one way, so he puts it in the B tier. -> Cooked quinoa is a lower-calorie food with a moderate profile, giving about 4 g of complete protein per 100 calories, with a good amount of prebiotic resistant starch and flavonoid antioxidants like quercetin. It is rather satiating for its calories and has lower anti-nutrients than most of the list; it is generally nutrient dense but not a standout in any one way, so he puts it in the B tier."
+ },
+ {
+  "id": 114,
+  "name": "Seitan",
+  "why": "Seitan is a lowish-calorie food made by isolating wheat gluten, often up to 20 g of protein per 100 calories, the highest by far, though the protein lacks lysine, with good selenium, phosphorus and iron and low anti-nutrients. Many products are very sodium dense and it is not for those who cannot tolerate gluten, but for everyone else it is basically plant protein incarnate, so it goes in the top tier.",
+  "repairs": [
+   "'Satan' -> seitan"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 115,
+  "name": "Sesame Seeds",
+  "why": "Sesame seeds are a high-calorie food with a superb profile, about 3 g of protein per 100 calories, very fatty, the highest in calcium and iron and among the highest in copper, magnesium, zinc and vitamin B1, with heart-protective lignans and LDL-lowering phytosterols. They are high in phytic acid and oxalates, reducible by soaking and cooking, and the crowded profile overshadows protein, so they go in the C tier.",
+  "repairs": [
+   "'lignens' -> lignans",
+   "'sesame and sesame' -> sesamin and sesamolin (not named)",
+   "'phytosterile' -> phytosterol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 116,
+  "name": "Soybeans",
+  "why": "Soybeans are an average-calorie food with a standard profile, giving about 11 g of complete protein per 100 calories, one of the better sources, with mainly insoluble fiber, molybdenum, some magnesium and iron, and isoflavones with anti-inflammatory and anti-cancer properties. They have a higher anti-nutrient content (phytates, lectins), reduced the usual ways; nothing else is too impressive but there is no weak link, so he puts them in the A tier.",
+  "repairs": [
+   "'malibdinum' -> molybdenum",
+   "'isoflavins' -> isoflavones"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 117,
+  "name": "Soybean Sprouts",
+  "why": "Soybean sprouts are a low-calorie food with an impressive profile, giving just shy of 11 g of complete protein per 100 calories like soybeans, and they are the best source of vitamin K on the list, which is crucial for blood clotting factors. They have a higher isoflavone content than regular soybeans, and sprouting breaks down anti-nutrients and improves bioavailability, so he calls them a great and uncomplicated choice for the A tier.",
+  "repairs": [
+   "'isoflavin' -> isoflavone"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 118,
+  "name": "Sprouted Bread",
+  "why": "Sprouted bread is an average-calorie food with a moderate profile, about 7 g of protein per 100 calories, higher carbs, more soluble fiber from sprouting for digestion and heart health, a good source of manganese and selenium, and phenolic acids, with sprouting lowering anti-nutrients and boosting bioavailability. A king among breads in a different ballgame, so he puts it in the B tier.",
+  "repairs": [
+   "'folic acids' -> phenolic acids",
+   "'turmeric' -> likely coumaric acid (not used)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 119,
+  "name": "Tempeh",
+  "why": "Tempeh is an average-calorie cake of soybeans fermented with a mold culture, over 10 g of complete, very bioavailable protein per 100 calories, among the best sources of vitamin B2, a great plant source of K2, good copper and manganese, isoflavones, with probiotics and prebiotics from fermentation. One of the premier plant protein choices, it is an easy slot into the top tier.",
+  "repairs": [
+   "'manganesees' -> manganese",
+   "'isoflavins' -> isoflavones",
+   "'hydroxythrronic acid' -> unclear, possibly hydroxytyrosol (best guess)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 120,
+  "name": "TVP",
+  "why": "TVP (textured vegetable protein) is a higher-calorie food, usually dehydrated defatted soy flour, giving about 14 g of complete protein per 100 calories, higher in mainly insoluble fiber and often sugar, pushing 15 g. It is the best source of potassium and folate, among the best of copper, manganese, phosphorus, selenium and magnesium, with heat-activated isoflavones and far fewer anti-nutrients, which he says makes this altered food better, so it goes in the top tier.",
+  "repairs": [
+   "'isoflavins' -> isoflavones",
+   "'deffatted' -> defatted"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 121,
+  "name": "Tofu",
+  "why": "Tofu is an average-calorie food with a quality profile, about 12 g of fairly complete protein per 100 calories, usually a pretty good calcium source since calcium sulfate is the common coagulant, and rich in isoflavone and phenolic acid antioxidants, with processing making nutrients far more bioavailable than in soybeans. Arguably the definitive soy product, it rounds out the list in the top tier.",
+  "repairs": [
+   "'isoflavin' -> isoflavone",
+   "'pholic' -> phenolic"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

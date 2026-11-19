@@ -1,0 +1,392 @@
+[
+ {
+  "id": 713,
+  "name": "Artichoke",
+  "why": "Artichoke is an average-calorie vegetable with an average profile, easily the best fiber source on the list (including prebiotic inulin), shown to increase bile production, raise HDL, regulate blood pressure and ease IBS, and among the best for antioxidants like vitamin C, flavonoids and phenolics. It can cause gas, upset stomach and diarrhea in some people, and heat-sensitive nutrients like vitamin C are less absorbable when cooked, so he calls it good with impressive benefits in B tier.",
+  "repairs": [
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 714,
+  "name": "Arugula",
+  "why": "Arugula is a lower-calorie vegetable with an above-average micronutrient concentration, a great source of vitamin K and a good source of beta-carotene, lutein, zeaxanthin, vitamin C, calcium and magnesium, plus glucosinolates that combat inflammation and are antimicrobial. He lists no downsides, saying you will not build meal plans around it but it treats you well, so it goes in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 715,
+  "name": "Asparagus",
+  "why": "Asparagus is a low-calorie vegetable with a pretty impressive profile, the best source of folate on the list, a solid source of vitamin C, vitamin E and flavonoids like quercetin and kaempferol that lower blood pressure and are anti-inflammatory and antiviral, with a stress-reducing compound and ovarian support and a natural diuretic effect. It can be eaten raw but cooking makes it easier to digest, and he calls it very healthy with unique benefits, so A tier.",
+  "repairs": [
+   "'came for all' -> kaempferol",
+   "'protodiition' -> protodioscin (approx.)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 716,
+  "name": "Beetroot",
+  "why": "Beetroot is a lower-calorie vegetable with a less-than-average profile and the highest sugar on the list (about 8 g per 100 g), but high in nitrates that improve cardiovascular and cognitive function, VO2 output and post-workout recovery, plus betaine for liver function and brain and digestive support. It is higher in oxalates, which interfere with calcium absorption, and fructans that may bother people with IBS, though cooking helps at minimal nutritional loss, so he places it in A tier.",
+  "repairs": [
+   "'via O2' -> VO2",
+   "'batane' -> betaine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 717,
+  "name": "Bell Pepper",
+  "why": "Red bell pepper is a lower-calorie food with a very high concentration of vitamin C, plus beta-carotene (converted to vitamin A for eye health), capsanthin and quercetin antioxidants, and a natural diuretic effect. As a nightshade it may be best limited by people with certain inflammatory and autoimmune diseases, and it is more nutritious raw because many nutrients are heat sensitive, but he calls it an antioxidant bomb in A tier.",
+  "repairs": [
+   "'querceta' -> quercetin",
+   "'AIDS here' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 718,
+  "name": "Bok Choy",
+  "why": "Bok choy is an extremely low-calorie vegetable with a slightly above-average profile, a good source of vitamin C, vitamin K and beta-carotene (converted to vitamin A) and of sulforaphane, which activates antioxidant and anti-inflammatory effects, and shown to promote heart health and have anti-cancer properties. Raw bok choy may hinder thyroid function, especially with pre-existing issues, though raw is a bit more nutrient dense, and he calls it a fine leafy green in B tier.",
+  "repairs": [
+   "'beets here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 719,
+  "name": "Broccoli",
+  "why": "Broccoli is a lower-calorie vegetable with an above-average profile, a great source of vitamin K and C, a good source of lutein and zeaxanthin for the eyes, with quercetin, kaempferol, sulforaphane, indole-3-carbinol and one of the best sources of choline. It may cause thyroid issues in people with pre-existing conditions, though cooking reduces this and raises vitamin K at the cost of some vitamin C, so he gives it top tier.",
+  "repairs": [
+   "'corcetin' -> quercetin",
+   "'cape for all' -> kaempferol",
+   "'indole-3 carbonyl' -> indole-3-carbinol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 720,
+  "name": "Brussels Sprout",
+  "why": "Brussels sprouts are a lower-calorie vegetable with an impressive profile, uniquely containing a solid amount of omega-3 (the less useful ALA form), plus quercetin, kaempferol, sulforaphane, indole-3-carbinol and choline typical of cruciferous vegetables. They may cause problems for people with thyroid conditions, and raw is slightly more nutrient dense, so despite joking that he finds them disgusting he admits they are really good and places them in A tier, arguing for top tier.",
+  "repairs": [
+   "'alas' -> ALA",
+   "'came for all' -> kaempferol",
+   "'indole-3 carbonyl' -> indole-3-carbinol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 721,
+  "name": "Cabbage",
+  "why": "Green cabbage is a lower-calorie vegetable with a solid profile, a good source of vitamin K and C that shares the cruciferous compounds quercetin, kaempferol, glucosinolates and indole-3-carbinol, and shown to improve heart and digestive health. As with cruciferous vegetables it may worsen thyroid issues and has a nutritional trade-off between raw and cooked, but overall it is a fine vegetable that generally does the body good, so B tier.",
+  "repairs": [
+   "'came for all' -> kaempferol",
+   "'i3c' -> indole-3-carbinol",
+   "'Christmas vegetables' -> cruciferous vegetables",
+   "'beets here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 722,
+  "name": "Carrot",
+  "why": "Carrots are a lower-calorie vegetable with a lopsided profile, easily the best carotenoid source on the list with the most alpha- and beta-carotene together (converted to vitamin A to protect eyes and fight oxidation), and shown to reduce the risk of several cancers and manage blood pressure. They may cause pollen-related allergies but are otherwise very safe, more nutritious and easier to digest cooked yet fine raw, and being the very best at what they do they earn top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 723,
+  "name": "Cauliflower",
+  "why": "Cauliflower is a lower-calorie vegetable with an average profile, the best source of choline on the list (for brain and memory development), and a good source of antioxidants including vitamin C and sulforaphane, with indole-3-carbinol like other cruciferous vegetables. It may cause problems for people with pre-existing thyroid issues, and raw versus cooked trade-offs are balanced, so he calls it a solid vegetable unlikely to do you wrong in B tier.",
+  "repairs": [
+   "'coal lean' -> choline",
+   "'i3c' -> indole-3-carbinol",
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 724,
+  "name": "Celery",
+  "why": "Celery is one of the lowest-calorie vegetables on the list with a subpar profile, a good source of antioxidants including vitamin C, beta-carotene and some flavonoids, shown to reduce inflammation and promote digestive health, with a diuretic effect. Nutritionally it is somewhat lackluster, being designed as a weight loss snack that excels at that, so it goes in C tier.",
+  "repairs": [
+   "'sea tier' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 725,
+  "name": "Chili Pepper",
+  "why": "Mature red chili peppers are a lower-calorie food with a more impressive profile, one of the best sources of vitamin C and B6, and among the best foods for antioxidants, notably capsaicin, a strong anti-inflammatory that promotes heart health, plus ferulic acid and another phenolic acid, and shown to boost metabolism. As nightshades, people with certain conditions should limit them, and raw preserves vitamin C, but he calls them an antioxidant nuke earning top tier.",
+  "repairs": [
+   "'looting synaptic acid' -> sinapic acid (approx.)"
+  ],
+  "confidence": "high",
+  "note": "",
+  "audit_edit": "Mature red chili peppers are a lower-calorie food with a more impressive profile, one of the best sources of vitamin C and B6, and among the best foods for antioxidants, notably capsaicin, a strong anti-inflammatory that promotes heart health, plus sinapic and ferulic acids, and shown to boost metabolism. As nightshades, people with certain conditions should limit them, and raw preserves vitamin C, but he calls them an antioxidant nuke earning top tier. -> Mature red chili peppers are a lower-calorie food with a more impressive profile, one of the best sources of vitamin C and B6, and among the best foods for antioxidants, notably capsaicin, a strong anti-inflammatory that promotes heart health, plus ferulic acid and another phenolic acid, and shown to boost metabolism. As nightshades, people with certain conditions should limit them, and raw preserves vitamin C, but he calls them an antioxidant nuke earning top tier."
+ },
+ {
+  "id": 726,
+  "name": "Collard Green",
+  "why": "Collard greens are a lower-calorie vegetable with one of the most impressive profiles on the list, among the best sources of vitamin K, manganese, calcium, beta-carotene, lutein and zeaxanthin, plus cruciferous sulforaphane and indole-3-carbinol. People with thyroid problems should be aware, and there is a trade-off as raw has more vitamin C while cooked offers more carotenoids, but they are one of the most nutritious options and land comfortably in top tier.",
+  "repairs": [
+   "'i3c' -> indole-3-carbinol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 727,
+  "name": "Corn",
+  "why": "Corn (whole sweet corn) is a higher-calorie, starch-heavy food with a less-than-stellar profile, notably one of the best sources of vitamin B1 and a good source of antioxidants like vitamin C, ferulic acid, lutein and zeaxanthin. It has a non-negligible concentration of phytic acid and lectins that impair nutrient absorption (reduced by cooking, though raw is more nutrient dense) and is very commonly genetically modified, so as a subpar vegetable it goes in C tier.",
+  "repairs": [
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 728,
+  "name": "Cucumber",
+  "why": "Cucumbers are a very low-calorie food with a lower micronutrient content, taken to the extreme as mostly water, often used to fend off dehydration, shown to combat cancer, heart disease and diabetes, strongly anti-inflammatory, supportive of regular bowel movements and naturally diuretic. They are not very nutritious compared to most vegetables, but as long as you understand their purpose they can be a regular part of a meal plan, and he puts them in C tier.",
+  "repairs": [
+   "'seed tier' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 729,
+  "name": "Eggplant",
+  "why": "Eggplant is a lower-calorie food with the lowest overall micronutrient concentration per gram on the list, but rich in anthocyanins, particularly nasunin, which protects brain cell membranes, and shown to regulate blood sugar and benefit the heart. It is a nightshade that people with inflammatory or autoimmune diseases should be wary of and has tannins, oxalates and phytic acid that cooking reduces, and compared to the rest it is quite unimpressive, so D tier.",
+  "repairs": [
+   "'nosunin' -> nasunin",
+   "'d-tier' -> D tier"
+  ],
+  "confidence": "high",
+  "note": "csv_tier is C but original_tier D; slice says 'd-tier' for eggplant."
+ },
+ {
+  "id": 730,
+  "name": "Endive",
+  "why": "Endive is a very low-calorie vegetable with one of the more impressive profiles, a great source of vitamin K and among the best sources of folate, with antioxidants beta-carotene, quercetin, myricetin and kaempferol that are anti-inflammatory or cell protective. He lists no downsides and says it provides many cruciferous benefits without being one, so it goes in B tier.",
+  "repairs": [
+   "'enzyme/end dive' -> endive",
+   "'miracetin' -> myricetin",
+   "'came for all' -> kaempferol",
+   "'beets here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 731,
+  "name": "Garlic",
+  "why": "Garlic is gram for gram the highest-calorie food on the list, the best source of manganese, vitamin B6, selenium and calcium and among the best for copper, with sulfur compounds like allicin that help prevent certain cancers and manage blood sugar, cholesterol and blood pressure, plus anti-inflammatory compounds and lower Alzheimer's and dementia risk. Too much can cause gastrointestinal issues but you are unlikely to eat that much, and it is designed for small amounts, so top tier.",
+  "repairs": [
+   "'dealyl disulfide, AC allele cysteine' -> diallyl disulfide, S-allyl cysteine"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 732,
+  "name": "Green Bean",
+  "why": "Green beans are a lower-calorie food with a less-than-average micronutrient content, a decent source of vitamin K and antioxidants including beta-carotene, lutein, vitamin C, quercetin and kaempferol, and shown to improve digestive, bone and heart health. They contain phytic acid and lectins that cooking reduces, and as a vegetable side they are a bit subpar nutritionally compared to other vegetables, though still very healthy when prepared properly, so he places them in C tier.",
+  "repairs": [
+   "'came for all' -> kaempferol",
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 733,
+  "name": "Jalapeño",
+  "why": "Jalapenos are a lower-calorie food with an average profile, among the best sources of vitamin B6, with a very impressive antioxidant content including vitamin C, capsaicin, lutein and zeaxanthin, shown to boost metabolism and combat cancer. They may cause GI issues in excess and, like all peppers, are nightshades that people with certain conditions should avoid, but they are a nutritious way to spice up meals, so A tier.",
+  "repairs": [
+   "'AIDS here' -> A tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 734,
+  "name": "Kale",
+  "why": "Kale is a lower-calorie vegetable with easily the highest micronutrient content on the list, the best source of vitamin K by far and one of the best for carotenoids (beta-carotene, lutein, zeaxanthin), plus quercetin, kaempferol, sulforaphane and indole-3-carbinol, and more nutrient dense raw. It may cause thyroid issues, especially raw, and people on blood thinners should be wary of the insane vitamin K, but nothing comes close in raw nutrition, so top tier.",
+  "repairs": [
+   "'corsetin' -> quercetin",
+   "'came for all' -> kaempferol",
+   "'endocrine carbonyl' -> indole-3-carbinol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 735,
+  "name": "Leek",
+  "why": "Leeks are a lower-calorie vegetable with a mediocre profile, a solid source of antioxidants like kaempferol, lutein, zeaxanthin and allicin, an antimicrobial shown to manage cholesterol, and shown to promote brain and digestive function. They contain a notable amount of oxalates that may lead to kidney stones in excess for some people, and cooking reduces oxalates but also micronutrients significantly, so they are fine but offer a little less than expected and go in C tier.",
+  "repairs": [
+   "'came for all' -> kaempferol",
+   "'looting' -> lutein",
+   "'Allison' -> allicin",
+   "'seeds here' -> C tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 736,
+  "name": "Iceberg Lettuce",
+  "why": "Iceberg lettuce is a very low-calorie vegetable with an almost non-existent profile, 96% water, with non-negligible vitamin K and carotenoids like beta-carotene, lutein and zeaxanthin. It is basically a blank slate for filler or crunch, which is not bad and has its place in the kitchen, but nutritionally he puts it in D tier.",
+  "repairs": [
+   "'Deeds here' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 737,
+  "name": "Romaine Lettuce",
+  "why": "Romaine lettuce is an incredibly low-calorie vegetable with one of the most impressive profiles on the list, a great source of carotenoids (mainly beta-carotene and lutein, for eye health), with antioxidants including vitamin C, flavonoids and tocopherols, and one of the best sources of folate. He lists no downsides, calling it one of the best leafy greens and the right way to do lettuce, so it goes in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 738,
+  "name": "Mustard Green",
+  "why": "Mustard greens are a lower-calorie leafy vegetable with an even higher micro content than the last, an amazing source of vitamin K and of carotenoids (beta-carotene, lutein, zeaxanthin), and a solid source of vitamin C, with cruciferous sulforaphane and indole-3-carbinol. Like other cruciferous vegetables they may cause issues for people with thyroid conditions, and they may have the biggest nutrient drop-off when cooked on the list, but they are still fantastically nutritious and join top tier.",
+  "repairs": [
+   "'i3c' -> indole-3-carbinol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 739,
+  "name": "Okra",
+  "why": "Okra is a lower-calorie food with an average profile, with a good amount of vitamin K and C and uniquely mucilage, a gel that binds cholesterol so it is excreted rather than absorbed. It contains solanine, a toxic compound that in excess can lead to joint pain, plus varying amounts of oxalates and lectins that cooking minimizes but at the cost of nutrients, and while far from the worst food it does not measure up among vegetables, so D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 740,
+  "name": "Onion",
+  "why": "Yellow onions are a mid-calorie vegetable with one of the worst micronutrient profiles on the list, but with unique compounds: anti-inflammatory quercetin that helps control blood sugar, one of the best sources of antimicrobial allicin, and onionin A, a sulfur compound shown to combat cancer, plus bone support and a diuretic effect. They may aggravate IBS and are better raw, and he calls them the poster child of looking past macros and micros, so A tier.",
+  "repairs": [
+   "'onion in a' -> onionin A",
+   "'AIDS here' -> A tier",
+   "'microbes' -> micros"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 741,
+  "name": "Parsnip",
+  "why": "Parsnip is a higher-calorie vegetable with a less-than-average micronutrient content, a decent source of vitamin C and antioxidants like quercetin, kaempferol and apigenin that enhance immunity and protect against infections, one of the better fiber sources on the list and shown to support heart health. It is more nutritious raw, especially for vitamin K and manganese, and he calls it a solid vegetable but nothing spectacular, so B tier.",
+  "repairs": [
+   "'came for all' -> kaempferol",
+   "'apogenin' -> apigenin",
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 742,
+  "name": "Peas",
+  "why": "Peas are one of the higher-calorie foods on the list with a solid profile, a better plant protein source (over 5 g per 100 g), one of the highest in sugar (about 6 g), the best source of vitamin B1, and one of the best for fiber, with vitamin C, lutein, zeaxanthin and polyphenols. As a legume they contain lectins, phytic acid and tannins that cooking reduces, and he calls them solid and unique among vegetables, so B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 743,
+  "name": "Dill Pickle",
+  "why": "Dill pickles are a low-calorie food with a subpar profile, a decent source of vitamin K, with sodium from the brining process the main difference. They help rehydration by restoring electrolyte balance, combat insulin resistance and inflammation, and contain acetic acid for muscle cramps and probiotics for gut health, but he does not consider them nutritious, though their benefits are unique, so they go in C tier.",
+  "repairs": [
+   "'sea tier' -> C tier",
+   "'playing cucumbers' -> plain cucumbers"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 744,
+  "name": "Potato",
+  "why": "Potatoes are a higher-calorie vegetable with a lower-than-average profile whose selling point is a very good starchy carbohydrate with resistant starch for gut bacteria and blood sugar, plus antioxidants vitamin C, catechin and chlorogenic acid, boosting insulin sensitivity, digestive health and muscle and nerve function. They are nightshades that people with inflammatory or autoimmune diseases should generally avoid and are often prepared unhealthily, but in a natural state they are pretty innocent and unique, so B tier.",
+  "repairs": [
+   "'beads here' -> B tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 745,
+  "name": "Radish",
+  "why": "Radishes are a really low-calorie vegetable with a less impressive micro content, a solid source of antioxidants including vitamin C and phenolics like catechin, a natural anti-fungal, and shown to support digestion, the liver and detoxification, and help the kidneys flush toxins. He lists no downsides, saying that looking past the food label changes everything, and calls them another solid vegetable deserving B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 746,
+  "name": "Spinach",
+  "why": "Spinach is a lower-calorie vegetable with one of the highest micronutrient concentrations, the best source of folate, magnesium, iron and vitamin B2 and one of the best for vitamin K, manganese and calcium, with beta-carotene, lutein, zeaxanthin, quercetin and kaempferol. It is very high in oxalates, which can lead to kidney stones in excess, and its iron is poorly absorbed, so cook it and pair it with vitamin C, though cooking loses some antioxidants; still a top tier vegetable.",
+  "repairs": [
+   "'corsetin and came for all' -> quercetin and kaempferol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 747,
+  "name": "Sweet Potato",
+  "why": "Sweet potatoes are a higher-calorie vegetable with a solid profile and a healthier starchy carbohydrate, gram for gram the best beta-carotene source on the list, even above carrots, which converts to vitamin A for the eyes, immune system and skin, plus vitamin C, chlorogenic acids that regulate blood sugar and resistant starch for gut bacteria. They are higher in oxalates, though boiling greatly reduces this, and he calls them one of the healthiest starches, so top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 748,
+  "name": "Turnip",
+  "why": "Turnips are a lower-calorie vegetable with a lower-than-average micronutrient concentration, containing antioxidants including vitamin C, glucosinolates and anthocyanins, and shown to have anti-cancer and antibacterial properties and regulate blood sugar. They are believed to interfere with the thyroid, particularly with pre-existing conditions, though the evidence conflicts, and while perfectly healthy and fine to eat if you like them, nothing stands out, so D tier.",
+  "repairs": [
+   "'deter' -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 749,
+  "name": "Water Chestnut",
+  "why": "Water chestnut is one of the highest-calorie foods on the list with a unique set of micronutrients, the best source of copper and potassium, and one of the best for vitamin B2, with antioxidants catechin and ferulic acid (strong anti-cancer properties), and shown to regulate blood pressure. He lists no downsides and calls it a unique food with unique flavor and nutrients, so it goes in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 750,
+  "name": "Watercress",
+  "why": "Watercress is a very low-calorie vegetable with an impressive profile, a great source of vitamin K, with one of the highest antioxidant concentrations on the list (beta-carotene, lutein, zeaxanthin, vitamin C and flavonoids), plus sulforaphane and isothiocyanates with a strong anti-cancer effect. It may cause issues for people with pre-existing thyroid conditions but is a phenomenal vegetable for everyone else, and it rounds out the list in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

@@ -1,0 +1,99 @@
+[
+ {
+  "id": 273,
+  "name": "Chlorella",
+  "why": "Dried chlorella is a high-calorie freshwater algae with a transcendent profile: excellent, fairly complete protein, omega-3 rich fat, the highest vitamin K on the list, plus iron, zinc, manganese, vitamin B3, vitamin E, magnesium and carotenoids. It absorbs heavy metals so get a high-quality product, is lower in iodine than most seaweeds, and only 10 to 20 g at a time is advised, but it is an automatic top tier placement.",
+  "repairs": [
+   "'manganes' -> manganese",
+   "'ludin' -> lutein"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 274,
+  "name": "Dulse",
+  "why": "Dried dulse is an average-calorie red seaweed with an impressive profile, the highest fiber on the list (about 20%), the best source of potassium, higher omega-3s and iodine than most seaweed, and carotenoid, flavonoid and vitamin C antioxidants. It is very high in sodium and iodine is easy to overdo, so no more than 20 g per day, but even then it has a lot to offer, putting it in the A tier.",
+  "repairs": [
+   "'dried dos' -> dried dulse"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 275,
+  "name": "Irish Moss",
+  "why": "Irish moss is a higher-calorie red seaweed with a solid profile, the best raw source of iron, vitamin B2 and zinc, among the best for folate, with some DHA and EPA omega-3s and higher iodine. Its standout is carrageenan, which is controversial and hard to digest for some but not actively harmful in its natural state; interesting, so he puts it in the B tier.",
+  "repairs": [
+   "'Fate' -> folate",
+   "'kagin' -> carrageenan (hydrocolloid)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 276,
+  "name": "Kelp",
+  "why": "Brown kelp is an average-calorie seaweed with a sizable profile, the best raw source of vitamin K, higher in tyrosine for neurotransmitters like dopamine, and rich in antioxidants including flavonoids, fucoxanthin and anti-inflammatory phlorotannins, plus fucoidan and some DHA and EPA. The real kicker is that it has the absolute highest iodine, which helps thyroid hormones but is very easy to overconsume, and given what it supplies he puts it in the B tier.",
+  "repairs": [
+   "'fucos zanthin' -> fucoxanthin",
+   "'flotan' -> phlorotannin",
+   "'fucoidin' -> fucoidan"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 277,
+  "name": "Nori",
+  "why": "Nori is an average-calorie red seaweed with a respectable profile, a significant plant protein source, the best source of vitamin C on the list, with carotenoids (alpha and beta carotene, lutein, zeaxanthin) for eye health, good B2, higher DHA and EPA than most algae, and phlorotannins. It is not as high in iodine as other seaweed but has plenty of other healthful qualities, so he puts it in the A tier.",
+  "repairs": [
+   "'ludian and zanthin' -> lutein and zeaxanthin",
+   "'flot tannins' -> phlorotannins"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 278,
+  "name": "Ogo",
+  "why": "Ogo is a lower-calorie red seaweed with a more unique profile, notably the best raw source of calcium on the list for bone structure and strength, and among the best in manganese and iron. It is richer in iodine, has its share of DHA and EPA omega-3s, and contains agar, a sulfated polysaccharide shown to promote digestive health; a less common pick but one worth eating, so he puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 279,
+  "name": "Sea Grapes",
+  "why": "Sea grapes (green caviar) are a low-calorie green seaweed with a distinctive profile, the best raw source on the list of magnesium for muscle and nerve function and of vitamin E for skin health, rich in vitamin C and fucoidan (anti-cancer), plus the usual iodine and omega-3s. He notes the iodine and omega-3s are a big deal compared with any other food, and calls sea grapes a great and nutritious choice per calorie in the B tier.",
+  "repairs": [
+   "'fucoidin' -> fucoidan"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 280,
+  "name": "Spirulina",
+  "why": "Dried spirulina is an average-calorie blue-green cyanobacteria (not a seaweed) with a stellar profile, the most protein-dense food on the list and fairly complete, about 8% fat with some DHA and EPA, the best source of copper, B1, B2, B5 and B6, among the best for iron, and unique phycocyanin. It is not rich in iodine, is not recommended for certain autoimmune disorders, and only 10 g is suggested, but there is nothing like it, so top tier.",
+  "repairs": [
+   "'Co' -> copper (needed for red blood cells and iron absorption)",
+   "'FICO cyanin' -> phycocyanin"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 281,
+  "name": "Wakame",
+  "why": "Wakame is a higher-calorie brown seaweed with a solid profile, usually regarded as the absolute highest in DHA and EPA omega-3s among seaweed for heart, brain, eye and joint health, and the best raw source of manganese and folate. It also has seaweed-unique antioxidants like fucoxanthin and wound-healing phlorotannins, but is among the highest in iodine, which limits safe intake, and higher in sodium than most seaweeds, though overall an excellent choice for the A tier.",
+  "repairs": [
+   "'fucos anthan' -> fucoxanthin",
+   "'flotan' -> phlorotannin",
+   "'manganes' -> manganese",
+   "'Mame' -> wakame"
+  ],
+  "confidence": "high",
+  "note": ""
+ }
+]

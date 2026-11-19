@@ -1,0 +1,1273 @@
+{
+ "video_id": "t5PXJkihBgE",
+ "title": "Snacks Ranked - Nutrition Tier Lists",
+ "n_expected": 25,
+ "foods": [
+  {
+   "food": "Bagel Chips",
+   "start": 116,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 450,
+    "protein_g": 12,
+    "fat_g": 15,
+    "carbs_g": 66,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 66
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Banana Chips",
+   "start": 158,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 520,
+    "protein_g": 2,
+    "fat_g": 34,
+    "carbs_g": 58,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 68
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Beef Jerky",
+   "start": 198,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 410,
+    "protein_g": 33,
+    "fat_g": 26,
+    "carbs_g": 11,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 74
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Beef Sticks",
+   "start": 250,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 550,
+    "protein_g": 22,
+    "fat_g": 50,
+    "carbs_g": 5,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 16
+     }
+    ]
+   }
+  },
+  {
+   "food": "Corn Chips",
+   "start": 295,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 540,
+    "protein_g": 6,
+    "fat_g": 33,
+    "carbs_g": 57,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Crackers",
+   "start": 325,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 420,
+    "protein_g": 9,
+    "fat_g": 9,
+    "carbs_g": 74,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 59
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cheese Crackers",
+   "start": 369,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 490,
+    "protein_g": 11,
+    "fat_g": 23,
+    "carbs_g": 59,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 24
+     }
+    ]
+   }
+  },
+  {
+   "food": "French Fries",
+   "start": 405,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 310,
+    "protein_g": 3,
+    "fat_g": 15,
+    "carbs_g": 41,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fruit Snacks",
+   "start": 436,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 370,
+    "protein_g": 0,
+    "fat_g": 3,
+    "carbs_g": 86,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 133
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Graham Crackers",
+   "start": 469,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 430,
+    "protein_g": 7,
+    "fat_g": 11,
+    "carbs_g": 78,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Granola Bar",
+   "start": 490,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 470,
+    "protein_g": 10,
+    "fat_g": 20,
+    "carbs_g": 64,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 77
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 16
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pita Chips",
+   "start": 527,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 455,
+    "protein_g": 12,
+    "fat_g": 15,
+    "carbs_g": 68,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 60
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 46
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 24
+     }
+    ]
+   }
+  },
+  {
+   "food": "Plantain Chips",
+   "start": 574,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 530,
+    "protein_g": 2,
+    "fat_g": 30,
+    "carbs_g": 64,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 18
+     }
+    ]
+   }
+  },
+  {
+   "food": "Popcorn",
+   "start": 614,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 385,
+    "protein_g": 13,
+    "fat_g": 5,
+    "carbs_g": 78,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 48
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pork Rinds",
+   "start": 669,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 545,
+    "protein_g": 61,
+    "fat_g": 31,
+    "carbs_g": 0,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Potato Chips",
+   "start": 722,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 535,
+    "protein_g": 7,
+    "fat_g": 35,
+    "carbs_g": 53,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 61
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 43
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pretzels",
+   "start": 765,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 360,
+    "protein_g": 11,
+    "fat_g": 3,
+    "carbs_g": 81,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 116
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 16
+     }
+    ]
+   }
+  },
+  {
+   "food": "Raisins",
+   "start": 799,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 300,
+    "protein_g": 3,
+    "fat_g": 0,
+    "carbs_g": 79,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Rice Cakes",
+   "start": 833,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 385,
+    "protein_g": 8,
+    "fat_g": 3,
+    "carbs_g": 82,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 162
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 51
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 45
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 20
+     }
+    ]
+   }
+  },
+  {
+   "food": "Shrimp Crackers",
+   "start": 886,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 425,
+    "protein_g": 7,
+    "fat_g": 18,
+    "carbs_g": 59,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 93
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 60
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 16
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sweet Potato Fries",
+   "start": 917,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 155,
+    "protein_g": 2,
+    "fat_g": 9,
+    "carbs_g": 16,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 71
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Taro Chips",
+   "start": 963,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 500,
+    "protein_g": 2,
+    "fat_g": 25,
+    "carbs_g": 68,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 75
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 15
+     }
+    ]
+   }
+  },
+  {
+   "food": "Tortilla Chips",
+   "start": 996,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 495,
+    "protein_g": 7,
+    "fat_g": 22,
+    "carbs_g": 67,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Trail Mix",
+   "start": 1028,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 460,
+    "protein_g": 14,
+    "fat_g": 29,
+    "carbs_g": 45,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 109
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 56
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 45
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 40
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 29
+     }
+    ]
+   }
+  },
+  {
+   "food": "Veggie Chips",
+   "start": 1097,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 475,
+    "protein_g": 5,
+    "fat_g": 23,
+    "carbs_g": 60,
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 13
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.04534,
+  "calls": [
+   {
+    "cost": 0.04534,
+    "tokens": {
+     "prompt_tokens": 108001,
+     "completion_tokens": 7314,
+     "total_tokens": 115315
+    },
+    "wall_s": 26.8
+   }
+  ],
+  "wall_s": 26.8
+ }
+}

@@ -1,0 +1,673 @@
+{
+ "video_id": "cfIepqHgWQ4",
+ "title": "Milks Ranked - Nutrition Tier Lists",
+ "n_expected": 13,
+ "foods": [
+  {
+   "food": "Almond Milk",
+   "start": 129,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~40",
+    "protein_g": "~1g",
+    "fat_g": "~3g",
+    "carbs_g": "~3g",
+    "fiber_g": "~1g",
+    "sugar_g": "~2g",
+    "sodium_mg": 13,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 110
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Buffalo Milk",
+   "start": 171,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~235",
+    "protein_g": "~9g",
+    "fat_g": "~17g",
+    "carbs_g": "~13g",
+    "fiber_g": "~0g",
+    "sugar_g": "~13g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 41
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Camel Milk",
+   "start": 240,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~100",
+    "protein_g": "~6g",
+    "fat_g": "~6g",
+    "carbs_g": "~5g",
+    "fiber_g": "~0g",
+    "sugar_g": "~5g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 58
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Chocolate Milk",
+   "start": 296,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~210",
+    "protein_g": "~8g",
+    "fat_g": "~9g",
+    "carbs_g": "~26g",
+    "fiber_g": "~2g",
+    "sugar_g": "~24g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Coconut Milk",
+   "start": 353,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~550",
+    "protein_g": "~6g",
+    "fat_g": "~54g",
+    "carbs_g": "~13g",
+    "fiber_g": "~5g",
+    "sugar_g": "~8g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 96
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 71
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 15
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cow Milk",
+   "start": 400,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~150",
+    "protein_g": "~8g",
+    "fat_g": "~8g",
+    "carbs_g": "~12g",
+    "fiber_g": "~0g",
+    "sugar_g": "~12g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 55
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 35
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Goat Milk",
+   "start": 488,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~170",
+    "protein_g": "~9g",
+    "fat_g": "~10g",
+    "carbs_g": "~11g",
+    "fiber_g": "~0g",
+    "sugar_g": "~11g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 12
+     }
+    ]
+   }
+  },
+  {
+   "food": "Hemp Milk",
+   "start": 526,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~85",
+    "protein_g": "~5g",
+    "fat_g": "~7g",
+    "carbs_g": "~1g",
+    "fiber_g": "~0g",
+    "sugar_g": "~0g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Oat Milk",
+   "start": 560,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~115",
+    "protein_g": "~3g",
+    "fat_g": "~7g",
+    "carbs_g": "~12g",
+    "fiber_g": "~2g",
+    "sugar_g": "~6g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 36
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pea Milk",
+   "start": 600,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~80",
+    "protein_g": "~8g",
+    "fat_g": "~5g",
+    "carbs_g": "~0g",
+    "fiber_g": "~0g",
+    "sugar_g": "~0g",
+    "sodium_mg": 5,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 45
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 45
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Rice Milk",
+   "start": 676,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~115",
+    "protein_g": "~1g",
+    "fat_g": "~2g",
+    "carbs_g": "~22g",
+    "fiber_g": "~1g",
+    "sugar_g": "~13g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 10
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sheep Milk",
+   "start": 708,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~265",
+    "protein_g": "~15g",
+    "fat_g": "~17g",
+    "carbs_g": "~13g",
+    "fiber_g": "~0g",
+    "sugar_g": "~13g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 73
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 67
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 56
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 47
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Soy Milk",
+   "start": 748,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 8 fl. oz.",
+    "calories": "~130",
+    "protein_g": "~8g",
+    "fat_g": "~4g",
+    "carbs_g": "~15g",
+    "fiber_g": "~1g",
+    "sugar_g": "~10g",
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 14
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.030746,
+  "calls": [
+   {
+    "cost": 0.030746,
+    "tokens": {
+     "prompt_tokens": 78332,
+     "completion_tokens": 3880,
+     "total_tokens": 82212
+    },
+    "wall_s": 14.0
+   }
+  ],
+  "wall_s": 14.0
+ }
+}

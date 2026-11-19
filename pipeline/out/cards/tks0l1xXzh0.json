@@ -1,0 +1,715 @@
+{
+ "video_id": "tks0l1xXzh0",
+ "title": "Seeds Ranked - Nutrition Tier Lists",
+ "n_expected": 12,
+ "foods": [
+  {
+   "food": "Chia Seed",
+   "start": 116,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "485",
+    "protein_g": "16",
+    "fat_g": "31",
+    "carbs_g": "31",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": "644"
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": "131"
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "108"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "95"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "83"
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": "63"
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": "55"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "52"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "42"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "23"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fenugreek",
+   "start": 208,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "325",
+    "protein_g": "23",
+    "fat_g": "6",
+    "carbs_g": "58",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": "186"
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "61"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "56"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "48"
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": "30"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "30"
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": "22"
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": "22"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "21"
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": "18"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Flax Seed",
+   "start": 251,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "535",
+    "protein_g": "18",
+    "fat_g": "42",
+    "carbs_g": "29",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "124"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "110"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "98"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "64"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "61"
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": "36"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "32"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "29"
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": "26"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Hemp Seed",
+   "start": 312,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "575",
+    "protein_g": "33",
+    "fat_g": "44",
+    "carbs_g": "12",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "500"
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": "275"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "268"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "145"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "120"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "107"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "77"
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": "57"
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": "47"
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": "10"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lentils",
+   "start": 377,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "115",
+    "protein_g": "9",
+    "fat_g": "1",
+    "carbs_g": "20",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": "45"
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "25"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "19"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "18"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "13"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "11"
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": "11"
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": "9"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "8"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "8"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lotus Seed",
+   "start": 450,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "330",
+    "protein_g": "15",
+    "fat_g": "2",
+    "carbs_g": "65",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "116"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "63"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "52"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "43"
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": "39"
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": "31"
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": "26"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "20"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "18"
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": "16"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Poppy Seed",
+   "start": 498,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "525",
+    "protein_g": "18",
+    "fat_g": "41",
+    "carbs_g": "28",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "335"
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": "144"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "87"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "87"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "81"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "57"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "54"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "53"
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": "21"
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": "21"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Pumpkin Seed",
+   "start": 529,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "540",
+    "protein_g": "25",
+    "fat_g": "46",
+    "carbs_g": "18",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "151"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "134"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "117"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "83"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "69"
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": "64"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "50"
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": "23"
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": "19"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "14"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Safflower Seed",
+   "start": 565,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "515",
+    "protein_g": "16",
+    "fat_g": "38",
+    "carbs_g": "34",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "101"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "88"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "87"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "78"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "64"
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": "58"
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": "40"
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": "40"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "34"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "26"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sesame Seed",
+   "start": 600,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "575",
+    "protein_g": "18",
+    "fat_g": "50",
+    "carbs_g": "23",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": "204"
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "123"
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": "98"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "88"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "81"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "63"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "53"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "52"
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": "40"
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": "24"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sunflower Seed",
+   "start": 653,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "584",
+    "protein_g": "21",
+    "fat_g": "52",
+    "carbs_g": "20",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": "166"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "99"
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "97"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "90"
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "81"
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": "76"
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": "67"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "66"
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": "57"
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": "46"
+     }
+    ]
+   }
+  },
+  {
+   "food": "Watermelon Seed",
+   "start": 709,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": "555",
+    "protein_g": "28",
+    "fat_g": "47",
+    "carbs_g": "15",
+    "fiber_g": null,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": "129"
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": "81"
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": "76"
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": "68"
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": "40"
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": "34"
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": "19"
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": "14"
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": "13"
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": "9"
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.0237,
+  "calls": [
+   {
+    "cost": 0.0237,
+    "tokens": {
+     "prompt_tokens": 71148,
+     "completion_tokens": 3942,
+     "total_tokens": 75090
+    },
+    "wall_s": 25.2
+   }
+  ],
+  "wall_s": 25.2
+ }
+}

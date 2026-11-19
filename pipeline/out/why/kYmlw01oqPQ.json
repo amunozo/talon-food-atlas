@@ -1,0 +1,250 @@
+[
+ {
+  "id": 39,
+  "name": "Apple Jacks",
+  "why": "Apple Jacks is an average-calorie cereal with a fortified micronutrient profile, made of corn, wheat and oat flours, and is relatively fiber-rich compared with other cereals, mostly insoluble fiber that helps food pass through the intestines. Its sugar content is the other striking number, and on that alone he puts Apple Jacks in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 40,
+  "name": "Cap'n Crunch",
+  "why": "Cap'n Crunch is an average-calorie cereal with a fortified micronutrient profile, including iron that some diets may lack, made of corn flour, sugar, oat flour, oil and molasses. He believes it has the highest sugar content of all the cereals covered and not enough fiber to slow sugar absorption, so unfortunately it goes in the F tier.",
+  "repairs": [
+   "Captain Crunch -> Cap'n Crunch"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 41,
+  "name": "Cheerios",
+  "why": "Plain Cheerios are a somewhat lower-calorie cereal with a fortified micronutrient profile, made simply of whole grain oats, corn starch and sugar, with higher soluble fiber, specifically beta glucan, which benefits cholesterol and blood sugar. A higher protein content, important at breakfast, and a lower sugar content make this what he looks for in a cereal, so they go in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 42,
+  "name": "Honey Nut Cheerios",
+  "why": "Honey Nut Cheerios are an average-calorie cereal with a fortified micronutrient profile, basically plain Cheerios with extra steps, still keeping the relevant protein and higher soluble fiber. They now come with more sugar in multiple forms, including honey and brown sugar syrup, so he puts them in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 43,
+  "name": "Chex",
+  "why": "Rice Chex is a somewhat higher-calorie cereal with a fortified micronutrient profile, made of rice, sugar and molasses, where the short ingredient list shows in a pretty high protein content and a lower-than-most sugar content. Its decidedly average fiber helps make up the difference, so he puts Chex in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 44,
+  "name": "Cinnamon Toast Crunch",
+  "why": "Cinnamon Toast Crunch is a higher-calorie cereal with a fortified micronutrient profile and is one of the fattier cereals, with about half of that fat monounsaturated, plus a relevant fiber content that is mainly insoluble, and he likes cinnamon. It contains a significant amount of sugar though, and for that alone he puts it in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 45,
+  "name": "Cocoa Pebbles",
+  "why": "Cocoa Pebbles is an average-calorie cereal with a fortified micronutrient profile, so it is still nutrient dense due to fortification. The sugar content makes him wary, and a lack of fiber and other macronutrients means that sugar is absorbed rather quickly, so by his criteria it goes in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 46,
+  "name": "Cocoa Puffs",
+  "why": "Cocoa Puffs is an average-calorie cereal with a fortified micronutrient profile, made with whole grain corn, which he would prefer in a cereal. The nutrients of that whole corn are overshadowed by a high sugar content, so despite loving it growing up, he puts Cocoa Puffs in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 47,
+  "name": "Cookie Crisp",
+  "why": "Cookie Crisp is an average-calorie cereal with a fortified micronutrient profile and some relevant nutrient content because it is made of whole grain corn. Its sugar content resembles many previous cereals, so to stay consistent he puts it in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 48,
+  "name": "Corn Flakes",
+  "why": "Corn Flakes are a somewhat lower-calorie cereal with a fortified micronutrient profile, with a virtually non-existent fat content, which is rare among popular cereals, and a low fiber content that it can get away with thanks to lower sugar. Most of its carbs are still refined and simple, but he puts Corn Flakes in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 49,
+  "name": "Fiber One",
+  "why": "Fiber One is a very low-calorie cereal with a fortified micronutrient profile, with an overwhelming fiber content from guar gum and cellulose gum, though over 90 percent is insoluble, so the prebiotic effect is weaker but still there, and it helps move stool through the gut. Together with a relevant protein content and low sugar, that puts it in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 50,
+  "name": "Froot Loops",
+  "why": "Froot Loops is an average-calorie cereal with a fortified micronutrient profile and a similar build to other cereals, apart from a higher fiber content that is mainly insoluble. Since he weighs sugar more than anything and its sugar content is on the higher end, it goes in the F tier.",
+  "repairs": [
+   "Fruit Loops -> Froot Loops"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 51,
+  "name": "Frosted Flakes",
+  "why": "Frosted Flakes is a lower-calorie cereal with a fortified micronutrient profile, another very low-fat option, which shows in its calorie total. It is a high-sugar cereal without enough fiber to balance it out, and although he says it is great in the ways people care about, on this list it goes in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 52,
+  "name": "Fruity Pebbles",
+  "why": "Fruity Pebbles is an average-calorie cereal with a fortified micronutrient profile, made of rice, sugar and oil, and he admits that many cereals share a very similar nutritional makeup. The standouts are the high sugar and low fiber, which does not slow absorption as much as he would like, so it goes in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 53,
+  "name": "Grape Nuts",
+  "why": "Grape Nuts is a lower-calorie cereal with a fortified micronutrient profile and a more unique set of nutrients, among the highest in protein and in fiber, mostly insoluble, with fiber content even richer than its low sugar. It is a shame it contains neither grapes nor nuts, but he puts Grape Nuts in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 54,
+  "name": "Honey Bunches of Oats",
+  "why": "Honey Bunches of Oats with almonds is a higher-calorie cereal with a fortified micronutrient profile, where whole grain wheat, oats and almonds provide a nice blend of nutrients including healthy fats and soluble fiber. Its sugar content is moderate, noticeably higher than some but significantly lower than others, so he puts it in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 55,
+  "name": "Honeycomb",
+  "why": "Honeycomb is a somewhat higher-calorie cereal with a fortified micronutrient profile, made of corn flour, sugar, oat flour and honey. It is largely defined by a high sugar content relative to its protein, fat and fiber, so by his pre-established criteria it goes in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 56,
+  "name": "Kix",
+  "why": "Kix is a somewhat higher-calorie cereal with a fortified micronutrient profile, with a higher-than-average protein content and a solid fiber content, mostly insoluble, which stand out against its noticeably low sugar content. The reasons are not particularly complicated, so he puts Kix in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 57,
+  "name": "Krave",
+  "why": "Krave is a high-calorie cereal with a fortified micronutrient profile, and the only one here whose first ingredient is a chocolate-flavored filling rather than a grain. Protein, fat, fiber and calories are higher than average, but so is sugar, and because of that last one he puts it in the F tier.",
+  "repairs": [
+   "Crave -> Krave"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 58,
+  "name": "Life",
+  "why": "Life is an average-calorie cereal with a fortified micronutrient profile, with a much higher protein content than most cereals on the list, a more moderate sugar content and an average fiber content that is mostly insoluble. He judges the best place for it is the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 59,
+  "name": "Lucky Charms",
+  "why": "Lucky Charms is an average-calorie cereal with a fortified micronutrient profile, an interesting mix of oat cereal and sugary marshmallows, giving notable protein and fiber on top of a high sugar and simple carb content. Since he weighs the sugar and simple carbs more heavily, it goes in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 60,
+  "name": "Mini Wheats",
+  "why": "Frosted Mini Wheats are a lower-calorie cereal with a fortified micronutrient profile, one of the simplest cereals, made of whole grain wheat and sugar, with higher-than-average protein, impressive fiber and a more moderate amount of sugar. He puts them in the C tier, but almost wants the B tier.",
+  "repairs": [
+   "Mini Wheats -> Frosted Mini Wheats"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 61,
+  "name": "Pops",
+  "why": "Pops is an average-calorie cereal with a fortified micronutrient profile, a very simple carbohydrate-forward cereal with a higher-than-average sugar content and lower protein, fat and fiber than many cereals on the list. Because of this, he puts Pops in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 62,
+  "name": "Raisin Bran",
+  "why": "Raisin Bran is a low-calorie cereal with a fortified micronutrient profile that prioritizes whole ingredients, giving a solid protein content and an impressive amount of mostly insoluble fiber. That fiber helps make up for its higher sugar content, so he puts Raisin Bran in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 63,
+  "name": "Reese's Puffs",
+  "why": "Reese's Puffs is a higher-calorie cereal with a fortified micronutrient profile, with the highest fat content of all the cereals, which he assumes comes largely from the peanut butter, and a moderate amount of protein and fiber alongside a higher sugar content. Because of that last bit, it goes in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 64,
+  "name": "Rice Krispies",
+  "why": "Rice Krispies is an average-calorie cereal with a fortified micronutrient profile, made simply of rice, sugar and malt flavor, and it does have a low sugar content. However, it is primarily simple carbs, refined rice turns quickly into sugar, and there is no substantial fiber to slow it, so he still puts it in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 65,
+  "name": "Shredded Wheat",
+  "why": "Shredded Wheat is a low-calorie cereal with a solid micronutrient profile, made of just whole grain wheat, with the second highest protein and second highest fiber on the list, mostly insoluble. It has a practically non-existent sugar content and mostly complex carbohydrates, making it an easy candidate for the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 66,
+  "name": "Special K",
+  "why": "Special K Red Berries is a lower-calorie cereal with a fortified micronutrient profile, low in fat with a respectable protein content and an above-average fiber content that blends soluble and insoluble fiber. It does have a higher sugar content, so he puts Special K in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 67,
+  "name": "Trix",
+  "why": "Trix is a higher-calorie cereal with a fortified micronutrient profile whose standout number is its sugar content, with relatively low protein, fat and fiber in comparison. Because of that, he puts Trix in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 68,
+  "name": "Wheaties",
+  "why": "Wheaties are a lower-calorie cereal with a fortified micronutrient profile, made of whole grain wheat, sugar and honey, with a lower-than-average sugar content and one of the most fibrous profiles, comprising mainly the whole grain. Not needing many words, he rounds out the list by putting Wheaties in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

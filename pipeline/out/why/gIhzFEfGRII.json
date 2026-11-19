@@ -1,0 +1,314 @@
+[
+ {
+  "id": 0,
+  "name": "100 Grand",
+  "why": "100 Grand is an average-calorie candy built on milk chocolate, sugar, corn syrup, nonfat milk, crisped rice and coconut oil, with a standard macronutrient profile. It has lower protein and fiber than most chocolate candies, so he puts it in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 1,
+  "name": "3 Musketeers",
+  "why": "3 Musketeers is an average-calorie candy made from milk chocolate, sugar, corn syrup, palm oil and cocoa powder, with a fairly typical macro profile. It has lower protein than most chocolate candies and among the highest sugar contents of the group, so he also gives it the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 2,
+  "name": "Airheads",
+  "why": "Airheads is a somewhat lower-calorie, very carbohydrate-focused candy of sugar, corn syrup, maltodextrin, dextrose, food starch and palm oil. As the first of many fruit-flavored candies it is mostly different forms of sugar with little nutrient complexity, so he places it in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 3,
+  "name": "Almond Joy",
+  "why": "Almond Joy is an average-calorie candy of corn syrup, sugar, coconut, vegetable oil, almonds and lactose, with a more complex macro profile. The almonds and coconut make it more fat-dense and one of the most fibrous candies on the list, which is enough to earn the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 4,
+  "name": "Baby Ruth",
+  "why": "Baby Ruth is an average-calorie candy with a typical macro profile, made of sugar, dry roasted peanuts, corn syrup, vegetable oil, cocoa and nonfat milk. The peanuts give it higher protein and fat, though not as high as many other chocolate candies, so he puts it in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 5,
+  "name": "Butterfinger",
+  "why": "Butterfinger is an average-calorie candy of corn syrup, sugar, peanuts, vegetable oil, peanut flour, nonfat milk and cocoa, with a somewhat better macro profile. Peanuts make chocolate candy more complex, here giving more protein for relatively fewer calories, so he is actually putting it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 6,
+  "name": "Cadbury Egg",
+  "why": "Cadbury Creme Eggs are an average-calorie candy of sugar, milk, corn syrup, vegetable oil and chocolate, with a surprisingly complex macro profile. The cream filling gives one of the higher sugar contents among chocolate candies, but enough nutrients remain to save it from true obscurity, so it lands in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 7,
+  "name": "Candy Corn",
+  "why": "Candy corn is a low-calorie, very sugar-forward candy made of sugar, corn syrup, shellac and gelatin. With ingredients like that, the sugar content leaves room for almost nothing else, so he has to put it in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 8,
+  "name": "Crunch",
+  "why": "Crunch is a somewhat higher-calorie candy with an above-average macro profile, made of sugar, chocolate, cocoa butter, nonfat milk, milk fat and crisped rice. The extra cocoa, dairy and rice give it a bit more than simple sugar, which is enough for the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 9,
+  "name": "Dove",
+  "why": "Dove milk chocolate is the highest-calorie candy on the list, with an enlarged macro profile of sugar, cocoa butter, skim milk, chocolate, milk fat and lactose. Its noticeably higher fat, protein and fiber are better than more sugar, so he puts Dove in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 10,
+  "name": "Ghirardelli",
+  "why": "Ghirardelli milk chocolate is a higher-calorie candy of sugar, whole milk powder, cocoa butter, chocolate and vanilla extract, with an impressive profile in some ways. It has the highest fiber content on the list by weight, plus higher fat and a more respectable protein content, which leads him to the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 11,
+  "name": "Heath",
+  "why": "Heath is a high-calorie toffee-flavored candy of sugar, vegetable oil, dairy butter, almonds, lactose and whey. Its calories come largely from the fat in the oil, almonds and dairy, though it also has more sugar than most chocolate candies, so he puts it in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 12,
+  "name": "Hershey's",
+  "why": "Hershey's Milk Chocolate is a higher-calorie candy with an above-average macro profile, made of sugar, milk, chocolate, cocoa butter, milk fat and lactose. It has a significant sugar content but also noticeably more protein than much of the list, so he thinks it belongs in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 13,
+  "name": "Jolly Rancher",
+  "why": "Jolly Rancher is a somewhat lower-calorie, very carbohydrate-focused candy whose main ingredients are simply corn syrup, sugar and malic acid. It embodies the fruit-flavored, pretty much just sugar category of candy to a T, so he has to put it in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 14,
+  "name": "KitKat",
+  "why": "Kit Kat is a higher-calorie candy with a somewhat more varied profile, made of sugar, wheat flour, cocoa butter, chocolate, lactose, vegetable oil and skim milk. The wheat and oil give it notable protein and fat, though with less fiber than you might expect, so he puts it in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 15,
+  "name": "Laffy Taffy",
+  "why": "Laffy Taffy is a low-calorie, very carb-focused candy of corn syrup, coconut oil, egg whites and malic acid. Despite a couple of interesting ingredients it is still overwhelmingly simple carbs, and since laughter is not on the nutrition label he has to put it in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 16,
+  "name": "M&Ms",
+  "why": "M&M's are a highish-calorie candy with a slightly inflated macro profile, made of sugar, milk chocolate, skim milk, cocoa butter, lactose, milk fat and corn starch. Almost everything, namely protein, fiber and sugar, is just a bit higher than average, so he puts them in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 17,
+  "name": "Milk Duds",
+  "why": "Milk Duds are an average-calorie candy with a standard profile, made of corn syrup, sugar, vegetable oil, dextrose, whey, skim milk and brown sugar. It is a pretty sugar-forward candy for its caloric content, so he has to put Milk Duds in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 18,
+  "name": "Milky Way",
+  "why": "Milky Way is an average-calorie candy with a typical chocolate profile, made of sugar, cocoa butter, skim milk, chocolate, corn syrup, vegetable oil and lactose. Its macros measure up to just a standard chocolate candy bar, with nothing that sets it apart, so he puts it in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 19,
+  "name": "Mounds",
+  "why": "Mounds is a somewhat higher-calorie candy with an elevated macro profile, made of corn syrup, coconut, sugar, chocolate, cocoa and vegetable oil. The coconut plays an obvious role in its somewhat higher fat and fiber contents, which is enough to put Mounds in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 20,
+  "name": "Mr. Goodbar",
+  "why": "Mr. Goodbar is a high-calorie candy with a standout macro profile, made of sugar, peanuts, vegetable oil, lactose, whey, chocolate and skim milk. It has among the highest contents of protein, fat and fiber, and for that relative nutrient complexity he puts it in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 21,
+  "name": "Nerds",
+  "why": "Nerds is a lower-calorie candy with an overwhelmingly sugar-dominant profile whose main ingredients are corn syrup, sugar and dextrose. He jokes that it is just three kinds of sugar with nothing else to say, so he puts Nerds in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 22,
+  "name": "Payday",
+  "why": "PayDay is a slightly higher-calorie candy with a stellar macro profile for candy, made of peanuts, sugar, corn syrup, skim milk and vegetable oil. Being so peanut-oriented gives it the highest protein content on the list plus solid fiber and fat relative to sugar, so he absolutely has to put it in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 23,
+  "name": "Reese's",
+  "why": "Reese's Peanut Butter Cups are a high-calorie candy with a superior macro profile, made of milk chocolate, peanuts, sugar and dextrose. They have noticeably higher protein and fiber than most, since trading sugar for peanuts is all it takes, so he feels he has to put Reese's in the A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 24,
+  "name": "Rolo",
+  "why": "Rolo is an average-calorie candy with a typical chocolate-candy profile, made of sugar, vegetable oil, corn syrup, skim milk, lactose, whey and chocolate. Its slight nutrient variability is made up for by an overwhelming sugar content, so he puts it in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 25,
+  "name": "Skittles",
+  "why": "Skittles are an average-calorie candy with a sugar-oriented profile, made of sugar, corn syrup and hydrogenated palm kernel oil. As the first of quite a few fruit-flavored candies in a row, he has nothing to say besides sugar, so he puts Skittles in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 26,
+  "name": "Smarties",
+  "why": "Smarties are a lower-calorie candy with another sugary profile, whose main ingredients are simply dextrose and citric acid. It is a straightforward sugar-built fruit-flavored candy with nothing else worth mentioning, so he has to put Smarties in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 27,
+  "name": "Snickers",
+  "why": "Snickers is a highish-calorie candy with a more complex macro profile, made of milk chocolate, peanuts, corn syrup, sugar, palm oil, skim milk and lactose. It is a chocolaty, nutty bright spot in a fruity wave, with real protein, fat and fiber, so he puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 28,
+  "name": "Sour Patch Kids",
+  "why": "Sour Patch Kids are a lower-calorie, sugar-dependent candy made of sugar, invert sugar, corn syrup and corn starch. They may be sour first, but with those ingredients they are very sweet, so he has to put them in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 29,
+  "name": "Starburst",
+  "why": "Starburst is an average-calorie, carb-focused candy made of sugar, corn syrup, hydrogenated palm kernel oil and citric acid. There is a little fat this time, but it shows his point about fruit-flavored candies having similar makeup, so he feels he has to put Starburst in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 30,
+  "name": "Swedish Fish",
+  "why": "Swedish Fish is a lower-calorie, sugar-oriented candy made of sugar, invert sugar, corn syrup and corn starch. He says we all knew candies would have a lot of sugar but he expected more beyond that, so he puts Swedish Fish in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 31,
+  "name": "SweeTarts",
+  "why": "SweeTarts are a lowish-calorie candy with a sugary profile, made of dextrose, maltodextrin and malic acid. He is amazed that all these fruit-flavored candies taste so different despite similar compositions, but as the last in the fruity wave they go in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 32,
+  "name": "Toblerone",
+  "why": "Toblerone is a higher-calorie candy with a more varied profile, made of milk chocolate, sugar, honey, almonds, invert sugar and egg whites. It is one of the rare almond chocolate candies with higher-than-average protein, fat and fiber, so he puts it in the C tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 33,
+  "name": "Tootsie Roll",
+  "why": "Tootsie Rolls are a somewhat lower-calorie candy with a lesser profile, made of sugar, corn syrup, palm oil, skim milk, cocoa and whey. They are neither fruity nor clearly chocolate, and are mostly just simple carbs, so he puts them in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 34,
+  "name": "Twix",
+  "why": "Twix is a higher-calorie candy with a relatively balanced profile for candy, made of milk chocolate, enriched wheat flour, sugar, palm oil, corn syrup, skim milk and dextrose. It has some familiar ingredient variability, but enough to be interesting, so he puts it in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 35,
+  "name": "Twizzlers",
+  "why": "Twizzlers are the lowest-calorie candy on the list, made of corn syrup, wheat flour, sugar, corn starch and palm oil. They are somehow both the least sugar-dense candy here and still overwhelmingly simple carbohydrates, so he has to put them in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 36,
+  "name": "Whatchamacallit",
+  "why": "Whatchamacallit is a somewhat higher-calorie candy with a better macro profile, made of sugar, corn syrup, rice flour, vegetable oil, partially defatted peanuts, lactose and skim milk, with chocolate somewhere down there too. The rice and peanuts give it a notable protein content, so he puts it in the B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 37,
+  "name": "Whoppers",
+  "why": "Whoppers are an average-calorie, primarily carb-focused candy made of sugar, corn syrup, whey, palm kernel oil, cocoa and malted milk. It is one of those chocolate candies that does not prioritize the chocolate, mainly the sugar, so he has to put them in the F tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 38,
+  "name": "York",
+  "why": "York Peppermint Patties are an average-calorie candy with a pretty sugar-focused profile, made of sugar, corn syrup, chocolate, cocoa, invert sugar, milk fat and peppermint oil. While primarily sugar, one could argue its good traits look better than others per calorie, so it rounds out the list in the D tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ }
+]

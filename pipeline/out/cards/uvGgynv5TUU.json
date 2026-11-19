@@ -1,0 +1,1645 @@
+{
+ "video_id": "uvGgynv5TUU",
+ "title": "Vegetables Ranked Part 2 - Nutrition Tier Lists",
+ "n_expected": 33,
+ "foods": [
+  {
+   "food": "Alfalfa Sprouts",
+   "start": 129,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 25,
+    "protein_g": 4,
+    "fat_g": null,
+    "carbs_g": 2,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Arrowroot",
+   "start": 166,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 65,
+    "protein_g": 4,
+    "fat_g": null,
+    "carbs_g": 13,
+    "fiber_g": 1,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Folate",
+      "pct_dv": 85
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Bamboo Shoots",
+   "start": 199,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 10,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 2,
+    "fiber_g": 1,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Bean Sprouts",
+   "start": 239,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 30,
+    "protein_g": 3,
+    "fat_g": null,
+    "carbs_g": 6,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Beet Greens",
+   "start": 270,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 20,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 4,
+    "fiber_g": 4,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 333
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 211
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 18
+     }
+    ]
+   }
+  },
+  {
+   "food": "Bitter Melon",
+   "start": 310,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 15,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 4,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 93
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Broccoli Rabe",
+   "start": 349,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 20,
+    "protein_g": 3,
+    "fat_g": null,
+    "carbs_g": 3,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 187
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 87
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 14
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cassava",
+   "start": 381,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 190,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Celeriac",
+   "start": 415,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 40,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 9,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Chinese Broccoli",
+   "start": 439,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 25,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 5,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 74
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 57
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Daikon",
+   "start": 467,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 20,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 4,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 4
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Dandelion Greens",
+   "start": 497,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 45,
+    "protein_g": 3,
+    "fat_g": null,
+    "carbs_g": 9,
+    "fiber_g": 4,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 648
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 340
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 23
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Fennel",
+   "start": 535,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 30,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 7,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 80
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Garden Cress",
+   "start": 565,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 30,
+    "protein_g": 3,
+    "fat_g": null,
+    "carbs_g": 5,
+    "fiber_g": 1,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 451
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 210
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 77
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ginger",
+   "start": 591,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 80,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 18,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Green Onion",
+   "start": 644,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 30,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 7,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 173
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Heart of Palm",
+   "start": 676,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 115,
+    "protein_g": 3,
+    "fat_g": null,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Copper",
+      "pct_dv": 71
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 62
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 60
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 9
+     }
+    ]
+   }
+  },
+  {
+   "food": "Jerusalem Artichoke",
+   "start": 728,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 75,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 17,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Iron",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B3",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Jicama",
+   "start": 771,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 40,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 9,
+    "fiber_g": 5,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kohlrabi",
+   "start": 794,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 25,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 6,
+    "fiber_g": 4,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 69
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Lotus Root",
+   "start": 830,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 75,
+    "protein_g": 3,
+    "fat_g": null,
+    "carbs_g": 17,
+    "fiber_g": 5,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 29
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 11
+     }
+    ]
+   }
+  },
+  {
+   "food": "Moringa",
+   "start": 860,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 60,
+    "protein_g": 5,
+    "fat_g": null,
+    "carbs_g": 11,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 234
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 90
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 71
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 15
+     }
+    ]
+   }
+  },
+  {
+   "food": "Nopal",
+   "start": 915,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 15,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 3,
+    "fiber_g": 1,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Radicchio",
+   "start": 954,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 25,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 5,
+    "fiber_g": 1,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 213
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 38
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Red Cabbage",
+   "start": 980,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 30,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 7,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 63
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 32
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Red Onion",
+   "start": 1020,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 40,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 10,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Rhubarb",
+   "start": 1071,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 20,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 5,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 24
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Rutabaga",
+   "start": 1100,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 35,
+    "protein_g": 1,
+    "fat_g": null,
+    "carbs_g": 9,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 28
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Shallots",
+   "start": 1128,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 70,
+    "protein_g": 3,
+    "fat_g": null,
+    "carbs_g": 17,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 27
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Swiss Chard",
+   "start": 1170,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 20,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 4,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 692
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 204
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 13
+     }
+    ]
+   }
+  },
+  {
+   "food": "Taro Root",
+   "start": 1225,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 110,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 27,
+    "fiber_g": 4,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B1",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 8
+     }
+    ]
+   }
+  },
+  {
+   "food": "Turnip Greens",
+   "start": 1268,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 30,
+    "protein_g": 2,
+    "fat_g": null,
+    "carbs_g": 7,
+    "fiber_g": 3,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 387
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 209
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 67
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Copper",
+      "pct_dv": 39
+     },
+     {
+      "nutrient": "Manganese",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 20
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 19
+     }
+    ]
+   }
+  },
+  {
+   "food": "Water Spinach",
+   "start": 1316,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 20,
+    "protein_g": 3,
+    "fat_g": null,
+    "carbs_g": 3,
+    "fiber_g": 2,
+    "sugar_g": null,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 400
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 210
+     },
+     {
+      "nutrient": "Vitamin C",
+      "pct_dv": 61
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Iron",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 8
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.046657,
+  "calls": [
+   {
+    "cost": 0.04665725,
+    "tokens": {
+     "prompt_tokens": 128873,
+     "completion_tokens": 9626,
+     "total_tokens": 138499
+    },
+    "wall_s": 52.5
+   }
+  ],
+  "wall_s": 52.5
+ }
+}

@@ -1,0 +1,869 @@
+{
+ "video_id": "hLqxf6cCR6A",
+ "title": "Dairy Ranked - Nutrition Tier Lists",
+ "n_expected": 17,
+ "foods": [
+  {
+   "food": "Butter",
+   "start": 139,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 720,
+    "protein_g": 1,
+    "fat_g": 81,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 50
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 1
+     }
+    ]
+   }
+  },
+  {
+   "food": "Buttermilk",
+   "start": 219,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 40,
+    "protein_g": 3,
+    "fat_g": 1,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugar_g": 5,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cheddar Cheese",
+   "start": 262,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 405,
+    "protein_g": 23,
+    "fat_g": 33,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sugar_g": 1,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 71
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 65
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 52
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 46
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 44
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 37
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 33
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 33
+     }
+    ]
+   }
+  },
+  {
+   "food": "Mozzarella Cheese",
+   "start": 322,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 255,
+    "protein_g": 24,
+    "fat_g": 16,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sugar_g": 1,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 78
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 66
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 53
+     },
+     {
+      "nutrient": "Sodium",
+      "pct_dv": 42
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 34
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 25
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 23
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cottage Cheese",
+   "start": 376,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 70,
+    "protein_g": 12,
+    "fat_g": 1,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sugar_g": 3,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 26
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Folate",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cream",
+   "start": 427,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 340,
+    "protein_g": 3,
+    "fat_g": 36,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sugar_g": 3,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 46
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Cream Cheese",
+   "start": 470,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 350,
+    "protein_g": 6,
+    "fat_g": 34,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugar_g": 4,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 49
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Custard",
+   "start": 507,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 120,
+    "protein_g": 4,
+    "fat_g": 4,
+    "carbs_g": 18,
+    "fiber_g": 0,
+    "sugar_g": 5,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 30
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 22
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Eggnog",
+   "start": 546,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 90,
+    "protein_g": 5,
+    "fat_g": 4,
+    "carbs_g": 8,
+    "fiber_g": 0,
+    "sugar_g": 8,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Frozen Yogurt",
+   "start": 578,
+   "tier_on_board": "D",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 160,
+    "protein_g": 4,
+    "fat_g": 6,
+    "carbs_g": 24,
+    "fiber_g": 0,
+    "sugar_g": 24,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 17
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ghee",
+   "start": 622,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 850,
+    "protein_g": 0,
+    "fat_g": 94,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 93
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin K",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin E",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 3
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 2
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 2
+     }
+    ]
+   }
+  },
+  {
+   "food": "Half & Half",
+   "start": 667,
+   "tier_on_board": "B",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 130,
+    "protein_g": 3,
+    "fat_g": 12,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugar_g": 4,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 6
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 4
+     }
+    ]
+   }
+  },
+  {
+   "food": "Ice Cream",
+   "start": 692,
+   "tier_on_board": "F",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 205,
+    "protein_g": 3,
+    "fat_g": 11,
+    "carbs_g": 24,
+    "fiber_g": 0,
+    "sugar_g": 21,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 16
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 14
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Potassium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 6
+     }
+    ]
+   }
+  },
+  {
+   "food": "Kefir",
+   "start": 730,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 45,
+    "protein_g": 4,
+    "fat_g": 1,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugar_g": 5,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 8
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 7
+     }
+    ]
+   }
+  },
+  {
+   "food": "Milk",
+   "start": 772,
+   "tier_on_board": "A",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 60,
+    "protein_g": 3,
+    "fat_g": 3,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugar_g": 5,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 12
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin D",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 5
+     }
+    ]
+   }
+  },
+  {
+   "food": "Sour Cream",
+   "start": 842,
+   "tier_on_board": "C",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 200,
+    "protein_g": 2,
+    "fat_g": 19,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugar_g": 3,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin A",
+      "pct_dv": 15
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 13
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 10
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 9
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Magnesium",
+      "pct_dv": 3
+     }
+    ]
+   }
+  },
+  {
+   "food": "Yogurt",
+   "start": 875,
+   "tier_on_board": "★",
+   "card": {
+    "basis": "per 100 g",
+    "calories": 60,
+    "protein_g": 10,
+    "fat_g": 0,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugar_g": 3,
+    "sodium_mg": null,
+    "omega3": null,
+    "micros": [
+     {
+      "nutrient": "Vitamin B12",
+      "pct_dv": 31
+     },
+     {
+      "nutrient": "Vitamin B2",
+      "pct_dv": 21
+     },
+     {
+      "nutrient": "Phosphorus",
+      "pct_dv": 19
+     },
+     {
+      "nutrient": "Selenium",
+      "pct_dv": 18
+     },
+     {
+      "nutrient": "Calcium",
+      "pct_dv": 11
+     },
+     {
+      "nutrient": "Vitamin B5",
+      "pct_dv": 7
+     },
+     {
+      "nutrient": "Vitamin B6",
+      "pct_dv": 5
+     },
+     {
+      "nutrient": "Zinc",
+      "pct_dv": 5
+     }
+    ]
+   }
+  }
+ ],
+ "failures": [],
+ "usage": {
+  "cost": 0.029799,
+  "calls": [
+   {
+    "cost": 0.02979875,
+    "tokens": {
+     "prompt_tokens": 89579,
+     "completion_tokens": 4936,
+     "total_tokens": 94515
+    },
+    "wall_s": 37.4
+   }
+  ],
+  "wall_s": 37.4
+ }
+}

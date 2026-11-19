@@ -1,0 +1,212 @@
+[
+ {
+  "id": 646,
+  "name": "Amaranth",
+  "why": "Amaranth is a pseudograin (technically a seed) among the higher-calorie items with one of the better profiles: among the fattiest, a complete protein, the best magnesium on the list and among the best phosphorus, iron, B6 and calcium, plus phenolic antioxidants and anti-inflammatory effects. It contains anti-nutrients (tannins, phytic acid, oxalates) that soaking and cooking reduce, at some cost in antioxidants, and it should not be eaten raw, so he puts it in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 647,
+  "name": "Barley",
+  "why": "Barley is an average-calorie grain with an average profile, among the best sources of vitamin B1, whose standout is fiber that supports blood sugar, insulin sensitivity, bowel health and gut bacteria, with soluble fiber that lowers LDL. It is also among the highest in resistant starch and has a notably lower glycemic index than most grains, and for those gut benefits he puts it in A tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 648,
+  "name": "Buckwheat",
+  "why": "Buckwheat is not related to wheat and is not a grain but an average-calorie pseudograin with a slightly below-average profile, a complete protein, the best copper on the list and among the best magnesium, B3 and B2. It has the highest antioxidant activity of any grain (rutin, quercetin) and is one of the best sources of D-chiro-inositol, which strongly affects blood sugar, so he puts it in the top tier.",
+  "repairs": [
+   "D Cairo inositol -> D-chiro-inositol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 649,
+  "name": "Bulgur",
+  "why": "Bulgur is an average-calorie grain with an average profile and one of the highest fiber contents on the list, from which most of its benefits come: maintaining blood sugar and insulin, feeding gut bacteria and supporting digestion and cholesterol. It is a solid grain that gives everything you would expect plus a little more, so it goes in A tier.",
+  "repairs": [
+   "Bowl workers/vulgar -> bulgur"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 650,
+  "name": "Corn",
+  "why": "Dried corn is the highest-calorie item on the list with an average profile, the highest in fat and fiber, and per gram the best vitamin B6 and potassium, plus antioxidants like ferulic acid, lutein and zeaxanthin. It has about 21 g of natural sugar per 100 g, which digests slower, and a notable amount of phytic acid that cooking reduces, but its profile is unmatched, so it just slips into the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 651,
+  "name": "Einkorn",
+  "why": "Einkorn is an average-calorie grain with an average profile, easily the highest in protein and the best source of iron and vitamin B2, among the best for phosphorus and B6, with antioxidants like phenolic compounds, vitamin E, lutein and zeaxanthin. With high protein and iron as its important draws, he puts it in the top tier.",
+  "repairs": [
+   "Ein corn/iron corn -> einkorn"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 652,
+  "name": "Farro",
+  "why": "Farro is a higher-calorie grain with an average profile, among the best sources of protein and selenium on the list and a good source of antioxidants such as polyphenols and carotenoids. It delivers a lot of what he expects from a grain without standing out, so it goes in B tier.",
+  "repairs": [
+   "Faro -> farro"
+  ],
+  "confidence": "high",
+  "note": "Few downsides or limits mentioned."
+ },
+ {
+  "id": 653,
+  "name": "Fonio",
+  "why": "Fonio is a higher-calorie grain with a lesser-than-average micronutrient concentration, among the best copper sources on the list and uniquely higher in methionine and cysteine among grains. It is shown to have a stronger effect against type 2 diabetes, heart disease and certain cancers, another solid grain with unique qualities, so he puts it in B tier.",
+  "repairs": [
+   "phonio -> fonio"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 654,
+  "name": "Freekeh",
+  "why": "Freekeh is an average-calorie grain with one of the best profiles on the list: the best phosphorus, vitamin B3 and vitamin B5, and among the best selenium, zinc and B6. Overall it is a very nutrient-dense grain, so he puts it in A tier.",
+  "repairs": [
+   "freak A -> freekeh",
+   "vitamin D3/D5 -> vitamin B3/B5 (context: converts food to energy)"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 655,
+  "name": "Khorasan",
+  "why": "Khorasan is a lower-calorie grain with an average profile, among the best sources of protein per gram and among the highest in vitamin B1, selenium and zinc, shown to strongly reduce blood pressure and LDL. It is higher in sugar than most grains at about 8 g per 100 g, but overall it is very nutritious and deserves A tier.",
+  "repairs": [
+   "Coruscant -> Khorasan"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 656,
+  "name": "Millet",
+  "why": "Millet is a higher-calorie pseudograin with a lesser micronutrient content, among the best copper sources on the list and rich in phenolic compounds (ferulic acid) and carotenoids with antioxidant, anti-inflammatory and wound-healing effects, plus a strong effect on insulin resistance. It has a higher amount of phytic acid that soaking and cooking help, and as a really solid alternative to grains it goes in B tier.",
+  "repairs": [
+   "beads here -> B tier (confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": "Tier word garbled; tier taken from original_tier."
+ },
+ {
+  "id": 657,
+  "name": "Oats",
+  "why": "Oats are a higher-calorie grain with one of the best profiles: among the highest in protein, the best vitamin B1, among the best manganese, and unique avenanthramide antioxidants that reduce inflammation and regulate blood pressure. They are among the highest in resistant starch with benefits for immune health, and have a notable amount of phytic acid, but they live up to the hype and earn the top tier.",
+  "repairs": [
+   "avananthromides -> avenanthramides"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 658,
+  "name": "Quinoa",
+  "why": "Quinoa is an average-calorie pseudograin with a pretty average profile, a complete protein, among the highest in fat, the best vitamin E and among the best folate and magnesium, with solid antioxidants (quercetin, kaempferol) and very high resistant starch. It contains varying amounts of phytic acid and oxalates, but overall it is a solid choice, so he puts it in A tier.",
+  "repairs": [
+   "corseted/came for all -> quercetin/kaempferol"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 659,
+  "name": "Brown Rice",
+  "why": "Brown rice is an average-calorie grain with an average profile, keeping the bran, germ and endosperm, among the best manganese sources and among the highest in resistant starch, with flavonols and a stronger heart-health effect than most grains, and good for diabetes. It has a notable amount of phytic acid, but it is a net positive and his personal go-to for versatility, so it goes in B tier.",
+  "repairs": [
+   "beads here -> B tier (confirmed by original_tier)"
+  ],
+  "confidence": "high",
+  "note": "Tier word garbled; tier taken from original_tier."
+ },
+ {
+  "id": 660,
+  "name": "White Rice",
+  "why": "Enriched white rice is an average-calorie grain with the lowest micronutrient content on the list, only the endosperm, boosted with B vitamins, folate, potassium and iron, which makes it the highest in folate. It has a higher glycemic index than every other grain and a higher diabetes risk than whole grains, so it is the worst choice on the list and only saved by enrichment, which puts it in D tier.",
+  "repairs": [
+   "deter -> D tier"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 661,
+  "name": "Rye",
+  "why": "Rye is a lower-calorie grain with a solid profile, among the highest in protein and fiber, which maintain blood sugar, feed gut bacteria and promote fullness, and with a stronger LDL-lowering effect than most grains. It has more phytic acid than most grains, which cooking somewhat offsets, and he considers it a solid grain in the top tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "Few specific micronutrients named; only protein, fiber and LDL effect."
+ },
+ {
+  "id": 662,
+  "name": "Sorghum",
+  "why": "Sorghum is an average-calorie grain with a lower-than-average micronutrient concentration, among the best sources of vitamin B6 and B5, higher in antioxidants (flavonoids, phenolic compounds) and with a good amount of resistant starch. It is a less common but solid choice, so he puts it in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 663,
+  "name": "Spelt",
+  "why": "Spelt is a lower-calorie grain with a solid profile, among the highest in protein and vitamin B3, with a stronger effect on digestive maintenance and blood sugar. It has a higher amount of sugar at about 7 g per 100 g and a fair amount of lectins and phytic acid that can impair mineral absorption, but overall it is nutritious, so he puts it in A tier.",
+  "repairs": [
+   "spelled -> spelt"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 664,
+  "name": "Teff",
+  "why": "Teff is an average-calorie grain with the highest overall micronutrient concentration on the list: easily the highest manganese, and among the best magnesium, iron, copper and calcium, with more lysine than most grains and a notably lower glycemic index. It contains a fair amount of phytic acid, but its nutrient capacity cannot be denied, so it joins A tier.",
+  "repairs": [
+   "Taff/TEF -> teff"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 665,
+  "name": "Triticale",
+  "why": "Triticale is a lower-calorie grain with an average profile and higher fiber than most grains, from which come digestive regulation, blood sugar maintenance and good gut bacteria. He says it is not a slouch in macros or micros and is an all-around good grain, so it earns a spot in A tier.",
+  "repairs": [
+   "tritical -> triticale"
+  ],
+  "confidence": "high",
+  "note": "Few specific micronutrients named; mainly fiber."
+ },
+ {
+  "id": 666,
+  "name": "Wheat",
+  "why": "Whole wheat is the most widely used and diverse grain, lower in calories than other grains but in the upper end for micronutrients, consistently a good source of selenium and a solid source of fiber, with variants higher in protein, B1, B3 and manganese, and above-average antioxidants such as phenolic compounds and tocopherols. Most of this goes away once refined, but wheat provides everything he expects from a whole grain, so he puts it in the top tier.",
+  "repairs": [
+   "Durham -> durum",
+   "lignins -> lignans"
+  ],
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "id": 667,
+  "name": "Wild Rice",
+  "why": "Wild rice is an average-calorie pseudograin, unrelated to rice, with a less-than-average micronutrient profile but among the best protein per gram as a complete protein, the best zinc on the list and among the best vitamin B3, with a stronger heart-health effect than most grains. A very solid choice and one of the best in B tier.",
+  "repairs": [],
+  "confidence": "high",
+  "note": "Few downsides mentioned."
+ }
+]
