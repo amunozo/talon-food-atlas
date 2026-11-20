@@ -434,7 +434,6 @@ const DATA = /*__DATA__*/null;
   let lastFocus = null;
   let focusHeading = false;
   const BASE_TITLE = document.title;
-  let firstRenderDone = false;
   const TALON_URL = 'https://www.youtube.com/@Talon_Fitness', SITE_URL = 'https://www.amunozo.com/', ISSUES_URL = 'https://github.com/amunozo/talon-food-atlas/issues';
   // Summary counts and the Food Groups episode come from DATA.meta (written by build_data.py).
   let META = {};
@@ -690,22 +689,11 @@ const DATA = /*__DATA__*/null;
       }
     }
     document.title = BASE_TITLE;
-    if (firstRenderDone) countView(route.view === 'group' ? route.group : 'Food groups');
-    firstRenderDone = true;
     if (focusHeading) { focusHeading = false; $('viewTitle').focus(); }
   }
 
-  /* Analytics: GoatCounter counts the first load itself; hash-driven views are counted here.
-     Never throws when the script is blocked or missing, and skips file://. */
-  function countView(name) {
-    try {
-      if (location.protocol === 'file:') return;
-      const gc = window.goatcounter;
-      if (gc && typeof gc.count === 'function') {
-        gc.count({ path: location.pathname + location.hash, title: document.title + ' — ' + name, event: false });
-      }
-    } catch (e) { /* analytics is optional */ }
-  }
+  /* Analytics: GoatCounter counts the page load only (one item, /talon-food-atlas/).
+     Group views are hash changes and are deliberately not counted. */
 
   /* ---------- about ---------- */
   const NUM_WORDS = ['No', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Eleven', 'Twelve'];
